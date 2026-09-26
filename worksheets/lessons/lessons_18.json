@@ -1,0 +1,128 @@
+[
+ {
+  "grade": "G1",
+  "gradeName": "Grade 1",
+  "domain": "G",
+  "unitNum": 1,
+  "unit": "Shape",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Count sides on 2D shapes",
+    "ccss": [
+     "1.G.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 2,
+    "title": "Count vertices on 2D shapes",
+    "ccss": [
+     "1.G.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Draw 2D shapes",
+    "ccss": [
+     "1.G.A.1",
+     "2.G.A.1",
+     "K.G.B.5"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "Sort 2D shapes",
+    "ccss": [
+     "1.G.A.1",
+     "K.G.B.4"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 5,
+    "title": "Count faces on 3D shapes",
+    "ccss": [
+     "1.G.A.1",
+     "2.G.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 6,
+    "title": "Count edges on 3D shapes",
+    "ccss": [
+     "1.G.A.1",
+     "2.G.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 7,
+    "title": "Count vertices on 3D shapes",
+    "ccss": [
+     "1.G.A.1",
+     "2.G.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 8,
+    "title": "Sort 3D shapes",
+    "ccss": [
+     "1.G.A.1",
+     "K.G.B.4"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 9,
+    "title": "Make patterns with 2D and 3D shapes",
+    "ccss": [
+     "K.G.A.2"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 10,
+    "title": "Recognise 2D and 3D shapes",
+    "ccss": [
+     "1.G.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 11,
+    "title": "Lines of symmetry on shapes",
+    "ccss": [
+     "1.G.A.1",
+     "4.G.A.3"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 12,
+    "title": "Use lines of symmetry to complete shapes",
+    "ccss": [
+     "1.G.A.1",
+     "4.G.A.3"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   }
+  ]
+ }
+]

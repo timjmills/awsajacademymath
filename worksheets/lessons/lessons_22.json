@@ -1,0 +1,234 @@
+[
+ {
+  "grade": "G2",
+  "gradeName": "Grade 2",
+  "domain": "NBT",
+  "unitNum": 2,
+  "unit": "Addition and Subtraction",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Apply number bonds within 10",
+    "ccss": [
+     "2.OA.B.2"
+    ],
+    "flag": "native",
+    "note": "WR Y3 covers adding up to 1,000; aligns with CCSS 2.NBT.B.7 within 1000."
+   },
+   {
+    "step": 2,
+    "title": "Add and subtract 1s",
+    "ccss": [
+     "2.NBT.B.5"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Add and subtract 10s",
+    "ccss": [
+     "2.NBT.B.5",
+     "2.NBT.B.8"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "Add and subtract 100s",
+    "ccss": [
+     "2.NBT.B.7",
+     "2.NBT.B.8"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 5,
+    "title": "Spot the pattern",
+    "ccss": [
+     "2.NBT.B.5",
+     "2.NBT.B.8"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 6,
+    "title": "Add 1s across a 10",
+    "ccss": [
+     "2.NBT.B.5"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 7,
+    "title": "Add 10s across a 100",
+    "ccss": [
+     "2.NBT.B.7"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 8,
+    "title": "Subtract 1s across a 10",
+    "ccss": [
+     "2.NBT.B.5"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 9,
+    "title": "Subtract 10s across a 100",
+    "ccss": [
+     "2.NBT.B.7"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 10,
+    "title": "Make connections",
+    "ccss": [
+     "2.NBT.B.5",
+     "2.NBT.B.9"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 11,
+    "title": "Add two numbers (no exchange)",
+    "ccss": [
+     "2.NBT.B.7"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 12,
+    "title": "Subtract two numbers (no exchange)",
+    "ccss": [
+     "2.NBT.B.7"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 13,
+    "title": "Add two numbers (across a 10)",
+    "ccss": [
+     "2.NBT.B.7"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 14,
+    "title": "Add two numbers (across a 100)",
+    "ccss": [
+     "2.NBT.B.7"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 15,
+    "title": "Subtract two numbers (across a 10)",
+    "ccss": [
+     "2.NBT.B.7"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 16,
+    "title": "Subtract two numbers (across a 100)",
+    "ccss": [
+     "2.NBT.B.7"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 17,
+    "title": "Add 2-digit and 3-digit numbers",
+    "ccss": [
+     "2.NBT.B.7"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 18,
+    "title": "Subtract a 2-digit number from a 3-digit number",
+    "ccss": [
+     "2.NBT.B.7"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 19,
+    "title": "Complements to 100",
+    "ccss": [
+     "2.NBT.B.5"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 20,
+    "title": "Estimate answers",
+    "ccss": [
+     "2.NBT.B.7",
+     "3.NBT.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 21,
+    "title": "Inverse operations",
+    "ccss": [
+     "2.NBT.B.7",
+     "3.NBT.A.2"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 22,
+    "title": "Make decisions",
+    "ccss": [
+     "2.NBT.B.5",
+     "2.NBT.B.7"
+    ],
+    "flag": "native",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "grade": "G2",
+  "gradeName": "Grade 2",
+  "domain": "NBT",
+  "unitNum": 3,
+  "unit": "Awsaj supplement lessons",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Add up to four two-digit numbers",
+    "ccss": [
+     "2.NBT.B.6"
+    ],
+    "flag": "committee",
+    "note": "Awsaj-authored lesson \u00b7 closes a Common Core standard White Rose does not teach. Materials need to be made."
+   }
+  ]
+ }
+]

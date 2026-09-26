@@ -1,0 +1,232 @@
+[
+ {
+  "grade": "G3",
+  "gradeName": "Grade 3",
+  "domain": "MD",
+  "unitNum": 2,
+  "unit": "Length and Perimeter",
+  "steps": [
+   {
+    "step": 2,
+    "title": "Measure in kilometres and metres",
+    "ccss": [
+     "4.MD.A.1"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 6 Step 1 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 3,
+    "title": "Equivalent lengths (kilometres and metres)",
+    "ccss": [
+     "4.MD.A.1"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 6 Step 2 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 4,
+    "title": "Perimeter on a grid",
+    "ccss": [
+     "3.MD.D.8"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 5,
+    "title": "Perimeter of a rectangle",
+    "ccss": [
+     "3.MD.D.8"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 6,
+    "title": "Perimeter of rectilinear shapes",
+    "ccss": [
+     "3.MD.D.8"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 7,
+    "title": "Find missing lengths in rectilinear shapes",
+    "ccss": [
+     "3.MD.D.8"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 8,
+    "title": "Calculate the perimeter of rectilinear shapes",
+    "ccss": [
+     "3.MD.D.8"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 9,
+    "title": "Perimeter of regular polygons",
+    "ccss": [
+     "3.MD.D.8"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 10,
+    "title": "Perimeter of polygons",
+    "ccss": [
+     "3.MD.D.8"
+    ],
+    "flag": "native",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "grade": "G3",
+  "gradeName": "Grade 3",
+  "domain": "MD",
+  "unitNum": 3,
+  "unit": "Money",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Convert between pounds and pence",
+    "ccss": [
+     "2.MD.C.8",
+     "4.MD.A.1"
+    ],
+    "flag": "native",
+    "note": "Money word problems with decimals aligns Grade 4 (4.MD.A.2). Grade 3 covers basic. \u2691 ADAPT: Adapt before teaching: swap \u00a3 and p for dollars and cents, and UK notes and coins for US bills and coins (1c, 5c, 10c, 25c, $1, $5, $10)."
+   },
+   {
+    "step": 2,
+    "title": "Pounds, tens, ones and pence (US: dollars & cents)",
+    "ccss": [
+     "2.MD.C.8"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Compare amounts of money",
+    "ccss": [
+     "2.MD.C.8"
+    ],
+    "flag": "native",
+    "note": "\u2691 ADAPT: Adapt before teaching: swap \u00a3 and p for dollars and cents, and UK notes and coins for US bills and coins (1c, 5c, 10c, 25c, $1, $5, $10)."
+   },
+   {
+    "step": 4,
+    "title": "Write money using decimals",
+    "ccss": [
+     "4.MD.A.2",
+     "4.NF.C.6"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 10 Step 1 \u2014 added Aug 2026 for full WRM coverage \u2691 ADAPT: Adapt before teaching: swap \u00a3 and p for dollars and cents, and UK notes and coins for US bills and coins (1c, 5c, 10c, 25c, $1, $5, $10)."
+   },
+   {
+    "step": 5,
+    "title": "Solve problems with money (US: dollars & cents)",
+    "ccss": [
+     "2.MD.C.8",
+     "4.MD.A.2"
+    ],
+    "flag": "native",
+    "note": "\u2691 ADAPT: Adapt before teaching: swap \u00a3 and p for dollars and cents, and UK notes and coins for US bills and coins (1c, 5c, 10c, 25c, $1, $5, $10)."
+   },
+   {
+    "step": 6,
+    "title": "Estimate with money (US: dollars & cents)",
+    "ccss": [
+     "3.NBT.A.1",
+     "4.MD.A.2"
+    ],
+    "flag": "above",
+    "note": "Above grade. \u2691 ADAPT: Adapt before teaching: swap \u00a3 and p for dollars and cents, and UK notes and coins for US bills and coins (1c, 5c, 10c, 25c, $1, $5, $10)."
+   },
+   {
+    "step": 7,
+    "title": "Calculate with money (US: dollars & cents)",
+    "ccss": [
+     "3.OA.D.8",
+     "4.MD.A.2"
+    ],
+    "flag": "above",
+    "note": "Above grade. \u2691 ADAPT: Adapt before teaching: swap \u00a3 and p for dollars and cents, and UK notes and coins for US bills and coins (1c, 5c, 10c, 25c, $1, $5, $10)."
+   }
+  ]
+ },
+ {
+  "grade": "G3",
+  "gradeName": "Grade 3",
+  "domain": "MD",
+  "unitNum": 4,
+  "unit": "Time",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Hours, minutes and seconds",
+    "ccss": [
+     "3.MD.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 2,
+    "title": "Years, months, weeks and days",
+    "ccss": [
+     "3.MD.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Convert between analogue and digital times",
+    "ccss": [
+     "3.MD.A.1"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 11 Step 3 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 4,
+    "title": "Convert to the 24 hour clock",
+    "ccss": [
+     "3.MD.A.1"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 11 Step 4 \u2014 added Aug 2026 for full WRM coverage \u2691 ADAPT: Adapt before teaching: US schools use the 12-hour a.m./p.m. clock. Teach 24-hour as international or military time only."
+   },
+   {
+    "step": 5,
+    "title": "Convert from the 24 hour clock",
+    "ccss": [
+     "3.MD.A.1"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 11 Step 5 \u2014 added Aug 2026 for full WRM coverage \u2691 ADAPT: Adapt before teaching: US schools use the 12-hour a.m./p.m. clock. Teach 24-hour as international or military time only."
+   },
+   {
+    "step": 8,
+    "title": "Solve problems with time",
+    "ccss": [
+     "3.MD.A.1"
+    ],
+    "flag": "native",
+    "note": "renamed to the White Rose step title (was 'Problems with time')"
+   }
+  ]
+ }
+]

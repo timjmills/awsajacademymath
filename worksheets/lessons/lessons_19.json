@@ -1,0 +1,221 @@
+[
+ {
+  "grade": "G1",
+  "gradeName": "Grade 1",
+  "domain": "G",
+  "unitNum": 2,
+  "unit": "Fractions",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Introduction to parts and whole",
+    "ccss": [
+     "1.G.A.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 2,
+    "title": "Equal and unequal parts",
+    "ccss": [
+     "1.G.A.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Recognise a half",
+    "ccss": [
+     "1.G.A.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "Find a half",
+    "ccss": [
+     "1.G.A.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 5,
+    "title": "Recognise a quarter",
+    "ccss": [
+     "1.G.A.3"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 6,
+    "title": "Find a quarter",
+    "ccss": [
+     "1.G.A.3"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 7,
+    "title": "Recognise a third",
+    "ccss": [
+     "2.G.A.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 8,
+    "title": "Find a third",
+    "ccss": [
+     "2.G.A.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 9,
+    "title": "Find the whole",
+    "ccss": [
+     "1.G.A.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 10,
+    "title": "Unit fractions",
+    "ccss": [
+     "1.G.A.3",
+     "3.NF.A.1"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 11,
+    "title": "Non-unit fractions",
+    "ccss": [
+     "3.NF.A.1"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 12,
+    "title": "Recognise the equivalence of a half and two quarters",
+    "ccss": [
+     "1.G.A.3",
+     "3.NF.A.3.B"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 13,
+    "title": "Recognise three quarters",
+    "ccss": [
+     "1.G.A.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 14,
+    "title": "Find three-quarters",
+    "ccss": [
+     "3.NF.A.1"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 8 Step 14 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 15,
+    "title": "Count in fractions up to a whole",
+    "ccss": [
+     "3.NF.A.1",
+     "3.NF.A.3.C"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 8 Step 15 \u2014 added Aug 2026 for full WRM coverage"
+   }
+  ]
+ },
+ {
+  "grade": "G1",
+  "gradeName": "Grade 1",
+  "domain": "G",
+  "unitNum": 3,
+  "unit": "Position and Direction",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Describe movement",
+    "ccss": [
+     "K.G.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 2,
+    "title": "Describe turns",
+    "ccss": [
+     "K.G.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Describe movement and turns",
+    "ccss": [
+     "K.G.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "Language of position",
+    "ccss": [
+     "K.G.A.1"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 11 Step 1 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 5,
+    "title": "Shape patterns with turns",
+    "ccss": [
+     "1.G.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "grade": "G1",
+  "gradeName": "Grade 1",
+  "domain": "G",
+  "unitNum": 4,
+  "unit": "Awsaj supplement lessons",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Compose and recompose shapes",
+    "ccss": [
+     "1.G.A.2"
+    ],
+    "flag": "committee",
+    "note": "Awsaj-authored lesson \u00b7 closes a Common Core standard White Rose does not teach. Materials need to be made."
+   }
+  ]
+ }
+]

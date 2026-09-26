@@ -1,0 +1,273 @@
+[
+ {
+  "grade": "G3",
+  "gradeName": "Grade 3",
+  "domain": "NBT",
+  "unitNum": 2,
+  "unit": "Addition and Subtraction",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Add and subtract 1s, 10s, 100s and 1,000s",
+    "ccss": [
+     "3.NBT.A.2"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 2,
+    "title": "Add up to two 4-digit numbers - no exchange",
+    "ccss": [
+     "3.NBT.A.2",
+     "4.NBT.B.4"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 3,
+    "title": "Add two 4-digit numbers - one exchange",
+    "ccss": [
+     "3.NBT.A.2",
+     "4.NBT.B.4"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 4,
+    "title": "Add two 4-digit numbers - more than one exchange",
+    "ccss": [
+     "3.NBT.A.2",
+     "4.NBT.B.4"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 5,
+    "title": "Subtract two 4-digit numbers - no exchange",
+    "ccss": [
+     "3.NBT.A.2",
+     "4.NBT.B.4"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 6,
+    "title": "Subtract two 4-digit numbers - one exchange",
+    "ccss": [
+     "3.NBT.A.2",
+     "4.NBT.B.4"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 7,
+    "title": "Subtract two 4-digit numbers - more than one exchange",
+    "ccss": [
+     "3.NBT.A.2",
+     "4.NBT.B.4"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 8,
+    "title": "Efficient subtraction",
+    "ccss": [
+     "3.NBT.A.2"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 9,
+    "title": "Estimate answers",
+    "ccss": [
+     "3.NBT.A.1",
+     "3.NBT.A.2"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 10,
+    "title": "Checking strategies",
+    "ccss": [
+     "3.NBT.A.2"
+    ],
+    "flag": "native",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "grade": "G3",
+  "gradeName": "Grade 3",
+  "domain": "NF",
+  "unitNum": 1,
+  "unit": "Fractions",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Understand the whole",
+    "ccss": [
+     "3.NF.A.1"
+    ],
+    "flag": "native",
+    "note": "Fractions greater than 1, adding/subtracting fractions is Grade 4 (4.NF.B.3)."
+   },
+   {
+    "step": 2,
+    "title": "Count beyond 1",
+    "ccss": [
+     "3.NF.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Partition a mixed number",
+    "ccss": [
+     "3.NF.A.1",
+     "4.NF.B.3"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 4,
+    "title": "Number lines with mixed numbers",
+    "ccss": [
+     "3.NF.A.2"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 7 Step 4 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 5,
+    "title": "Understand improper fractions",
+    "ccss": [
+     "3.NF.A.1",
+     "3.NF.A.3.C"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 7 Step 6 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 6,
+    "title": "Convert mixed numbers to improper fractions",
+    "ccss": [
+     "3.NF.A.1",
+     "4.NF.B.3.B"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 7 Step 7 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 7,
+    "title": "Convert improper fractions to mixed numbers",
+    "ccss": [
+     "3.NF.A.1",
+     "4.NF.B.3.B"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 7 Step 8 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 8,
+    "title": "Equivalent fraction families",
+    "ccss": [
+     "3.NF.A.3.B",
+     "4.NF.A.1"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 7 Step 10 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 9,
+    "title": "Fractions on a number line",
+    "ccss": [
+     "3.NF.A.2"
+    ],
+    "flag": "native",
+    "note": "renamed to the White Rose step title (was 'Number line to 1')"
+   },
+   {
+    "step": 11,
+    "title": "Equivalent fractions on a number line",
+    "ccss": [
+     "3.NF.A.2",
+     "3.NF.A.3.A"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 13,
+    "title": "Compare and order mixed numbers",
+    "ccss": [
+     "3.NF.A.3",
+     "4.NF.A.2"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 14,
+    "title": "Add two or more fractions",
+    "ccss": [
+     "3.NF.A.1",
+     "4.NF.B.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 15,
+    "title": "Add fractions and mixed numbers",
+    "ccss": [
+     "3.NF.A.1",
+     "4.NF.B.3"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 16,
+    "title": "Subtract two fractions",
+    "ccss": [
+     "3.NF.A.1",
+     "4.NF.B.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 17,
+    "title": "Subtract from whole amounts",
+    "ccss": [
+     "3.NF.A.1",
+     "4.NF.B.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 18,
+    "title": "Subtract from mixed numbers",
+    "ccss": [
+     "3.NF.A.1",
+     "4.NF.B.3"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   }
+  ]
+ }
+]

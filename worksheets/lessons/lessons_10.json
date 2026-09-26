@@ -1,0 +1,225 @@
+[
+ {
+  "grade": "K",
+  "gradeName": "Kindergarten",
+  "domain": "NBT",
+  "unitNum": 1,
+  "unit": "Place Value within 50",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Count from 20 to 50",
+    "ccss": [
+     "K.CC.A.1",
+     "1.NBT.A.1"
+    ],
+    "flag": "above",
+    "note": "Above grade. Grade 1 content (1.NBT.A.1). Substitute: K.NBT.A.1 teen numbers practice."
+   },
+   {
+    "step": 2,
+    "title": "20, 30, 40 and 50",
+    "ccss": [
+     "K.CC.A.1",
+     "1.NBT.B.2"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 3,
+    "title": "Count by making groups of tens",
+    "ccss": [
+     "K.NBT.A.1",
+     "1.NBT.A.1"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 4,
+    "title": "Groups of tens and ones",
+    "ccss": [
+     "K.NBT.A.1",
+     "1.NBT.B.2"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 5,
+    "title": "Partition into tens and ones",
+    "ccss": [
+     "K.NBT.A.1",
+     "1.NBT.B.2"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 6,
+    "title": "The number line to 50",
+    "ccss": [
+     "K.CC.A.2",
+     "1.NBT.A.1"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 7,
+    "title": "Estimate on a number line to 50",
+    "ccss": [
+     "K.CC.A.2",
+     "1.NBT.A.1"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 8,
+    "title": "1 more, 1 less",
+    "ccss": [
+     "K.CC.B.4"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 6 Step 8 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 9,
+    "title": "1 more and 1 less",
+    "ccss": [
+     "K.CC.B.4"
+    ],
+    "flag": "native",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "grade": "K",
+  "gradeName": "Kindergarten",
+  "domain": "NBT",
+  "unitNum": 2,
+  "unit": "Place Value within 100",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Count from 50 to 100",
+    "ccss": [
+     "K.CC.A.1",
+     "1.NBT.A.1"
+    ],
+    "flag": "above",
+    "note": "Above grade. Grade 1 content (1.NBT.A.1). Substitute: more K.CC.A.1 count-to-100 practice."
+   },
+   {
+    "step": 2,
+    "title": "Tens to 100",
+    "ccss": [
+     "K.CC.A.1",
+     "1.NBT.B.2"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 3,
+    "title": "Partition into tens and ones",
+    "ccss": [
+     "K.NBT.A.1",
+     "1.NBT.B.2"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 4,
+    "title": "The number line to 100",
+    "ccss": [
+     "K.CC.A.2",
+     "1.NBT.A.1"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 5,
+    "title": "1 more, 1 less",
+    "ccss": [
+     "K.CC.B.4"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 12 Step 5 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 6,
+    "title": "1 more and 1 less",
+    "ccss": [
+     "K.CC.B.4"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 7,
+    "title": "Compare numbers with the same number of tens",
+    "ccss": [
+     "1.NBT.B.2",
+     "1.NBT.B.3"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 8,
+    "title": "Compare any two numbers",
+    "ccss": [
+     "1.NBT.B.3"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   }
+  ]
+ },
+ {
+  "grade": "K",
+  "gradeName": "Kindergarten",
+  "domain": "MD",
+  "unitNum": 1,
+  "unit": "Length and Height",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Compare lengths and heights",
+    "ccss": [
+     "K.MD.A.1",
+     "K.MD.A.2",
+     "1.MD.A.1"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 2,
+    "title": "Measure length using objects",
+    "ccss": [
+     "K.MD.A.1",
+     "1.MD.A.2"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Measure length in centimetres",
+    "ccss": [
+     "K.MD.A.1",
+     "2.MD.A.1"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   }
+  ]
+ }
+]

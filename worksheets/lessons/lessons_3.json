@@ -1,0 +1,257 @@
+[
+ {
+  "grade": "PK",
+  "gradeName": "PK4 (Reception)",
+  "domain": "OA",
+  "unitNum": 1,
+  "unit": "Addition & Subtraction",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Add more",
+    "ccss": [
+     "K.OA.A.1",
+     "K.OA.A.2"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 2,
+    "title": "How many did I add",
+    "ccss": [
+     "K.OA.A.1",
+     "K.OA.A.2"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Take away",
+    "ccss": [
+     "K.OA.A.1",
+     "K.OA.A.2"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "How many did I take away",
+    "ccss": [
+     "K.OA.A.1",
+     "K.OA.A.2"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "grade": "PK",
+  "gradeName": "PK4 (Reception)",
+  "domain": "MD",
+  "unitNum": 1,
+  "unit": "Mass & Capacity",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Compare mass",
+    "ccss": [
+     "K.MD.A.2"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 2,
+    "title": "Find a balance",
+    "ccss": [
+     "K.MD.A.2"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Explore capacity",
+    "ccss": [
+     "K.MD.A.1"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "Compare capacity",
+    "ccss": [
+     "K.MD.A.2"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "grade": "PK",
+  "gradeName": "PK4 (Reception)",
+  "domain": "MD",
+  "unitNum": 2,
+  "unit": "Length, Height & Time",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Explore length",
+    "ccss": [
+     "K.MD.A.1"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 2,
+    "title": "Compare length",
+    "ccss": [
+     "K.MD.A.2"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Explore height",
+    "ccss": [
+     "K.MD.A.1"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "Compare height",
+    "ccss": [
+     "K.MD.A.2"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 5,
+    "title": "Talk about time",
+    "ccss": [],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 6,
+    "title": "Order and sequence time",
+    "ccss": [],
+    "flag": "non-ccss",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "grade": "PK",
+  "gradeName": "PK4 (Reception)",
+  "domain": "G",
+  "unitNum": 1,
+  "unit": "Compare Size, Mass & Capacity; Patterns",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Compare size",
+    "ccss": [
+     "K.MD.A.2"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 2,
+    "title": "Compare mass",
+    "ccss": [
+     "K.MD.A.2"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Compare capacity",
+    "ccss": [
+     "K.MD.A.2"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "Explore simple patterns",
+    "ccss": [],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 5,
+    "title": "Copy and continue simple patterns",
+    "ccss": [],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 6,
+    "title": "Create simple patterns",
+    "ccss": [],
+    "flag": "non-ccss",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "grade": "PK",
+  "gradeName": "PK4 (Reception)",
+  "domain": "G",
+  "unitNum": 2,
+  "unit": "Circles & Triangles; Position",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Identify and name circles and triangles",
+    "ccss": [
+     "K.G.A.2"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 2,
+    "title": "Compare circles and triangles",
+    "ccss": [
+     "K.G.B.4"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Shapes in the environment",
+    "ccss": [
+     "K.G.A.1"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "Describe position",
+    "ccss": [
+     "K.G.A.1"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   }
+  ]
+ }
+]

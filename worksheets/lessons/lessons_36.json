@@ -1,0 +1,238 @@
+[
+ {
+  "grade": "G4",
+  "gradeName": "Grade 4",
+  "domain": "NBT",
+  "unitNum": 3,
+  "unit": "Multiplication and Division B",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Multiply up to a 4-digit number by a 1-digit number",
+    "ccss": [
+     "4.NBT.B.5"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 2,
+    "title": "Multiply a 3-digit number by a 2-digit number",
+    "ccss": [
+     "5.NBT.B.5"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Multiply a 2-digit number by a 2-digit number (area model)",
+    "ccss": [
+     "4.NBT.B.5"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "Multiply a 2-digit number by a 2-digit number",
+    "ccss": [
+     "4.NBT.B.5"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 5,
+    "title": "Multiply a 4-digit number by a 2-digit number",
+    "ccss": [
+     "5.NBT.B.5"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 6,
+    "title": "Solve problems with multiplication",
+    "ccss": [
+     "4.OA.A.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 7,
+    "title": "Short division",
+    "ccss": [
+     "4.NBT.B.6"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 8,
+    "title": "Divide a 4-digit number by a 1-digit number",
+    "ccss": [
+     "4.NBT.B.6"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 9,
+    "title": "Divide with remainders",
+    "ccss": [
+     "4.NBT.B.6"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 10,
+    "title": "Efficient division",
+    "ccss": [
+     "4.NBT.B.6"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 11,
+    "title": "Solve problems with multiplication and division",
+    "ccss": [
+     "4.OA.A.2",
+     "4.OA.A.3"
+    ],
+    "flag": "native",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "grade": "G4",
+  "gradeName": "Grade 4",
+  "domain": "NBT",
+  "unitNum": 4,
+  "unit": "Decimals",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Multiply by 10, 100 and 1,000",
+    "ccss": [
+     "4.NBT.A.1",
+     "5.NBT.A.2"
+    ],
+    "flag": "native",
+    "note": "Decimal arithmetic is Grade 5 (5.NBT.B.7)."
+   },
+   {
+    "step": 2,
+    "title": "Use known facts to add and subtract decimals within 1",
+    "ccss": [
+     "4.NBT.B.4",
+     "5.NBT.B.7"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 3,
+    "title": "Complements to 1",
+    "ccss": [
+     "5.NBT.B.7"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 12 Step 2 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 4,
+    "title": "Add and subtract decimals across 1",
+    "ccss": [
+     "4.NBT.B.4",
+     "5.NBT.B.7"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 5,
+    "title": "Add decimals with the same number of decimal places",
+    "ccss": [
+     "4.NBT.B.4",
+     "5.NBT.B.7"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 6,
+    "title": "Subtract decimals with the same number of decimal places",
+    "ccss": [
+     "4.NBT.B.4",
+     "5.NBT.B.7"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 7,
+    "title": "Add decimals with different numbers of decimal places",
+    "ccss": [
+     "4.NBT.B.4",
+     "5.NBT.B.7"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 8,
+    "title": "Subtract decimals with different numbers of decimal places",
+    "ccss": [
+     "4.NBT.B.4",
+     "5.NBT.B.7"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 9,
+    "title": "Efficient strategies for adding and subtracting decimals",
+    "ccss": [
+     "4.NBT.B.4",
+     "5.NBT.B.7"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 10,
+    "title": "Decimal sequences",
+    "ccss": [
+     "4.OA.C.5",
+     "5.NBT.B.7"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 11,
+    "title": "Divide by 10, 100 and 1,000",
+    "ccss": [
+     "4.NBT.A.1",
+     "5.NBT.A.2"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 12,
+    "title": "Multiply and divide decimals - missing values",
+    "ccss": [
+     "5.NBT.A.2"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 12 Step 12 \u2014 added Aug 2026 for full WRM coverage"
+   }
+  ]
+ }
+]

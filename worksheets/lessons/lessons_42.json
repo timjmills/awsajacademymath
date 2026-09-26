@@ -1,0 +1,87 @@
+[
+ {
+  "grade": "G5",
+  "gradeName": "Grade 5",
+  "domain": "NBT",
+  "unitNum": 1,
+  "unit": "Place Value",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Numbers to 1,000,000",
+    "ccss": [
+     "5.NBT.A.1",
+     "4.NBT.A.2"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 2,
+    "title": "Powers of 10",
+    "ccss": [
+     "5.NBT.A.2"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Numbers to 10,000,000",
+    "ccss": [
+     "5.NBT.A.1",
+     "4.NBT.A.2"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "Read and write numbers to 10,000,000",
+    "ccss": [
+     "5.NBT.A.1",
+     "4.NBT.A.2"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 5,
+    "title": "Number line to 10,000,000",
+    "ccss": [
+     "5.NBT.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 6,
+    "title": "Compare and order any integers",
+    "ccss": [
+     "4.NBT.A.2"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 7,
+    "title": "Round any integer",
+    "ccss": [
+     "4.NBT.A.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 8,
+    "title": "Negative numbers",
+    "ccss": [
+     "6.NS.C.6",
+     "6.NS.C.7"
+    ],
+    "flag": "native",
+    "note": "Beyond K-5 CCSS (covered in G6 6.NS.C.5); optional preview."
+   }
+  ]
+ }
+]

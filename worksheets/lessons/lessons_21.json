@@ -1,0 +1,179 @@
+[
+ {
+  "grade": "G2",
+  "gradeName": "Grade 2",
+  "domain": "OA",
+  "unitNum": 3,
+  "unit": "Awsaj supplement lessons",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Solve one-step word problems using bar models",
+    "ccss": [
+     "2.OA.A.1"
+    ],
+    "flag": "committee",
+    "note": "Awsaj-authored lesson \u00b7 closes a Common Core standard White Rose does not teach. Materials need to be made."
+   },
+   {
+    "step": 2,
+    "title": "Solve two-step word problems identifying both operations",
+    "ccss": [
+     "2.OA.A.1"
+    ],
+    "flag": "committee",
+    "note": "Awsaj-authored lesson \u00b7 closes a Common Core standard White Rose does not teach. Materials need to be made."
+   },
+   {
+    "step": 3,
+    "title": "Odd and even numbers",
+    "ccss": [
+     "2.OA.C.3"
+    ],
+    "flag": "committee",
+    "note": "Awsaj-authored lesson \u00b7 closes a Common Core standard White Rose does not teach. Materials need to be made."
+   }
+  ]
+ },
+ {
+  "grade": "G2",
+  "gradeName": "Grade 2",
+  "domain": "NBT",
+  "unitNum": 1,
+  "unit": "Place Value",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Represent numbers to 100",
+    "ccss": [
+     "2.NBT.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 2,
+    "title": "Partition numbers to 100",
+    "ccss": [
+     "2.NBT.A.1",
+     "1.NBT.B.2"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 1 Step 2 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 3,
+    "title": "Number line to 100",
+    "ccss": [
+     "2.MD.B.6",
+     "2.NBT.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "Hundreds",
+    "ccss": [
+     "2.NBT.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 5,
+    "title": "Represent numbers to 1,000",
+    "ccss": [
+     "2.NBT.A.1",
+     "2.NBT.A.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 6,
+    "title": "Partition numbers to 1,000",
+    "ccss": [
+     "2.NBT.A.1",
+     "2.NBT.A.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 7,
+    "title": "Flexible partitioning of numbers to 1,000",
+    "ccss": [
+     "2.NBT.A.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 8,
+    "title": "Hundreds, tens and ones",
+    "ccss": [
+     "2.NBT.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 9,
+    "title": "Find 1, 10 or 100 more or less",
+    "ccss": [
+     "2.NBT.B.8"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 10,
+    "title": "Number line to 1,000",
+    "ccss": [
+     "2.MD.B.6",
+     "2.NBT.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 11,
+    "title": "Estimate on a number line to 1,000",
+    "ccss": [
+     "2.MD.B.6",
+     "2.NBT.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 12,
+    "title": "Compare numbers to 1,000",
+    "ccss": [
+     "2.NBT.A.4"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 13,
+    "title": "Order numbers to 1,000",
+    "ccss": [
+     "2.NBT.A.4"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 14,
+    "title": "Count in 50s",
+    "ccss": [
+     "2.NBT.A.2"
+    ],
+    "flag": "non-ccss",
+    "note": "Not explicitly in CCSS; extension of skip-counting."
+   }
+  ]
+ }
+]

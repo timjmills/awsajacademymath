@@ -1,0 +1,172 @@
+[
+ {
+  "grade": "G4",
+  "gradeName": "Grade 4",
+  "domain": "G",
+  "unitNum": 1,
+  "unit": "Shape",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Understand and use degrees",
+    "ccss": [
+     "4.MD.C.6"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 2,
+    "title": "Lengths and angles in shapes",
+    "ccss": [
+     "4.G.A.2",
+     "4.MD.C.7"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "3D shapes",
+    "ccss": [
+     "1.G.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "Classify angles",
+    "ccss": [
+     "4.G.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 5,
+    "title": "Estimate angles",
+    "ccss": [
+     "4.MD.C.6"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 6,
+    "title": "Measure angles up to 180\u00b0",
+    "ccss": [
+     "4.MD.C.6"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 7,
+    "title": "Draw lines and angles accurately",
+    "ccss": [
+     "4.G.A.1",
+     "4.MD.C.6"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 8,
+    "title": "Regular and irregular polygons",
+    "ccss": [
+     "4.G.A.2",
+     "5.G.B.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 9,
+    "title": "Calculate angles around a point",
+    "ccss": [
+     "4.MD.C.7"
+    ],
+    "flag": "native",
+    "note": "Beyond K-5 CCSS (angle relationships is 7.G.B.5); optional preview."
+   },
+   {
+    "step": 10,
+    "title": "Calculate angles on a straight line",
+    "ccss": [
+     "4.MD.C.7"
+    ],
+    "flag": "native",
+    "note": "Beyond K-5 CCSS (angle relationships is 7.G.B.5); optional preview."
+   }
+  ]
+ },
+ {
+  "grade": "G4",
+  "gradeName": "Grade 4",
+  "domain": "G",
+  "unitNum": 2,
+  "unit": "Position and Direction",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Read and plot coordinates",
+    "ccss": [
+     "4.G.A.1",
+     "5.G.A.1"
+    ],
+    "flag": "above",
+    "note": "Above grade. Coordinate plane is Grade 5 (5.G.A.1/A.2)."
+   },
+   {
+    "step": 2,
+    "title": "Problem solving with coordinates",
+    "ccss": [
+     "4.G.A.1",
+     "5.G.A.1"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 3,
+    "title": "Translation",
+    "ccss": [
+     "4.G.A.1",
+     "5.G.A.1"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 4,
+    "title": "Translation with coordinates",
+    "ccss": [
+     "4.G.A.1",
+     "5.G.A.1"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 5,
+    "title": "Lines of symmetry",
+    "ccss": [
+     "4.G.A.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 6,
+    "title": "Reflection in horizontal and vertical lines",
+    "ccss": [
+     "4.G.A.1",
+     "5.G.A.1"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   }
+  ]
+ }
+]

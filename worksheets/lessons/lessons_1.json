@@ -1,0 +1,188 @@
+[
+ {
+  "grade": "PK",
+  "gradeName": "PK4 (Reception)",
+  "domain": "CC",
+  "unitNum": 4,
+  "unit": "Numbers 0 to 5",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Introduce zero",
+    "ccss": [
+     "K.CC.A.3",
+     "K.CC.B.4"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 2,
+    "title": "Find 0 to 5",
+    "ccss": [
+     "K.CC.B.4",
+     "K.CC.B.5"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Subitise 0 to 5",
+    "ccss": [
+     "K.CC.B.5"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "Represent 0 to 5",
+    "ccss": [
+     "K.CC.A.3",
+     "K.CC.B.5"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 5,
+    "title": "1 more",
+    "ccss": [
+     "K.CC.B.4"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 6,
+    "title": "1 less",
+    "ccss": [
+     "K.CC.B.4"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 7,
+    "title": "Composition",
+    "ccss": [
+     "K.OA.A.3"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 8,
+    "title": "Conceptual subitising to 5",
+    "ccss": [
+     "K.CC.B.5",
+     "K.OA.A.3"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "grade": "PK",
+  "gradeName": "PK4 (Reception)",
+  "domain": "CC",
+  "unitNum": 5,
+  "unit": "Numbers 6, 7 & 8; Doubles",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Find 6, 7 and 8",
+    "ccss": [
+     "K.CC.B.4",
+     "K.CC.B.5"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 2,
+    "title": "Represent 6, 7 and 8",
+    "ccss": [
+     "K.CC.A.3",
+     "K.CC.B.5"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "1 more",
+    "ccss": [
+     "K.CC.B.4"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "1 less",
+    "ccss": [
+     "K.CC.B.4"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 5,
+    "title": "Composition of 6, 7 and 8",
+    "ccss": [
+     "K.OA.A.3"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 6,
+    "title": "Make pairs-odd and even",
+    "ccss": [],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 7,
+    "title": "Double to 8 (find a double)",
+    "ccss": [
+     "K.OA.A.1"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 8,
+    "title": "Double to 8 (make a double)",
+    "ccss": [
+     "K.OA.A.1"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 9,
+    "title": "Combine 2 groups",
+    "ccss": [
+     "K.OA.A.1",
+     "K.OA.A.2"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 10,
+    "title": "Conceptual subitising",
+    "ccss": [
+     "K.CC.B.5",
+     "K.OA.A.3"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   }
+  ]
+ }
+]

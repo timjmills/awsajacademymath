@@ -1,0 +1,282 @@
+[
+ {
+  "grade": "G3",
+  "gradeName": "Grade 3",
+  "domain": "MD",
+  "unitNum": 5,
+  "unit": "Statistics",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Draw pictograms",
+    "ccss": [
+     "3.MD.B.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 2,
+    "title": "Interpret pictograms",
+    "ccss": [
+     "3.MD.B.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Draw bar charts",
+    "ccss": [
+     "3.MD.B.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "Interpret charts",
+    "ccss": [
+     "3.MD.B.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 5,
+    "title": "Interpret line graphs",
+    "ccss": [
+     "5.G.A.2"
+    ],
+    "flag": "native",
+    "note": "Beyond K-5 CCSS (mainly 6.SP); useful preview."
+   },
+   {
+    "step": 6,
+    "title": "Comparison, sum and difference",
+    "ccss": [
+     "3.MD.B.3"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 13 Step 2 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 7,
+    "title": "Draw line graphs",
+    "ccss": [
+     "5.G.A.2"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 13 Step 4 \u2014 added Aug 2026 for full WRM coverage"
+   }
+  ]
+ },
+ {
+  "grade": "G3",
+  "gradeName": "Grade 3",
+  "domain": "MD",
+  "unitNum": 6,
+  "unit": "Awsaj supplement lessons",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Area as multiplication",
+    "ccss": [
+     "3.MD.C.7",
+     "3.MD.C.7.A",
+     "3.MD.C.7.B"
+    ],
+    "flag": "committee",
+    "note": "Awsaj-authored lesson \u00b7 closes a Common Core standard White Rose does not teach. Materials need to be made."
+   },
+   {
+    "step": 2,
+    "title": "Distributive and additive area",
+    "ccss": [
+     "3.MD.C.7",
+     "3.MD.C.7.C",
+     "3.MD.C.7.D"
+    ],
+    "flag": "committee",
+    "note": "Awsaj-authored lesson \u00b7 closes a Common Core standard White Rose does not teach. Materials need to be made."
+   },
+   {
+    "step": 3,
+    "title": "Measure and estimate mass and liquid volume (g, kg, ml, l)",
+    "ccss": [
+     "3.MD.A.2"
+    ],
+    "flag": "committee",
+    "note": "Awsaj-authored lesson \u00b7 closes a Common Core standard White Rose does not teach. Materials need to be made."
+   },
+   {
+    "step": 4,
+    "title": "Partition shapes into equal areas",
+    "ccss": [
+     "3.G.A.2"
+    ],
+    "flag": "committee",
+    "note": "Awsaj-authored lesson \u00b7 closes a Common Core standard White Rose does not teach. Materials need to be made."
+   },
+   {
+    "step": 5,
+    "title": "Build a line plot from inch measurements",
+    "ccss": [
+     "3.MD.B.4"
+    ],
+    "flag": "committee",
+    "note": "Awsaj-authored lesson \u00b7 closes a Common Core standard White Rose does not teach. Materials need to be made."
+   },
+   {
+    "step": 6,
+    "title": "Measure to the half and quarter inch",
+    "ccss": [
+     "3.MD.B.4"
+    ],
+    "flag": "committee",
+    "note": "Awsaj-authored lesson \u00b7 closes a Common Core standard White Rose does not teach. Materials need to be made."
+   }
+  ]
+ },
+ {
+  "grade": "G3",
+  "gradeName": "Grade 3",
+  "domain": "G",
+  "unitNum": 1,
+  "unit": "Shape",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Understand angles as turns",
+    "ccss": [
+     "4.MD.C.5"
+    ],
+    "flag": "above",
+    "note": "Above grade. Angles, types of triangles, quadrilaterals, symmetry are Grade 4 (4.G.A, 4.MD.C.5/C.6)."
+   },
+   {
+    "step": 2,
+    "title": "Identify angles",
+    "ccss": [
+     "3.G.A.1",
+     "4.MD.C.5"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 3,
+    "title": "Compare and order angles",
+    "ccss": [
+     "3.G.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "Triangles",
+    "ccss": [
+     "3.G.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 5,
+    "title": "Quadrilaterals",
+    "ccss": [
+     "3.G.A.1",
+     "5.G.B.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 6,
+    "title": "Polygons",
+    "ccss": [
+     "3.G.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 7,
+    "title": "Lines of symmetry",
+    "ccss": [
+     "3.G.A.1",
+     "4.G.A.3"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 8,
+    "title": "Complete a symmetric figure",
+    "ccss": [
+     "3.G.A.1",
+     "4.G.A.3"
+    ],
+    "flag": "native",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "grade": "G3",
+  "gradeName": "Grade 3",
+  "domain": "G",
+  "unitNum": 2,
+  "unit": "Position and Direction",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Describe position using coordinates",
+    "ccss": [
+     "5.G.A.1"
+    ],
+    "flag": "above",
+    "note": "Above grade. Coordinates are Grade 5 CCSS (5.G.A.1/A.2)."
+   },
+   {
+    "step": 2,
+    "title": "Draw 2-D shapes on a grid",
+    "ccss": [
+     "3.G.A.1",
+     "5.G.A.1"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 3,
+    "title": "Translate on a grid",
+    "ccss": [
+     "5.G.A.1"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 4,
+    "title": "Plot coordinates",
+    "ccss": [
+     "5.G.A.1",
+     "5.G.A.2"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 14 Step 2 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 5,
+    "title": "Describe translation on a grid",
+    "ccss": [
+     "5.G.A.1"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 14 Step 5 \u2014 added Aug 2026 for full WRM coverage"
+   }
+  ]
+ }
+]

@@ -1,0 +1,254 @@
+[
+ {
+  "grade": "PK",
+  "gradeName": "PK4 (Reception)",
+  "domain": "CC",
+  "unitNum": 6,
+  "unit": "Numbers 9 & 10; Bonds to 10",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Find 9 and 10",
+    "ccss": [
+     "K.CC.B.4",
+     "K.CC.B.5"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 2,
+    "title": "Compare numbers to 10",
+    "ccss": [
+     "K.CC.C.6",
+     "K.CC.C.7"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Represent 9 and 10",
+    "ccss": [
+     "K.CC.A.3",
+     "K.CC.B.5"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "Conceptual subitising to 10",
+    "ccss": [
+     "K.CC.B.5",
+     "K.OA.A.3"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 5,
+    "title": "1 more",
+    "ccss": [
+     "K.CC.B.4"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 6,
+    "title": "1 less",
+    "ccss": [
+     "K.CC.B.4"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 7,
+    "title": "Composition to 10",
+    "ccss": [
+     "K.OA.A.3"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 8,
+    "title": "Bonds to 10 (2 parts)",
+    "ccss": [
+     "K.OA.A.3",
+     "K.OA.A.4"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 9,
+    "title": "Make arrangements of 10",
+    "ccss": [
+     "K.CC.B.5",
+     "K.OA.A.3"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 10,
+    "title": "Bonds to 10 (3 parts)",
+    "ccss": [
+     "K.OA.A.1",
+     "K.OA.A.4"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 11,
+    "title": "Doubles to 10 (find a double)",
+    "ccss": [
+     "K.OA.A.1"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 12,
+    "title": "Doubles to 10 (make a double)",
+    "ccss": [
+     "K.OA.A.1"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 13,
+    "title": "Explore even and odd",
+    "ccss": [],
+    "flag": "non-ccss",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "grade": "PK",
+  "gradeName": "PK4 (Reception)",
+  "domain": "CC",
+  "unitNum": 7,
+  "unit": "Numbers Beyond 10 (to 20 & Beyond)",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Build numbers beyond 10 (10 -13)",
+    "ccss": [
+     "K.CC.B.5",
+     "K.NBT.A.1"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 2,
+    "title": "Continue patterns beyond 10 (10-13)",
+    "ccss": [
+     "K.CC.A.2",
+     "K.CC.B.4"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Build numbers beyond 10 (14-20)",
+    "ccss": [
+     "K.CC.B.5",
+     "K.NBT.A.1"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "Continue patterns beyond 10 (14-20)",
+    "ccss": [
+     "K.CC.A.2",
+     "K.CC.B.4"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 5,
+    "title": "Verbal counting beyond 20",
+    "ccss": [
+     "K.CC.A.1"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 6,
+    "title": "Verbal counting patterns",
+    "ccss": [
+     "K.CC.A.1",
+     "K.CC.A.2"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "grade": "PK",
+  "gradeName": "PK4 (Reception)",
+  "domain": "CC",
+  "unitNum": 8,
+  "unit": "Sharing & Grouping; Doubles",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Explore sharing",
+    "ccss": [],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 2,
+    "title": "Sharing",
+    "ccss": [],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Explore grouping",
+    "ccss": [],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "Grouping",
+    "ccss": [],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 5,
+    "title": "Even and odd sharing",
+    "ccss": [],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 6,
+    "title": "Play with and build doubles",
+    "ccss": [
+     "K.OA.A.1"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   }
+  ]
+ }
+]

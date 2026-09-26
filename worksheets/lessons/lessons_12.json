@@ -1,0 +1,162 @@
+[
+ {
+  "grade": "K",
+  "gradeName": "Kindergarten",
+  "domain": "G",
+  "unitNum": 2,
+  "unit": "Fractions",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Recognise a half of an object or a shape",
+    "ccss": [
+     "1.G.A.3"
+    ],
+    "flag": "above",
+    "note": "Above grade. Grade 1 content (1.G.A.3). Substitute: more K.G.B.6 compose-shapes practice."
+   },
+   {
+    "step": 2,
+    "title": "Find a half of an object or a shape",
+    "ccss": [
+     "1.G.A.3"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 3,
+    "title": "Recognise a half of a quantity",
+    "ccss": [
+     "1.G.A.3"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 4,
+    "title": "Find a half of a quantity",
+    "ccss": [
+     "1.G.A.3"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 5,
+    "title": "Recognise a quarter of an object or a shape",
+    "ccss": [
+     "1.G.A.3"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 6,
+    "title": "Find a quarter of an object or a shape",
+    "ccss": [
+     "1.G.A.3"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 7,
+    "title": "Recognise a quarter of a quantity",
+    "ccss": [
+     "1.G.A.3"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 8,
+    "title": "Find a quarter of a quantity",
+    "ccss": [
+     "1.G.A.3"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   }
+  ]
+ },
+ {
+  "grade": "K",
+  "gradeName": "Kindergarten",
+  "domain": "G",
+  "unitNum": 3,
+  "unit": "Position and Direction",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Describe turns",
+    "ccss": [
+     "K.G.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 2,
+    "title": "Describe position - forwards and backwards",
+    "ccss": [
+     "K.G.A.1"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 11 Step 3 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 3,
+    "title": "Describe position - above and below",
+    "ccss": [
+     "K.G.A.1"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 11 Step 4 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 4,
+    "title": "Ordinal numbers",
+    "ccss": [],
+    "flag": "native",
+    "note": "White Rose Block 11 Step 5 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 5,
+    "title": "Describe position - left and right",
+    "ccss": [
+     "K.G.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "grade": "K",
+  "gradeName": "Kindergarten",
+  "domain": "G",
+  "unitNum": 4,
+  "unit": "Awsaj supplement lessons",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Build and draw shapes",
+    "ccss": [
+     "K.G.B.5"
+    ],
+    "flag": "committee",
+    "note": "Awsaj-authored lesson \u00b7 closes a Common Core standard White Rose does not teach. Materials need to be made."
+   },
+   {
+    "step": 2,
+    "title": "Compose shapes from smaller shapes",
+    "ccss": [
+     "K.G.B.6"
+    ],
+    "flag": "committee",
+    "note": "Awsaj-authored lesson \u00b7 closes a Common Core standard White Rose does not teach. Materials need to be made."
+   }
+  ]
+ }
+]

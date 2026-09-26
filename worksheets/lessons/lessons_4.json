@@ -1,0 +1,195 @@
+[
+ {
+  "grade": "PK",
+  "gradeName": "PK4 (Reception)",
+  "domain": "G",
+  "unitNum": 3,
+  "unit": "Shapes with 4 Sides; Day & Night",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Identify and name shapes with 4 sides",
+    "ccss": [
+     "K.G.A.2"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 2,
+    "title": "Combine shapes with 4 sides",
+    "ccss": [
+     "K.G.B.6"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Shapes in the environment",
+    "ccss": [
+     "K.G.A.1"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "My day and night",
+    "ccss": [],
+    "flag": "non-ccss",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "grade": "PK",
+  "gradeName": "PK4 (Reception)",
+  "domain": "G",
+  "unitNum": 4,
+  "unit": "3-D Shapes & Patterns",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Recognise and name 3-D shapes",
+    "ccss": [
+     "K.G.A.2",
+     "K.G.A.3"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 2,
+    "title": "Find 2-D shapes within 3-D shapes",
+    "ccss": [
+     "K.G.A.3",
+     "K.G.B.4"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Use 3-D shapes for tasks",
+    "ccss": [
+     "K.G.B.4"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "3-D shapes in the environment",
+    "ccss": [
+     "K.G.A.1"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 5,
+    "title": "Identify more complex patterns",
+    "ccss": [],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 6,
+    "title": "Copy and continue patterns",
+    "ccss": [],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 7,
+    "title": "Patterns in the environment",
+    "ccss": [],
+    "flag": "non-ccss",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "grade": "PK",
+  "gradeName": "PK4 (Reception)",
+  "domain": "G",
+  "unitNum": 5,
+  "unit": "Compose & Decompose Shapes",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Select shapes for a purpose",
+    "ccss": [
+     "K.G.B.4"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 2,
+    "title": "Rotate shapes",
+    "ccss": [
+     "K.G.A.2"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Manipulate shapes",
+    "ccss": [
+     "K.G.B.6"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "Explain shape arrangements",
+    "ccss": [
+     "K.G.B.6"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 5,
+    "title": "Compose shapes",
+    "ccss": [
+     "K.G.B.6"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 6,
+    "title": "Decompose shapes",
+    "ccss": [
+     "K.G.B.6"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 7,
+    "title": "Copy 2-D shape pictures",
+    "ccss": [
+     "K.G.B.6"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 8,
+    "title": "Find 2-D shapes within 3-D shapes",
+    "ccss": [
+     "K.G.A.3",
+     "K.G.B.4"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   }
+  ]
+ }
+]

@@ -1,0 +1,180 @@
+[
+ {
+  "grade": "G1",
+  "gradeName": "Grade 1",
+  "domain": "NBT",
+  "unitNum": 1,
+  "unit": "Place Value",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Numbers to 20",
+    "ccss": [
+     "1.NBT.B.2"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 2,
+    "title": "Recognise tens and ones",
+    "ccss": [
+     "1.NBT.B.2"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Use a place value chart",
+    "ccss": [
+     "1.NBT.B.2"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "Partition numbers to 100",
+    "ccss": [
+     "1.NBT.B.2"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 5,
+    "title": "Write numbers to 100 in words",
+    "ccss": [
+     "1.NBT.A.1",
+     "2.NBT.A.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 6,
+    "title": "Flexibly partition numbers to 100",
+    "ccss": [
+     "1.NBT.B.2"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 7,
+    "title": "Write numbers to 100 in expanded form",
+    "ccss": [
+     "1.NBT.B.2",
+     "2.NBT.A.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 8,
+    "title": "Count objects to 100 by making 10s",
+    "ccss": [
+     "1.NBT.A.1",
+     "1.NBT.B.2"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 9,
+    "title": "10s on the number line to 100",
+    "ccss": [
+     "1.NBT.A.1",
+     "2.MD.B.6"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 10,
+    "title": "10s and 1s on the number line to 100",
+    "ccss": [
+     "1.NBT.A.1",
+     "2.MD.B.6"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 11,
+    "title": "Estimate numbers on a number line",
+    "ccss": [
+     "1.NBT.A.1",
+     "2.MD.B.6"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 12,
+    "title": "Compare objects",
+    "ccss": [
+     "1.NBT.B.3"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 1 Step 12 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 14,
+    "title": "Compare numbers",
+    "ccss": [
+     "1.NBT.B.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 15,
+    "title": "Order objects and numbers",
+    "ccss": [
+     "1.NBT.B.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 16,
+    "title": "Count in 3s",
+    "ccss": [
+     "1.NBT.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 17,
+    "title": "Count in 2s, 5s and 10s",
+    "ccss": [
+     "1.NBT.A.1",
+     "2.NBT.A.2"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   }
+  ]
+ },
+ {
+  "grade": "G1",
+  "gradeName": "Grade 1",
+  "domain": "NBT",
+  "unitNum": 2,
+  "unit": "Awsaj supplement lessons",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Count on to 120",
+    "ccss": [
+     "1.NBT.A.1"
+    ],
+    "flag": "committee",
+    "note": "Awsaj-authored lesson \u00b7 closes a Common Core standard White Rose does not teach. Materials need to be made."
+   }
+  ]
+ }
+]

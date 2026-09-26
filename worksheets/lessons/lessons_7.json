@@ -1,0 +1,122 @@
+[
+ {
+  "grade": "K",
+  "gradeName": "Kindergarten",
+  "domain": "CC",
+  "unitNum": 2,
+  "unit": "Place Value within 20",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Count within 20",
+    "ccss": [
+     "K.CC.B.5"
+    ],
+    "flag": "native",
+    "note": "CCSS K.CC.A.3 is 0-20, and K.NBT.A.1 covers teen composition \u2014 fits K."
+   },
+   {
+    "step": 2,
+    "title": "Understand 10",
+    "ccss": [
+     "K.NBT.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Understand 11, 12 and 13",
+    "ccss": [
+     "K.NBT.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "Understand 14, 15 and 16",
+    "ccss": [
+     "K.NBT.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 5,
+    "title": "Understand 17, 18 and 19",
+    "ccss": [
+     "K.NBT.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 6,
+    "title": "Understand 20",
+    "ccss": [
+     "K.CC.A.3",
+     "K.NBT.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 7,
+    "title": "1 more and 1 less",
+    "ccss": [
+     "K.CC.B.4"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 8,
+    "title": "The number line to 20",
+    "ccss": [
+     "K.CC.A.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 9,
+    "title": "Use a number line to 20",
+    "ccss": [
+     "K.CC.A.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 10,
+    "title": "Estimate on a number line to 20",
+    "ccss": [
+     "K.CC.A.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 11,
+    "title": "Compare numbers to 20",
+    "ccss": [
+     "K.CC.C.7",
+     "1.NBT.B.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 12,
+    "title": "Order numbers to 20",
+    "ccss": [
+     "K.CC.C.7",
+     "1.NBT.B.3"
+    ],
+    "flag": "native",
+    "note": ""
+   }
+  ]
+ }
+]

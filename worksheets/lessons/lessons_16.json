@@ -1,0 +1,200 @@
+[
+ {
+  "grade": "G1",
+  "gradeName": "Grade 1",
+  "domain": "MD",
+  "unitNum": 1,
+  "unit": "Money",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Count money - pence (US: dollars & cents)",
+    "ccss": [
+     "2.MD.C.8"
+    ],
+    "flag": "above",
+    "note": "Above grade. Money is CCSS Grade 2 (2.MD.C.8). Substitute: more 1.MD.A measurement practice. \u2691 ADAPT: Adapt before teaching: swap \u00a3 and p for dollars and cents, and UK notes and coins for US bills and coins (1c, 5c, 10c, 25c, $1, $5, $10)."
+   },
+   {
+    "step": 2,
+    "title": "Count money - pounds (notes and coins) (US: dollars & cents)",
+    "ccss": [
+     "2.MD.C.8"
+    ],
+    "flag": "above",
+    "note": "Above grade. \u2691 ADAPT: Adapt before teaching: swap \u00a3 and p for dollars and cents, and UK notes and coins for US bills and coins (1c, 5c, 10c, 25c, $1, $5, $10)."
+   },
+   {
+    "step": 3,
+    "title": "Count money - pounds and pence",
+    "ccss": [
+     "2.MD.C.8"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 4 Step 3 \u2014 added Aug 2026 for full WRM coverage \u2691 ADAPT: Adapt before teaching: swap \u00a3 and p for dollars and cents, and UK notes and coins for US bills and coins (1c, 5c, 10c, 25c, $1, $5, $10)."
+   },
+   {
+    "step": 4,
+    "title": "Choose notes and coins",
+    "ccss": [
+     "2.MD.C.8"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 4 Step 4 \u2014 added Aug 2026 for full WRM coverage \u2691 ADAPT: Adapt before teaching: swap \u00a3 and p for dollars and cents, and UK notes and coins for US bills and coins (1c, 5c, 10c, 25c, $1, $5, $10)."
+   },
+   {
+    "step": 5,
+    "title": "Count money - notes and coins (US: dollars & cents)",
+    "ccss": [
+     "2.MD.C.8"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 6,
+    "title": "Select money (US: dollars & cents)",
+    "ccss": [
+     "2.MD.C.8"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 7,
+    "title": "Make the same amount (US: dollars & cents)",
+    "ccss": [
+     "2.MD.C.8"
+    ],
+    "flag": "above",
+    "note": "Above grade. \u2691 ADAPT: Adapt before teaching: swap \u00a3 and p for dollars and cents, and UK notes and coins for US bills and coins (1c, 5c, 10c, 25c, $1, $5, $10)."
+   },
+   {
+    "step": 8,
+    "title": "Calculate with money",
+    "ccss": [
+     "2.MD.C.8"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 4 Step 7 \u2014 added Aug 2026 for full WRM coverage \u2691 ADAPT: Adapt before teaching: swap \u00a3 and p for dollars and cents, and UK notes and coins for US bills and coins (1c, 5c, 10c, 25c, $1, $5, $10)."
+   },
+   {
+    "step": 9,
+    "title": "Make a pound",
+    "ccss": [
+     "2.MD.C.8"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 4 Step 8 \u2014 added Aug 2026 for full WRM coverage \u2691 ADAPT: Adapt before teaching: swap \u00a3 and p for dollars and cents, and UK notes and coins for US bills and coins (1c, 5c, 10c, 25c, $1, $5, $10)."
+   },
+   {
+    "step": 10,
+    "title": "Compare amounts of money",
+    "ccss": [
+     "1.NBT.B.3",
+     "2.MD.C.8"
+    ],
+    "flag": "above",
+    "note": "Above grade. \u2691 ADAPT: Adapt before teaching: swap \u00a3 and p for dollars and cents, and UK notes and coins for US bills and coins (1c, 5c, 10c, 25c, $1, $5, $10)."
+   },
+   {
+    "step": 11,
+    "title": "Find the total (US: dollars & cents)",
+    "ccss": [
+     "1.NBT.C.4",
+     "2.MD.C.8"
+    ],
+    "flag": "above",
+    "note": "Above grade. Auto-matched by keyword scan; verify."
+   },
+   {
+    "step": 12,
+    "title": "Find the difference (US: dollars & cents)",
+    "ccss": [
+     "1.OA.A.1",
+     "2.MD.C.8"
+    ],
+    "flag": "non-ccss",
+    "note": "(needs manual review)."
+   },
+   {
+    "step": 13,
+    "title": "Find change (US: dollars & cents)",
+    "ccss": [
+     "1.OA.A.1",
+     "2.MD.C.8"
+    ],
+    "flag": "above",
+    "note": "Above grade. \u2691 ADAPT: Adapt before teaching: swap \u00a3 and p for dollars and cents, and UK notes and coins for US bills and coins (1c, 5c, 10c, 25c, $1, $5, $10)."
+   },
+   {
+    "step": 14,
+    "title": "Two-step problems (US: dollars & cents)",
+    "ccss": [
+     "2.MD.C.8",
+     "2.OA.A.1"
+    ],
+    "flag": "above",
+    "note": "Above grade. Auto-matched by keyword scan; verify. \u2691 ADAPT: Adapt before teaching: swap \u00a3 and p for dollars and cents, and UK notes and coins for US bills and coins (1c, 5c, 10c, 25c, $1, $5, $10)."
+   }
+  ]
+ },
+ {
+  "grade": "G1",
+  "gradeName": "Grade 1",
+  "domain": "MD",
+  "unitNum": 2,
+  "unit": "Length and Height",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Measure in centimetres",
+    "ccss": [
+     "1.MD.A.2",
+     "2.MD.A.1"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 2,
+    "title": "Measure in metres",
+    "ccss": [
+     "1.MD.A.2",
+     "2.MD.A.1"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 3,
+    "title": "Compare lengths and heights",
+    "ccss": [
+     "1.MD.A.1",
+     "2.MD.A.4"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 4,
+    "title": "Order lengths and heights",
+    "ccss": [
+     "1.MD.A.1",
+     "2.MD.A.4"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 5,
+    "title": "Four operations with lengths and heights",
+    "ccss": [
+     "2.MD.B.5"
+    ],
+    "flag": "native",
+    "note": ""
+   }
+  ]
+ }
+]

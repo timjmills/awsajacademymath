@@ -1,0 +1,168 @@
+[
+ {
+  "grade": "K",
+  "gradeName": "Kindergarten",
+  "domain": "OA",
+  "unitNum": 1,
+  "unit": "Addition and Subtraction within 10",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Introduce parts and wholes",
+    "ccss": [
+     "K.OA.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 2,
+    "title": "Part-whole model",
+    "ccss": [
+     "K.OA.A.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Write number sentences",
+    "ccss": [
+     "K.OA.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "Fact families - addition facts",
+    "ccss": [
+     "K.OA.A.1",
+     "K.OA.A.3",
+     "1.OA.B.3"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 5,
+    "title": "Number bonds within 10",
+    "ccss": [
+     "K.OA.A.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 6,
+    "title": "Systematic number bonds within 10",
+    "ccss": [
+     "K.OA.A.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 7,
+    "title": "Number bonds to 10",
+    "ccss": [
+     "K.OA.A.4"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 8,
+    "title": "Addition - add together",
+    "ccss": [
+     "K.OA.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 9,
+    "title": "Addition - add more",
+    "ccss": [
+     "K.OA.A.2"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 10,
+    "title": "Addition problems",
+    "ccss": [
+     "K.OA.A.2"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 2 Step 10 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 11,
+    "title": "Find a part",
+    "ccss": [
+     "K.OA.A.3"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 2 Step 11 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 12,
+    "title": "Fact families - the eight facts",
+    "ccss": [
+     "K.OA.A.1",
+     "1.OA.B.3",
+     "1.OA.B.4"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 2 Step 13 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 13,
+    "title": "Subtraction - find a part",
+    "ccss": [
+     "K.OA.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 14,
+    "title": "Subtraction - take away cross out (How many left )",
+    "ccss": [
+     "K.OA.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 15,
+    "title": "Subtraction - take away (How many left )",
+    "ccss": [
+     "K.OA.A.2"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 16,
+    "title": "Subtraction on a number line",
+    "ccss": [
+     "K.OA.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 17,
+    "title": "Add or subtract 1 or 2",
+    "ccss": [
+     "K.OA.A.5"
+    ],
+    "flag": "native",
+    "note": ""
+   }
+  ]
+ }
+]

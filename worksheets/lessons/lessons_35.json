@@ -1,0 +1,228 @@
+[
+ {
+  "grade": "G4",
+  "gradeName": "Grade 4",
+  "domain": "NBT",
+  "unitNum": 1,
+  "unit": "Place Value",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Roman numerals to 1,000",
+    "ccss": [],
+    "flag": "non-ccss",
+    "note": "WR Y5 extends to 1,000,000 and beyond. CCSS G4 (4.NBT.A.1-A.3) covers up to 1,000,000; extension to 10,000,000+ relocates to Grade 5 (5.NBT.A.1). | Not in CCSS K-5; cultural/optional extra. \u2691 ADAPT: UK National Curriculum only, no US standard. Teach as enrichment, or use the day for extra place-value practice."
+   },
+   {
+    "step": 2,
+    "title": "Numbers to 10,000",
+    "ccss": [
+     "4.NBT.A.2"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Numbers to 100,000",
+    "ccss": [
+     "4.NBT.A.2"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "Numbers to 1,000,000",
+    "ccss": [
+     "4.NBT.A.2"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 5,
+    "title": "Read and write numbers to 1,000,000",
+    "ccss": [
+     "4.NBT.A.2"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 6,
+    "title": "Powers of 10",
+    "ccss": [
+     "4.NBT.A.1",
+     "5.NBT.A.2"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 7,
+    "title": "10 / 100 / 1,000 / 10,000 / 100,000 more or less",
+    "ccss": [
+     "4.NBT.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 8,
+    "title": "Partition numbers to 1,000,000",
+    "ccss": [
+     "4.NBT.A.2"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 9,
+    "title": "Number line to 1,000,000",
+    "ccss": [
+     "4.NBT.A.2"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 10,
+    "title": "Compare and order numbers to 100,000",
+    "ccss": [
+     "4.NBT.A.2"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 11,
+    "title": "Compare and order numbers to 1,000,000",
+    "ccss": [
+     "4.NBT.A.2"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 12,
+    "title": "Round to the nearest 10, 100 or 1,000",
+    "ccss": [
+     "4.NBT.A.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 13,
+    "title": "Round within 100,000",
+    "ccss": [
+     "4.NBT.A.3"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 14,
+    "title": "Round within 1,000,000",
+    "ccss": [
+     "4.NBT.A.3"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 15,
+    "title": "Negative numbers",
+    "ccss": [
+     "6.NS.C.6"
+    ],
+    "flag": "native",
+    "note": "Beyond K-5 CCSS (covered in G6 6.NS.C.5); optional preview."
+   }
+  ]
+ },
+ {
+  "grade": "G4",
+  "gradeName": "Grade 4",
+  "domain": "NBT",
+  "unitNum": 2,
+  "unit": "Addition and Subtraction",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Mental strategies",
+    "ccss": [
+     "4.NBT.B.4"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 2,
+    "title": "Add whole numbers with more than four digits",
+    "ccss": [
+     "4.NBT.B.4"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Subtract whole numbers with more than four digits",
+    "ccss": [
+     "4.NBT.B.4"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "Round to check answers",
+    "ccss": [
+     "4.NBT.A.3",
+     "4.NBT.B.4"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 5,
+    "title": "Inverse operations (addition and subtraction)",
+    "ccss": [
+     "4.NBT.B.4"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 6,
+    "title": "Multi-step addition and subtraction problems",
+    "ccss": [
+     "4.NBT.B.4",
+     "4.OA.A.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 7,
+    "title": "Compare calculations",
+    "ccss": [
+     "4.NBT.B.4"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 8,
+    "title": "Find missing numbers",
+    "ccss": [
+     "4.OA.A.3"
+    ],
+    "flag": "native",
+    "note": ""
+   }
+  ]
+ }
+]
