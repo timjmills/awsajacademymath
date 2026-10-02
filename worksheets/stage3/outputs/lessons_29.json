@@ -1,0 +1,178 @@
+[
+ {
+  "grade": "G3",
+  "gradeName": "Grade 3",
+  "domain": "NBT",
+  "unitNum": 1,
+  "unit": "Place Value",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Represent numbers to 1,000",
+    "ccss": [
+     "2.NBT.A.1",
+     "2.NBT.A.3"
+    ],
+    "flag": "native",
+    "note": "WR Y4 covers to 1,000s and 10,000s. CCSS G3 is within 1000 (3.NBT.A.2). Beyond-1000 content relocates to Grade 4 (4.NBT.A.1-A.3)."
+   },
+   {
+    "step": 2,
+    "title": "Partition numbers to 1,000",
+    "ccss": [
+     "2.NBT.A.1",
+     "2.NBT.A.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Number line to 1,000",
+    "ccss": [
+     "2.MD.B.6",
+     "2.NBT.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "Thousands",
+    "ccss": [
+     "4.NBT.A.1",
+     "4.NBT.A.2"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 1 Step 4 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 6,
+    "title": "Represent numbers to 10,000",
+    "ccss": [
+     "4.NBT.A.2"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 7,
+    "title": "Partition numbers to 10,000",
+    "ccss": [
+     "4.NBT.A.2"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 8,
+    "title": "Flexible partitioning of numbers to 10,000",
+    "ccss": [
+     "4.NBT.A.2"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 9,
+    "title": "Find 1, 10, 100, 1,000 more or less",
+    "ccss": [
+     "2.NBT.B.8",
+     "4.NBT.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 10,
+    "title": "Number line to 10,000",
+    "ccss": [
+     "3.NBT.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 11,
+    "title": "Estimate on a number line to 10,000",
+    "ccss": [
+     "3.NBT.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 12,
+    "title": "Compare numbers to 10,000",
+    "ccss": [
+     "4.NBT.A.2"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 13,
+    "title": "Order numbers to 10,000",
+    "ccss": [
+     "4.NBT.A.2"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 14,
+    "title": "Roman numerals",
+    "ccss": [],
+    "flag": "non-ccss",
+    "note": "Not in CCSS K-5; cultural/optional extra. \u2691 ADAPT: UK National Curriculum only, no US standard. Teach as enrichment, or use the day for extra place-value practice."
+   },
+   {
+    "step": 15,
+    "title": "Round to the nearest 10",
+    "ccss": [
+     "3.NBT.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 16,
+    "title": "Round to the nearest 100",
+    "ccss": [
+     "3.NBT.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 17,
+    "title": "Round to the nearest 1,000",
+    "ccss": [
+     "3.NBT.A.1",
+     "4.NBT.A.3"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 18,
+    "title": "Round to the nearest 10, 100 or 1,000",
+    "ccss": [
+     "3.NBT.A.1",
+     "4.NBT.A.3"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 20,
+    "title": "Negative numbers",
+    "ccss": [
+     "6.NS.C.6"
+    ],
+    "flag": "native",
+    "note": "Beyond K-5 CCSS (covered in G6 6.NS.C.5); optional preview."
+   }
+  ]
+ }
+]

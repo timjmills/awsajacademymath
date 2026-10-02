@@ -1,0 +1,207 @@
+[
+ {
+  "grade": "PK",
+  "gradeName": "PK4 (Reception)",
+  "domain": "CC",
+  "unitNum": 1,
+  "unit": "Match, Sort & Compare",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Match objects",
+    "ccss": [],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 2,
+    "title": "Match pictures and objects",
+    "ccss": [],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Identify a set",
+    "ccss": [],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "Sort objects to a type",
+    "ccss": [
+     "K.MD.B.3"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 5,
+    "title": "Explore sorting techniques",
+    "ccss": [
+     "K.MD.B.3"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 6,
+    "title": "Create sorting rules",
+    "ccss": [
+     "K.MD.B.3"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 7,
+    "title": "Compare amounts",
+    "ccss": [
+     "K.CC.C.6"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "grade": "PK",
+  "gradeName": "PK4 (Reception)",
+  "domain": "CC",
+  "unitNum": 2,
+  "unit": "Numbers 1, 2 & 3",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Find 1, 2 and 3",
+    "ccss": [
+     "K.CC.B.4",
+     "K.CC.B.5"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 2,
+    "title": "Subitise 1, 2 and 3",
+    "ccss": [
+     "K.CC.B.5"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Represent 1, 2 and 3",
+    "ccss": [
+     "K.CC.A.3",
+     "K.CC.B.5"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "1 more",
+    "ccss": [
+     "K.CC.B.4"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 5,
+    "title": "1 less",
+    "ccss": [
+     "K.CC.B.4"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 6,
+    "title": "Composition of 1, 2 and 3",
+    "ccss": [
+     "K.OA.A.3"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "grade": "PK",
+  "gradeName": "PK4 (Reception)",
+  "domain": "CC",
+  "unitNum": 3,
+  "unit": "Numbers 4 & 5",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Find 4 and 5",
+    "ccss": [
+     "K.CC.B.4",
+     "K.CC.B.5"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 2,
+    "title": "Subitise 4 and 5",
+    "ccss": [
+     "K.CC.B.5"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Represent 4 and 5",
+    "ccss": [
+     "K.CC.A.3",
+     "K.CC.B.5"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "1 more",
+    "ccss": [
+     "K.CC.B.4"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 5,
+    "title": "1 less",
+    "ccss": [
+     "K.CC.B.4"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 6,
+    "title": "Composition of 4 and 5",
+    "ccss": [
+     "K.OA.A.3"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 7,
+    "title": "Composition of 1 - 5",
+    "ccss": [
+     "K.OA.A.3"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   }
+  ]
+ }
+]

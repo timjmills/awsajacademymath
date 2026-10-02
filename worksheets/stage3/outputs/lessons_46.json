@@ -1,0 +1,275 @@
+[
+ {
+  "grade": "G5",
+  "gradeName": "Grade 5",
+  "domain": "MD",
+  "unitNum": 3,
+  "unit": "Statistics",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Dual bar charts",
+    "ccss": [
+     "3.MD.B.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 2,
+    "title": "Read and interpret pie charts",
+    "ccss": [
+     "6.RP.A.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "The mean",
+    "ccss": [],
+    "flag": "non-ccss",
+    "note": "The mean is Grade 6 statistics (6.SP), outside the K-5 code set. It does not teach 5.MD.B.2, which is the fraction line plot."
+   },
+   {
+    "step": 4,
+    "title": "Line graphs",
+    "ccss": [
+     "5.G.A.2"
+    ],
+    "flag": "native",
+    "note": "Beyond K-5 CCSS (mainly 6.SP); useful preview."
+   },
+   {
+    "step": 5,
+    "title": "Pie charts with percentages",
+    "ccss": [
+     "6.RP.A.3"
+    ],
+    "flag": "native",
+    "note": "Beyond K-5 CCSS (covered in G6 6.RP); optional preview."
+   },
+   {
+    "step": 6,
+    "title": "Draw pie charts",
+    "ccss": [
+     "4.MD.C.6",
+     "6.RP.A.3"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 11 Step 5 \u2014 added Aug 2026 for full WRM coverage"
+   }
+  ]
+ },
+ {
+  "grade": "G5",
+  "gradeName": "Grade 5",
+  "domain": "MD",
+  "unitNum": 4,
+  "unit": "Awsaj supplement lessons",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Volume of composite solids",
+    "ccss": [
+     "5.MD.C.5",
+     "5.MD.C.5.C"
+    ],
+    "flag": "committee",
+    "note": "Awsaj-authored lesson \u00b7 closes a Common Core standard White Rose does not teach. Materials need to be made."
+   },
+   {
+    "step": 2,
+    "title": "Fraction line plots",
+    "ccss": [
+     "5.MD.B.2"
+    ],
+    "flag": "committee",
+    "note": "Awsaj-authored lesson \u00b7 closes a Common Core standard White Rose does not teach. Materials need to be made."
+   }
+  ]
+ },
+ {
+  "grade": "G5",
+  "gradeName": "Grade 5",
+  "domain": "G",
+  "unitNum": 1,
+  "unit": "Shape",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Angles in quadrilaterals",
+    "ccss": [
+     "4.MD.C.7"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 2,
+    "title": "Measure and classify angles",
+    "ccss": [
+     "4.MD.C.5",
+     "4.MD.C.6"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Calculate angles",
+    "ccss": [
+     "4.MD.C.7"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "Vertically opposite angles",
+    "ccss": [
+     "4.MD.C.7"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 5,
+    "title": "Angles in a triangle",
+    "ccss": [
+     "4.MD.C.7"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 6,
+    "title": "Angles in a triangle - missing angles",
+    "ccss": [
+     "4.MD.C.7"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 7,
+    "title": "Angles in a triangle - special cases",
+    "ccss": [
+     "4.G.A.2",
+     "4.MD.C.7"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 8,
+    "title": "Circles",
+    "ccss": [],
+    "flag": "native",
+    "note": "White Rose Block 12 Step 9 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 9,
+    "title": "Angles in polygons",
+    "ccss": [
+     "4.MD.C.7"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 10,
+    "title": "Draw shapes accurately",
+    "ccss": [
+     "4.G.A.1",
+     "4.MD.C.6"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 11,
+    "title": "Nets of 3D shapes",
+    "ccss": [
+     "6.G.A.4"
+    ],
+    "flag": "native",
+    "note": "Beyond K-5 CCSS (G6 6.G.A.4); optional preview."
+   }
+  ]
+ },
+ {
+  "grade": "G5",
+  "gradeName": "Grade 5",
+  "domain": "G",
+  "unitNum": 2,
+  "unit": "Position and Direction",
+  "steps": [
+   {
+    "step": 1,
+    "title": "The first quadrant",
+    "ccss": [
+     "5.G.A.1",
+     "5.G.A.2"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 2,
+    "title": "Read and plot points in four quadrants",
+    "ccss": [
+     "5.G.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Solve problems with coordinates",
+    "ccss": [
+     "5.G.A.2"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "Translations",
+    "ccss": [
+     "5.G.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 5,
+    "title": "Reflections",
+    "ccss": [
+     "5.G.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "grade": "G5",
+  "gradeName": "Grade 5",
+  "domain": "G",
+  "unitNum": 3,
+  "unit": "Awsaj supplement lessons",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Classify two-dimensional figures in a hierarchy",
+    "ccss": [
+     "5.G.B.3",
+     "5.G.B.4"
+    ],
+    "flag": "committee",
+    "note": "Awsaj-authored lesson \u00b7 closes a Common Core standard White Rose does not teach. Materials need to be made."
+   }
+  ]
+ }
+]

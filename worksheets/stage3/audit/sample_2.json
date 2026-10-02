@@ -1,0 +1,162 @@
+[
+ {
+  "grade": "G2",
+  "unit": "Place Value",
+  "step": 6,
+  "title": "Partition numbers to 1,000",
+  "id": "1AXZvgonxz5rzu8V8WcoTEdbYKpghUyg2",
+  "why": "Write 2-3 digit numbers in expanded word form (grade 3 sheet, but 3-digit numbers fit this lesson)",
+  "catalogue_title": "Grade 3 Math - Place Value - 16 Expanded Word Form Units Place Value - Worksheets.pdf",
+  "sheet_grade": "G3"
+ },
+ {
+  "grade": "G3",
+  "unit": "Decimals A",
+  "step": 4,
+  "title": "Tenths on a number line",
+  "id": "1BnPuJKOY_6wJ8Z0D6bo_QSL74w1AqRGX",
+  "why": "Read tenths number line, hops questions (G4 sheet; grade-above lesson)",
+  "catalogue_title": "Grade 4 Math - Decimals - 15 Reading the Number Line - Worksheets.pdf",
+  "sheet_grade": "G4"
+ },
+ {
+  "grade": "G5",
+  "unit": "Four Operations",
+  "step": 14,
+  "title": "Long division with remainders",
+  "id": "1sA4lyIb7iIEi4hiik5cBlplG1RjUr_DU",
+  "why": "3-digit by 2-digit division with remainder",
+  "catalogue_title": "Grade 5 Math - Division - 26 Standard Division Problems With Remainder - Worksheets.pdf",
+  "sheet_grade": "G5"
+ },
+ {
+  "grade": "G2",
+  "unit": "Place Value",
+  "step": 8,
+  "title": "Hundreds, tens and ones",
+  "id": "12xFFgSfNznZFRgTHUeoYNJ0jrHv-bhR3",
+  "why": "Blocks level 2: write 3-digit number (easier, grade 1)",
+  "catalogue_title": "Grade 1 Math - Place Value - 18 Base Ten Blocks Hundreds, Tens, and Ones Moderate - Worksheets.pdf",
+  "sheet_grade": "G1"
+ },
+ {
+  "grade": "G1",
+  "unit": "Place Value",
+  "step": 14,
+  "title": "Compare numbers",
+  "id": "1dK52qAY44fbFoSR-Jb5SuLQmp0V1DDZi",
+  "why": "Compare 2-digit numbers with word problems",
+  "catalogue_title": "Grade 1 Math - Comparing & Ordering Numbers - 18 Comparing 2-Digit Numbers With Word Problems - Worksheets.pdf",
+  "sheet_grade": "G1"
+ },
+ {
+  "grade": "G5",
+  "unit": "Fractions B",
+  "step": 4,
+  "title": "Divide any fraction by an integer",
+  "id": "11LZkkENoTE1w1EKt-gwPbpmYv1skc_dl",
+  "why": "Divide non-unit fractions by whole numbers, numeric",
+  "catalogue_title": "Grade 5 Math - Fractions - 47 Dividing Fractions by Whole Numbers - Worksheets.pdf",
+  "sheet_grade": "G5"
+ },
+ {
+  "grade": "G4",
+  "unit": "Perimeter and Area",
+  "step": 3,
+  "title": "Perimeter of polygons",
+  "id": "1EPpY5OXWtWAoWW_tFI4vJ3uxuyk6sJbO",
+  "why": "Perimeter of regular polygons, side and count in words",
+  "catalogue_title": "Grade 4 Math - Area & Perimeter - 32 Perimeter of a Polygon Set - Worksheets.pdf",
+  "sheet_grade": "G4"
+ },
+ {
+  "grade": "G5",
+  "unit": "Area, Perimeter and Volume",
+  "step": 7,
+  "title": "Volume - counting cubes",
+  "id": "1AsYjbcg1HxsgER8IFEl6Nc1G6_fgp84N",
+  "why": "Count cubes in solid blocks",
+  "catalogue_title": "Grade 5 Math - Volume - 06 Volume by Counting Cubes Set - Worksheets.pdf",
+  "sheet_grade": "G5"
+ },
+ {
+  "grade": "G5",
+  "unit": "Position and Direction",
+  "step": 1,
+  "title": "The first quadrant",
+  "id": "1wXz9eYyiRx6ye1sm5ufn4XfjHWxBhjw5",
+  "why": "plot points to form shape, first quadrant",
+  "catalogue_title": "Grade 5 Math - Coordinate Plane - 03 Identifying Shapes - Worksheets.pdf",
+  "sheet_grade": "G5"
+ },
+ {
+  "grade": "G3",
+  "unit": "Multiplication and Division A",
+  "step": 8,
+  "title": "7 times-table and division facts",
+  "id": "1L1AkdVKHMUY8m1lNg0oMXwK0zXZ4yjQY",
+  "why": "Forward skip counting by 7s, fill missing (easier, grade 2)",
+  "catalogue_title": "Grade 2 Math - Skip Counting - 129 Counting by 7s Missing Numbers Type 1 - Worksheets.pdf",
+  "sheet_grade": "G2"
+ },
+ {
+  "grade": "G4",
+  "unit": "Multiplication and Division B",
+  "step": 8,
+  "title": "Divide a 4-digit number by a 1-digit number",
+  "id": "1pGFQhs3S7pJmphF0Rvka05zGl3WS_pOq",
+  "why": "4-digit by 1-digit no-remainder word problems",
+  "catalogue_title": "Grade 4 Math - Division - 26 Division with Word Problems Without Remainder - Worksheets.pdf",
+  "sheet_grade": "G4"
+ },
+ {
+  "grade": "G3",
+  "unit": "Statistics",
+  "step": 2,
+  "title": "Interpret pictograms",
+  "id": "1P3_aP8FaZyJYqyjgO91JDYLIXfT8wdjo",
+  "why": "Pictograph key 1 icon=2; max, compare, sum, difference",
+  "catalogue_title": "Grade 3 Math - Data & Graphs - 16 Reading Pictographs - Worksheets.pdf",
+  "sheet_grade": "G3"
+ },
+ {
+  "grade": "G3",
+  "unit": "Place Value",
+  "step": 4,
+  "title": "Thousands",
+  "id": "1XVQw9lRRwjUIuld6Z0PwpA4BK0rSD60U",
+  "why": "4-digit numbers from base-ten blocks, moderate",
+  "catalogue_title": "Grade 1 Math - Place Value - 19 Base Ten Blocks Thousands, Hundreds, Tens, and Ones Moderate - Worksheets.pdf",
+  "sheet_grade": "G1"
+ },
+ {
+  "grade": "G2",
+  "unit": "Place Value",
+  "step": 12,
+  "title": "Compare numbers to 1,000",
+  "id": "14fNrE8PZXwSStN_ZwBaWBK4U9qvW7bGB",
+  "why": "Compare 3-digit numbers, comparison words",
+  "catalogue_title": "Grade 2 Math - Comparing & Ordering Numbers - 06 Comparison Words and Symbols - Worksheets.pdf",
+  "sheet_grade": "G2"
+ },
+ {
+  "grade": "G4",
+  "unit": "Awsaj supplement lessons",
+  "step": 4,
+  "title": "Measurement word problems: distance, time, mass, money and capacity",
+  "id": "1QzR-Dg2FtLbC4-KEvbxTetZ7L9mme1zR",
+  "why": "Capacity change word problems on jugs",
+  "catalogue_title": "Grade 2 Math - Capacity - 11 Calculating Liquid Changes in Measuring Jugs - Worksheets.pdf",
+  "sheet_grade": "G2"
+ },
+ {
+  "grade": "PK",
+  "unit": "Circles & Triangles; Position",
+  "step": 1,
+  "title": "Identify and name circles and triangles",
+  "id": "1IL-xdZHI5BcFmE-Tsf4EAwwI3yMZkWQl",
+  "why": "trace and color triangular sun rays",
+  "catalogue_title": "Kindergarten Math - Geometry - 2D Shapes - 18 Coloring, Tracing, and Drawing Triangles Set - Worksheets.pdf",
+  "sheet_grade": "K"
+ }
+]

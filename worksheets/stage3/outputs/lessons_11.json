@@ -1,0 +1,239 @@
+[
+ {
+  "grade": "K",
+  "gradeName": "Kindergarten",
+  "domain": "MD",
+  "unitNum": 2,
+  "unit": "Mass and Volume",
+  "steps": [
+   {
+    "step": 2,
+    "title": "Heavier and lighter",
+    "ccss": [
+     "K.MD.A.2"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 8 Step 1 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 3,
+    "title": "Measure mass",
+    "ccss": [
+     "K.MD.A.1",
+     "K.MD.A.2"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 4,
+    "title": "Compare mass",
+    "ccss": [
+     "K.MD.A.2"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 5,
+    "title": "Full and empty",
+    "ccss": [
+     "K.MD.A.1"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 8 Step 4 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 6,
+    "title": "Compare volume",
+    "ccss": [
+     "K.MD.A.2"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 8 Step 5 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 8,
+    "title": "Measure capacity",
+    "ccss": [
+     "K.MD.A.1",
+     "K.MD.A.2"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 9,
+    "title": "Compare capacity",
+    "ccss": [
+     "K.MD.A.2"
+    ],
+    "flag": "native",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "grade": "K",
+  "gradeName": "Kindergarten",
+  "domain": "MD",
+  "unitNum": 3,
+  "unit": "Money",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Unitising",
+    "ccss": [
+     "2.MD.C.8"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 13 Step 1 \u2014 added Aug 2026 for full WRM coverage \u2691 ADAPT: Adapt before teaching: swap \u00a3 and p for dollars and cents, and UK notes and coins for US bills and coins (1c, 5c, 10c, 25c, $1, $5, $10)."
+   },
+   {
+    "step": 2,
+    "title": "Recognise coins (US: dollars & cents)",
+    "ccss": [
+     "2.MD.C.8"
+    ],
+    "flag": "above",
+    "note": "Above grade. Money not in K CCSS; Grade 2 content (2.MD.C.8). Supplemental note needed: UK money. \u2691 ADAPT: Adapt before teaching: swap \u00a3 and p for dollars and cents, and UK notes and coins for US bills and coins (1c, 5c, 10c, 25c, $1, $5, $10)."
+   },
+   {
+    "step": 3,
+    "title": "Recognise notes (US: dollars & cents)",
+    "ccss": [
+     "2.MD.C.8"
+    ],
+    "flag": "above",
+    "note": "Above grade. \u2691 ADAPT: Adapt before teaching: swap \u00a3 and p for dollars and cents, and UK notes and coins for US bills and coins (1c, 5c, 10c, 25c, $1, $5, $10)."
+   },
+   {
+    "step": 4,
+    "title": "Count in coins (US: dollars & cents)",
+    "ccss": [
+     "K.CC.A.1",
+     "2.MD.C.8"
+    ],
+    "flag": "above",
+    "note": "Above grade. \u2691 ADAPT: Adapt before teaching: swap \u00a3 and p for dollars and cents, and UK notes and coins for US bills and coins (1c, 5c, 10c, 25c, $1, $5, $10)."
+   }
+  ]
+ },
+ {
+  "grade": "K",
+  "gradeName": "Kindergarten",
+  "domain": "MD",
+  "unitNum": 4,
+  "unit": "Time",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Before and after",
+    "ccss": [
+     "1.MD.B.3"
+    ],
+    "flag": "above",
+    "note": "Above grade. Grade 1 content (1.MD.B.3). Substitute: K.MD.A.1 attribute description."
+   },
+   {
+    "step": 2,
+    "title": "Days of the week",
+    "ccss": [],
+    "flag": "non-ccss",
+    "note": "Calendar literacy; not a CCSS K-5 math standard."
+   },
+   {
+    "step": 3,
+    "title": "Months of the year",
+    "ccss": [],
+    "flag": "non-ccss",
+    "note": "Calendar literacy; not a CCSS K-5 math standard."
+   },
+   {
+    "step": 4,
+    "title": "Hours, minutes and seconds",
+    "ccss": [
+     "1.MD.B.3"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 5,
+    "title": "Tell the time to the hour",
+    "ccss": [
+     "1.MD.B.3"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 6,
+    "title": "Tell the time to the half hour",
+    "ccss": [
+     "1.MD.B.3"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   }
+  ]
+ },
+ {
+  "grade": "K",
+  "gradeName": "Kindergarten",
+  "domain": "G",
+  "unitNum": 1,
+  "unit": "Shape",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Recognise and name 3D shapes",
+    "ccss": [
+     "K.G.A.2",
+     "K.G.A.3"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 2,
+    "title": "Sort 3D shapes",
+    "ccss": [
+     "K.G.A.2",
+     "K.G.B.4"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Recognise and name 2D shapes",
+    "ccss": [
+     "K.G.A.2",
+     "K.G.A.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "Sort 2D shapes",
+    "ccss": [
+     "K.G.A.2",
+     "K.G.B.4"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 5,
+    "title": "Patterns with 2D and 3D shapes",
+    "ccss": [
+     "K.G.A.2"
+    ],
+    "flag": "native",
+    "note": ""
+   }
+  ]
+ }
+]

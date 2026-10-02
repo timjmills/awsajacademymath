@@ -1,0 +1,206 @@
+[
+ {
+  "grade": "K",
+  "gradeName": "Kindergarten",
+  "domain": "OA",
+  "unitNum": 2,
+  "unit": "Addition and Subtraction within 20",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Add by counting on within 20",
+    "ccss": [
+     "K.OA.A.1",
+     "1.OA.C.6"
+    ],
+    "flag": "above",
+    "note": "Above grade. Grade 1 content (1.OA.C.6). Substitute: more K.OA.A.5 practice within 5."
+   },
+   {
+    "step": 2,
+    "title": "Add ones using number bonds",
+    "ccss": [
+     "K.OA.A.1",
+     "1.OA.C.6"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 3,
+    "title": "Find and make number bonds to 20",
+    "ccss": [
+     "K.OA.A.1",
+     "1.OA.C.6"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 4,
+    "title": "Doubles",
+    "ccss": [
+     "K.OA.A.1",
+     "1.OA.C.6"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 5,
+    "title": "Near doubles",
+    "ccss": [
+     "K.OA.A.1",
+     "1.OA.C.6"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 6,
+    "title": "Subtract ones using number bonds",
+    "ccss": [
+     "K.OA.A.1",
+     "1.OA.C.6"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 7,
+    "title": "Subtraction - counting back",
+    "ccss": [
+     "K.OA.A.1",
+     "1.OA.C.5"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 8,
+    "title": "Subtraction - finding the difference",
+    "ccss": [
+     "K.OA.A.1",
+     "1.OA.C.5"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 9,
+    "title": "Related facts",
+    "ccss": [
+     "K.OA.A.1",
+     "1.OA.B.4"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 10,
+    "title": "Missing number problems",
+    "ccss": [
+     "K.OA.A.1",
+     "1.OA.D.8"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   }
+  ]
+ },
+ {
+  "grade": "K",
+  "gradeName": "Kindergarten",
+  "domain": "OA",
+  "unitNum": 3,
+  "unit": "Multiplication and Division",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Count in 2s",
+    "ccss": [
+     "2.OA.C.3"
+    ],
+    "flag": "above",
+    "note": "Above grade. Grade 2 foundations (2.OA.C.4); also Grade 1 introduction."
+   },
+   {
+    "step": 2,
+    "title": "Count in 10s",
+    "ccss": [
+     "K.CC.A.1",
+     "2.NBT.A.2"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 3,
+    "title": "Count in 5s",
+    "ccss": [
+     "2.NBT.A.2"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 4,
+    "title": "Recognise equal groups",
+    "ccss": [
+     "K.OA.A.1",
+     "3.OA.A.1"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 5,
+    "title": "Add equal groups",
+    "ccss": [
+     "K.OA.A.1",
+     "3.OA.A.1"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 6,
+    "title": "Make arrays",
+    "ccss": [
+     "K.OA.A.1",
+     "2.OA.C.4"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 7,
+    "title": "Make doubles",
+    "ccss": [
+     "K.OA.A.1",
+     "1.OA.C.6"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 8,
+    "title": "Make equal groups - grouping",
+    "ccss": [
+     "3.OA.A.2"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 9,
+    "title": "Make equal groups - sharing",
+    "ccss": [
+     "3.OA.A.2"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   }
+  ]
+ }
+]

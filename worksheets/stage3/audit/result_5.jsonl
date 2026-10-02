@@ -1,0 +1,16 @@
+{"id": "12xFFgSfNznZFRgTHUeoYNJ0jrHv-bhR3", "verdict": "good", "saw": "3-digit numbers from base-ten blocks, write the number", "issue": ""}
+{"id": "1aOO_nZoP4I9yUKL0FlwfIqtlo4R1eR-g", "verdict": "weak", "saw": "Subtracting like fractions, mix of proper fractions and mixed numbers, no regrouping seen on p1", "issue": "Only about half are mixed numbers and none need borrowing from the whole"}
+{"id": "1cdNjT-SqO158Q_pu9kVGfVRobnFfaeVj", "verdict": "good", "saw": "2-3 digit column addition with regrouping plus 2 word problems", "issue": ""}
+{"id": "1VfFbLXJHxolc6iq0ULlBekjYJ26QoU9-", "verdict": "good", "saw": "Round 2-digit numbers to nearest ten, matching chicks to hens", "issue": ""}
+{"id": "1OHYLwe9QM8SmhhXLSYX7kfxcUWj6tT8Q", "verdict": "weak", "saw": "US bills and coins in purses, cut and glue to price tags", "issue": "Cut-and-glue only, totals above $20 with many bills; reads as an activity"}
+{"id": "1wImhdjFN4MLrhrkQeXHZGPZZ_GJdY1PC", "verdict": "weak", "saw": "Number lines with 5-6 digit numbers close together, left/right questions and compare", "issue": "Tick-labelled lines only, no scaling or placing numbers to 1,000,000"}
+{"id": "1AMee5_2ZvNVsLGZyAnMiJPqTu7lgU2-P", "verdict": "good", "saw": "Order numbers 1-20 least to greatest and greatest to least on camel boxes", "issue": "Kindergarten level"}
+{"id": "17NwTb11N8Ol7qEN4740zCv8KLevnj7gC", "verdict": "good", "saw": "Complete factor-pair multiplication sentences for 36, 12, 28, 45, own for 50", "issue": ""}
+{"id": "1ZxtX8pU1OKEBNGl-JRirW6vgW8ppxy2f", "verdict": "good", "saw": "16 conversions among ft, yd, mi with whole numbers", "issue": ""}
+{"id": "1m3L9AGZ_eE9WVontpAvydp1Fl7gEyCHI", "verdict": "good", "saw": "12 mixed numbers to improper fractions, no models", "issue": ""}
+{"id": "1W_X1i2Sk_TuxLOqW9Rt1KStH5krHLrSO", "verdict": "good", "saw": "Number words to numerals, 1-3 digits, 15 items", "issue": ""}
+{"id": "16xNBt4mcMj6JBPVykec9vp4ugDrrkyNr", "verdict": "good", "saw": "Read text only (image not rendered): 15 one-step add/subtract word problems, whole numbers", "issue": "Title says Integers but problems are whole numbers"}
+{"id": "1dbP5-q-5x4m32T0ggQhJdl8ftecTDRz6", "verdict": "good", "saw": "Skip count nickels by 5s, write total in cents, 6 items", "issue": ""}
+{"id": "1cmuQ_ahV0Ct-Pu6CcSL4AM-M0UHY8D37", "verdict": "good", "saw": "Convert 12-hour to 24-hour and back, 5 each", "issue": ""}
+{"id": "18gIg3EexXKrJBQCQBq7zdNLLrefeZN6E", "verdict": "good", "saw": "Count accessories in picture and draw bar graph on blank axes", "issue": ""}
+{"id": "1Xm-SaUNqEdh-NSrd2w_OgcVumnpncgAS", "verdict": "good", "saw": "Fill missing multiples of 10 in chart up to 500", "issue": ""}

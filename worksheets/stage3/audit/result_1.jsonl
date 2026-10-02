@@ -1,0 +1,16 @@
+{"id": "1yF0b1VaL7X6IQXRlCQQ0oJo_5KOje5qW", "verdict": "weak", "saw": "20 problems n/2 for even n up to 40; only the 2s fact, 3 pages", "issue": "lesson covers 2, 4 and 8 tables; sheet only divides by 2"}
+{"id": "1CUB1RTUFizQPcG12VoWqrqfFEYf-sadc", "verdict": "good", "saw": "12 abacus pictures O/T/H, write the 3-digit number", "issue": ""}
+{"id": "1teTs9sHRm7O65D6lHWbX_ar3xEEMXCbA", "verdict": "good", "saw": "12 two-digit abacus (ones/tens), write the number", "issue": ""}
+{"id": "1i0QV1L7CyVVJXUQaUz97mvgNBO7IPMg9", "verdict": "weak", "saw": "Skip count by 10s on number lines in 260-460, some crossing 400", "issue": "counting on a line, not adding 10s as calculations"}
+{"id": "1Hk5Pn3PKzdiHb-OCWuavw-4CNyFCRF6R", "verdict": "good", "saw": "Plot points, find length of horizontal/vertical segment, plus word-style questions on a grid", "issue": ""}
+{"id": "16xAcMVgodGDlldtk9FBeDYR5Q1WW_IcA", "verdict": "good", "saw": "12 shapes to reflect across dotted mirror lines (horizontal, vertical, diagonal) on grids", "issue": "some diagonal lines harder"}
+{"id": "14B64U5_VKJ9qH_t7JIJhTNJOdRWgXcQg", "verdict": "good", "saw": "Draw angles 60,112,154,81,115,36 with printed protractors", "issue": ""}
+{"id": "1CCB93yecauXHqFZHYpJup2Z--yIxgzDK", "verdict": "good", "saw": "Count by 3s, fill missing numbers in rows, values 63-144", "issue": ""}
+{"id": "1x9FmupMyYvV6Q8WJufLyTZSg6sYysONi", "verdict": "wrong", "saw": "Blank grid with Acute/Right/Obtuse rows to cut and glue real-life pictures", "issue": "cut-and-glue only, no calculation/practice items"}
+{"id": "1nAkKN440FzirUt9O3kt3MgT5tJ6YEPtS", "verdict": "good", "saw": "5 decimal add/subtract word problems, US dollars, inches, gallons", "issue": ""}
+{"id": "1eJ_mPouGj6W5TrDB45-bSy_nT7flRrQl", "verdict": "good", "saw": "Write 4-6 digit numbers in expanded form and expanded to standard form", "issue": ""}
+{"id": "1oNynxy3EWAqovqoKxqKWO9L_k_JSD1-J", "verdict": "good", "saw": "Draw angles 70,125,155,30,65,140 with protractors", "issue": ""}
+{"id": "1sZhnjI9q-rul1wBz74U5cpwiToglBl4W", "verdict": "good", "saw": "Order sets of five 6-digit numbers with < or > chains", "issue": ""}
+{"id": "1q2KojafzM5kk09fp4gjUS3bNPhcb_CDD", "verdict": "weak", "saw": "Tally lists of items into frequency tables, then simple questions", "issue": "builds tables from raw data rather than reading given tables"}
+{"id": "1ZqmBaj49zgqcbU6122Z9ko9QWnohZNmL", "verdict": "weak", "saw": "Number lines with missing integers, steps of 2-12, range -51 to 40", "issue": "grade 6 level; larger steps/range than Y4 negatives"}
+{"id": "1-pODww_PDkwdNqebeKN5-qO2DUzxkQki", "verdict": "good", "saw": "Count base-10 blocks and write 2-digit plus 1-digit equations", "issue": ""}

@@ -1,0 +1,130 @@
+[
+ {
+  "grade": "G3",
+  "gradeName": "Grade 3",
+  "domain": "OA",
+  "unitNum": 1,
+  "unit": "Multiplication and Division A",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Multiples of 3",
+    "ccss": [
+     "3.OA.C.7",
+     "4.OA.B.4"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 2,
+    "title": "Multiply and divide by 6",
+    "ccss": [
+     "3.OA.B.5",
+     "3.OA.C.7"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "6 times-table and division facts",
+    "ccss": [
+     "3.OA.B.6",
+     "3.OA.C.7"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "Multiply and divide by 9",
+    "ccss": [
+     "3.OA.B.5",
+     "3.OA.C.7"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 5,
+    "title": "9 times-table and division facts",
+    "ccss": [
+     "3.OA.B.6",
+     "3.OA.C.7"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 6,
+    "title": "The 3, 6 and 9 times-tables",
+    "ccss": [
+     "3.OA.C.7",
+     "3.OA.D.9"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 7,
+    "title": "Multiply and divide by 7",
+    "ccss": [
+     "3.OA.B.5",
+     "3.OA.C.7"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 8,
+    "title": "7 times-table and division facts",
+    "ccss": [
+     "3.OA.B.6",
+     "3.OA.C.7"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 9,
+    "title": "11 times-table and division facts",
+    "ccss": [
+     "3.OA.B.6",
+     "3.OA.C.7"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 4 Step 9 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 10,
+    "title": "12 times-table and division facts",
+    "ccss": [
+     "3.OA.B.6",
+     "3.OA.C.7"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 4 Step 10 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 11,
+    "title": "Multiply three numbers",
+    "ccss": [
+     "3.OA.B.5"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 4 Step 13 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 12,
+    "title": "Patterns on the multiplication table",
+    "ccss": [
+     "3.OA.D.9",
+     "3.OA.C.7"
+    ],
+    "flag": "committee",
+    "note": "Awsaj-authored lesson \u00b7 closes a Common Core standard White Rose does not teach. Materials need to be made."
+   }
+  ]
+ }
+]

@@ -1,0 +1,227 @@
+[
+ {
+  "grade": "G4",
+  "gradeName": "Grade 4",
+  "domain": "NBT",
+  "unitNum": 5,
+  "unit": "Negative Numbers",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Understand negative numbers",
+    "ccss": [
+     "6.NS.C.6"
+    ],
+    "flag": "native",
+    "note": "Negative numbers are Grade 6 CCSS (6.NS.C). Flag as above grade; may be relocated to G6. | Beyond K-5 CCSS (covered in G6 6.NS.C.5); optional preview."
+   },
+   {
+    "step": 2,
+    "title": "Count through zero in 1s",
+    "ccss": [
+     "6.NS.C.6"
+    ],
+    "flag": "native",
+    "note": "Beyond K-5 CCSS (part of 6.NS.C.5 negatives); optional preview."
+   },
+   {
+    "step": 3,
+    "title": "Count through zero in multiples",
+    "ccss": [
+     "6.NS.C.6"
+    ],
+    "flag": "native",
+    "note": "Beyond K-5 CCSS (part of 6.NS.C.5 negatives); optional preview."
+   },
+   {
+    "step": 4,
+    "title": "Compare and order negative numbers",
+    "ccss": [
+     "6.NS.C.7"
+    ],
+    "flag": "native",
+    "note": "Beyond K-5 CCSS (covered in G6 6.NS.C.5); optional preview."
+   },
+   {
+    "step": 5,
+    "title": "Find the difference",
+    "ccss": [
+     "6.NS.C.7"
+    ],
+    "flag": "non-ccss",
+    "note": "(needs manual review)."
+   }
+  ]
+ },
+ {
+  "grade": "G4",
+  "gradeName": "Grade 4",
+  "domain": "NF",
+  "unitNum": 1,
+  "unit": "Fractions A",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Recognise equivalent fractions",
+    "ccss": [
+     "4.NF.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Find fractions equivalent to a unit fraction",
+    "ccss": [
+     "4.NF.A.1"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 4 Step 1 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 4,
+    "title": "Find fractions equivalent to a non-unit fraction",
+    "ccss": [
+     "4.NF.A.1"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 4 Step 2 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 5,
+    "title": "Convert improper fractions to mixed numbers",
+    "ccss": [
+     "4.NF.B.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 6,
+    "title": "Convert mixed numbers to improper fractions",
+    "ccss": [
+     "4.NF.B.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 7,
+    "title": "Compare fractions less than 1",
+    "ccss": [
+     "4.NF.A.2"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 8,
+    "title": "Order fractions less than 1",
+    "ccss": [
+     "4.NF.A.2"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 9,
+    "title": "Compare and order fractions greater than 1",
+    "ccss": [
+     "4.NF.A.2"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 10,
+    "title": "Add and subtract fractions with the same denominator",
+    "ccss": [
+     "4.NF.B.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 11,
+    "title": "Add fractions within 1",
+    "ccss": [
+     "4.NF.B.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 12,
+    "title": "Add fractions with total greater than 1",
+    "ccss": [
+     "4.NF.B.3"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 4 Step 11 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 13,
+    "title": "Add to a mixed number",
+    "ccss": [
+     "4.NF.B.3"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 4 Step 12 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 14,
+    "title": "Add two or more fractions",
+    "ccss": [
+     "4.NF.B.3"
+    ],
+    "flag": "native",
+    "note": "renamed to the White Rose step title (was 'Add 3 or more fractions')"
+   },
+   {
+    "step": 16,
+    "title": "Add two mixed numbers",
+    "ccss": [
+     "4.NF.B.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 17,
+    "title": "Subtract fractions",
+    "ccss": [
+     "4.NF.B.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 18,
+    "title": "Subtract two mixed numbers",
+    "ccss": [
+     "4.NF.B.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 19,
+    "title": "Subtract from a mixed number - breaking the whole",
+    "ccss": [
+     "4.NF.B.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 20,
+    "title": "Subtract from a mixed number",
+    "ccss": [
+     "4.NF.B.3"
+    ],
+    "flag": "native",
+    "note": ""
+   }
+  ]
+ }
+]

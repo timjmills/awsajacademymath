@@ -1,0 +1,159 @@
+[
+ {
+  "grade": "K",
+  "gradeName": "Kindergarten",
+  "domain": "CC",
+  "unitNum": 1,
+  "unit": "Place Value within 10",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Sort objects",
+    "ccss": [
+     "K.MD.B.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 2,
+    "title": "Count objects",
+    "ccss": [
+     "K.CC.B.5"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Count objects from a larger group",
+    "ccss": [
+     "K.CC.B.5"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "Represent objects",
+    "ccss": [
+     "K.CC.A.3",
+     "K.CC.B.4"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 5,
+    "title": "Recognise numbers as words",
+    "ccss": [
+     "K.CC.A.3",
+     "2.NBT.A.3"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 1 Step 5 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 6,
+    "title": "Verbal counting patterns",
+    "ccss": [
+     "K.CC.B.4"
+    ],
+    "flag": "native",
+    "note": "renamed to the White Rose step title (was 'Recognise the pattern of the counting system')"
+   },
+   {
+    "step": 7,
+    "title": "Count on from any number",
+    "ccss": [
+     "K.CC.A.2"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 8,
+    "title": "1 more",
+    "ccss": [
+     "K.CC.B.4"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 9,
+    "title": "Count backwards within 10",
+    "ccss": [
+     "K.CC.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 10,
+    "title": "1 less",
+    "ccss": [
+     "K.CC.B.4"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 11,
+    "title": "Compare groups by matching",
+    "ccss": [
+     "K.CC.C.6"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 12,
+    "title": "Fewer, more, same",
+    "ccss": [
+     "K.CC.C.6"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 13,
+    "title": "Less than, greater than, equal to",
+    "ccss": [
+     "K.CC.C.6",
+     "K.CC.C.7"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 14,
+    "title": "Compare numbers",
+    "ccss": [
+     "K.CC.C.7"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 15,
+    "title": "Order objects and numbers",
+    "ccss": [
+     "K.CC.C.6",
+     "K.CC.C.7"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 16,
+    "title": "The number line",
+    "ccss": [
+     "K.CC.A.2"
+    ],
+    "flag": "native",
+    "note": ""
+   }
+  ]
+ }
+]

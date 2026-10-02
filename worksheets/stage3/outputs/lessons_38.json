@@ -1,0 +1,228 @@
+[
+ {
+  "grade": "G4",
+  "gradeName": "Grade 4",
+  "domain": "NF",
+  "unitNum": 2,
+  "unit": "Fractions B",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Multiply a unit fraction by an integer",
+    "ccss": [
+     "4.NF.B.4"
+    ],
+    "flag": "native",
+    "note": "Multiplying fractions by fractions is Grade 5 (5.NF.B.4). Mult by whole numbers is Grade 4 (4.NF.B.4)."
+   },
+   {
+    "step": 2,
+    "title": "Multiply a non-unit fraction by an integer",
+    "ccss": [
+     "4.NF.B.4"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Multiply a mixed number by an integer",
+    "ccss": [
+     "4.NF.B.4"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "Calculate a fraction of a quantity",
+    "ccss": [
+     "4.NF.B.4"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 5,
+    "title": "Fraction of an amount",
+    "ccss": [
+     "4.NF.B.4"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 6,
+    "title": "Find the whole",
+    "ccss": [
+     "4.NF.B.4"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 7,
+    "title": "Use fractions as operators",
+    "ccss": [
+     "4.NF.B.4"
+    ],
+    "flag": "native",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "grade": "G4",
+  "gradeName": "Grade 4",
+  "domain": "NF",
+  "unitNum": 3,
+  "unit": "Decimals and Percentages",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Decimals up to 2 decimal places",
+    "ccss": [
+     "4.NF.C.6"
+    ],
+    "flag": "native",
+    "note": "Percentages are Grade 6 CCSS (6.RP.A.3.C). Decimals to hundredths is Grade 4 (4.NF.C); thousandths is Grade 5 (5.NBT.A.3)."
+   },
+   {
+    "step": 2,
+    "title": "Equivalent fractions and decimals (tenths)",
+    "ccss": [
+     "4.NF.C.6"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Equivalent fractions and decimals (hundredths)",
+    "ccss": [
+     "4.NF.C.6"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "Equivalent fractions and decimals",
+    "ccss": [
+     "4.NF.C.6"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 5,
+    "title": "Thousandths as fractions",
+    "ccss": [
+     "4.NF.C.6",
+     "5.NBT.A.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 6,
+    "title": "Thousandths as decimals",
+    "ccss": [
+     "4.NBT.A.1",
+     "5.NBT.A.3"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 7,
+    "title": "Thousandths on a place value chart",
+    "ccss": [
+     "4.NBT.A.1",
+     "5.NBT.A.3"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 8,
+    "title": "Order and compare decimals (same number of decimal places)",
+    "ccss": [
+     "4.NF.C.7",
+     "5.NBT.A.3"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 9,
+    "title": "Order and compare any decimals with up to 3 decimal places",
+    "ccss": [
+     "4.NF.C.7",
+     "5.NBT.A.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 10,
+    "title": "Round to the nearest whole number",
+    "ccss": [
+     "5.NBT.A.4"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 11,
+    "title": "Round to 1 decimal place",
+    "ccss": [
+     "5.NBT.A.4"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 12,
+    "title": "Understand percentages",
+    "ccss": [
+     "4.NF.C.6",
+     "6.RP.A.3"
+    ],
+    "flag": "native",
+    "note": "Beyond K-5 CCSS (covered in G6 6.RP); optional preview."
+   },
+   {
+    "step": 13,
+    "title": "Percentages as decimals",
+    "ccss": [
+     "4.NF.C.6",
+     "6.RP.A.3"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 7 Step 14 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 14,
+    "title": "Percentages as fractions",
+    "ccss": [
+     "4.NF.C.6",
+     "6.RP.A.3"
+    ],
+    "flag": "native",
+    "note": "Beyond K-5 CCSS (covered in G6 6.RP); optional preview."
+   },
+   {
+    "step": 15,
+    "title": "Equivalent fractions, decimals and percentages",
+    "ccss": [
+     "4.NF.C.5",
+     "4.NF.C.6",
+     "6.RP.A.3"
+    ],
+    "flag": "native",
+    "note": "Beyond K-5 CCSS (covered in G6 6.RP); optional preview."
+   }
+  ]
+ }
+]

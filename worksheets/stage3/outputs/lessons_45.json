@@ -1,0 +1,263 @@
+[
+ {
+  "grade": "G5",
+  "gradeName": "Grade 5",
+  "domain": "NF",
+  "unitNum": 3,
+  "unit": "Fractions, Decimals and Percentages",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Decimal and fraction equivalents",
+    "ccss": [
+     "5.NF.B.3",
+     "4.NF.C.6"
+    ],
+    "flag": "non-ccss",
+    "note": "Percentages are Grade 6 CCSS; include as above-grade extra. | (needs manual review)."
+   },
+   {
+    "step": 2,
+    "title": "Fractions as division",
+    "ccss": [
+     "5.NF.B.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Understand percentages",
+    "ccss": [
+     "6.RP.A.3"
+    ],
+    "flag": "native",
+    "note": "Beyond K-5 CCSS (covered in G6 6.RP); optional preview."
+   },
+   {
+    "step": 4,
+    "title": "Fractions to percentages",
+    "ccss": [
+     "6.RP.A.3"
+    ],
+    "flag": "native",
+    "note": "Beyond K-5 CCSS (covered in G6 6.RP); optional preview."
+   },
+   {
+    "step": 5,
+    "title": "Equivalent fractions, decimals and percentages",
+    "ccss": [
+     "4.NF.C.6",
+     "6.RP.A.3"
+    ],
+    "flag": "native",
+    "note": "Beyond K-5 CCSS (covered in G6 6.RP); optional preview."
+   },
+   {
+    "step": 6,
+    "title": "Order fractions, decimals and percentages",
+    "ccss": [
+     "4.NF.A.2",
+     "6.RP.A.3"
+    ],
+    "flag": "native",
+    "note": "Beyond K-5 CCSS (covered in G6 6.RP); optional preview."
+   },
+   {
+    "step": 7,
+    "title": "Percentage of an amount \u2013 one step",
+    "ccss": [
+     "6.RP.A.3"
+    ],
+    "flag": "native",
+    "note": "Beyond K-5 CCSS (covered in G6 6.RP); optional preview."
+   },
+   {
+    "step": 8,
+    "title": "Percentage of an amount \u2013 multi-step",
+    "ccss": [
+     "6.RP.A.3"
+    ],
+    "flag": "native",
+    "note": "Beyond K-5 CCSS (covered in G6 6.RP); optional preview."
+   },
+   {
+    "step": 9,
+    "title": "Percentages - missing values",
+    "ccss": [
+     "6.RP.A.3"
+    ],
+    "flag": "native",
+    "note": "Beyond K-5 CCSS (covered in G6 6.RP); optional preview."
+   }
+  ]
+ },
+ {
+  "grade": "G5",
+  "gradeName": "Grade 5",
+  "domain": "NF",
+  "unitNum": 4,
+  "unit": "Awsaj supplement lessons",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Multiplication as scaling",
+    "ccss": [
+     "5.NF.B.5",
+     "5.NF.B.5.A",
+     "5.NF.B.5.B"
+    ],
+    "flag": "committee",
+    "note": "Awsaj-authored lesson \u00b7 closes a Common Core standard White Rose does not teach. Materials need to be made."
+   },
+   {
+    "step": 2,
+    "title": "Divide a whole number by a unit fraction",
+    "ccss": [
+     "5.NF.B.7",
+     "5.NF.B.7.B",
+     "5.NF.B.7.C"
+    ],
+    "flag": "committee",
+    "note": "Awsaj-authored lesson \u00b7 closes a Common Core standard White Rose does not teach. Materials need to be made."
+   }
+  ]
+ },
+ {
+  "grade": "G5",
+  "gradeName": "Grade 5",
+  "domain": "MD",
+  "unitNum": 1,
+  "unit": "Converting Units",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Convert metric measures",
+    "ccss": [
+     "5.MD.A.1",
+     "4.MD.A.1"
+    ],
+    "flag": "native",
+    "note": "WR uses metric. US customary units (inches, feet, yards, ounces, pounds, fluid ounces, cups, pints, quarts, gallons) needed supplementally for 5.MD.A.1."
+   },
+   {
+    "step": 2,
+    "title": "Metric measures",
+    "ccss": [
+     "5.MD.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Calculate with metric measures",
+    "ccss": [
+     "5.MD.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "Miles and kilometres",
+    "ccss": [
+     "5.MD.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 5,
+    "title": "Imperial measures",
+    "ccss": [
+     "5.MD.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "grade": "G5",
+  "gradeName": "Grade 5",
+  "domain": "MD",
+  "unitNum": 2,
+  "unit": "Area, Perimeter and Volume",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Area and perimeter",
+    "ccss": [
+     "3.MD.D.8",
+     "4.MD.A.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 2,
+    "title": "Area of a triangle (counting squares)",
+    "ccss": [
+     "3.MD.C.6"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Area of a right-angled triangle",
+    "ccss": [
+     "3.MD.C.7"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "Area of any triangle",
+    "ccss": [
+     "3.MD.C.7"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 5,
+    "title": "Area of a parallelogram",
+    "ccss": [
+     "3.MD.C.7"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 6,
+    "title": "Shapes - same area",
+    "ccss": [
+     "3.MD.D.8"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 7,
+    "title": "Volume - counting cubes",
+    "ccss": [
+     "5.MD.C.4"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 8,
+    "title": "Volume of a cuboid",
+    "ccss": [
+     "5.MD.C.5"
+    ],
+    "flag": "native",
+    "note": ""
+   }
+  ]
+ }
+]

@@ -12,7 +12,8 @@ A school's maths website lists every lesson ("small step") of its curriculum. Te
 For every pick give a short `why` (≤15 words) naming the specific match (e.g. "3-digit subtraction with regrouping, column method").
 
 ## Rules
-- Only use worksheets whose `status` is True/true/visual/answer key. Never use status False (unverified).
+- PK lessons: PK is the earliest level, so leave `prereq` empty for them (nothing is easier). Kindergarten sheets may be used as `core` for PK lessons only if clearly gentle enough.
+- Only use worksheets whose `status` is text, visual or answer key. Never use status False (unverified).
 - Never use: non-maths sheets (word searches, reading, crafts), blank templates, or pure decoration. Reference charts only if the lesson is directly about that content, and mark why "reference chart".
 - Money lessons: US currency only unless the lesson is explicitly not US money. Flag customary vs metric where the lesson specifies units.
 - Level check: reject sheets whose numbers or methods are clearly beyond or below the lesson (e.g. a Grade 2 lesson on 2-digit addition should not get 4-digit sheets; a lesson on "add ones" should not get regrouping sheets).
@@ -21,9 +22,10 @@ For every pick give a short `why` (≤15 words) naming the specific match (e.g. 
 - Search broadly: check the lesson's grade and the grades either side (catalogue grade K–G6), by topic, ccss, and keywords in `does`. Kindergarten sheets serve PK lessons.
 
 ## Output
+Copy `grade`, `unitNum`, `unit`, `step` and `title` EXACTLY from the input for each lesson — never renumber units (an earlier run renumbered them and had to be repaired).
 Write one JSON object per lesson (one per line) to `SCRATCH/ws/match/out_CHUNK.jsonl`:
 `{"grade":"G3","unitNum":2,"unit":"...","step":4,"title":"...","core":[{"id":"...","why":"..."}],"prereq":[{"id":"...","skill":"...","why":"..."}],"note":"anything the reviewer should know"}`
-Append as you go. Temporary files go only under `SCRATCH/ws/tmp_mCHUNK/`. When done, check every lesson in your input has exactly one line. Reply briefly: lessons done, total core picks, total prereq picks, lessons with zero core matches.
+Append as you go. Do not download or open PDFs — work from the catalogue only. Temporary files go only under `SCRATCH/ws/tmp_mCHUNK/`. When done, check every lesson in your input has exactly one line. Reply briefly: lessons done, total core picks, total prereq picks, lessons with zero core matches.
 
 ## RESUMING
 If `SCRATCH/ws/match/out_CHUNK.jsonl` already exists, skip lessons already in it and append only the missing ones.

@@ -51,3 +51,9 @@ Every row links to the worksheet and its answer key in Drive. The `notes` column
 ## Tools
 - `tools/render.py` renders a downloaded Drive PDF to page images.
 - `tools/merge.py` shows how the catalogue was merged.
+
+## Stage 3 (matching) — done
+All 934 lessons matched (3,072 core + 1,374 prerequisite picks; 174 lessons have no suitable catalogue sheet and are listed in the Gaps sheet).
+Pipeline per chunk: matcher → independent checker (opens sheets, rejects bad fits, searches for misses) → recovery pass (restores wrongly rejected sheets, fills gaps) → automated checks (`tools/check_match.py`).
+A random audit of 96 core picks (re-opened by 6 independent agents) found 75 good, 17 weak fit, 2 wrong (removed), 2 unopenable.
+Review file for the committee: `Worksheet_Matches_Review.xlsx`. Final data: `stage3/stage3_final.json`.

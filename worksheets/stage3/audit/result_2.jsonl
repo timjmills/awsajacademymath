@@ -1,0 +1,16 @@
+{"id": "1AXZvgonxz5rzu8V8WcoTEdbYKpghUyg2", "verdict": "good", "saw": "Expanded form units: write 2-3 digit numbers as hundreds+tens+ones, 12 items", "issue": ""}
+{"id": "1BnPuJKOY_6wJ8Z0D6bo_QSL74w1AqRGX", "verdict": "good", "saw": "Tenths number line 9 to 10.8; move left/right, hops, increment", "issue": ""}
+{"id": "1sA4lyIb7iIEi4hiik5cBlplG1RjUr_DU", "verdict": "good", "saw": "12 long-division problems, 2-digit divisors into 3-digit, with remainder", "issue": ""}
+{"id": "12xFFgSfNznZFRgTHUeoYNJ0jrHv-bhR3", "verdict": "good", "saw": "Base ten blocks, write the 3-digit number, 6 items", "issue": ""}
+{"id": "1dK52qAY44fbFoSR-Jb5SuLQmp0V1DDZi", "verdict": "good", "saw": "Compare 2-digit numbers with >,<,= plus word problems (text read; clean)", "issue": ""}
+{"id": "11LZkkENoTE1w1EKt-gwPbpmYv1skc_dl", "verdict": "good", "saw": "Divide fractions (e.g. 18/5 / 2, 4/5 / 12) by whole numbers, numeric and worded", "issue": ""}
+{"id": "1EPpY5OXWtWAoWW_tFI4vJ3uxuyk6sJbO", "verdict": "good", "saw": "Perimeter of regular polygons (side and count) plus irregular polygons", "issue": ""}
+{"id": "1AsYjbcg1HxsgER8IFEl6Nc1G6_fgp84N", "verdict": "good", "saw": "Count unit cubes in 9 bent single-layer solid blocks, find volume", "issue": ""}
+{"id": "1wXz9eYyiRx6ye1sm5ufn4XfjHWxBhjw5", "verdict": "good", "saw": "Plot given points on first-quadrant grids, connect, name the shape", "issue": ""}
+{"id": "1L1AkdVKHMUY8m1lNg0oMXwK0zXZ4yjQY", "verdict": "weak", "saw": "Skip counting by 7s, fill missing numbers on fish, up to 112", "issue": "Counting only; lesson also covers 7x table and division facts"}
+{"id": "1pGFQhs3S7pJmphF0Rvka05zGl3WS_pOq", "verdict": "good", "saw": "6 four-digit by 1-digit divisions (no remainder) plus 2 word problems", "issue": ""}
+{"id": "1P3_aP8FaZyJYqyjgO91JDYLIXfT8wdjo", "verdict": "good", "saw": "Pictograph of juices, questions on most popular, counts, fewer than 25", "issue": "Key on page seen is 1 icon = 8 people, not 2 as in why; still fine"}
+{"id": "1XVQw9lRRwjUIuld6Z0PwpA4BK0rSD60U", "verdict": "good", "saw": "Base ten blocks with thousands cubes, write 4-digit number", "issue": ""}
+{"id": "14fNrE8PZXwSStN_ZwBaWBK4U9qvW7bGB", "verdict": "good", "saw": "Comparing 3-digit numbers with >,<,= and words", "issue": ""}
+{"id": "1QzR-Dg2FtLbC4-KEvbxTetZ7L9mme1zR", "verdict": "weak", "saw": "Measuring jugs in mL: fill to a level, pour out, add 400 mL, read new level", "issue": "Jug-reading/change questions, not worded problems; capacity only, not other measures"}
+{"id": "1IL-xdZHI5BcFmE-Tsf4EAwwI3yMZkWQl", "verdict": "unopened", "saw": "Text garbled; download returned inline, not saved, could not render", "issue": "Could not view"}

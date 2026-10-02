@@ -1,0 +1,250 @@
+[
+ {
+  "grade": "G1",
+  "gradeName": "Grade 1",
+  "domain": "MD",
+  "unitNum": 3,
+  "unit": "Mass, Capacity and Temperature",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Compare mass",
+    "ccss": [
+     "K.MD.A.2"
+    ],
+    "flag": "native",
+    "note": "Capacity/temperature beyond CCSS G1. Substitute: more 1.MD.A length practice."
+   },
+   {
+    "step": 2,
+    "title": "Four operations with mass",
+    "ccss": [
+     "3.MD.A.2"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 7 Step 4 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 3,
+    "title": "Measure in grams",
+    "ccss": [
+     "3.MD.A.2"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 4,
+    "title": "Measure in kilograms",
+    "ccss": [
+     "3.MD.A.2"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 5,
+    "title": "Compare volume and capacity",
+    "ccss": [
+     "K.MD.A.2",
+     "3.MD.A.2"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 6,
+    "title": "Four operations with volume and capacity",
+    "ccss": [
+     "3.MD.A.2"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 7 Step 8 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 7,
+    "title": "Measure in millilitres",
+    "ccss": [
+     "3.MD.A.2"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 8,
+    "title": "Measure in litres",
+    "ccss": [
+     "3.MD.A.2"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 9,
+    "title": "Temperature",
+    "ccss": [],
+    "flag": "non-ccss",
+    "note": "(needs manual review). \u2691 ADAPT: Adapt before teaching: read thermometers in degrees Fahrenheit alongside Celsius."
+   }
+  ]
+ },
+ {
+  "grade": "G1",
+  "gradeName": "Grade 1",
+  "domain": "MD",
+  "unitNum": 4,
+  "unit": "Time",
+  "steps": [
+   {
+    "step": 1,
+    "title": "O'clock and half past",
+    "ccss": [
+     "1.MD.B.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 2,
+    "title": "Quarter past and quarter to",
+    "ccss": [
+     "2.MD.C.7"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 3,
+    "title": "Tell time past the hour",
+    "ccss": [
+     "2.MD.C.7"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 9 Step 3 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 4,
+    "title": "Tell time to the hour",
+    "ccss": [
+     "2.MD.C.7"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 9 Step 4 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 5,
+    "title": "Tell the time to 5 minutes",
+    "ccss": [
+     "2.MD.C.7"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 6,
+    "title": "Minutes in an hour",
+    "ccss": [
+     "1.MD.B.3",
+     "4.MD.A.1"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 9 Step 6 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 7,
+    "title": "Hours in a day",
+    "ccss": [
+     "1.MD.B.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 8,
+    "title": "Hours and minutes - use start and end times",
+    "ccss": [
+     "3.MD.A.1"
+    ],
+    "flag": "above",
+    "note": "Above grade. \u00b7 renamed to the White Rose step title (was 'Find durations of time')"
+   }
+  ]
+ },
+ {
+  "grade": "G1",
+  "gradeName": "Grade 1",
+  "domain": "MD",
+  "unitNum": 5,
+  "unit": "Statistics",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Make tally charts",
+    "ccss": [
+     "1.MD.C.4"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 2,
+    "title": "Tables",
+    "ccss": [
+     "1.MD.C.4"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 10 Step 2 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 3,
+    "title": "Draw pictograms (1-1)",
+    "ccss": [
+     "1.MD.C.4",
+     "2.MD.D.10"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 4,
+    "title": "Interpret pictograms (1-1)",
+    "ccss": [
+     "1.MD.C.4",
+     "2.MD.D.10"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 5,
+    "title": "Draw pictograms (2, 5 and 10)",
+    "ccss": [
+     "2.MD.D.10",
+     "3.MD.B.3"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 6,
+    "title": "Interpret pictograms (2, 5 and 10)",
+    "ccss": [
+     "2.MD.D.10",
+     "3.MD.B.3"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 7,
+    "title": "Block diagrams",
+    "ccss": [
+     "1.MD.C.4",
+     "2.MD.D.10"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   }
+  ]
+ }
+]

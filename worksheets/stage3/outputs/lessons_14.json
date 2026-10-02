@@ -1,0 +1,175 @@
+[
+ {
+  "grade": "G1",
+  "gradeName": "Grade 1",
+  "domain": "OA",
+  "unitNum": 2,
+  "unit": "Multiplication and Division",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Recognise equal groups",
+    "ccss": [
+     "3.OA.A.1"
+    ],
+    "flag": "above",
+    "note": "Above grade. Multiplication/division is Grade 2/3 CCSS. Substitute: 1.OA.C.6 fluency."
+   },
+   {
+    "step": 2,
+    "title": "Make equal groups",
+    "ccss": [
+     "3.OA.A.1"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 3,
+    "title": "Add equal groups",
+    "ccss": [
+     "2.OA.C.4",
+     "3.OA.A.1"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 4,
+    "title": "Introduce the multiplication symbol",
+    "ccss": [
+     "3.OA.A.1"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 5,
+    "title": "Multiplication sentences",
+    "ccss": [
+     "3.OA.A.1"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 6,
+    "title": "Use arrays",
+    "ccss": [
+     "2.OA.C.4",
+     "3.OA.A.1"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 7,
+    "title": "Make equal groups \u2013 grouping",
+    "ccss": [
+     "3.OA.A.2"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 5 Step 7 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 8,
+    "title": "Make equal groups \u2013 sharing",
+    "ccss": [
+     "3.OA.A.2"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 5 Step 8 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 9,
+    "title": "The 2 times-table",
+    "ccss": [
+     "2.OA.C.3",
+     "3.OA.C.7"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 10,
+    "title": "The 5 times-table",
+    "ccss": [
+     "2.NBT.A.2",
+     "3.OA.C.7"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 11,
+    "title": "The 10 times-table",
+    "ccss": [
+     "2.NBT.A.2",
+     "3.OA.C.7"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 14,
+    "title": "Odd and even numbers",
+    "ccss": [
+     "2.OA.C.3"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 15,
+    "title": "Divide by 2",
+    "ccss": [
+     "3.OA.A.2",
+     "3.OA.C.7"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 16,
+    "title": "Doubling and halving",
+    "ccss": [
+     "2.OA.C.3",
+     "3.OA.A.1",
+     "3.OA.A.2"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 5 Step 11 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 17,
+    "title": "Divide by 5",
+    "ccss": [
+     "3.OA.A.2",
+     "3.OA.C.7"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 18,
+    "title": "Divide by 10",
+    "ccss": [
+     "3.OA.A.2",
+     "3.OA.C.7"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 19,
+    "title": "The 5 and 10 times-tables",
+    "ccss": [
+     "2.NBT.A.2",
+     "3.OA.C.7"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 5 Step 17 \u2014 added Aug 2026 for full WRM coverage"
+   }
+  ]
+ }
+]

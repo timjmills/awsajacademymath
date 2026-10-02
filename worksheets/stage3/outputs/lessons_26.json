@@ -1,0 +1,196 @@
+[
+ {
+  "grade": "G2",
+  "gradeName": "Grade 2",
+  "domain": "G",
+  "unitNum": 1,
+  "unit": "Fractions A",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Understand the denominators of unit fractions",
+    "ccss": [
+     "2.G.A.3",
+     "3.NF.A.1"
+    ],
+    "flag": "above",
+    "note": "Above grade. Number-line fractions is Grade 3 (3.NF.A.2). Partitioning is Grade 2 (2.G.A.3)."
+   },
+   {
+    "step": 2,
+    "title": "Compare and order unit fractions",
+    "ccss": [
+     "3.NF.A.1",
+     "3.NF.A.3.D"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 3,
+    "title": "Understand the numerators of non-unit fractions",
+    "ccss": [
+     "2.G.A.3",
+     "3.NF.A.1"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 4,
+    "title": "Understand the whole",
+    "ccss": [
+     "2.G.A.3",
+     "3.NF.A.1"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 5,
+    "title": "Compare and order non-unit fractions",
+    "ccss": [
+     "3.NF.A.1",
+     "3.NF.A.3.D"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 6,
+    "title": "Fractions and scales",
+    "ccss": [
+     "2.G.A.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 7,
+    "title": "Fractions on a number line",
+    "ccss": [
+     "2.MD.B.6",
+     "3.NF.A.2"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 8,
+    "title": "Count in fractions on a number line",
+    "ccss": [
+     "3.NF.A.2"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   }
+  ]
+ },
+ {
+  "grade": "G2",
+  "gradeName": "Grade 2",
+  "domain": "G",
+  "unitNum": 2,
+  "unit": "Shape",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Recognise and describe 2D shapes",
+    "ccss": [
+     "2.G.A.1",
+     "K.G.A.2"
+    ],
+    "flag": "native",
+    "note": "Angles and right angles is Grade 4 (4.MD.C.5) - beyond G2 expectation."
+   },
+   {
+    "step": 2,
+    "title": "Recognise and describe 3D shapes",
+    "ccss": [
+     "2.G.A.1",
+     "1.G.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Make 3D shapes",
+    "ccss": [
+     "2.G.A.1",
+     "1.G.A.1",
+     "K.G.B.5",
+     "1.G.A.2"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "Turns and angles",
+    "ccss": [
+     "2.G.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 5,
+    "title": "Compare angles",
+    "ccss": [
+     "2.G.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 6,
+    "title": "Horizontal and vertical",
+    "ccss": [
+     "2.G.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 7,
+    "title": "Draw polygons",
+    "ccss": [
+     "2.G.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 8,
+    "title": "Right angles",
+    "ccss": [
+     "2.G.A.1",
+     "4.G.A.2"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 9,
+    "title": "Measure and draw accurately",
+    "ccss": [
+     "2.MD.A.1",
+     "3.MD.B.4"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 10,
+    "title": "Parallel and perpendicular",
+    "ccss": [
+     "2.G.A.1",
+     "4.G.A.1"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   }
+  ]
+ }
+]

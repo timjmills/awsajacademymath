@@ -1,0 +1,16 @@
+{"id": "1ZJp_FLwj8tXlABkA4Ba2BPEg85f6Ulve", "verdict": "good", "saw": "Missing Fractions: like-denominator proper fraction subtraction, 14 items, box missing in either position", "issue": ""}
+{"id": "14GHeKEgE6vKH8tD28sB_mxzE44PbF5BY", "verdict": "good", "saw": "Comparing 3-digit numbers with >,<,= , 14 items", "issue": ""}
+{"id": "1CzKtoyoT-A0-euoxrR5k8g9-NWr6HDFz", "verdict": "good", "saw": "Vertical subtraction 3-digit minus 2/3-digit, 15 items, some with exchange", "issue": ""}
+{"id": "1z7zvnJiwkwOXxLmEZB2jbMAXQ5mTGJdE", "verdict": "good", "saw": "Write standard form from 'x hundreds + y tens + z ones', 12 items up to 3 digits", "issue": "Grade 3 sheet but only 3-digit; reverse direction of partitioning"}
+{"id": "1bwOFDQtVXzL-7gjzuAVauMAhAZlMt9rl", "verdict": "unopened", "saw": "Download returned inline base64 that could not be saved for rendering; read_file_content text was garbled", "issue": "could not view content"}
+{"id": "12ISOZhFL7tk5LQPfrGIOu0NBnvI6PXLv", "verdict": "weak", "saw": "Rounding Large Numbers: 6 items to nearest ten thousand (5-digit), then 6 to hundred thousand and 6 to million", "issue": "only a third of sheet matches round within 100,000; rest is beyond lesson"}
+{"id": "1UPpBzluKp4uWhUK9qO0EnX3_cHadQgOl", "verdict": "good", "saw": "Number line addition of tenths, 6 items (e.g. 6+0.4, 9.6+1.2)", "issue": "addition only, no subtraction"}
+{"id": "1HkfsC4GMQ_5YIH2AjBF8RM-ADlH27rm5", "verdict": "good", "saw": "Whole number divided by unit fraction with bar models, 5 items", "issue": ""}
+{"id": "1Xq92myyfqCo3edJUU5m-gHbBzoODRozb", "verdict": "good", "saw": "Write 2-3 digit numbers in expanded exponential form (3x10^1)+(4x10^0), 12 items", "issue": ""}
+{"id": "1L1mbcFViPl4Ma8JdpQCsPEY2yd74HVU_", "verdict": "weak", "saw": "Treasure chest riddle: order 7 weights, same denominator 8, includes mixed numbers (5 3/8) and improper fractions, decode a word", "issue": "includes mixed numbers/improper fractions; single riddle puzzle, little practice volume"}
+{"id": "1i0QV1L7CyVVJXUQaUz97mvgNBO7IPMg9", "verdict": "good", "saw": "Skip count by 10s number lines in 200s-400s, fill missing labels, 7 items", "issue": ""}
+{"id": "1FCk2PHy9cZCU0-L604DVMCne4qP6Uikf", "verdict": "good", "saw": "Skip counting by 5s with pictured groups (hands, eggs, candles etc), running totals, 5 items", "issue": "5s only, no 10s; no multiplication sentences"}
+{"id": "1uT1hB-5LPQI8K5HYL9NeMhF43ELyKywG", "verdict": "good", "saw": "25 vertical 2-digit minus 2-digit problems, no regrouping", "issue": ""}
+{"id": "13qOoNeQiwJ8mVb0F98_0lLJLXC4jPvDX", "verdict": "weak", "saw": "Divisibility rule for 4 only: state, multiple choice, missing digit, word problem", "issue": "covers only one of the divisibility rules in the lesson"}
+{"id": "14QOauqGMuo8ZxZsiN0ZaxYGvS3mS0X3E", "verdict": "good", "saw": "In/out function machines, add single digit to 2-digit, 18 items, several cross a ten (22+8, 67+9)", "issue": "grade 1 sheet"}
+{"id": "13MFUBW7YLUfog5QEKbp3XocSiTgBGQKv", "verdict": "good", "saw": "Bundles of tens and loose ones, write tens and ones table, 6 items up to 2 digits", "issue": "grade 1 level; no ten-frame/place value chart beyond tens/ones"}

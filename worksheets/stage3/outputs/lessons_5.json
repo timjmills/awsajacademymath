@@ -1,0 +1,117 @@
+[
+ {
+  "grade": "PK",
+  "gradeName": "PK4 (Reception)",
+  "domain": "G",
+  "unitNum": 6,
+  "unit": "Patterns, Position & Maps",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Identify units of repeating patterns",
+    "ccss": [],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 2,
+    "title": "Create own pattern rules",
+    "ccss": [],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Explore own pattern rules",
+    "ccss": [],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "Replicate and build scenes and constructions",
+    "ccss": [
+     "K.G.B.5"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 5,
+    "title": "Visualise from different positions",
+    "ccss": [],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 6,
+    "title": "Describe positions",
+    "ccss": [
+     "K.G.A.1"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 7,
+    "title": "Give instructions to build",
+    "ccss": [
+     "K.G.A.1"
+    ],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 8,
+    "title": "Explore mapping",
+    "ccss": [],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 9,
+    "title": "Represent maps with models",
+    "ccss": [],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 10,
+    "title": "Create own maps from familiar places",
+    "ccss": [],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 11,
+    "title": "Create own maps and plans from story situations",
+    "ccss": [],
+    "flag": "non-ccss",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "grade": "PK",
+  "gradeName": "PK4 (Reception)",
+  "domain": "G",
+  "unitNum": 7,
+  "unit": "Consolidation: Patterns & Relationships",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Deepen understanding",
+    "ccss": [],
+    "flag": "non-ccss",
+    "note": ""
+   },
+   {
+    "step": 2,
+    "title": "Patterns and relationships",
+    "ccss": [],
+    "flag": "non-ccss",
+    "note": ""
+   }
+  ]
+ }
+]

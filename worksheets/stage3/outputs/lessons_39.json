@@ -1,0 +1,286 @@
+[
+ {
+  "grade": "G4",
+  "gradeName": "Grade 4",
+  "domain": "MD",
+  "unitNum": 1,
+  "unit": "Perimeter and Area",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Perimeter of rectangles",
+    "ccss": [
+     "4.MD.A.3",
+     "3.MD.D.8"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 2,
+    "title": "Perimeter of rectilinear shapes",
+    "ccss": [
+     "3.MD.D.8"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Perimeter of polygons",
+    "ccss": [
+     "3.MD.D.8"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "Area of rectangles",
+    "ccss": [
+     "4.MD.A.3",
+     "3.MD.C.7"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 5,
+    "title": "Area of compound shapes",
+    "ccss": [
+     "4.MD.A.3",
+     "3.MD.C.7"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 6,
+    "title": "Estimate area",
+    "ccss": [
+     "3.MD.C.6"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 8 Step 6 \u2014 added Aug 2026 for full WRM coverage"
+   }
+  ]
+ },
+ {
+  "grade": "G4",
+  "gradeName": "Grade 4",
+  "domain": "MD",
+  "unitNum": 2,
+  "unit": "Statistics",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Read and interpret line graphs",
+    "ccss": [
+     "5.G.A.2"
+    ],
+    "flag": "native",
+    "note": "Line graphs are Grade 5 (5.MD.B.2-adjacent); line plots are Grade 4 (4.MD.B.4). | Beyond K-5 CCSS (mainly 6.SP); useful preview."
+   },
+   {
+    "step": 2,
+    "title": "Draw line graphs",
+    "ccss": [
+     "5.G.A.2"
+    ],
+    "flag": "native",
+    "note": "Beyond K-5 CCSS (mainly 6.SP); useful preview."
+   },
+   {
+    "step": 3,
+    "title": "Read and interpret tables",
+    "ccss": [
+     "4.OA.A.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "Two-way tables",
+    "ccss": [
+     "4.OA.A.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 5,
+    "title": "Read and interpret timetables",
+    "ccss": [
+     "4.MD.A.2"
+    ],
+    "flag": "native",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "grade": "G4",
+  "gradeName": "Grade 4",
+  "domain": "MD",
+  "unitNum": 3,
+  "unit": "Converting Units",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Kilograms and kilometres",
+    "ccss": [
+     "4.MD.A.1"
+    ],
+    "flag": "native",
+    "note": "WR uses metric units. US customary (inches/feet/yards/miles, cups/pints/quarts/gallons, ounces/pounds) required as supplemental for 4.MD.A.1-A.2."
+   },
+   {
+    "step": 2,
+    "title": "Millimetres and millilitres",
+    "ccss": [
+     "4.MD.A.1"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 14 Step 2 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 3,
+    "title": "Convert units of length",
+    "ccss": [
+     "4.MD.A.1",
+     "5.MD.A.1"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 14 Step 3 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 5,
+    "title": "Metric measures",
+    "ccss": [
+     "4.MD.A.1"
+    ],
+    "flag": "native",
+    "note": "renamed to the White Rose step title (was 'Metric units')"
+   },
+   {
+    "step": 6,
+    "title": "Convert between metric and imperial units",
+    "ccss": [
+     "4.MD.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 7,
+    "title": "Convert units of time",
+    "ccss": [
+     "4.MD.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 8,
+    "title": "Calculate with timetables",
+    "ccss": [
+     "4.MD.A.2"
+    ],
+    "flag": "native",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "grade": "G4",
+  "gradeName": "Grade 4",
+  "domain": "MD",
+  "unitNum": 4,
+  "unit": "Volume",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Cubic centimetres",
+    "ccss": [
+     "5.MD.C.3",
+     "5.MD.C.4"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 15 Step 1 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 2,
+    "title": "Estimate capacity",
+    "ccss": [
+     "3.MD.A.2"
+    ],
+    "flag": "native",
+    "note": "Volume (counting unit cubes, formulas) is Grade 5 (5.MD.C.3-C.5)."
+   },
+   {
+    "step": 4,
+    "title": "Compare volume",
+    "ccss": [
+     "5.MD.C.4"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 5,
+    "title": "Estimate volume",
+    "ccss": [
+     "5.MD.C.4"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   }
+  ]
+ },
+ {
+  "grade": "G4",
+  "gradeName": "Grade 4",
+  "domain": "MD",
+  "unitNum": 5,
+  "unit": "Awsaj supplement lessons",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Line plots with fractions",
+    "ccss": [
+     "4.MD.B.4"
+    ],
+    "flag": "committee",
+    "note": "Awsaj-authored lesson \u00b7 closes a Common Core standard White Rose does not teach. Materials need to be made."
+   },
+   {
+    "step": 2,
+    "title": "Customary capacity: cups, pints, quarts and gallons",
+    "ccss": [
+     "4.MD.A.1"
+    ],
+    "flag": "committee",
+    "note": "Awsaj-authored lesson \u00b7 closes a Common Core standard White Rose does not teach. Materials need to be made."
+   },
+   {
+    "step": 3,
+    "title": "Customary length and weight - inches, feet, yards, ounces and pounds",
+    "ccss": [
+     "4.MD.A.1"
+    ],
+    "flag": "committee",
+    "note": "Awsaj-authored lesson \u00b7 closes a Common Core standard White Rose does not teach. Materials need to be made."
+   },
+   {
+    "step": 4,
+    "title": "Measurement word problems: distance, time, mass, money and capacity",
+    "ccss": [
+     "4.MD.A.2"
+    ],
+    "flag": "committee",
+    "note": "Awsaj-authored lesson \u00b7 closes a Common Core standard White Rose does not teach. Materials need to be made."
+   }
+  ]
+ }
+]

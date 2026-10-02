@@ -1,0 +1,216 @@
+[
+ {
+  "grade": "G1",
+  "gradeName": "Grade 1",
+  "domain": "OA",
+  "unitNum": 1,
+  "unit": "Addition and Subtraction",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Bonds to 10",
+    "ccss": [
+     "1.OA.C.6",
+     "K.OA.A.4"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 2,
+    "title": "Bonds to 100 (tens)",
+    "ccss": [
+     "1.NBT.B.2",
+     "1.NBT.C.4",
+     "K.OA.A.4"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Fact families - addition and subtraction bonds within 20",
+    "ccss": [
+     "1.OA.B.3",
+     "1.OA.B.4",
+     "1.OA.C.6"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "Related facts",
+    "ccss": [
+     "1.OA.B.3",
+     "1.OA.B.4"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 5,
+    "title": "Add and subtract 1s",
+    "ccss": [
+     "1.OA.C.5",
+     "1.OA.C.6"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 6,
+    "title": "Add by making 10",
+    "ccss": [
+     "1.OA.B.3",
+     "1.OA.C.6"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 7,
+    "title": "Add three 1-digit numbers",
+    "ccss": [
+     "1.OA.A.2"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 8,
+    "title": "Add to the next 10",
+    "ccss": [
+     "1.NBT.C.4",
+     "1.OA.C.6"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 9,
+    "title": "Add across a 10",
+    "ccss": [
+     "1.NBT.C.4",
+     "1.OA.C.6"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 10,
+    "title": "Subtract across 10",
+    "ccss": [
+     "1.OA.C.6"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 11,
+    "title": "Subtract from a 10",
+    "ccss": [
+     "1.OA.C.6",
+     "2.NBT.B.5"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 12,
+    "title": "Subtract a 1-digit number from a 2-digit number (across a 10)",
+    "ccss": [
+     "1.OA.C.6",
+     "2.NBT.B.5"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 13,
+    "title": "10 more, 10 less",
+    "ccss": [
+     "1.NBT.C.5"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 14,
+    "title": "Add and subtract 10s",
+    "ccss": [
+     "1.NBT.C.4",
+     "1.NBT.C.6"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 15,
+    "title": "Add two 2-digit numbers (not across a 10)",
+    "ccss": [
+     "1.NBT.C.4"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 16,
+    "title": "Add two 2-digit numbers (across a 10)",
+    "ccss": [
+     "1.NBT.C.4"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 17,
+    "title": "Subtract two 2-digit numbers (not across a 10)",
+    "ccss": [
+     "1.NBT.C.6",
+     "2.NBT.B.5"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 18,
+    "title": "Subtract two 2-digit numbers (across a 10)",
+    "ccss": [
+     "1.NBT.C.6",
+     "2.NBT.B.5"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 20,
+    "title": "Mixed addition and subtraction",
+    "ccss": [
+     "1.NBT.C.4",
+     "1.OA.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 21,
+    "title": "Compare number sentences",
+    "ccss": [
+     "1.OA.D.7"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 22,
+    "title": "Missing number problems",
+    "ccss": [
+     "1.OA.D.8"
+    ],
+    "flag": "native",
+    "note": ""
+   }
+  ]
+ }
+]

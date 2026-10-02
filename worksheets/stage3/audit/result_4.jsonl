@@ -1,0 +1,16 @@
+{"id": "1XSs62E2zz_Q5d_MI8QckGmnjw11-gzSD", "verdict": "good", "saw": "Image: 'Adding Mixed Numbers - Different Denominators' word problems (e.g. 2 2/3 + 1 1/6)", "issue": ""}
+{"id": "1j-4FsNnQ7xO6zeKIESG_kmBmfcY_BmT1", "verdict": "good", "saw": "Text: 3 sheets of 3-addend 2-digit column addition (20 each)", "issue": "Three addends only, not four (G1 sheet)"}
+{"id": "1zfBKcUc9Hce4vZvSi-VqJKCd-cpS9FZo", "verdict": "good", "saw": "Text: convert hours to minutes plus compare-time word problems, 3 sheets", "issue": "No seconds content"}
+{"id": "1NhXFHYvQAGTDi4Ekm9E1Rxj31Mrf5Z0m", "verdict": "good", "saw": "Image: 25 vertical 3-digit minus 3-digit, no regrouping, per sheet", "issue": "3-digit not 4-digit (easier, as stated)"}
+{"id": "1tHSgc26BAb5_ggFShDeUqkdS-da2GPCL", "verdict": "wrong", "saw": "Image: cut-and-paste sort of 8 shapes into symmetric/asymmetric boxes", "issue": "Cut-and-glue sort only; no drawing/identifying lines of symmetry"}
+{"id": "1wVbFe0Q3zztWamUYxkUIJaw78lYTY9o5", "verdict": "weak", "saw": "Image: complete equivalent fraction sentences using shaded models, 6 per sheet", "issue": "Covers equivalence only (G4 model-based); no simplifying"}
+{"id": "1xb6gtwZbGswnRVM1i2wa691vrjkGQR_K", "verdict": "good", "saw": "Image: 15 vertical tenths subtraction problems (e.g. 3.7-1.6, 5.2-4.8)", "issue": "Subtraction only; no addition"}
+{"id": "1Sj-BZRGPPB_pAkgdivsqu_IFgmAhQX7a", "verdict": "weak", "saw": "Image: Oct 2001 calendar with date-arithmetic marking tasks (17 days before, two weeks and nine days after)", "issue": "Calendar date reasoning, fairly demanding; not years/months/days relationships"}
+{"id": "1N8o_HpigeHwrdBkA2HSR-0hUxSzvz_wv", "verdict": "good", "saw": "Image: 2016 yearly calendar, questions on months in year, weeks, month order, days in November", "issue": ""}
+{"id": "18T1OVsAek5K-Yi0rBYODngP2u8ulhBDD", "verdict": "good", "saw": "Image: convert fractions to percents (1/10, 9/20, 53/50, 7/4), match, MC; G6 sheet", "issue": "Fractions to percents only; includes improper fractions"}
+{"id": "1YI_TcU-RoAG-i7JKkUmkCztf-i68g6pX", "verdict": "good", "saw": "Image: count bundles of 10 sticks and loose sticks, write tens and ones, 6 items", "issue": "Easier (G1) as stated"}
+{"id": "1Ay1SykV6ymJxUUl9iNorm82Ljd_kQV09", "verdict": "good", "saw": "Image: write 2-3 digit numbers in expanded product form, e.g. 209=(2x100)+(9x1)", "issue": ""}
+{"id": "1KQBkH7dL9HRfIBYRW8xV0WTPyNb_SQzf", "verdict": "weak", "saw": "Image: 4-digit numbers on number lines, left/right questions and compare with > <", "issue": "Only 4-digit comparing, no ordering, far below 100,000"}
+{"id": "1gAq0heTnDEAOLLNYvptqCFStgRa-O4JZ", "verdict": "good", "saw": "Image: identify angle type formed by clock hands, 9 clocks per sheet", "issue": "Reflex angles included, matches why"}
+{"id": "1rpvd1i7sBjLfAD5DCCgttHFzmDfTzbGa", "verdict": "good", "saw": "Text only (readable): pie graphs with counts/degrees, questions on percentages of total", "issue": "Not viewed as image; text clear"}
+{"id": "1418_G97BJ-FG52_HlA--2FEhtpnsg8LH", "verdict": "good", "saw": "Image: multiply fraction/mixed number by whole number, 10 problems, mixed review", "issue": ""}

@@ -1,0 +1,166 @@
+[
+ {
+  "grade": "G2",
+  "gradeName": "Grade 2",
+  "domain": "MD",
+  "unitNum": 2,
+  "unit": "Mass and Capacity",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Compare mass",
+    "ccss": [
+     "K.MD.A.2"
+    ],
+    "flag": "native",
+    "note": "Metric mass/capacity measurement is Grade 3 CCSS (3.MD.A.2)."
+   },
+   {
+    "step": 2,
+    "title": "Compare capacity and volume",
+    "ccss": [
+     "K.MD.A.2"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Use scales",
+    "ccss": [
+     "3.MD.A.2"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 4,
+    "title": "Measure mass in grams",
+    "ccss": [
+     "3.MD.A.2"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 5,
+    "title": "Measure mass in kilograms and grams",
+    "ccss": [
+     "3.MD.A.2"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 6,
+    "title": "Equivalent masses (kilograms and grams)",
+    "ccss": [
+     "3.MD.A.2",
+     "4.MD.A.1"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 7,
+    "title": "Add and subtract mass",
+    "ccss": [
+     "3.MD.A.2"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 8,
+    "title": "Measure capacity and volume in millilitres",
+    "ccss": [
+     "3.MD.A.2"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 9,
+    "title": "Measure capacity and volume in litres and millilitres",
+    "ccss": [
+     "3.MD.A.2"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 10,
+    "title": "Equivalent capacities and volumes (litres and millilitres)",
+    "ccss": [
+     "3.MD.A.2",
+     "4.MD.A.1"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 11,
+    "title": "Add and subtract capacity and volume",
+    "ccss": [
+     "3.MD.A.2"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   }
+  ]
+ },
+ {
+  "grade": "G2",
+  "gradeName": "Grade 2",
+  "domain": "MD",
+  "unitNum": 3,
+  "unit": "Money",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Pounds and pence (US: dollars & cents)",
+    "ccss": [
+     "2.MD.C.8"
+    ],
+    "flag": "native",
+    "note": "WR uses UK pounds/pence. Convert to US dollars/cents for 2.MD.C.8 (dollar bills, quarters, dimes, nickels, pennies) - supplemental lessons required. \u2691 ADAPT: Adapt before teaching: swap \u00a3 and p for dollars and cents, and UK notes and coins for US bills and coins (1c, 5c, 10c, 25c, $1, $5, $10)."
+   },
+   {
+    "step": 2,
+    "title": "Convert pounds and pence (US: dollars & cents)",
+    "ccss": [
+     "2.MD.C.8"
+    ],
+    "flag": "native",
+    "note": "\u2691 ADAPT: Adapt before teaching: swap \u00a3 and p for dollars and cents, and UK notes and coins for US bills and coins (1c, 5c, 10c, 25c, $1, $5, $10)."
+   },
+   {
+    "step": 3,
+    "title": "Add money (US: dollars & cents)",
+    "ccss": [
+     "2.MD.C.8"
+    ],
+    "flag": "native",
+    "note": "\u2691 ADAPT: Adapt before teaching: swap \u00a3 and p for dollars and cents, and UK notes and coins for US bills and coins (1c, 5c, 10c, 25c, $1, $5, $10)."
+   },
+   {
+    "step": 4,
+    "title": "Subtract money (US: dollars & cents)",
+    "ccss": [
+     "2.MD.C.8"
+    ],
+    "flag": "native",
+    "note": "\u2691 ADAPT: Adapt before teaching: swap \u00a3 and p for dollars and cents, and UK notes and coins for US bills and coins (1c, 5c, 10c, 25c, $1, $5, $10)."
+   },
+   {
+    "step": 5,
+    "title": "Find change (US: dollars & cents)",
+    "ccss": [
+     "2.MD.C.8"
+    ],
+    "flag": "native",
+    "note": "\u2691 ADAPT: Adapt before teaching: swap \u00a3 and p for dollars and cents, and UK notes and coins for US bills and coins (1c, 5c, 10c, 25c, $1, $5, $10)."
+   }
+  ]
+ }
+]

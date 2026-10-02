@@ -1,0 +1,247 @@
+[
+ {
+  "grade": "G2",
+  "gradeName": "Grade 2",
+  "domain": "MD",
+  "unitNum": 4,
+  "unit": "Time",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Roman numerals to 12",
+    "ccss": [],
+    "flag": "non-ccss",
+    "note": "WR includes 'time to the minute' (Grade 3, 3.MD.A.1) and durations (Grade 3) mixed with 'time to 5 minutes' (2.MD.C.7). The to-the-minute and duration steps relocate to Grade 3. | Not in CCSS K-5; cultural/optional extra. \u2691 ADAPT: UK National Curriculum only, no US standard. Teach as enrichment, or use the day for extra place-value practice."
+   },
+   {
+    "step": 2,
+    "title": "Tell the time to 5 minutes",
+    "ccss": [
+     "2.MD.C.7"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Tell the time to the minute",
+    "ccss": [
+     "2.MD.C.7",
+     "3.MD.A.1"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 4,
+    "title": "Read time on a digital clock",
+    "ccss": [
+     "2.MD.C.7"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 5,
+    "title": "Use am and pm",
+    "ccss": [
+     "2.MD.C.7"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 6,
+    "title": "Years, months and days",
+    "ccss": [
+     "2.MD.C.7"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 7,
+    "title": "Days and hours",
+    "ccss": [
+     "2.MD.C.7"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 8,
+    "title": "Hours and minutes - use start and end times",
+    "ccss": [
+     "2.MD.C.7",
+     "3.MD.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 9,
+    "title": "Hours and minutes - use durations",
+    "ccss": [
+     "2.MD.C.7",
+     "3.MD.A.1"
+    ],
+    "flag": "above",
+    "note": "Above grade."
+   },
+   {
+    "step": 10,
+    "title": "Minutes and seconds",
+    "ccss": [
+     "2.MD.C.7"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 11,
+    "title": "Units of time",
+    "ccss": [
+     "2.MD.C.7"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 12,
+    "title": "Solve problems with time",
+    "ccss": [
+     "2.MD.C.7",
+     "3.MD.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "grade": "G2",
+  "gradeName": "Grade 2",
+  "domain": "MD",
+  "unitNum": 5,
+  "unit": "Statistics",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Interpret pictograms",
+    "ccss": [
+     "2.MD.D.10"
+    ],
+    "flag": "native",
+    "note": "WR Y3 pictograms/bar charts align with 2.MD.D.10 (picture/bar graph) and extend toward 3.MD.B.3 (scaled picture/bar graphs); keep at Grade 2 with scaled work as a bridge."
+   },
+   {
+    "step": 2,
+    "title": "Draw pictograms",
+    "ccss": [
+     "2.MD.D.10"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Interpret bar charts",
+    "ccss": [
+     "2.MD.D.10"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "Draw bar charts",
+    "ccss": [
+     "2.MD.D.10"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 5,
+    "title": "Collect and represent data",
+    "ccss": [
+     "2.MD.D.10"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 6,
+    "title": "Two-way tables",
+    "ccss": [
+     "2.MD.D.10"
+    ],
+    "flag": "native",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "grade": "G2",
+  "gradeName": "Grade 2",
+  "domain": "MD",
+  "unitNum": 6,
+  "unit": "Awsaj supplement lessons",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Measure and estimate in inches and feet",
+    "ccss": [
+     "2.MD.A.3"
+    ],
+    "flag": "committee",
+    "note": "Awsaj-authored lesson \u00b7 closes a Common Core standard White Rose does not teach. Materials need to be made."
+   },
+   {
+    "step": 2,
+    "title": "Measure lengths of a set of objects to the nearest whole unit",
+    "ccss": [
+     "2.MD.D.9"
+    ],
+    "flag": "committee",
+    "note": "Awsaj-authored lesson \u00b7 closes a Common Core standard White Rose does not teach. Materials need to be made."
+   },
+   {
+    "step": 3,
+    "title": "Record the measurement data in a table",
+    "ccss": [
+     "2.MD.D.9"
+    ],
+    "flag": "committee",
+    "note": "Awsaj-authored lesson \u00b7 closes a Common Core standard White Rose does not teach. Materials need to be made."
+   },
+   {
+    "step": 4,
+    "title": "Show measurement data on a line plot",
+    "ccss": [
+     "2.MD.D.9"
+    ],
+    "flag": "committee",
+    "note": "Awsaj-authored lesson \u00b7 closes a Common Core standard White Rose does not teach. Materials need to be made."
+   },
+   {
+    "step": 5,
+    "title": "Solve 'longer by' problems using bar models",
+    "ccss": [
+     "2.MD.B.5"
+    ],
+    "flag": "committee",
+    "note": "Awsaj-authored lesson \u00b7 closes a Common Core standard White Rose does not teach. Materials need to be made."
+   },
+   {
+    "step": 6,
+    "title": "Solve 'shorter by' problems using bar models",
+    "ccss": [
+     "2.MD.B.5"
+    ],
+    "flag": "committee",
+    "note": "Awsaj-authored lesson \u00b7 closes a Common Core standard White Rose does not teach. Materials need to be made."
+   }
+  ]
+ }
+]

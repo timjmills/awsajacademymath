@@ -1,0 +1,257 @@
+[
+ {
+  "grade": "G5",
+  "gradeName": "Grade 5",
+  "domain": "NBT",
+  "unitNum": 3,
+  "unit": "Decimals",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Place value within 1",
+    "ccss": [
+     "5.NBT.A.1",
+     "5.NBT.A.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 2,
+    "title": "Place value - integers and decimals",
+    "ccss": [
+     "5.NBT.A.1",
+     "5.NBT.A.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Round decimals",
+    "ccss": [
+     "5.NBT.A.4"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "Add and subtract decimals",
+    "ccss": [
+     "5.NBT.B.7"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 5,
+    "title": "Multiply by 10, 100 and 1,000",
+    "ccss": [
+     "5.NBT.A.2"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 6,
+    "title": "Divide by 10, 100 and 1,000",
+    "ccss": [
+     "5.NBT.A.2",
+     "5.NBT.B.7"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 7,
+    "title": "Multiply decimals by integers",
+    "ccss": [
+     "5.NBT.B.7"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 8,
+    "title": "Divide decimals by integers",
+    "ccss": [
+     "5.NBT.B.7"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 9,
+    "title": "Multiply and divide decimals in context",
+    "ccss": [
+     "5.NBT.B.7"
+    ],
+    "flag": "native",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "grade": "G5",
+  "gradeName": "Grade 5",
+  "domain": "NF",
+  "unitNum": 1,
+  "unit": "Fractions A",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Equivalent fractions and simplifying",
+    "ccss": [
+     "4.NF.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 2,
+    "title": "Equivalent fractions on a number line",
+    "ccss": [
+     "4.NF.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Compare and order (denominator)",
+    "ccss": [
+     "4.NF.A.2"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "Compare and order (numerator)",
+    "ccss": [
+     "4.NF.A.2"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 5,
+    "title": "Add mixed numbers",
+    "ccss": [
+     "5.NF.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 6,
+    "title": "Subtract mixed numbers",
+    "ccss": [
+     "5.NF.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 7,
+    "title": "Add and subtract simple fractions",
+    "ccss": [
+     "5.NF.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 8,
+    "title": "Add and subtract any two fractions",
+    "ccss": [
+     "5.NF.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 9,
+    "title": "Multi-step problems",
+    "ccss": [
+     "5.NF.A.2"
+    ],
+    "flag": "native",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "grade": "G5",
+  "gradeName": "Grade 5",
+  "domain": "NF",
+  "unitNum": 2,
+  "unit": "Fractions B",
+  "steps": [
+   {
+    "step": 1,
+    "title": "Multiply fractions by integers",
+    "ccss": [
+     "5.NF.B.4"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 2,
+    "title": "Multiply fractions by fractions",
+    "ccss": [
+     "5.NF.B.4"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Divide a fraction by an integer",
+    "ccss": [
+     "5.NF.B.7"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "Divide any fraction by an integer",
+    "ccss": [
+     "5.NF.B.7"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 5,
+    "title": "Mixed questions with fractions",
+    "ccss": [
+     "5.NF.B.6"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 6,
+    "title": "Fraction of an amount",
+    "ccss": [
+     "5.NF.B.4"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 7,
+    "title": "Fraction of an amount - find the whole",
+    "ccss": [
+     "5.NF.B.4"
+    ],
+    "flag": "native",
+    "note": ""
+   }
+  ]
+ }
+]

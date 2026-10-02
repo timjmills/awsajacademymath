@@ -1,0 +1,208 @@
+[
+ {
+  "grade": "G5",
+  "gradeName": "Grade 5",
+  "domain": "NBT",
+  "unitNum": 2,
+  "unit": "Four Operations",
+  "steps": [
+   {
+    "step": 2,
+    "title": "Add and subtract integers",
+    "ccss": [
+     "4.NBT.B.4"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 3,
+    "title": "Rules of divisibility",
+    "ccss": [
+     "4.OA.B.4"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 4,
+    "title": "Primes to 100",
+    "ccss": [
+     "4.OA.B.4"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 5,
+    "title": "Multiply by 10, 100 and 1,000",
+    "ccss": [
+     "5.NBT.A.2"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 7,
+    "title": "Divide by 10, 100 and 1,000",
+    "ccss": [
+     "5.NBT.A.2",
+     "5.NBT.B.7"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 8,
+    "title": "Multiply up to a 4-digit number by a 1-digit number",
+    "ccss": [
+     "5.NBT.B.5"
+    ],
+    "flag": "native",
+    "note": "renamed to the White Rose step title (was 'Short multiplication')"
+   },
+   {
+    "step": 10,
+    "title": "Factors",
+    "ccss": [
+     "4.OA.B.4"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 11,
+    "title": "Short division",
+    "ccss": [
+     "5.NBT.B.6"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 12,
+    "title": "Division using factors",
+    "ccss": [
+     "5.NBT.B.6",
+     "3.OA.B.5"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 13,
+    "title": "Introduction to long division",
+    "ccss": [
+     "5.NBT.B.6"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 14,
+    "title": "Long division with remainders",
+    "ccss": [
+     "5.NBT.B.6"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 15,
+    "title": "Solve problems with multiplication",
+    "ccss": [
+     "5.NBT.B.5",
+     "4.OA.A.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 16,
+    "title": "Solve multi-step problems",
+    "ccss": [
+     "4.OA.A.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 17,
+    "title": "Common factors",
+    "ccss": [
+     "4.OA.B.4",
+     "6.NS.B.4"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 18,
+    "title": "Common multiples",
+    "ccss": [
+     "4.OA.B.4",
+     "6.NS.B.4"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 19,
+    "title": "Order of operations",
+    "ccss": [
+     "5.OA.A.1"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 20,
+    "title": "Mental calculations and estimation",
+    "ccss": [
+     "5.OA.A.2",
+     "4.NBT.A.3"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 21,
+    "title": "Reason from known facts",
+    "ccss": [
+     "5.NBT.B.5",
+     "3.OA.B.5"
+    ],
+    "flag": "native",
+    "note": ""
+   },
+   {
+    "step": 22,
+    "title": "Square and cube numbers",
+    "ccss": [
+     "6.EE.A.1"
+    ],
+    "flag": "native",
+    "note": "Beyond K-5 CCSS (appears in 6.EE.A.1); optional preview."
+   },
+   {
+    "step": 23,
+    "title": "Multiply up to a 4-digit number by a 2-digit number",
+    "ccss": [
+     "5.NBT.B.5"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 2 Step 7 \u2014 added Aug 2026 for full WRM coverage"
+   },
+   {
+    "step": 24,
+    "title": "Solve problems with division",
+    "ccss": [
+     "5.NBT.B.6",
+     "4.OA.A.3"
+    ],
+    "flag": "native",
+    "note": "White Rose Block 2 Step 13 \u2014 added Aug 2026 for full WRM coverage"
+   }
+  ]
+ }
+]

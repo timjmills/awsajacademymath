@@ -1,0 +1,162 @@
+[
+ {
+  "grade": "G2",
+  "unit": "Multiplication and Division A",
+  "step": 15,
+  "title": "The 2, 4 and 8 times-tables",
+  "id": "1yF0b1VaL7X6IQXRlCQQ0oJo_5KOje5qW",
+  "why": "division facts with divisor 2 (harder, grade 3)",
+  "catalogue_title": "Grade 3 Math - Division - 24 Division Fact - 2 - Worksheets.pdf",
+  "sheet_grade": "G3"
+ },
+ {
+  "grade": "G3",
+  "unit": "Place Value",
+  "step": 1,
+  "title": "Represent numbers to 1,000",
+  "id": "1CUB1RTUFizQPcG12VoWqrqfFEYf-sadc",
+  "why": "3-digit numbers on abacus, ones/tens/hundreds",
+  "catalogue_title": "Grade 2 Math - Place Value - 08 Reading 3-Digit Numbers on an Abacus - Worksheets.pdf",
+  "sheet_grade": "G2"
+ },
+ {
+  "grade": "G2",
+  "unit": "Place Value",
+  "step": 1,
+  "title": "Represent numbers to 100",
+  "id": "1teTs9sHRm7O65D6lHWbX_ar3xEEMXCbA",
+  "why": "Read 2-digit number from abacus (easier, grade 1)",
+  "catalogue_title": "Grade 1 Math - Place Value - 40 Reading 2-Digit Numbers on an Abacus - Worksheets.pdf",
+  "sheet_grade": "G1"
+ },
+ {
+  "grade": "G2",
+  "unit": "Addition and Subtraction",
+  "step": 7,
+  "title": "Add 10s across a 100",
+  "id": "1i0QV1L7CyVVJXUQaUz97mvgNBO7IPMg9",
+  "why": "count by 10s on number line, larger numbers",
+  "catalogue_title": "Grade 2 Math - Skip Counting - 69 Counting by 10s on a Number Line Level 2 - Worksheets.pdf",
+  "sheet_grade": "G2"
+ },
+ {
+  "grade": "G5",
+  "unit": "Position and Direction",
+  "step": 3,
+  "title": "Solve problems with coordinates",
+  "id": "1Hk5Pn3PKzdiHb-OCWuavw-4CNyFCRF6R",
+  "why": "length of horizontal/vertical segment between points",
+  "catalogue_title": "Grade 5 Math - Coordinate Plane - 11 Length of the Line Segment - Worksheets.pdf",
+  "sheet_grade": "G5"
+ },
+ {
+  "grade": "G5",
+  "unit": "Position and Direction",
+  "step": 5,
+  "title": "Reflections",
+  "id": "16xAcMVgodGDlldtk9FBeDYR5Q1WW_IcA",
+  "why": "draw mirror image across a mirror line",
+  "catalogue_title": "Grade 5 Math - Geometry - 2D Shapes - 05 Reflection across the Axes - Worksheets.pdf",
+  "sheet_grade": "G5"
+ },
+ {
+  "grade": "G4",
+  "unit": "Shape",
+  "step": 7,
+  "title": "Draw lines and angles accurately",
+  "id": "14B64U5_VKJ9qH_t7JIJhTNJOdRWgXcQg",
+  "why": "(easier, grade 3) draw angles of given whole-degree measures with a printed protractor; opened, matches exact skill",
+  "catalogue_title": "Grade 3 Math - Angles - 01 Drawing Angles with a Protractor 1-Degree Increment - Worksheets.pdf",
+  "sheet_grade": "G3"
+ },
+ {
+  "grade": "G3",
+  "unit": "Multiplication and Division A",
+  "step": 1,
+  "title": "Multiples of 3",
+  "id": "1CCB93yecauXHqFZHYpJup2Z--yIxgzDK",
+  "why": "Rows counting by 3s with missing multiples (easier, grade 1)",
+  "catalogue_title": "Grade 1 Math - Skip Counting - 34 Counting by 3s Missing Numbers Type 2 - Worksheets.pdf",
+  "sheet_grade": "G1"
+ },
+ {
+  "grade": "G4",
+  "unit": "Shape",
+  "step": 4,
+  "title": "Classify angles",
+  "id": "1x9FmupMyYvV6Q8WJufLyTZSg6sYysONi",
+  "why": "cut-and-glue real-life angles by type",
+  "catalogue_title": "Grade 4 Math - Angles - 15 Classifying Angles in Real-life Cut and Glue Activity - Worksheets.pdf",
+  "sheet_grade": "G4"
+ },
+ {
+  "grade": "G4",
+  "unit": "Decimals",
+  "step": 9,
+  "title": "Efficient strategies for adding and subtracting decimals",
+  "id": "1nAkKN440FzirUt9O3kt3MgT5tJ6YEPtS",
+  "why": "Decimal add/subtract word problems, US units",
+  "catalogue_title": "Grade 4 Math - Decimals - 26 Decimal Word Problem Set - Worksheets.pdf",
+  "sheet_grade": "G4"
+ },
+ {
+  "grade": "G4",
+  "unit": "Place Value",
+  "step": 3,
+  "title": "Numbers to 100,000",
+  "id": "1eJ_mPouGj6W5TrDB45-bSy_nT7flRrQl",
+  "why": "4-6 digit standard and expanded form (easier, grade 3 folder)",
+  "catalogue_title": "Grade 3 Math - Place Value - 26 Combined Review Thousands Place Value - Worksheets.pdf",
+  "sheet_grade": "G3"
+ },
+ {
+  "grade": "G4",
+  "unit": "Shape",
+  "step": 7,
+  "title": "Draw lines and angles accurately",
+  "id": "1oNynxy3EWAqovqoKxqKWO9L_k_JSD1-J",
+  "why": "draw angles with protractor, 5-degree increments",
+  "catalogue_title": "Grade 4 Math - Angles - 23 Drawing Angles with a Protractor 5-Degree Increments - Worksheets.pdf",
+  "sheet_grade": "G4"
+ },
+ {
+  "grade": "G4",
+  "unit": "Place Value",
+  "step": 11,
+  "title": "Compare and order numbers to 1,000,000",
+  "id": "1sZhnjI9q-rul1wBz74U5cpwiToglBl4W",
+  "why": "order six-digit numbers with symbols",
+  "catalogue_title": "Grade 5 Math - Comparing & Ordering Numbers - 06 Arranging 6-digit Numbers Using Symbols - Worksheets.pdf",
+  "sheet_grade": "G5"
+ },
+ {
+  "grade": "G4",
+  "unit": "Statistics",
+  "step": 3,
+  "title": "Read and interpret tables",
+  "id": "1q2KojafzM5kk09fp4gjUS3bNPhcb_CDD",
+  "why": "Tally raw data into frequency tables and answer questions (simple, grade 5 folder but easy level)",
+  "catalogue_title": "Grade 5 Math - Data & Graphs - 01 Frequency Charts Ungrouped Data - Worksheets.pdf",
+  "sheet_grade": "G5"
+ },
+ {
+  "grade": "G4",
+  "unit": "Place Value",
+  "step": 15,
+  "title": "Negative numbers",
+  "id": "1ZqmBaj49zgqcbU6122Z9ko9QWnohZNmL",
+  "why": "complete number line patterns through negatives",
+  "catalogue_title": "Grade 6 Math - Integers - 51 Number Pattern Number Line - Worksheets.pdf",
+  "sheet_grade": "G6"
+ },
+ {
+  "grade": "G2",
+  "unit": "Addition and Subtraction",
+  "step": 2,
+  "title": "Add and subtract 1s",
+  "id": "1-pODww_PDkwdNqebeKN5-qO2DUzxkQki",
+  "why": "2-digit plus 1-digit with base-10 blocks",
+  "catalogue_title": "Grade 1 Math - Addition - 27 Using Blocks for Adding 2-Digit and 1-Digit Numbers - Worksheets.pdf",
+  "sheet_grade": "G1"
+ }
+]
