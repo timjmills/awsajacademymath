@@ -1,0 +1,307 @@
+{
+ "G4|Roman numerals to 1,000": {
+  "core": [],
+  "prereq": [],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1pxGupf3inN7mmcmMrxXJgnoIOO4Scvco/view",
+    "Arabic-to-Roman conversion machine (to ~36) - extend the same routine to C, D, M"
+   ],
+   [
+    "https://drive.google.com/file/d/1I_DvpFQiwrkVemNQVsYdkZQ3ONbkahKF/view",
+    "Roman numeral reference charts to 100 for scaffolding larger numerals"
+   ]
+  ]
+ },
+ "G4|Factors": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/18Hk3A7rgE4WE1_mYAIvwaiG5dF2dpWN0/view",
+   "https://drive.google.com/file/d/1Xgnr3TfwDtpJk3-qUBmlXbIPVWUTEKC-/view",
+   "https://drive.google.com/file/d/19VO8jqQ2HsUJAogLhaMydFUpNqofFEwg/view"
+  ],
+  "related": []
+ },
+ "G4|Multiples of 10, 100 and 1,000": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1nCl_1Yn7tDfjCKwY_6gwYa5KIz8JzcVj/view",
+   "https://drive.google.com/file/d/1PD6q4Jvxwq7KqUqr490PZoPLZWvRRGML/view",
+   "https://drive.google.com/file/d/1HitK-VApD6_jp1OD_BdfCWQ21oBhSRcm/view"
+  ],
+  "related": []
+ },
+ "G4|Find emergent features (e.g., units digit cycle)": {
+  "core": [
+   "https://drive.google.com/file/d/1Ji6uMUwpbQIFcSbIGJOecR_k6YUJlyI6/view",
+   "https://drive.google.com/file/d/1xgNM3gO20tS7RtKeG8LVovPxr2ANoNnz/view"
+  ],
+  "prereq": [
+   "https://drive.google.com/file/d/1EpoCRemPWeyQg9x5NngktBOSVNcTKD7P/view",
+   "https://drive.google.com/file/d/1GLDCo7ocOm81setxElVav5Nc33rw-sfI/view",
+   "https://drive.google.com/file/d/1g4fbLHr4_bA8mZJiOWl4VB6tWjEEca7Y/view"
+  ],
+  "related": []
+ },
+ "G4|Multiplicative comparison: times as many": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1MCjm_8NS8XMKDEHD40Nqb9HQW2kHxOVN/view",
+   "https://drive.google.com/file/d/1kRtg099Ugwnog6PgxCAnu3uXNXKvcs8m/view",
+   "https://drive.google.com/file/d/16quBDqxRfIIVSDAzoiTCV87eVhJMS69T/view"
+  ],
+  "related": []
+ },
+ "G4|10 / 100 / 1,000 / 10,000 / 100,000 more or less": {
+  "core": [],
+  "prereq": [],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1SFOyCBGMi83rLVhXOO-KLseTnnlgMUE6/view",
+    "value of a specified digit - identifies which digit changes when adding 10/100/1,000"
+   ],
+   [
+    "https://drive.google.com/file/d/1EQouCiLcbNNJ5qVCaHO-IVE3j13vbs03/view",
+    "G2 ten more/ten less sequences - same routine at a smaller scale"
+   ]
+  ]
+ },
+ "G4|Mental strategies": {
+  "core": [],
+  "prereq": [],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1h9b17bI5xrm4SOQDQDWLen95z8ZmqvSF/view",
+    "addition properties (commutative/associative) that underpin mental reordering"
+   ],
+   [
+    "https://drive.google.com/file/d/1r7xaJn_0SXo27fYkU7SjnuKBcmF3vFyi/view",
+    "subtracting from multiples of powers of 10 - numbers suited to mental methods"
+   ]
+  ]
+ },
+ "G4|Inverse operations (addition and subtraction)": {
+  "core": [
+   "https://drive.google.com/file/d/1v4478ZSWIfSGZTiHohh_Q41j0qGiNgqQ/view",
+   "https://drive.google.com/file/d/1T7De25N3Ynj6S60CZuiBpWRqbgDMrwCd/view",
+   "https://drive.google.com/file/d/1Ix2An4f6D4bb_bLJ8KLVWgmOjB92bGxr/view"
+  ],
+  "prereq": [],
+  "related": []
+ },
+ "G4|Multi-step addition and subtraction problems": {
+  "core": [
+   "https://drive.google.com/file/d/1zI3tOoSrYkd1vMARPsKWc9YKPhYLffGS/view",
+   "https://drive.google.com/file/d/1ewwK5xvOyjdIN8BDYxcWb3EUl2yp0KT5/view"
+  ],
+  "prereq": [],
+  "related": []
+ },
+ "G4|Compare calculations": {
+  "core": [
+   "https://drive.google.com/file/d/1wcuBADFdqFfIntgIj6iyV2DSDoCPZOGE/view"
+  ],
+  "prereq": [],
+  "related": []
+ },
+ "G4|Multiply by 10, 100 and 1,000": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1nCl_1Yn7tDfjCKwY_6gwYa5KIz8JzcVj/view",
+   "https://drive.google.com/file/d/1PD6q4Jvxwq7KqUqr490PZoPLZWvRRGML/view",
+   "https://drive.google.com/file/d/1Ay1SykV6ymJxUUl9iNorm82Ljd_kQV09/view"
+  ],
+  "related": []
+ },
+ "G4|Divide by 10, 100 and 1,000": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1D5ZEUcHomy0HoBYe1T8iWF8E6_8pIhrX/view",
+   "https://drive.google.com/file/d/11rTY2kaAUXmqyok4rusyj1hIBpQrI9Rd/view",
+   "https://drive.google.com/file/d/1Ay1SykV6ymJxUUl9iNorm82Ljd_kQV09/view"
+  ],
+  "related": []
+ },
+ "G4|Add decimals with the same number of decimal places": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1GDE_qRDSqAsD9Mc8o9Azhs2POuno1lmI/view",
+   "https://drive.google.com/file/d/1wzrKPwcChSPKXr0B7SPfTKw8b3MxRWs6/view",
+   "https://drive.google.com/file/d/1_i5AqSJJcfDrshMLtQx7heEUNpF-VLhx/view"
+  ],
+  "related": []
+ },
+ "G4|Find the whole": {
+  "core": [],
+  "prereq": [],
+  "related": []
+ },
+ "G4|Use fractions as operators": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1YUBnK3ujlszOEyh6UVdTpB-Lyvve-_Ed/view",
+   "https://drive.google.com/file/d/1PTnlYU-7yMybqK5Kg6q_kOwLp99LRuXn/view"
+  ],
+  "related": []
+ },
+ "G4|Decimals up to 2 decimal places": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1XDQV7EZeEhIrCACvGgIzLAxk6Z3W8H03/view",
+   "https://drive.google.com/file/d/19-lDIgFNjebTbc5UDFqbiAv3Y30hBjuI/view",
+   "https://drive.google.com/file/d/18U5SbOi4n95OtmeaEdrImtlW1zwGMxMA/view"
+  ],
+  "related": []
+ },
+ "G4|Thousandths as fractions": {
+  "core": [
+   "https://drive.google.com/file/d/1S2QIaS2XARSWtHtLf0RhESh5SAzkODnz/view"
+  ],
+  "prereq": [],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1pIZDiudOoZUVMb9MjL73CY_mdjMHppJx/view",
+    "read and write decimals to thousandths in words - names the thousandths fraction"
+   ]
+  ]
+ },
+ "G4|Parallel and perpendicular": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/19NNOF4eSCP0ChP1TqYFAYi_Iwy2GJ75w/view",
+   "https://drive.google.com/file/d/16EjfyowLYmlUFtz7nNc43QGGgx86LaPI/view",
+   "https://drive.google.com/file/d/1qKZzwiqRpd9f4Fx8SZuBqYAahD3kSCdq/view"
+  ],
+  "related": []
+ },
+ "G4|3D shapes": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1zSk1_qN2odwrcbGvgogUOi3oMwlN3ajO/view",
+   "https://drive.google.com/file/d/1cpCAM6Qmu4rVANktzIhrDwPs5tlO4zOT/view",
+   "https://drive.google.com/file/d/176QM8YFBmCotbGeNF4qOR5Vphwc5bEYu/view"
+  ],
+  "related": []
+ },
+ "G4|Read and plot coordinates": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1oPP0_s6Ir_LEnD99Z4zM8Gx_oFW4atbz/view",
+   "https://drive.google.com/file/d/1Mf-mudN9xArAIKTQJ3t50q31MuBu3-Et/view"
+  ],
+  "related": []
+ },
+ "G4|Translation": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/18zZ6XrUjATgFdfiZclR2uSpQ__Sfdxvh/view",
+   "https://drive.google.com/file/d/13bPRHrobXGVCrVvNpU9_YvcnTrScm9vS/view"
+  ],
+  "related": []
+ },
+ "G4|Translation with coordinates": {
+  "core": [
+   "https://drive.google.com/file/d/1JC1xlYf396rdSDv3Kc9F2g2AyWJ0tEkM/view",
+   "https://drive.google.com/file/d/1evdsPe4TBooOFa1XlRJirNzmhBvIHYrt/view"
+  ],
+  "prereq": [],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1DgF9bmx6fGJVl3nBz_oJssalqOL4gLbZ/view",
+    "identify which picture shows a translation vs reflection/rotation"
+   ]
+  ]
+ },
+ "G4|Lines of symmetry": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1pVhIf-DTwM9c5Fm1ZWbXo1PcC0ZSCUD_/view",
+   "https://drive.google.com/file/d/1_nQrS88e4DVYlqlRTPgrDpcYSNG7ZCYv/view",
+   "https://drive.google.com/file/d/11xhNfCK_SbI7azazuHMkiO171KBZhRvw/view"
+  ],
+  "related": []
+ },
+ "G4|Line plots with fractions": {
+  "core": [
+   "https://drive.google.com/file/d/1d_RPXpzXLql4cYFoqNxuDFHeRx-dbw9o/view",
+   "https://drive.google.com/file/d/1kim64n4p_xo29-XJLmoBTTpMPwiG66cW/view"
+  ],
+  "prereq": [],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1Knkv-XzBn8xeemD1WS26ryeehT-__taD/view",
+    "mixed numbers on a number line - the fractional scale a fraction line plot needs"
+   ]
+  ]
+ },
+ "G4|Convert between metric and imperial units": {
+  "core": [],
+  "prereq": [],
+  "related": []
+ },
+ "G4|Measurement word problems: distance, time, mass, money and capacity": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1xhzPvtxE7OqUnCtIk_SyGEqHvT3wg8Xy/view",
+   "https://drive.google.com/file/d/1TtpYFPAJrwYhVhrJLYIRqTXPOGORmr5P/view",
+   "https://drive.google.com/file/d/1KeaYCRGpiDiyXBNU5-5Y5Gm0V64LamA8/view"
+  ],
+  "related": []
+ },
+ "G4|Complements to 1": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1gHtTHM0-6X-1TwkdVXv2--TehZMqbLDV/view",
+   "https://drive.google.com/file/d/1EKS4wIb457IY5ijlDoUK1Vm5MjADSH3o/view",
+   "https://drive.google.com/file/d/15ODLiEMMfsY5zmkkkrXdGVUJ7gKRkaiH/view"
+  ],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1IqVE3M44l4w3YIWCysgByQf3-WSjv1EF/view",
+    "missing decimal addends on a tenths number line - set totals of 1"
+   ]
+  ]
+ },
+ "G4|Compare volume": {
+  "core": [
+   "https://drive.google.com/file/d/1bnLtdEbWHaocHxV2RxTkpWhH9QwknEpl/view",
+   "https://drive.google.com/file/d/1AsYjbcg1HxsgER8IFEl6Nc1G6_fgp84N/view"
+  ],
+  "prereq": [],
+  "related": []
+ },
+ "G4|Estimate volume": {
+  "core": [],
+  "prereq": [],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1bnLtdEbWHaocHxV2RxTkpWhH9QwknEpl/view",
+    "count unit cubes first, then estimate larger solids against that benchmark"
+   ]
+  ]
+ },
+ "G4|Square numbers": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/18o11otIIuRCcJ19I3vvhd531-uHqCdVE/view",
+   "https://drive.google.com/file/d/1Jvqsfv4elx2qXoqYit0p76b68fXCZF4Z/view"
+  ],
+  "related": []
+ },
+ "G4|Cube numbers": {
+  "core": [
+   "https://drive.google.com/file/d/1gogs840_yWsw6StXXnKjGnL0XshCc3ut/view",
+   "https://drive.google.com/file/d/1PbOayWhfvDl5uSppqh6sVjyeyFcUBtFg/view"
+  ],
+  "prereq": [
+   "https://drive.google.com/file/d/1r5FGN3cZHDmgPHhNXSIHzuLPZfBvCejB/view",
+   "https://drive.google.com/file/d/1Jvqsfv4elx2qXoqYit0p76b68fXCZF4Z/view"
+  ],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1uCq__qMoyWzSwfoQekUL9I7-EcGoSJ6b/view",
+    "count cubes in prisms - build 2x2x2, 3x3x3 to see cube numbers"
+   ]
+  ]
+ }
+}

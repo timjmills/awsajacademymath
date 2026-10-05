@@ -56,6 +56,13 @@ def spread(items, weeks):
     return out
 
 
+SUPPORT = {g: json.load(open(f'inputs/support_result_{g}.json')) for g in GR if os.path.exists(f'inputs/support_result_{g}.json')}
+TAGCOLOR = {}
+TAG2G = {"Rec/PK4": "PK", "Y1/KG": "K", "Y2/Gr.1": "G1", "Y3/Gr.2": "G2", "Y4/Gr.3": "G3", "Y5/Gr.4": "G4", "Y6/Gr.5": "G5"}
+for gg in PILLS.values():
+    for lst in gg.values():
+        for p in lst:
+            if p.get('tag') and p.get('color') and not p.get('enr'): TAGCOLOR.setdefault(p['tag'], p['color'])
 report = {}
 for g in GR:
     seq = SEQ[g]; recs, mem = live_index(g); used = collections.Counter()
@@ -124,6 +131,9 @@ for g in GR:
                 pk = dkey(p['name']) + p.get('tag', '')
                 cnt[pk] += 1; first.setdefault(pk, p)
         pl = [first[pk] for pk, _ in cnt.most_common(10)]
+        if g in SUPPORT and w in SUPPORT[g]:   # reviewed support list for this week's lessons
+            pl = [{"tag": p['tag'], "name": p['name'], "d": "", "color": TAGCOLOR.get(p['tag'], '#AD1457')} for p in SUPPORT[g][w]
+                  if dkey(p['name']) in (RES.get(TAG2G.get(p['tag'], ''), {}).get('n') or {})]   # only lessons with White Rose files
         for tr in weeks[w]['t']:
             cell = weeks[w]['t'][tr]
             cell['st'] = [x['st'] for x in cell['st']]
@@ -179,6 +189,24 @@ for g in GR:
             if src: WM[key] = WM[src[0]]
         if key in WM: ws_added.append(f"{g} · {it['lesson']}")
 print('MW4K picks added:', len(ws_added))
+WSFIX = {}
+for g in GR:
+    if os.path.exists(f'inputs/ws_result_{g}.json'): WSFIX.update(json.load(open(f'inputs/ws_result_{g}.json')))
+nfix = 0
+for k, v in WSFIX.items():
+    g, title = k.split('|', 1); t = rnorm(title)
+    keys = [kk for gg, kk in by_title.get(t, []) if gg == g and kk in WM] + ([f"{g}||{t}"] if f"{g}||{t}" in WM else [])
+    if not keys: keys = [f"{g}||{t}"]; WM[keys[0]] = {"c": [], "p": [], "r": []}
+    add = {"c": [sheet(x) for x in v.get('core', []) if x in cat], "p": [sheet(x) for x in v.get('prereq', []) if x in cat],
+           "r": [[sheet(x), '', why] for x, why in v.get('related', []) if x in cat]}
+    for kk in set(keys):
+        e = WM[kk] = {"c": list(WM[kk].get('c', [])), "p": list(WM[kk].get('p', [])), "r": list(WM[kk].get('r', []))}
+        if not e['c']: e['c'] = add['c']
+        if not e['p']: e['p'] = add['p']
+        have = {(x if isinstance(x, int) else x[0]) for x in e['r']}
+        e['r'] += [r for r in add['r'] if r[0] not in have]
+    nfix += 1
+print('MW4K reviewed fixes:', nfix)
 
 # ---- other pages follow the new sequence: counts, BUILD lists, standards rows, domain tests
 CUR = D['CURRICULUM']; CMAP = D['CCSSMAP']['grades']

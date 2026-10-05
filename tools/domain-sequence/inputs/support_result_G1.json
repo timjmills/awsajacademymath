@@ -1,0 +1,1738 @@
+{
+ "W01": [
+  {
+   "tag": "Rec/PK4",
+   "name": "Build numbers beyond 10 (10 -13)"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Build numbers beyond 10 (14-20)"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count within 20"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Understand 10"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Understand 11, 12 and 13"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Understand 14, 15 and 16"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Understand 20"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count from 20 to 50"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count by making groups of tens"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Groups of tens and ones"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Partition into tens and ones"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Tens to 100"
+  }
+ ],
+ "W02": [
+  {
+   "tag": "Rec/PK4",
+   "name": "Composition to 10"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Build numbers beyond 10 (14-20)"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Recognise numbers as words"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Introduce parts and wholes"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Part-whole model"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Write number sentences"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Understand 11, 12 and 13"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "20, 30, 40 and 50"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count by making groups of tens"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Groups of tens and ones"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Partition into tens and ones"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Tens to 100"
+  }
+ ],
+ "W03": [
+  {
+   "tag": "Rec/PK4",
+   "name": "Compare amounts"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Compare numbers to 10"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Fewer, more, same"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "The number line to 20"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Estimate on a number line to 20"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count in 10s"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "The number line to 50"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Estimate on a number line to 50"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "The number line to 100"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Partition into tens and ones"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Compare numbers with the same number of tens"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Compare any two numbers"
+  }
+ ],
+ "W04": [
+  {
+   "tag": "Rec/PK4",
+   "name": "Compare amounts"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Compare numbers to 10"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Less than, greater than, equal to"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Compare numbers to 20"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Order numbers to 20"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Order objects and numbers"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Compare numbers with the same number of tens"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Compare any two numbers"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Partition into tens and ones"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "The number line to 100"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count in 2s"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count in 5s"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count in 10s"
+  }
+ ],
+ "W05": [
+  {
+   "tag": "Rec/PK4",
+   "name": "Verbal counting beyond 20"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Bonds to 10 (2 parts)"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Number bonds within 10"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Number bonds to 10"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Recognise equal groups"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count in 2s"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count in 5s"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count in 10s"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "20, 30, 40 and 50"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count from 50 to 100"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Tens to 100"
+  }
+ ],
+ "W06": [
+  {
+   "tag": "Rec/PK4",
+   "name": "Bonds to 10 (2 parts)"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Take away"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Number bonds to 10"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Find and make number bonds to 20"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Fact families - the eight facts"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Add ones using number bonds"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Subtract ones using number bonds"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Subtraction - finding the difference"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Partition into tens and ones"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Tens to 100"
+  }
+ ],
+ "W07": [
+  {
+   "tag": "Rec/PK4",
+   "name": "Make arrangements of 10"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Bonds to 10 (2 parts)"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Understand 10"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Number bonds to 10"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Find and make number bonds to 20"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Add ones using number bonds"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "1 more, 1 less"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count in 10s"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Groups of tens and ones"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Partition into tens and ones"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Tens to 100"
+  }
+ ],
+ "W08": [
+  {
+   "tag": "Rec/PK4",
+   "name": "Compare amounts"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Less than, greater than, equal to"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Addition problems"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Subtraction - finding the difference"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count in 2s"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count in 5s"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count in 10s"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Unitising"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Recognise coins (US: dollars & cents)"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Recognise notes (US: dollars & cents)"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count in coins (US: dollars & cents)"
+  }
+ ],
+ "W09": [
+  {
+   "tag": "Rec/PK4",
+   "name": "Composition to 10"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Bonds to 10 (2 parts)"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Part-whole model"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Number bonds within 10"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Number bonds to 10"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Fact families - addition facts"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Fact families - the eight facts"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Related facts"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Add ones using number bonds"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Subtract ones using number bonds"
+  }
+ ],
+ "W10": [
+  {
+   "tag": "Rec/PK4",
+   "name": "Make arrangements of 10"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Bonds to 10 (3 parts)"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Number bonds within 10"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Number bonds to 10"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Fact families - addition facts"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Fact families - the eight facts"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Related facts"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "1 more, 1 less"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Add or subtract 1 or 2"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Add by counting on within 20"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Subtraction - counting back"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Add ones using number bonds"
+  }
+ ],
+ "W11": [
+  {
+   "tag": "Rec/PK4",
+   "name": "Take away"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Compare numbers to 10"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Part-whole model"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Number bonds to 10"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Find a part"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Fact families - the eight facts"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Subtraction - counting back"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Subtraction on a number line"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Subtract ones using number bonds"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Less than, greater than, equal to"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Missing number problems"
+  }
+ ],
+ "W12": [
+  {
+   "tag": "Rec/PK4",
+   "name": "Take away"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Number bonds to 10"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Add by counting on within 20"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Subtraction - take away (How many left )"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Subtraction - finding the difference"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Subtraction on a number line"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Unitising"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Recognise coins (US: dollars & cents)"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count in coins (US: dollars & cents)"
+  }
+ ],
+ "W13": [
+  {
+   "tag": "Rec/PK4",
+   "name": "Identify and name circles and triangles"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Identify and name shapes with 4 sides"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Compare circles and triangles"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Copy 2-D shape pictures"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Recognise and name 2D shapes"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Sort 2D shapes"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Recognise a half of an object or a shape"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Find a half of an object or a shape"
+  }
+ ],
+ "W14": [
+  {
+   "tag": "Rec/PK4",
+   "name": "Sort objects to a type"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Identify and name circles and triangles"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Identify and name shapes with 4 sides"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Recognise and name 3-D shapes"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Find 2-D shapes within 3-D shapes"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Sort objects"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Recognise and name 2D shapes"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Sort 2D shapes"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Recognise and name 3D shapes"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Sort 3D shapes"
+  }
+ ],
+ "W15": [
+  {
+   "tag": "Rec/PK4",
+   "name": "Identify and name circles and triangles"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Recognise and name 3-D shapes"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Find 2-D shapes within 3-D shapes"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Identify units of repeating patterns"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Copy and continue patterns"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Sort objects"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Recognise and name 2D shapes"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Sort 2D shapes"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Recognise and name 3D shapes"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Sort 3D shapes"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Patterns with 2D and 3D shapes"
+  }
+ ],
+ "W16": [
+  {
+   "tag": "Rec/PK4",
+   "name": "Compose shapes"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Decompose shapes"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Combine shapes with 4 sides"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Sharing"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Even and odd sharing"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Introduce parts and wholes"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Part-whole model"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Recognise equal groups"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Recognise a half of an object or a shape"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Find a half of an object or a shape"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Find a quarter of an object or a shape"
+  }
+ ],
+ "W17": [
+  {
+   "tag": "Rec/PK4",
+   "name": "Sharing"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Even and odd sharing"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Introduce parts and wholes"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Recognise equal groups"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Make equal groups - sharing"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Recognise a half of an object or a shape"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Find a half of an object or a shape"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Recognise a half of a quantity"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Find a half of a quantity"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Recognise a quarter of an object or a shape"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Find a quarter of an object or a shape"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Recognise a quarter of a quantity"
+  }
+ ],
+ "W18": [
+  {
+   "tag": "Rec/PK4",
+   "name": "Sharing"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Introduce parts and wholes"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Part-whole model"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Make equal groups - sharing"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Find a half of an object or a shape"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Find a half of a quantity"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Recognise a quarter of an object or a shape"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Find a quarter of an object or a shape"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Recognise a quarter of a quantity"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Find a quarter of a quantity"
+  }
+ ],
+ "W19": [
+  {
+   "tag": "Rec/PK4",
+   "name": "Describe position"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Describe positions"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Give instructions to build"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Explore mapping"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Rotate shapes"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Describe position - left and right"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Describe position - forwards and backwards"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Describe position - above and below"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Describe turns"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Ordinal numbers"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Recognise a quarter of an object or a shape"
+  }
+ ],
+ "W20": [
+  {
+   "tag": "Rec/PK4",
+   "name": "Sort objects to a type"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Copy and continue patterns"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Rotate shapes"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Give instructions to build"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Sort objects"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count objects"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Fewer, more, same"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Describe turns"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Describe position - left and right"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Describe position - forwards and backwards"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Recognise a quarter of an object or a shape"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Patterns with 2D and 3D shapes"
+  }
+ ],
+ "W21": [
+  {
+   "tag": "Rec/PK4",
+   "name": "Explore length"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Compare length"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Explore height"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Compare height"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Compare lengths and heights"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Measure length using objects"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Measure length in centimetres"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "The number line to 20"
+  }
+ ],
+ "W22": [
+  {
+   "tag": "Rec/PK4",
+   "name": "Compare size"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Compare length"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Explore height"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Compare height"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Compare mass"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Find a balance"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Less than, greater than, equal to"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Order objects and numbers"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Compare lengths and heights"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Measure length using objects"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Heavier and lighter"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Compare mass"
+  }
+ ],
+ "W23": [
+  {
+   "tag": "Rec/PK4",
+   "name": "Explore capacity"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Compare capacity"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "My day and night"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Order and sequence time"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Full and empty"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Compare volume"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Compare capacity"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Before and after"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Hours, minutes and seconds"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Tell the time to the hour"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Tell the time to the half hour"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count in 5s"
+  }
+ ],
+ "W24": [
+  {
+   "tag": "Rec/PK4",
+   "name": "Sort objects to a type"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Create sorting rules"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Compare amounts"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Sort objects"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count objects"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Represent objects"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Fewer, more, same"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count in 5s"
+  }
+ ],
+ "W25": [
+  {
+   "tag": "Rec/PK4",
+   "name": "Match objects"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Sort objects to a type"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Compare amounts"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Sort objects"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count objects"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Represent objects"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Compare groups by matching"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Fewer, more, same"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Less than, greater than, equal to"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Subtraction - finding the difference"
+  }
+ ],
+ "W26": [
+  {
+   "tag": "Rec/PK4",
+   "name": "Grouping"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count in 5s"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count in 10s"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "20, 30, 40 and 50"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Tens to 100"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Recognise equal groups"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Add equal groups"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Make arrays"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Make equal groups - grouping"
+  }
+ ],
+ "W27": [
+  {
+   "tag": "Rec/PK4",
+   "name": "Explore grouping"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Grouping"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count in 2s"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count in 5s"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count in 10s"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Make doubles"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Recognise equal groups"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Add equal groups"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Make equal groups - grouping"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Make arrays"
+  }
+ ],
+ "W28": [
+  {
+   "tag": "Rec/PK4",
+   "name": "Explore grouping"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Grouping"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Doubles to 10 (make a double)"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Write number sentences"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count in 2s"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count in 5s"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count in 10s"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Make doubles"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Recognise equal groups"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Add equal groups"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Make equal groups - grouping"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Make arrays"
+  }
+ ],
+ "W29": [
+  {
+   "tag": "Rec/PK4",
+   "name": "Explore sharing"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Sharing"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Grouping"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Make pairs-odd and even"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Doubles to 10 (find a double)"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count in 2s"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Make doubles"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Recognise equal groups"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Add equal groups"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Make arrays"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Make equal groups - grouping"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Make equal groups - sharing"
+  }
+ ],
+ "W30": [
+  {
+   "tag": "Rec/PK4",
+   "name": "Make pairs-odd and even"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Explore even and odd"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Even and odd sharing"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Sharing"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Doubles to 10 (make a double)"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count in 2s"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Recognise equal groups"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Make doubles"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Doubles"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Recognise a half of a quantity"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Find a half of a quantity"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Make equal groups - sharing"
+  }
+ ],
+ "W31": [
+  {
+   "tag": "Rec/PK4",
+   "name": "Sharing"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Grouping"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count in 5s"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count in 10s"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "20, 30, 40 and 50"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Recognise equal groups"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Make arrays"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Make equal groups - grouping"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Make equal groups - sharing"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Introduce parts and wholes"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Find a half of an object or a shape"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Find a quarter of an object or a shape"
+  }
+ ],
+ "W32": [
+  {
+   "tag": "Rec/PK4",
+   "name": "Bonds to 10 (2 parts)"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Addition - add together"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Find and make number bonds to 20"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count in 2s"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count in 5s"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count in 10s"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Unitising"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Recognise coins (US: dollars & cents)"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Recognise notes (US: dollars & cents)"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count in coins (US: dollars & cents)"
+  }
+ ],
+ "W33": [
+  {
+   "tag": "Rec/PK4",
+   "name": "Bonds to 10 (2 parts)"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Add by counting on within 20"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Addition problems"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Subtraction - finding the difference"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count in 2s"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count in 5s"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count in 10s"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Unitising"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Recognise coins (US: dollars & cents)"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Recognise notes (US: dollars & cents)"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count in coins (US: dollars & cents)"
+  }
+ ],
+ "W34": [
+  {
+   "tag": "Rec/PK4",
+   "name": "Compare mass"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Find a balance"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Tens to 100"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Addition problems"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Unitising"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count in coins (US: dollars & cents)"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Compare lengths and heights"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Measure length using objects"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Measure length in centimetres"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Heavier and lighter"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Compare mass"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Measure mass"
+  }
+ ],
+ "W35": [
+  {
+   "tag": "Rec/PK4",
+   "name": "Compare mass"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Find a balance"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Explore capacity"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Compare capacity"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Estimate on a number line to 50"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Heavier and lighter"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Compare mass"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Measure mass"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Full and empty"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Compare volume"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Compare capacity"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Measure capacity"
+  }
+ ],
+ "W36": [
+  {
+   "tag": "Rec/PK4",
+   "name": "Explore capacity"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Compare capacity"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Estimate on a number line to 50"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Full and empty"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Compare volume"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Compare capacity"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Measure capacity"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count in 5s"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Recognise a quarter of an object or a shape"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Hours, minutes and seconds"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Tell the time to the hour"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Tell the time to the half hour"
+  }
+ ],
+ "W37": [
+  {
+   "tag": "Rec/PK4",
+   "name": "Order and sequence time"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Sort objects"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count objects"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count in 2s"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count in 5s"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count in 10s"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Before and after"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Hours, minutes and seconds"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Tell the time to the hour"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Tell the time to the half hour"
+  }
+ ],
+ "W38": [
+  {
+   "tag": "Rec/PK4",
+   "name": "Sharing"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count in 2s"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count in 5s"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Count in 10s"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Introduce parts and wholes"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Make equal groups - sharing"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Recognise a half of an object or a shape"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Find a half of a quantity"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Recognise a quarter of an object or a shape"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Find a quarter of an object or a shape"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Recognise a quarter of a quantity"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Find a quarter of a quantity"
+  }
+ ]
+}

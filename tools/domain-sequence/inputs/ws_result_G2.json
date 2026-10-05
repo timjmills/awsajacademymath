@@ -1,0 +1,239 @@
+{
+ "G2|Count in 50s": {
+  "core": [],
+  "prereq": [],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1qs0EJrv2mOdEtqIIqIlc83MlCMiw4BGy/view",
+    "Counting half dollars practises steps of 50"
+   ],
+   [
+    "https://drive.google.com/file/d/1_fHHKuQpJIxDlcYoDdjthPL9B6a-Y6Bg/view",
+    "Picture skip counting in 25s and 100s, the neighbours of counting in 50s"
+   ]
+  ]
+ },
+ "G2|Complements to 100": {
+  "core": [],
+  "prereq": [],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1TvQOP5duM-LKK3smUvxfYwsABZZY9HdG/view",
+    "Change from a $1 bill is finding the complement to 100 cents"
+   ],
+   [
+    "https://drive.google.com/file/d/1CtDGW4CMeYhMnYENCu6vhZQnUhAMwSkV/view",
+    "Find number pairs that add to a target sum"
+   ]
+  ]
+ },
+ "G2|Estimate on a number line to 1,000": {
+  "core": [
+   "https://drive.google.com/file/d/1C_6bv_Ak-MljfEZHszcX-jN21uj4uC0U/view"
+  ],
+  "prereq": [],
+  "related": [
+   [
+    "https://drive.google.com/file/d/115PJSjdyomQhpIA-albWyVPYucVsi5ZQ/view",
+    "Number lines marked in 100s, the scale used for 0-1,000 estimates"
+   ]
+  ]
+ },
+ "G2|Measure in metres and centimetres": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/17boacG9P4cC6-XnIx_K3pydlFeMewwyw/view",
+   "https://drive.google.com/file/d/1mrhnvbZbQJ4azKybqNdKpoHluQVASKf2/view"
+  ],
+  "related": []
+ },
+ "G2|Equivalent lengths (metres and centimetres)": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/13MFUBW7YLUfog5QEKbp3XocSiTgBGQKv/view",
+   "https://drive.google.com/file/d/1OW22ErJiu_wK-Cq79tbvPeoQ-lMfiQEO/view"
+  ],
+  "related": []
+ },
+ "G2|Roman numerals to 12": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/107-CY3jlGbDAJ8c6DW9LcNKiZfanD8nq/view",
+   "https://drive.google.com/file/d/1aujKAahVpvSgfgWkDqaIPAQNiGtjXj00/view"
+  ],
+  "related": []
+ },
+ "G2|Days and hours": {
+  "core": [
+   "https://drive.google.com/file/d/18yMTGomcOE4bvZTxc0cWS4EPNsKZciDv/view",
+   "https://drive.google.com/file/d/1n4mi2nYAjcVbhHNia7-uR3-cKXo-_LWm/view"
+  ],
+  "prereq": [],
+  "related": []
+ },
+ "G2|Measure and draw accurately": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1Spmjx4XR3car9oGjD2LqBipAqqNgsVaA/view",
+   "https://drive.google.com/file/d/17boacG9P4cC6-XnIx_K3pydlFeMewwyw/view"
+  ],
+  "related": []
+ },
+ "G2|Two-way tables": {
+  "core": [],
+  "prereq": [],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1SFlrpJqasnROWFbFlN1SQ-c1ZxvrwYDY/view",
+    "Reading and answering questions from a one-way tally table"
+   ]
+  ]
+ },
+ "G2|Count squares": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1CAoFNcf909mIC_f3pMH5GsHjYr5BNFgh/view",
+   "https://drive.google.com/file/d/1_LWwp9hRpDPiLpKFLiCaKsVBTVxAtTcT/view"
+  ],
+  "related": []
+ },
+ "G2|Fractions and scales": {
+  "core": [
+   "https://drive.google.com/file/d/1PrQmTExN61TEesvaDJ45QEDblmhLLzi-/view",
+   "https://drive.google.com/file/d/1wb1b0JX6t8Uc7JM8xg1qxREvWMMdRHAX/view"
+  ],
+  "prereq": [
+   "https://drive.google.com/file/d/1n7OXyxPIb8537UDwxbuDd7ozDPSvaQYr/view"
+  ],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1Gwhy8oZgi5vdVivYT8NQkcC9yP21QqrA/view",
+    "Fraction strips for 1/2, 1/3, 1/4 - the equal parts a scale is split into"
+   ]
+  ]
+ },
+ "G2|Recognise and describe 2D shapes": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1jvJsX7FLDq0XMNh-nIqITMOeP6LIJ96j/view",
+   "https://drive.google.com/file/d/1C6CB0_X4cMZO4xjvDCeGr3sofv_MGEm4/view",
+   "https://drive.google.com/file/d/1q5PVw_1905gehYxho1iTj2aRQmV-zDdm/view"
+  ],
+  "related": []
+ },
+ "G2|Turns and angles": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1zWyAs0FwJp0b63HrjLqNiedyqshR_F9v/view"
+  ],
+  "related": []
+ },
+ "G2|Right angles": {
+  "core": [
+   "https://drive.google.com/file/d/1PT3RCifX68eMGWnJZyzODOufeTDnk5DU/view",
+   "https://drive.google.com/file/d/1Pxi2K__YSEszB1WGSFAV-XPqL-mLAqMD/view",
+   "https://drive.google.com/file/d/1fr1k5TwzyK9hNcbrsJRFTCoRgtwUCaI3/view"
+  ],
+  "prereq": [],
+  "related": []
+ },
+ "G2|Compare angles": {
+  "core": [
+   "https://drive.google.com/file/d/1fr1k5TwzyK9hNcbrsJRFTCoRgtwUCaI3/view",
+   "https://drive.google.com/file/d/1TiiO2PapJb8T97kZB_nvqWo1luPGis6P/view"
+  ],
+  "prereq": [],
+  "related": []
+ },
+ "G2|Horizontal and vertical": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1GZZajiOP-KQi804mbw_mpCeGKZ6EarBQ/view"
+  ],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1pVhIf-DTwM9c5Fm1ZWbXo1PcC0ZSCUD_/view",
+    "Horizontal vs vertical flips use the same horizontal/vertical vocabulary"
+   ]
+  ]
+ },
+ "G2|Parallel and perpendicular": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/19NNOF4eSCP0ChP1TqYFAYi_Iwy2GJ75w/view"
+  ],
+  "related": []
+ },
+ "G2|Related calculations": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1OW22ErJiu_wK-Cq79tbvPeoQ-lMfiQEO/view",
+   "https://drive.google.com/file/d/1Eb8rt7p_XG_YpZOKKUoRqaEdwCWjz4Gg/view"
+  ],
+  "related": []
+ },
+ "G2|Scaling": {
+  "core": [],
+  "prereq": [],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1rEdehwdhrYOW0cGu2hKPQgzQDxvcF7mM/view",
+    "Balance problems that scale a known equivalence (e.g. two trucks = ? blocks)"
+   ]
+  ]
+ },
+ "G2|How many ways?": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1Eb8rt7p_XG_YpZOKKUoRqaEdwCWjz4Gg/view"
+  ],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1oOqftu73HABW7QoQZHK6anH5W9lH9nH7/view",
+    "Part B lists all possible numbers from given digits - systematic listing"
+   ]
+  ]
+ },
+ "G2|Measure mass in grams": {
+  "core": [],
+  "prereq": [],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1OYWIL3pgM0KaNl7OfM7N3r98ksuTeg-g/view",
+    "Showing a given weight on a dial scale (lb/oz) - same scale-reading skill"
+   ]
+  ]
+ },
+ "G2|Measure mass in kilograms and grams": {
+  "core": [
+   "https://drive.google.com/file/d/165MPK7Ev0ItpJujdNF58M45kBAOeVrv7/view"
+  ],
+  "prereq": [],
+  "related": []
+ },
+ "G2|Add and subtract mass": {
+  "core": [
+   "https://drive.google.com/file/d/1a3y5QU-qn_6YpdRYSC3tWpivUVuork8x/view",
+   "https://drive.google.com/file/d/1TtpYFPAJrwYhVhrJLYIRqTXPOGORmr5P/view",
+   "https://drive.google.com/file/d/1iwj49wHxuwChGr2BywXnhi9FzbEiIK2K/view"
+  ],
+  "prereq": [],
+  "related": []
+ },
+ "G2|Compare and order unit fractions": {
+  "core": [
+   "https://drive.google.com/file/d/1_onsR-aFZh94uQvIjhf4zTDp3ZjjnPFX/view",
+   "https://drive.google.com/file/d/1X2PuM4-CpFIOCy1tYPt0qSqZy0H0DztW/view"
+  ],
+  "prereq": [],
+  "related": []
+ },
+ "G2|Reasoning with fractions of an amount": {
+  "core": [
+   "https://drive.google.com/file/d/1gtaftIzxqQgWZJONWO6O2-g9dWiwm1We/view",
+   "https://drive.google.com/file/d/101KNix4O-0Vz2sdSSrTF6mEDDpYGm8S6/view"
+  ],
+  "prereq": [],
+  "related": []
+ }
+}

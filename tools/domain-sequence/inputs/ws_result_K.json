@@ -1,0 +1,373 @@
+{
+ "K|Count objects": {
+  "core": [],
+  "prereq": [],
+  "related": []
+ },
+ "K|Use a number line to 20": {
+  "core": [],
+  "prereq": [],
+  "related": []
+ },
+ "K|Estimate on a number line to 20": {
+  "core": [],
+  "prereq": [],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1lk7uFocltsl890tkRYBwLaIdM380sJk-/view",
+    "Number line by 1s with missing numbers - positioning practice before estimating (no estimation-on-number-line sheet exists)"
+   ]
+  ]
+ },
+ "K|The number line to 50": {
+  "core": [
+   "https://drive.google.com/file/d/1lk7uFocltsl890tkRYBwLaIdM380sJk-/view",
+   "https://drive.google.com/file/d/1AVW-ZDsq2YMZpGyZsShQlwB1LOOF9vhf/view",
+   "https://drive.google.com/file/d/1iJwO4ktt0tzgIhoptGosID8aADmraQwu/view"
+  ],
+  "prereq": [],
+  "related": []
+ },
+ "K|Estimate on a number line to 50": {
+  "core": [],
+  "prereq": [],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1dkbRDTJXekjvYrcieIf_or4FlTLYXJyi/view",
+    "Relative position of 2-digit numbers on a number line - closest available to estimating position"
+   ],
+   [
+    "https://drive.google.com/file/d/1AVW-ZDsq2YMZpGyZsShQlwB1LOOF9vhf/view",
+    "Counting sequence to 50 along a path"
+   ]
+  ]
+ },
+ "K|Tens to 100": {
+  "core": [],
+  "prereq": [],
+  "related": []
+ },
+ "K|Count in coins (US: dollars & cents)": {
+  "core": [],
+  "prereq": [],
+  "related": []
+ },
+ "K|Write number sentences": {
+  "core": [],
+  "prereq": [],
+  "related": []
+ },
+ "K|Doubles": {
+  "core": [],
+  "prereq": [],
+  "related": []
+ },
+ "K|Near doubles": {
+  "core": [],
+  "prereq": [],
+  "related": []
+ },
+ "K|Make arrays": {
+  "core": [
+   "https://drive.google.com/file/d/1uYW5Fqvzcnxhst8fFUG_qy9YRzdTUToe/view",
+   "https://drive.google.com/file/d/1kt8P26emwzTLH3qlWijpTZOvx6MY3X2M/view"
+  ],
+  "prereq": [],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1Eb8rt7p_XG_YpZOKKUoRqaEdwCWjz4Gg/view",
+    "K equal-groups repeated addition - the counting skill under arrays"
+   ]
+  ]
+ },
+ "K|Make doubles": {
+  "core": [],
+  "prereq": [],
+  "related": []
+ },
+ "K|Sort objects": {
+  "core": [
+   "https://drive.google.com/file/d/1b__VwD_PdOLUo__TSDs1mz4eEQ48x1Lg/view",
+   "https://drive.google.com/file/d/15TPCViEwqlH0uJsCpR2XrBMQ1twC8gXn/view",
+   "https://drive.google.com/file/d/16HSjR-QL9QAfMxQDQyUi5neKyJl-K6h7/view",
+   "https://drive.google.com/file/d/1SF6y8HwcwTw1qHVxJdhI-rzlXRrzzKmL/view"
+  ],
+  "prereq": [],
+  "related": []
+ },
+ "K|Compare lengths and heights": {
+  "core": [],
+  "prereq": [],
+  "related": []
+ },
+ "K|Heavier and lighter": {
+  "core": [],
+  "prereq": [],
+  "related": []
+ },
+ "K|Measure mass": {
+  "core": [
+   "https://drive.google.com/file/d/1rEdehwdhrYOW0cGu2hKPQgzQDxvcF7mM/view",
+   "https://drive.google.com/file/d/1cZr0qLSQiFGWKJ_xRjWCJ5_af9Wd4EvB/view"
+  ],
+  "prereq": [],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1I5KzYwVmre4g6xWmfjhnObCWsQD8ryW5/view",
+    "Heavy vs light on a seesaw - compare before measuring"
+   ]
+  ]
+ },
+ "K|Full and empty": {
+  "core": [],
+  "prereq": [],
+  "related": []
+ },
+ "K|Compare volume": {
+  "core": [
+   "https://drive.google.com/file/d/1hsyixc6a-E3f2IeyVsJ0gW06F6qr-DOM/view",
+   "https://drive.google.com/file/d/100wml1tABmxaqKx_CwcQMIoxMKaZDvmR/view"
+  ],
+  "prereq": [],
+  "related": []
+ },
+ "K|Measure capacity": {
+  "core": [
+   "https://drive.google.com/file/d/1TYirsmQgddf2L7AtSfA41thUgdgE2MXC/view"
+  ],
+  "prereq": [],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1hsyixc6a-E3f2IeyVsJ0gW06F6qr-DOM/view",
+    "Holds more vs holds less - comparison step before measuring"
+   ]
+  ]
+ },
+ "K|Compare capacity": {
+  "core": [
+   "https://drive.google.com/file/d/1hsyixc6a-E3f2IeyVsJ0gW06F6qr-DOM/view",
+   "https://drive.google.com/file/d/100wml1tABmxaqKx_CwcQMIoxMKaZDvmR/view"
+  ],
+  "prereq": [],
+  "related": []
+ },
+ "K|Days of the week": {
+  "core": [],
+  "prereq": [],
+  "related": []
+ },
+ "K|Months of the year": {
+  "core": [],
+  "prereq": [],
+  "related": []
+ },
+ "K|Build and draw shapes": {
+  "core": [],
+  "prereq": [],
+  "related": []
+ },
+ "K|Compose shapes from smaller shapes": {
+  "core": [],
+  "prereq": [],
+  "related": []
+ },
+ "K|Describe turns": {
+  "core": [
+   "https://drive.google.com/file/d/16FISTfqp6xu9wZdNPMxUT4_LXfHRz-Qd/view",
+   "https://drive.google.com/file/d/1bqAzlc8JIdELUL16dovm4uhlX8pq9SPT/view"
+  ],
+  "prereq": [],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1zWyAs0FwJp0b63HrjLqNiedyqshR_F9v/view",
+    "Slide, flip or turn with shapes"
+   ]
+  ]
+ },
+ "K|Describe position - left and right": {
+  "core": [],
+  "prereq": [],
+  "related": []
+ },
+ "K|Describe position - forwards and backwards": {
+  "core": [
+   "https://drive.google.com/file/d/1OSiaSuL7cQTPC_SBmzrGEa9J_1p47hOj/view",
+   "https://drive.google.com/file/d/1PqX374tvI_2ZaF4UJ7VhHbXtG2SZEGYn/view",
+   "https://drive.google.com/file/d/10MkKwByMvOeX6GSRObIm2H-bFKCfSnR3/view"
+  ],
+  "prereq": [],
+  "related": []
+ },
+ "K|Describe position - above and below": {
+  "core": [],
+  "prereq": [],
+  "related": []
+ },
+ "K|Ordinal numbers": {
+  "core": [],
+  "prereq": [],
+  "related": []
+ },
+ "K|Recognise and name 3D shapes": {
+  "core": [],
+  "prereq": [],
+  "related": []
+ },
+ "K|Sort 3D shapes": {
+  "core": [],
+  "prereq": [],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1hvOIvPmxP918h5aQ2i-srj9VkAhusQwv/view",
+    "Naming basic 3D shapes - needed before sorting them (no 3D sorting sheet exists)"
+   ],
+   [
+    "https://drive.google.com/file/d/1dO4YjuXykDcTMcmZnXxt0cHCUsiV65Vm/view",
+    "Real-life 3D-shaped objects in position tasks"
+   ]
+  ]
+ },
+ "K|Recognise and name 2D shapes": {
+  "core": [],
+  "prereq": [],
+  "related": []
+ },
+ "K|Sort 2D shapes": {
+  "core": [
+   "https://drive.google.com/file/d/1jvJsX7FLDq0XMNh-nIqITMOeP6LIJ96j/view",
+   "https://drive.google.com/file/d/1loHOYCxXFThbw1Wq4AOduxSkbcd8mSap/view",
+   "https://drive.google.com/file/d/1gxJOAsrABfG_MX8qXGHc4xd9PTBCT4ue/view"
+  ],
+  "prereq": [],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1b__VwD_PdOLUo__TSDs1mz4eEQ48x1Lg/view",
+    "Venn sort includes a shapes vs quadrilaterals sheet"
+   ]
+  ]
+ },
+ "K|Patterns with 2D and 3D shapes": {
+  "core": [
+   "https://drive.google.com/file/d/1hhFm4-iHdTs3CTJSrMJMD0gCQv25pmJH/view"
+  ],
+  "prereq": [],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1OjOxmwW0TPQTkqpTEzFoCMiFbVzH75Yj/view",
+    "K repeating picture patterns - what comes next"
+   ]
+  ]
+ },
+ "K|Make equal groups - grouping": {
+  "core": [
+   "https://drive.google.com/file/d/1dgOeFSTOxICtEMhqvbsCNnCFpSJYK79E/view",
+   "https://drive.google.com/file/d/1aw7K1cfKIAae5zSyxLvszajy9QzWijc_/view",
+   "https://drive.google.com/file/d/1Eb8rt7p_XG_YpZOKKUoRqaEdwCWjz4Gg/view"
+  ],
+  "prereq": [],
+  "related": []
+ },
+ "K|Make equal groups - sharing": {
+  "core": [],
+  "prereq": [],
+  "related": []
+ },
+ "K|Compare numbers with the same number of tens": {
+  "core": [
+   "https://drive.google.com/file/d/1If1IBmtqmfwu3ntDlaDHki4hO4gN4XDX/view",
+   "https://drive.google.com/file/d/19uzKVK5uNpxLvYF3iLYKZIGrFqy1ZLY1/view",
+   "https://drive.google.com/file/d/1O5JA2WvV9M4LCIrD4oTE_d2e5-UISV79/view"
+  ],
+  "prereq": [],
+  "related": []
+ },
+ "K|Unitising": {
+  "core": [],
+  "prereq": [],
+  "related": []
+ },
+ "K|Recognise coins (US: dollars & cents)": {
+  "core": [],
+  "prereq": [],
+  "related": []
+ },
+ "K|Recognise notes (US: dollars & cents)": {
+  "core": [
+   "https://drive.google.com/file/d/1ZVsBiXSS3zjYZH0_CGR4VQxVEVeOC84u/view",
+   "https://drive.google.com/file/d/17hFGyJw4xS3qY6NDnc6xSRVvfQNAovaI/view"
+  ],
+  "prereq": [],
+  "related": []
+ },
+ "K|Before and after": {
+  "core": [],
+  "prereq": [],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1bcRmWXc9R9dPZBz9ZuwSSc4qSZvBvtXc/view",
+    "Before/after in a picture sequence - vocabulary only, not time events"
+   ]
+  ]
+ },
+ "K|Hours, minutes and seconds": {
+  "core": [],
+  "prereq": [],
+  "related": []
+ },
+ "K|Tell the time to the hour": {
+  "core": [],
+  "prereq": [],
+  "related": []
+ },
+ "K|Recognise a half of an object or a shape": {
+  "core": [],
+  "prereq": [],
+  "related": []
+ },
+ "K|Find a half of an object or a shape": {
+  "core": [],
+  "prereq": [],
+  "related": []
+ },
+ "K|Recognise a half of a quantity": {
+  "core": [],
+  "prereq": [],
+  "related": []
+ },
+ "K|Recognise a quarter of an object or a shape": {
+  "core": [],
+  "prereq": [],
+  "related": []
+ },
+ "K|Find a half of a quantity": {
+  "core": [],
+  "prereq": [],
+  "related": []
+ },
+ "K|Find a quarter of an object or a shape": {
+  "core": [],
+  "prereq": [],
+  "related": []
+ },
+ "K|Recognise a quarter of a quantity": {
+  "core": [
+   "https://drive.google.com/file/d/1YUBnK3ujlszOEyh6UVdTpB-Lyvve-_Ed/view",
+   "https://drive.google.com/file/d/1gtaftIzxqQgWZJONWO6O2-g9dWiwm1We/view"
+  ],
+  "prereq": [],
+  "related": []
+ },
+ "K|Find a quarter of a quantity": {
+  "core": [
+   "https://drive.google.com/file/d/1YUBnK3ujlszOEyh6UVdTpB-Lyvve-_Ed/view",
+   "https://drive.google.com/file/d/1PTnlYU-7yMybqK5Kg6q_kOwLp99LRuXn/view"
+  ],
+  "prereq": [],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1BW2D95UfanvLGJ04uVFyeSdXqciHXD9K/view",
+    "Equal sharing - finding a quarter means sharing into 4 equal groups"
+   ]
+  ]
+ }
+}

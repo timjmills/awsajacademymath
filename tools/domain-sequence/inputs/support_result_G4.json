@@ -1,0 +1,1842 @@
+{
+ "W01": [
+  {
+   "tag": "Y1/KG",
+   "name": "Missing number problems"
+  },
+  {
+   "tag": "Y2/Gr.1",
+   "name": "Missing number problems"
+  },
+  {
+   "tag": "Y2/Gr.1",
+   "name": "Count in 2s, 5s and 10s"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Multiples of 2"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Multiples of 5 and 10"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Inverse operations"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Roman numerals to 12"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Multiples of 3"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "The 3, 6 and 9 times-tables"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Factor pairs"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Use factor pairs"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Roman numerals"
+  }
+ ],
+ "W02": [
+  {
+   "tag": "Y1/KG",
+   "name": "Count in 10s"
+  },
+  {
+   "tag": "Y2/Gr.1",
+   "name": "Odd and even numbers"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Multiples of 5 and 10"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "The 2, 4 and 8 times-tables"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Multiples of 10"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "The 3, 6 and 9 times-tables"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Factor pairs"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Use factor pairs"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Divide a number by 1 and itself"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Multiply by 10"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Multiply by 100"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Related facts - multiplication and division"
+  }
+ ],
+ "W03": [
+  {
+   "tag": "Rec/PK4",
+   "name": "Copy and continue patterns"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Identify units of repeating patterns"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Recognise equal groups"
+  },
+  {
+   "tag": "Y2/Gr.1",
+   "name": "Count in 2s, 5s and 10s"
+  },
+  {
+   "tag": "Y2/Gr.1",
+   "name": "Make patterns with 2D and 3D shapes"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Reasoning about multiplication"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Link multiplication and division"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Scaling"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Spot the pattern"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Multiply a 2-digit number by a 1-digit number"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Correspondence problems"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Efficient multiplication"
+  }
+ ],
+ "W04": [
+  {
+   "tag": "Rec/PK4",
+   "name": "Grouping"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Make equal groups - grouping"
+  },
+  {
+   "tag": "Y2/Gr.1",
+   "name": "Make tally charts"
+  },
+  {
+   "tag": "Y2/Gr.1",
+   "name": "Tables"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Divide a 2-digit number by a 1-digit number - with remainders"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Interpret bar charts"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Collect and represent data"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Two-way tables"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Divide a 3-digit number by a 1-digit number"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Divide a 2-digit number by a 1-digit number (2)"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Interpret charts"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Comparison, sum and difference"
+  }
+ ],
+ "W05": [
+  {
+   "tag": "Y1/KG",
+   "name": "Groups of tens and ones"
+  },
+  {
+   "tag": "Y2/Gr.1",
+   "name": "Use a place value chart"
+  },
+  {
+   "tag": "Y2/Gr.1",
+   "name": "Count in fractions up to a whole"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Represent numbers to 1,000"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Hundreds, tens and ones"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Thousands"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Represent numbers to 10,000"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Partition numbers to 10,000"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Flexible partitioning of numbers to 10,000"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Number line to 10,000"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Tenths as decimals"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Tenths on a number line"
+  }
+ ],
+ "W06": [
+  {
+   "tag": "Y2/Gr.1",
+   "name": "Partition numbers to 100"
+  },
+  {
+   "tag": "Y2/Gr.1",
+   "name": "Write numbers to 100 in words"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Estimate on a number line to 1,000"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Multiply by 10"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Multiply by 100"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Thousands"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Represent numbers to 10,000"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Partition numbers to 10,000"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Find 1, 10, 100, 1,000 more or less"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Round to the nearest 10"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Round to the nearest 100"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Round to the nearest 10, 100 or 1,000"
+  }
+ ],
+ "W07": [
+  {
+   "tag": "Y1/KG",
+   "name": "Compare numbers"
+  },
+  {
+   "tag": "Y2/Gr.1",
+   "name": "10 more, 10 less"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Find 1, 10 or 100 more or less"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Number line to 1,000"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Compare numbers to 1,000"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Partition numbers to 10,000"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Flexible partitioning of numbers to 10,000"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Find 1, 10, 100, 1,000 more or less"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Number line to 10,000"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Estimate on a number line to 10,000"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Compare numbers to 10,000"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Order numbers to 10,000"
+  }
+ ],
+ "W08": [
+  {
+   "tag": "Y1/KG",
+   "name": "Number bonds to 10"
+  },
+  {
+   "tag": "Y2/Gr.1",
+   "name": "Bonds to 10"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Add two numbers (across a 10)"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Complements to 100"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Round to the nearest 10"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Round to the nearest 100"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Round to the nearest 10, 100 or 1,000"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Add and subtract 1s, 10s, 100s and 1,000s"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Add up to two 4-digit numbers - no exchange"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Add two 4-digit numbers - one exchange"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Add two 4-digit numbers - more than one exchange"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Subtract two 4-digit numbers - one exchange"
+  }
+ ],
+ "W09": [
+  {
+   "tag": "Y1/KG",
+   "name": "Subtraction on a number line"
+  },
+  {
+   "tag": "Y2/Gr.1",
+   "name": "Related facts"
+  },
+  {
+   "tag": "Y2/Gr.1",
+   "name": "Compare number sentences"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Estimate answers"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Inverse operations"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Add two 4-digit numbers - more than one exchange"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Subtract two 4-digit numbers - no exchange"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Subtract two 4-digit numbers - one exchange"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Subtract two 4-digit numbers - more than one exchange"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Efficient subtraction"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Estimate answers"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Checking strategies"
+  }
+ ],
+ "W10": [
+  {
+   "tag": "Y1/KG",
+   "name": "Count in 10s"
+  },
+  {
+   "tag": "Y2/Gr.1",
+   "name": "The 10 times-table"
+  },
+  {
+   "tag": "Y2/Gr.1",
+   "name": "Divide by 10"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Multiples of 10"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Hundreds, tens and ones"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Divide by 10"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Divide by 100"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Multiply by 10"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Multiply by 100"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Tenths on a place value chart"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Divide a 1-digit number by 10"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Divide a 2-digit number by 10"
+  }
+ ],
+ "W11": [
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Use arrays"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Multiply a 2-digit number by a 1-digit number - with exchange"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Divide by 10"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Divide by 100"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Divide a 3-digit number by a 1-digit number"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Multiply by 10"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Multiply by 100"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Related facts - multiplication and division"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Multiply a 3-digit number by a 1-digit number"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Multiply a 2-digit number by a 1-digit number"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Informal written methods for multiplication"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Divide a 2-digit number by a 1-digit number (2)"
+  }
+ ],
+ "W12": [
+  {
+   "tag": "Rec/PK4",
+   "name": "Grouping"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Make equal groups - grouping"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Link multiplication and division"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Divide a 2-digit number by a 1-digit number - with remainders"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Use factor pairs"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Divide a 3-digit number by a 1-digit number"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Related facts - multiplication and division"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Divide a 2-digit number by a 1-digit number (1)"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Divide a 2-digit number by a 1-digit number (2)"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Tenths as decimals"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Hundredths as decimals"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Hundredths on a place value chart"
+  }
+ ],
+ "W13": [
+  {
+   "tag": "Y2/Gr.1",
+   "name": "Bonds to 10"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Add two numbers (across a 10)"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Complements to 100"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Add two 4-digit numbers - one exchange"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Tenths as fractions"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Tenths on a place value chart"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Hundredths as decimals"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Hundredths on a place value chart"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Make a whole with tenths"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Make a whole with hundredths"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Partition decimals"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Flexibly partition decimals"
+  }
+ ],
+ "W14": [
+  {
+   "tag": "Y1/KG",
+   "name": "Subtraction on a number line"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Add two numbers (across a 10)"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Subtract two numbers (across a 10)"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Complements to 100"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Add two 4-digit numbers - one exchange"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Subtract two 4-digit numbers - one exchange"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Efficient subtraction"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Hundredths as decimals"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Hundredths on a place value chart"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Make a whole with hundredths"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Partition decimals"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Flexibly partition decimals"
+  }
+ ],
+ "W15": [
+  {
+   "tag": "Y1/KG",
+   "name": "Recognise a half of an object or a shape"
+  },
+  {
+   "tag": "Y2/Gr.1",
+   "name": "Unit fractions"
+  },
+  {
+   "tag": "Y2/Gr.1",
+   "name": "Non-unit fractions"
+  },
+  {
+   "tag": "Y2/Gr.1",
+   "name": "Recognise the equivalence of a half and two quarters"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Equivalent fractions on a number line"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Equivalent fractions as bar models"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Understand the denominators of unit fractions"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Understand the numerators of non-unit fractions"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Understand the whole"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Equivalent fraction families"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Equivalent fractions on a number line"
+  }
+ ],
+ "W16": [
+  {
+   "tag": "Y2/Gr.1",
+   "name": "Unit fractions"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Add fractions"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Compare and order unit fractions"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Compare and order non-unit fractions"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Understand the whole"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Partition a mixed number"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Understand improper fractions"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Convert mixed numbers to improper fractions"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Convert improper fractions to mixed numbers"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Equivalent fraction families"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Add two or more fractions"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Subtract from mixed numbers"
+  }
+ ],
+ "W17": [
+  {
+   "tag": "Y2/Gr.1",
+   "name": "Unit fractions"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Add fractions"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Subtract fractions"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Compare and order unit fractions"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Compare and order non-unit fractions"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Number lines with mixed numbers"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Convert improper fractions to mixed numbers"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Equivalent fraction families"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Compare and order mixed numbers"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Add two or more fractions"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Subtract two fractions"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Subtract from whole amounts"
+  }
+ ],
+ "W18": [
+  {
+   "tag": "Y2/Gr.1",
+   "name": "Count in fractions up to a whole"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Add fractions"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Subtract fractions"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Fractions on a number line"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Partition a mixed number"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Understand improper fractions"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Convert improper fractions to mixed numbers"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Add two or more fractions"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Add fractions and mixed numbers"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Subtract two fractions"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Subtract from whole amounts"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Subtract from mixed numbers"
+  }
+ ],
+ "W19": [
+  {
+   "tag": "Y2/Gr.1",
+   "name": "Add equal groups"
+  },
+  {
+   "tag": "Y2/Gr.1",
+   "name": "Count in fractions up to a whole"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Multiplication - equal groups"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Count in fractions on a number line"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Partition a mixed number"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Convert mixed numbers to improper fractions"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Convert improper fractions to mixed numbers"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Add two or more fractions"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Add fractions and mixed numbers"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Subtract from whole amounts"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Subtract from mixed numbers"
+  }
+ ],
+ "W20": [
+  {
+   "tag": "Rec/PK4",
+   "name": "Sharing"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Make equal groups - sharing"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Find a half of a quantity"
+  },
+  {
+   "tag": "Y2/Gr.1",
+   "name": "Find a quarter"
+  },
+  {
+   "tag": "Y2/Gr.1",
+   "name": "Find a third"
+  },
+  {
+   "tag": "Y2/Gr.1",
+   "name": "Find the whole"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Sharing and grouping"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Unit fractions of a set of objects"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Non-unit fractions of a set of objects"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Reasoning with fractions of an amount"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Related facts - multiplication and division"
+  }
+ ],
+ "W21": [
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Equivalent fraction families"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Tenths as fractions"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Tenths as decimals"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Tenths on a place value chart"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Tenths on a number line"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Hundredths as fractions"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Hundredths as decimals"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Hundredths on a place value chart"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Make a whole with tenths"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Make a whole with hundredths"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Partition decimals"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Halves and quarters as decimals"
+  }
+ ],
+ "W22": [
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Compare numbers to 1,000"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Complements to 100"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Equivalent fraction families"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Tenths as fractions"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Tenths as decimals"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Tenths on a number line"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Hundredths as fractions"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Hundredths as decimals"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Hundredths on a place value chart"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Make a whole with hundredths"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Compare decimals"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Order decimals"
+  }
+ ],
+ "W23": [
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Complements to 100"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Horizontal and vertical"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Measure and draw accurately"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Parallel and perpendicular"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Equivalent fraction families"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Tenths as decimals"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Hundredths as fractions"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Hundredths as decimals"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Make a whole with hundredths"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Halves and quarters as decimals"
+  }
+ ],
+ "W24": [
+  {
+   "tag": "Rec/PK4",
+   "name": "Rotate shapes"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Describe turns"
+  },
+  {
+   "tag": "Y2/Gr.1",
+   "name": "Describe turns"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Turns and angles"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Compare angles"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Right angles"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Understand angles as turns"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Identify angles"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Compare and order angles"
+  }
+ ],
+ "W25": [
+  {
+   "tag": "Y1/KG",
+   "name": "Describe turns"
+  },
+  {
+   "tag": "Y2/Gr.1",
+   "name": "Measure in centimetres"
+  },
+  {
+   "tag": "Y2/Gr.1",
+   "name": "Describe movement and turns"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Turns and angles"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Compare angles"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Horizontal and vertical"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Right angles"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Measure and draw accurately"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Parallel and perpendicular"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Understand angles as turns"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Identify angles"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Compare and order angles"
+  }
+ ],
+ "W26": [
+  {
+   "tag": "Rec/PK4",
+   "name": "Identify and name circles and triangles"
+  },
+  {
+   "tag": "Rec/PK4",
+   "name": "Recognise and name 3-D shapes"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Recognise and name 2D shapes"
+  },
+  {
+   "tag": "Y2/Gr.1",
+   "name": "Count sides on 2D shapes"
+  },
+  {
+   "tag": "Y2/Gr.1",
+   "name": "Count faces on 3D shapes"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Recognise and describe 2D shapes"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Recognise and describe 3D shapes"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Draw polygons"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Identify angles"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Triangles"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Quadrilaterals"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Polygons"
+  }
+ ],
+ "W27": [
+  {
+   "tag": "Rec/PK4",
+   "name": "Describe positions"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Describe position - forwards and backwards"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Describe position - left and right"
+  },
+  {
+   "tag": "Y2/Gr.1",
+   "name": "Describe movement"
+  },
+  {
+   "tag": "Y2/Gr.1",
+   "name": "Language of position"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Horizontal and vertical"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Describe position using coordinates"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Draw 2-D shapes on a grid"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Translate on a grid"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Plot coordinates"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Describe translation on a grid"
+  }
+ ],
+ "W28": [
+  {
+   "tag": "Y2/Gr.1",
+   "name": "Lines of symmetry on shapes"
+  },
+  {
+   "tag": "Y2/Gr.1",
+   "name": "Use lines of symmetry to complete shapes"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "What is perimeter?"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Calculate perimeter"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Horizontal and vertical"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Perimeter on a grid"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Perimeter of a rectangle"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Lines of symmetry"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Complete a symmetric figure"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Translate on a grid"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Plot coordinates"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Describe translation on a grid"
+  }
+ ],
+ "W29": [
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Use arrays"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "What is perimeter?"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Calculate perimeter"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Make shapes"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "What is area?"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Count squares"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Compare areas"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Perimeter of rectilinear shapes"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Find missing lengths in rectilinear shapes"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Calculate the perimeter of rectilinear shapes"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Perimeter of regular polygons"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Perimeter of polygons"
+  }
+ ],
+ "W30": [
+  {
+   "tag": "Y1/KG",
+   "name": "Describe turns"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Read time on a digital clock"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Hours and minutes - use start and end times"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Turns and angles"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Right angles"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "What is area?"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Count squares"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Compare areas"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Convert between analogue and digital times"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Convert to the 24 hour clock"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Understand angles as turns"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Identify angles"
+  }
+ ],
+ "W31": [
+  {
+   "tag": "Y1/KG",
+   "name": "Describe turns"
+  },
+  {
+   "tag": "Y2/Gr.1",
+   "name": "Make tally charts"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Collect and represent data"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Fractions on a number line"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Count in fractions on a number line"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Turns and angles"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Compare angles"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Right angles"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Understand angles as turns"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Identify angles"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Compare and order angles"
+  }
+ ],
+ "W32": [
+  {
+   "tag": "Y2/Gr.1",
+   "name": "Minutes in an hour"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Metres, centimetres and millimetres"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Equivalent lengths (metres and centimetres)"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Equivalent lengths (centimetres and millimetres)"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Equivalent masses (kilograms and grams)"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Equivalent capacities and volumes (litres and millilitres)"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Units of time"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Multiply by 10"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Multiply by 100"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Equivalent lengths (kilometres and metres)"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Hours, minutes and seconds"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Years, months, weeks and days"
+  }
+ ],
+ "W33": [
+  {
+   "tag": "Y1/KG",
+   "name": "Measure length using objects"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Measure mass"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Measure capacity"
+  },
+  {
+   "tag": "Y2/Gr.1",
+   "name": "Minutes in an hour"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Add lengths"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Use scales"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Add and subtract mass"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Add and subtract capacity and volume"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Hours and minutes - use durations"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Solve problems with time"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Solve problems with money (US: dollars & cents)"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Convert from the 24 hour clock"
+  }
+ ],
+ "W34": [
+  {
+   "tag": "Rec/PK4",
+   "name": "Explore capacity"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Measure capacity"
+  },
+  {
+   "tag": "Y2/Gr.1",
+   "name": "Compare volume and capacity"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Use arrays"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Metres, centimetres and millimetres"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Measure mass in kilograms and grams"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Measure capacity and volume in millilitres"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Measure capacity and volume in litres and millilitres"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Multiply by 10"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Multiply a 3-digit number by a 1-digit number"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Multiply a 2-digit number by a 1-digit number"
+  }
+ ],
+ "W35": [
+  {
+   "tag": "Y2/Gr.1",
+   "name": "Bonds to 10"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Complements to 100"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Multiply by 10"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Multiply a 3-digit number by a 1-digit number"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Round to the nearest 10"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Round to the nearest 10, 100 or 1,000"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Tenths on a number line"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Hundredths on a place value chart"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Make a whole with tenths"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Make a whole with hundredths"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Compare decimals"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Round to the nearest whole number"
+  }
+ ],
+ "W36": [
+  {
+   "tag": "Y1/KG",
+   "name": "Compare volume"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Compare capacity and volume"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Measure capacity and volume in millilitres"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Interpret bar charts"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Draw bar charts"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Make 3D shapes"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Divide by 10"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Multiply by 10"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Divide a 1-digit number by 10"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Count squares"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Interpret line graphs"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Draw line graphs"
+  }
+ ],
+ "W37": [
+  {
+   "tag": "Y1/KG",
+   "name": "Count backwards within 10"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "The number line"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Make arrays"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Use arrays"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Number line to 100"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Compare capacity and volume"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Measure capacity and volume in millilitres"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Make 3D shapes"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "The 3, 6 and 9 times-tables"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Multiply three numbers"
+  }
+ ],
+ "W38": [
+  {
+   "tag": "Y1/KG",
+   "name": "Count backwards within 10"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Compare numbers"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "The number line"
+  },
+  {
+   "tag": "Y1/KG",
+   "name": "Subtraction - finding the difference"
+  },
+  {
+   "tag": "Y2/Gr.1",
+   "name": "Count in 2s, 5s and 10s"
+  },
+  {
+   "tag": "Y2/Gr.1",
+   "name": "Temperature"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Number line to 100"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Compare numbers to 1,000"
+  },
+  {
+   "tag": "Y3/Gr.2",
+   "name": "Order numbers to 1,000"
+  },
+  {
+   "tag": "Y4/Gr.3",
+   "name": "Number line to 10,000"
+  }
+ ]
+}

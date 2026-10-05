@@ -1,0 +1,556 @@
+{
+ "G1|Write numbers to 100 in expanded form": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1wjMVttd5yX0aavhe9iC-nEaSZ3Al98Jv/view",
+   "https://drive.google.com/file/d/16ToMg0pSB499Di2r0C26cIKFhAvtWgyD/view"
+  ],
+  "related": []
+ },
+ "G1|Bonds to 100 (tens)": {
+  "core": [],
+  "prereq": [],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1cUG1xa-bq8JwzUL9cEetlfGLb_xNQfAD/view",
+    "Fill the multiples-of-10 column on a 100 chart: rehearses the tens 10-100 used in tens bonds"
+   ]
+  ]
+ },
+ "G1|Add to the next 10": {
+  "core": [
+   "https://drive.google.com/file/d/11IYalbxoBTZ5NP34Y6l4kswWeT4T4cPf/view"
+  ],
+  "prereq": [],
+  "related": []
+ },
+ "G1|Add and subtract 10s": {
+  "core": [
+   "https://drive.google.com/file/d/1V8GH_kDQKKICJBw235pVwLiqkhPYo8eO/view",
+   "https://drive.google.com/file/d/1g5MTz-SJ9lKICoA1Lm7kL2VbzyG1XLje/view",
+   "https://drive.google.com/file/d/1EQouCiLcbNNJ5qVCaHO-IVE3j13vbs03/view"
+  ],
+  "prereq": [],
+  "related": []
+ },
+ "G1|Add two 2-digit numbers (across a 10)": {
+  "core": [
+   "https://drive.google.com/file/d/1SuK2jjgDuNp2qHN0TN_Y8L8Xebkw8vwN/view",
+   "https://drive.google.com/file/d/1sQIR9e4K7cFmVjLHa8r7os3emeKeH1ge/view",
+   "https://drive.google.com/file/d/1YiE0NPGtMEtXFIV77j3fUx37grDWbSwE/view"
+  ],
+  "prereq": [],
+  "related": []
+ },
+ "G1|Add by making 10": {
+  "core": [
+   "https://drive.google.com/file/d/11IYalbxoBTZ5NP34Y6l4kswWeT4T4cPf/view"
+  ],
+  "prereq": [],
+  "related": []
+ },
+ "G1|Subtract from a 10": {
+  "core": [
+   "https://drive.google.com/file/d/1wVEaqf43doT7AoFvPTRkqhNsZyRAGAX3/view",
+   "https://drive.google.com/file/d/16dAaHjeU1HQ3zVcaECRDKrlDxiL6Xwb8/view"
+  ],
+  "prereq": [],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1O7LBnTzOcDmeSOXfawqy_VJql4TRFGw5/view",
+    "Subtraction facts with minuends to 10 (e.g. 10-4) - the from-10 facts the strategy relies on"
+   ]
+  ]
+ },
+ "G1|Count sides on 2D shapes": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1jvJsX7FLDq0XMNh-nIqITMOeP6LIJ96j/view",
+   "https://drive.google.com/file/d/1H9oA1kLDoEl5cb_YlxLmJ3DeZqmG0nV4/view"
+  ],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1HdiyoeHuQUjMUOcejtwzwvWXGPJgzdbH/view",
+    "Write the number of sides and name of each polygon - exact skill but Grade 6 vocabulary (to decagon)"
+   ]
+  ]
+ },
+ "G1|Count vertices on 2D shapes": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1jvJsX7FLDq0XMNh-nIqITMOeP6LIJ96j/view",
+   "https://drive.google.com/file/d/1H9oA1kLDoEl5cb_YlxLmJ3DeZqmG0nV4/view"
+  ],
+  "related": []
+ },
+ "G1|Lines of symmetry on shapes": {
+  "core": [],
+  "prereq": [],
+  "related": []
+ },
+ "G1|Draw 2D shapes": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1GFyG7gxuFIR03ns3FeYWMQ3CNzqGVThl/view",
+   "https://drive.google.com/file/d/1LLE7ZBsheGvnMuKND5FtXQ8GdmYaJinW/view",
+   "https://drive.google.com/file/d/1UVArrxdfNsJxaxsQ8Edy6vDNTLBbio56/view"
+  ],
+  "related": []
+ },
+ "G1|Sort 2D shapes": {
+  "core": [
+   "https://drive.google.com/file/d/1loHOYCxXFThbw1Wq4AOduxSkbcd8mSap/view",
+   "https://drive.google.com/file/d/1gxJOAsrABfG_MX8qXGHc4xd9PTBCT4ue/view",
+   "https://drive.google.com/file/d/11TwptLAB3RWV4c9BhrIHni6hn2IzVe1N/view"
+  ],
+  "prereq": [],
+  "related": []
+ },
+ "G1|Count faces on 3D shapes": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1kg6JPrYhzyqC1Ow0ULfv-s1LXJMYt-nj/view",
+   "https://drive.google.com/file/d/1jvJsX7FLDq0XMNh-nIqITMOeP6LIJ96j/view"
+  ],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1hvOIvPmxP918h5aQ2i-srj9VkAhusQwv/view",
+    "Name the basic 3D solids first - needed before counting their faces"
+   ]
+  ]
+ },
+ "G1|Count edges on 3D shapes": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1kg6JPrYhzyqC1Ow0ULfv-s1LXJMYt-nj/view"
+  ],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1hvOIvPmxP918h5aQ2i-srj9VkAhusQwv/view",
+    "Name the basic 3D solids first - needed before counting their edges"
+   ]
+  ]
+ },
+ "G1|Count vertices on 3D shapes": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1kg6JPrYhzyqC1Ow0ULfv-s1LXJMYt-nj/view"
+  ],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1hvOIvPmxP918h5aQ2i-srj9VkAhusQwv/view",
+    "Name the basic 3D solids first - needed before counting their vertices"
+   ]
+  ]
+ },
+ "G1|Sort 3D shapes": {
+  "core": [],
+  "prereq": [],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1hvOIvPmxP918h5aQ2i-srj9VkAhusQwv/view",
+    "Identify and name 3D solids - recognition step needed before sorting them"
+   ]
+  ]
+ },
+ "G1|Make patterns with 2D and 3D shapes": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1OjOxmwW0TPQTkqpTEzFoCMiFbVzH75Yj/view",
+   "https://drive.google.com/file/d/18tJ6p78nF6uaztJsFllKQLbrFGHAoC_D/view",
+   "https://drive.google.com/file/d/1a_7EvIz4nBbEa5tYamEpX2pS37csnKU1/view"
+  ],
+  "related": []
+ },
+ "G1|Recognise 2D and 3D shapes": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1jvJsX7FLDq0XMNh-nIqITMOeP6LIJ96j/view",
+   "https://drive.google.com/file/d/1H9oA1kLDoEl5cb_YlxLmJ3DeZqmG0nV4/view",
+   "https://drive.google.com/file/d/1kg6JPrYhzyqC1Ow0ULfv-s1LXJMYt-nj/view"
+  ],
+  "related": []
+ },
+ "G1|Use lines of symmetry to complete shapes": {
+  "core": [],
+  "prereq": [],
+  "related": []
+ },
+ "G1|Compose and recompose shapes": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1ETd46ZBDV7e7rv-XWNjeMCJcobJK67Sk/view",
+   "https://drive.google.com/file/d/1u9UZIW92O_RnUOMzhJHywMzHsY2RiDPV/view"
+  ],
+  "related": []
+ },
+ "G1|Introduction to parts and whole": {
+  "core": [
+   "https://drive.google.com/file/d/11xhNfCK_SbI7azazuHMkiO171KBZhRvw/view",
+   "https://drive.google.com/file/d/1gu-v24-sF7k-WpceU6Vy2ZhcebvgYoGL/view"
+  ],
+  "prereq": [
+   "https://drive.google.com/file/d/1bzXFRqr9Xk9hmEzh6IS_E_KX3Zy6IANu/view"
+  ],
+  "related": []
+ },
+ "G1|Equal and unequal parts": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1Yz79rH6lHqh6P2tKm9Eu33cCcwP5X0PP/view",
+   "https://drive.google.com/file/d/1BUuz0qHKb96EuAmiprBKyWvj2i_ZWZ0B/view"
+  ],
+  "related": []
+ },
+ "G1|Recognise a half": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1Yz79rH6lHqh6P2tKm9Eu33cCcwP5X0PP/view"
+  ],
+  "related": []
+ },
+ "G1|Find a half": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1BUuz0qHKb96EuAmiprBKyWvj2i_ZWZ0B/view"
+  ],
+  "related": []
+ },
+ "G1|Recognise the equivalence of a half and two quarters": {
+  "core": [
+   "https://drive.google.com/file/d/101KNix4O-0Vz2sdSSrTF6mEDDpYGm8S6/view"
+  ],
+  "prereq": [],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1dLoXZiaYkawFWGlvIZh5NmmppEJjXJ35/view",
+    "Colour fractions of shapes incl. 1/2 and 2/4 - compare the shaded amounts"
+   ]
+  ]
+ },
+ "G1|Recognise three quarters": {
+  "core": [
+   "https://drive.google.com/file/d/11xhNfCK_SbI7azazuHMkiO171KBZhRvw/view",
+   "https://drive.google.com/file/d/1dLoXZiaYkawFWGlvIZh5NmmppEJjXJ35/view",
+   "https://drive.google.com/file/d/18U5SbOi4n95OtmeaEdrImtlW1zwGMxMA/view"
+  ],
+  "prereq": [],
+  "related": []
+ },
+ "G1|Find the whole": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1bzXFRqr9Xk9hmEzh6IS_E_KX3Zy6IANu/view"
+  ],
+  "related": [
+   [
+    "https://drive.google.com/file/d/18HT69J050dr1g5zYhckTQUztSxFf4k4y/view",
+    "Find the missing part that completes a whole pie - closest catalogue match to part/whole reasoning"
+   ]
+  ]
+ },
+ "G1|Describe movement": {
+  "core": [
+   "https://drive.google.com/file/d/1zWyAs0FwJp0b63HrjLqNiedyqshR_F9v/view",
+   "https://drive.google.com/file/d/1bqAzlc8JIdELUL16dovm4uhlX8pq9SPT/view",
+   "https://drive.google.com/file/d/1ONPfvUB8Ya5MqMFZsxHo4Y4jycFEPm6X/view"
+  ],
+  "prereq": [],
+  "related": []
+ },
+ "G1|Describe movement and turns": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1BLgEfOo9UuF4kMBwg0ZiBOiRh8oX9MhU/view",
+   "https://drive.google.com/file/d/1gF2Yg-gVM5yTIFlakTeDejxNahsQNJKN/view",
+   "https://drive.google.com/file/d/1zGKs1EZoh_amWg35lCvSIBIXIMhY4CNq/view"
+  ],
+  "related": []
+ },
+ "G1|Describe turns": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1CgWtaMcPTs2iPtO0NC6ajeKVB-HdquZG/view",
+   "https://drive.google.com/file/d/1BLgEfOo9UuF4kMBwg0ZiBOiRh8oX9MhU/view"
+  ],
+  "related": []
+ },
+ "G1|Shape patterns with turns": {
+  "core": [
+   "https://drive.google.com/file/d/16FISTfqp6xu9wZdNPMxUT4_LXfHRz-Qd/view",
+   "https://drive.google.com/file/d/1HZk26Jgcgiu0_UVmJYS4cry0dI5u3uqr/view",
+   "https://drive.google.com/file/d/1hhFm4-iHdTs3CTJSrMJMD0gCQv25pmJH/view"
+  ],
+  "prereq": [
+   "https://drive.google.com/file/d/1OjOxmwW0TPQTkqpTEzFoCMiFbVzH75Yj/view",
+   "https://drive.google.com/file/d/1CgWtaMcPTs2iPtO0NC6ajeKVB-HdquZG/view"
+  ],
+  "related": []
+ },
+ "G1|Measure in metres": {
+  "core": [],
+  "prereq": [],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1vp34ZXBYT1lnSEgTwQeGB7dwN5pb4Jo3/view",
+    "Metric length units incl. metres (conversions, G3) - only sheet in catalogue using metres"
+   ]
+  ]
+ },
+ "G1|Temperature": {
+  "core": [],
+  "prereq": [],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1VSW2qZq24d8jX6-3NTqIZ-NdWTqz4wQC/view",
+    "Seasons quiz incl. hottest season - everyday hot/cold talk before thermometers"
+   ]
+  ]
+ },
+ "G1|Compare mass": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1SzPn1gWzFKl6tSQN6foL18fEZ1OejAEz/view",
+   "https://drive.google.com/file/d/145UkfaBteLNgNNaeHGkFTgpuEOfc9KAf/view"
+  ],
+  "related": []
+ },
+ "G1|Compare volume and capacity": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/145UkfaBteLNgNNaeHGkFTgpuEOfc9KAf/view",
+   "https://drive.google.com/file/d/1pJQVsd1UGDZ2yoCGbLCM6bc3CwBIDdj9/view"
+  ],
+  "related": []
+ },
+ "G1|O'clock and half past": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1vF_dZExY2xlUDz8e7xbjieSTYwtMX98a/view",
+   "https://drive.google.com/file/d/1gsNeaUtz-QuR0FnSRywDL7gt_xeWXHWO/view"
+  ],
+  "related": []
+ },
+ "G1|Hours in a day": {
+  "core": [
+   "https://drive.google.com/file/d/1n4mi2nYAjcVbhHNia7-uR3-cKXo-_LWm/view",
+   "https://drive.google.com/file/d/18yMTGomcOE4bvZTxc0cWS4EPNsKZciDv/view"
+  ],
+  "prereq": [
+   "https://drive.google.com/file/d/1vF_dZExY2xlUDz8e7xbjieSTYwtMX98a/view"
+  ],
+  "related": [
+   [
+    "https://drive.google.com/file/d/19zo5P6KdC6WM5p49N0s2MUzViG3Hi40X/view",
+    "Less than / more than an hour - sense of an hour as a unit (G1)"
+   ]
+  ]
+ },
+ "G1|Minutes in an hour": {
+  "core": [
+   "https://drive.google.com/file/d/1zfBKcUc9Hce4vZvSi-VqJKCd-cpS9FZo/view",
+   "https://drive.google.com/file/d/1dPy34AFafiMey_ih37gP-OoN-jvRyhH-/view"
+  ],
+  "prereq": [
+   "https://drive.google.com/file/d/1gsNeaUtz-QuR0FnSRywDL7gt_xeWXHWO/view"
+  ],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1Ks03rrmP2-LUYFfLDoJHBRjDnwmzD9yI/view",
+    "Counting in 5s - how minutes are counted round the clock face"
+   ]
+  ]
+ },
+ "G1|Draw pictograms (1-1)": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1b__VwD_PdOLUo__TSDs1mz4eEQ48x1Lg/view",
+   "https://drive.google.com/file/d/1qtRt_STuS0WxRERdLmEvACcpnpm_bWYc/view"
+  ],
+  "related": []
+ },
+ "G1|Interpret pictograms (1-1)": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1vtwS43VIpZq6wZfIF139gVgz2c6Uvq-Z/view",
+   "https://drive.google.com/file/d/1qtRt_STuS0WxRERdLmEvACcpnpm_bWYc/view"
+  ],
+  "related": []
+ },
+ "G1|The 10 times-table": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/16ToMg0pSB499Di2r0C26cIKFhAvtWgyD/view",
+   "https://drive.google.com/file/d/1wjMVttd5yX0aavhe9iC-nEaSZ3Al98Jv/view"
+  ],
+  "related": []
+ },
+ "G1|The 5 and 10 times-tables": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/16ToMg0pSB499Di2r0C26cIKFhAvtWgyD/view",
+   "https://drive.google.com/file/d/1Eb8rt7p_XG_YpZOKKUoRqaEdwCWjz4Gg/view"
+  ],
+  "related": []
+ },
+ "G1|Recognise equal groups": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1Yz79rH6lHqh6P2tKm9Eu33cCcwP5X0PP/view",
+   "https://drive.google.com/file/d/1BUuz0qHKb96EuAmiprBKyWvj2i_ZWZ0B/view",
+   "https://drive.google.com/file/d/1Eb8rt7p_XG_YpZOKKUoRqaEdwCWjz4Gg/view"
+  ],
+  "related": []
+ },
+ "G1|Make equal groups": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1Yz79rH6lHqh6P2tKm9Eu33cCcwP5X0PP/view",
+   "https://drive.google.com/file/d/1Eb8rt7p_XG_YpZOKKUoRqaEdwCWjz4Gg/view"
+  ],
+  "related": []
+ },
+ "G1|Multiplication sentences": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1Eb8rt7p_XG_YpZOKKUoRqaEdwCWjz4Gg/view",
+   "https://drive.google.com/file/d/1Jjm7cz8VSo2uesUBwGb-6MYALI2MvnQa/view"
+  ],
+  "related": []
+ },
+ "G1|Use arrays": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1Eb8rt7p_XG_YpZOKKUoRqaEdwCWjz4Gg/view",
+   "https://drive.google.com/file/d/1CAoFNcf909mIC_f3pMH5GsHjYr5BNFgh/view"
+  ],
+  "related": []
+ },
+ "G1|Make equal groups – grouping": {
+  "core": [
+   "https://drive.google.com/file/d/1YcTk4DYVoPAobQDxq0SJhAsoXj5ni--e/view",
+   "https://drive.google.com/file/d/1X0mnd0HldpA23H7wKvpuASvsNO1DIDRk/view",
+   "https://drive.google.com/file/d/1dgOeFSTOxICtEMhqvbsCNnCFpSJYK79E/view"
+  ],
+  "prereq": [],
+  "related": []
+ },
+ "G1|Make equal groups – sharing": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1BUuz0qHKb96EuAmiprBKyWvj2i_ZWZ0B/view"
+  ],
+  "related": []
+ },
+ "G1|Doubling and halving": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1mNr4GXXG_fNUDLjGzKGh2DKJG_IUIvRY/view"
+  ],
+  "related": []
+ },
+ "G1|Divide by 10": {
+  "core": [
+   "https://drive.google.com/file/d/17Y_nnFBkuJJvAH21Gvg8wJP7xGyO6yXW/view",
+   "https://drive.google.com/file/d/1X0mnd0HldpA23H7wKvpuASvsNO1DIDRk/view"
+  ],
+  "prereq": [
+   "https://drive.google.com/file/d/16ToMg0pSB499Di2r0C26cIKFhAvtWgyD/view",
+   "https://drive.google.com/file/d/1wjMVttd5yX0aavhe9iC-nEaSZ3Al98Jv/view"
+  ],
+  "related": []
+ },
+ "G1|Divide by 5": {
+  "core": [
+   "https://drive.google.com/file/d/1MyeLjHnVsJHlTtd9wXDvbQVbEUOzNZ4l/view",
+   "https://drive.google.com/file/d/1c25subAbso5atajsDSk9fdUA0Ecjf1-d/view"
+  ],
+  "prereq": [
+   "https://drive.google.com/file/d/1Eb8rt7p_XG_YpZOKKUoRqaEdwCWjz4Gg/view"
+  ],
+  "related": []
+ },
+ "G1|Recognise a third": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1BUuz0qHKb96EuAmiprBKyWvj2i_ZWZ0B/view"
+  ],
+  "related": []
+ },
+ "G1|Measure in grams": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1cZr0qLSQiFGWKJ_xRjWCJ5_af9Wd4EvB/view",
+   "https://drive.google.com/file/d/1I5KzYwVmre4g6xWmfjhnObCWsQD8ryW5/view"
+  ],
+  "related": [
+   [
+    "https://drive.google.com/file/d/165MPK7Ev0ItpJujdNF58M45kBAOeVrv7/view",
+    "Grams and kilograms (conversion, G3) - only metric-mass sheet; no gram-scale reading sheet exists"
+   ],
+   [
+    "https://drive.google.com/file/d/1A3a2pj0iN4BmjTglwZN0jDKJBb7cWarV/view",
+    "Read the pointer on a weighing scale (lb/oz) - same scale-reading skill"
+   ]
+  ]
+ },
+ "G1|Measure in kilograms": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1cZr0qLSQiFGWKJ_xRjWCJ5_af9Wd4EvB/view",
+   "https://drive.google.com/file/d/1pDoEmn1fqhq2zZbxwFDjiv1Oso5sSV8a/view"
+  ],
+  "related": [
+   [
+    "https://drive.google.com/file/d/165MPK7Ev0ItpJujdNF58M45kBAOeVrv7/view",
+    "Grams and kilograms (conversion, G3) - only metric-mass sheet; no kg-scale reading sheet exists"
+   ],
+   [
+    "https://drive.google.com/file/d/1A3a2pj0iN4BmjTglwZN0jDKJBb7cWarV/view",
+    "Read the pointer on a weighing scale (lb/oz) - same scale-reading skill"
+   ]
+  ]
+ },
+ "G1|Four operations with mass": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1cZr0qLSQiFGWKJ_xRjWCJ5_af9Wd4EvB/view",
+   "https://drive.google.com/file/d/1U3Ujd1oqK2G3FMMsSBktrUd-kTqyu9n6/view"
+  ],
+  "related": []
+ },
+ "G1|Measure in litres": {
+  "core": [],
+  "prereq": [],
+  "related": []
+ },
+ "G1|Measure in millilitres": {
+  "core": [],
+  "prereq": [],
+  "related": []
+ },
+ "G1|Four operations with volume and capacity": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1U3Ujd1oqK2G3FMMsSBktrUd-kTqyu9n6/view",
+   "https://drive.google.com/file/d/10QgGtZ1sRIDA9NwcBNbTolcOD-qasiuK/view"
+  ],
+  "related": []
+ },
+ "G1|Tell time to the hour": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1vF_dZExY2xlUDz8e7xbjieSTYwtMX98a/view"
+  ],
+  "related": []
+ },
+ "G1|Find three-quarters": {
+  "core": [
+   "https://drive.google.com/file/d/1YUBnK3ujlszOEyh6UVdTpB-Lyvve-_Ed/view",
+   "https://drive.google.com/file/d/11xhNfCK_SbI7azazuHMkiO171KBZhRvw/view",
+   "https://drive.google.com/file/d/1gtaftIzxqQgWZJONWO6O2-g9dWiwm1We/view"
+  ],
+  "prereq": [],
+  "related": []
+ }
+}

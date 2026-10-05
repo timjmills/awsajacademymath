@@ -1,0 +1,294 @@
+{
+ "G5|Division using factors": {
+  "core": [
+   "https://drive.google.com/file/d/1Q8DHmjJYwrCpBP3FTnWW2XxrfflwdbYR/view",
+   "https://drive.google.com/file/d/1AmWYYpeGpJGLxKUNLkmqCUB8QaUiqVX0/view"
+  ],
+  "prereq": [],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1r5FGN3cZHDmgPHhNXSIHzuLPZfBvCejB/view",
+    "Associative property: the idea behind dividing in two steps by factors of the divisor"
+   ],
+   [
+    "https://drive.google.com/file/d/17NwTb11N8Ol7qEN4740zCv8KLevnj7gC/view",
+    "Factor-pair 'product strategy' to choose which factors to divide by"
+   ]
+  ]
+ },
+ "G5|Multiply decimals by integers": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/13RJCn-H6K_wD3VRkSoRHrm1uhA6Dg1S-/view",
+   "https://drive.google.com/file/d/1OUg997CDXsjGwX1Cvupd0cmPQVgZu_bC/view"
+  ],
+  "related": []
+ },
+ "G5|Form expressions": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1gMepw00kSDZxhPistTL0gdIIah6Q0c7h/view",
+   "https://drive.google.com/file/d/1htf3KHm8kO-7Abio7iWtWyaNqj1p1zTr/view"
+  ],
+  "related": []
+ },
+ "G5|2-step function machines": {
+  "core": [
+   "https://drive.google.com/file/d/1kOzDx_6aDgzgjPwEm6walH2FGgBymq4x/view",
+   "https://drive.google.com/file/d/14TGFtVvR_d2PWqe6rkpSaFX-ReV1a1WX/view"
+  ],
+  "prereq": [],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1htf3KHm8kO-7Abio7iWtWyaNqj1p1zTr/view",
+    "Two-operation expressions mirror running a number through a 2-step machine"
+   ],
+   [
+    "https://drive.google.com/file/d/1JBIRHyWD_VtMuEWniDLklHAp852Y-XVe/view",
+    "Multiply/divide rule patterns - spotting a rule from inputs and outputs"
+   ]
+  ]
+ },
+ "G5|Solve 2-step equations": {
+  "core": [
+   "https://drive.google.com/file/d/1D0uZLUPqwhVT07LKd52Z8DnIVPoT9ECy/view",
+   "https://drive.google.com/file/d/17LHJqraqj5RMHqabJk1mK4c9vSlFi0_p/view"
+  ],
+  "prereq": [],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1iwj49wHxuwChGr2BywXnhi9FzbEiIK2K/view",
+    "Balance-scale unknowns - the 'keep both sides equal' model for equations"
+   ]
+  ]
+ },
+ "G5|Find pairs of values": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/17NwTb11N8Ol7qEN4740zCv8KLevnj7gC/view",
+   "https://drive.google.com/file/d/1CtDGW4CMeYhMnYENCu6vhZQnUhAMwSkV/view"
+  ],
+  "related": []
+ },
+ "G5|Solve problems with two unknowns": {
+  "core": [
+   "https://drive.google.com/file/d/1IQD26BConrksKo7H-0J33HsLp1txk69J/view"
+  ],
+  "prereq": [],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1CtDGW4CMeYhMnYENCu6vhZQnUhAMwSkV/view",
+    "Find pairs of numbers that make a target sum - systematic listing warm-up"
+   ]
+  ]
+ },
+ "G5|Fraction of an amount - find the whole": {
+  "core": [],
+  "prereq": [],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1FNMAC2NAz7E7IBLyl4xLnbz9gj9RkdEy/view",
+    "Ratio 'find the whole from the part' word problems - same reverse reasoning"
+   ],
+   [
+    "https://drive.google.com/file/d/1tBMHgVyzCFuGwvDcLrmJxaVqtIExFdAF/view",
+    "If 5% of a number is 35, find the number - percent version of finding the whole"
+   ]
+  ]
+ },
+ "G5|Decimal and fraction equivalents": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1puJk1jhMWQTjAD5BCFIxbs6ZVyhZOVq1/view",
+   "https://drive.google.com/file/d/1PDprBcWglhWo1DP2oUFHfupn2i6719ZL/view"
+  ],
+  "related": []
+ },
+ "G5|Fractions as division": {
+  "core": [
+   "https://drive.google.com/file/d/1s63jzp4ntwfSrHqD_Gj9EGvwxksRDwvE/view"
+  ],
+  "prereq": [],
+  "related": [
+   [
+    "https://drive.google.com/file/d/16FBabo_yjlYSKTEZu0cT_iRQxOkgtHe0/view",
+    "Improper fraction to mixed number = division with the remainder written as a fraction"
+   ]
+  ]
+ },
+ "G5|Order fractions, decimals and percentages": {
+  "core": [],
+  "prereq": [],
+  "related": [
+   [
+    "https://drive.google.com/file/d/18T1OVsAek5K-Yi0rBYODngP2u8ulhBDD/view",
+    "Convert fractions to percents before ordering"
+   ],
+   [
+    "https://drive.google.com/file/d/1iPGLOA9PzgqlSptzWdEu3pwgdx5km7BX/view",
+    "Convert decimals to percents before ordering"
+   ]
+  ]
+ },
+ "G5|Miles and kilometres": {
+  "core": [],
+  "prereq": [],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1ZxtX8pU1OKEBNGl-JRirW6vgW8ppxy2f/view",
+    "Customary conversions involving miles (feet, yards, miles)"
+   ]
+  ]
+ },
+ "G5|The mean": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1mxnDEzi0kVpoSpzakFmNZ-m-wRcQZXfr/view",
+   "https://drive.google.com/file/d/1JKlEfg4RyoCgJ1O1Rt8Qvn6WrsKJEWkI/view"
+  ],
+  "related": []
+ },
+ "G5|Fraction line plots": {
+  "core": [],
+  "prereq": [],
+  "related": []
+ },
+ "G5|Angles in polygons": {
+  "core": [],
+  "prereq": [],
+  "related": []
+ },
+ "G5|Vertically opposite angles": {
+  "core": [
+   "https://drive.google.com/file/d/1OGRiJtD5S_i3u6FXEPPUxZYpuQLGs8sq/view"
+  ],
+  "prereq": [],
+  "related": []
+ },
+ "G5|Angles in a triangle": {
+  "core": [],
+  "prereq": [],
+  "related": []
+ },
+ "G5|Angles in a triangle - missing angles": {
+  "core": [],
+  "prereq": [],
+  "related": []
+ },
+ "G5|Angles in quadrilaterals": {
+  "core": [],
+  "prereq": [],
+  "related": [
+   [
+    "https://drive.google.com/file/d/19hbZLVwxPxQTa9JbXSGmQ92XO3u7AX-Y/view",
+    "Angles in rectangles split by diagonals - find a missing angle from known ones"
+   ]
+  ]
+ },
+ "G5|Circles": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1teiw-K8-dB6-fzjvYeDgT6raxQhFt2jU/view",
+   "https://drive.google.com/file/d/11xhNfCK_SbI7azazuHMkiO171KBZhRvw/view"
+  ],
+  "related": []
+ },
+ "G5|Angles in a triangle - special cases": {
+  "core": [],
+  "prereq": [],
+  "related": [
+   [
+    "https://drive.google.com/file/d/19hbZLVwxPxQTa9JbXSGmQ92XO3u7AX-Y/view",
+    "Isosceles triangles inside rectangles - equal base angles"
+   ]
+  ]
+ },
+ "G5|Nets of 3D shapes": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1eXZITuivJNaookOlfFN7huvQbVKKpSTJ/view",
+   "https://drive.google.com/file/d/1zSk1_qN2odwrcbGvgogUOi3oMwlN3ajO/view"
+  ],
+  "related": []
+ },
+ "G5|Use ratio language": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1uo9EjY1TUyla53eNcjIPYKyTZRXrUZ5k/view",
+   "https://drive.google.com/file/d/1PTnlYU-7yMybqK5Kg6q_kOwLp99LRuXn/view",
+   "https://drive.google.com/file/d/1YUBnK3ujlszOEyh6UVdTpB-Lyvve-_Ed/view"
+  ],
+  "related": []
+ },
+ "G5|Introduction to the ratio symbol": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1uo9EjY1TUyla53eNcjIPYKyTZRXrUZ5k/view",
+   "https://drive.google.com/file/d/1PTnlYU-7yMybqK5Kg6q_kOwLp99LRuXn/view"
+  ],
+  "related": []
+ },
+ "G5|Scale drawing": {
+  "core": [],
+  "prereq": [],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1hwRk1T4kJm5KBDz6Y0ZJPs3zZJSPM-0U/view",
+    "Unitary-method word problems - scaling one unit up to many"
+   ]
+  ]
+ },
+ "G5|Similar shapes": {
+  "core": [],
+  "prereq": [],
+  "related": []
+ },
+ "G5|Understand percentages": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/163iGyGpMpSa6Rl-fdJ7jcaL8L4rVeNXf/view",
+   "https://drive.google.com/file/d/1rpvd1i7sBjLfAD5DCCgttHFzmDfTzbGa/view"
+  ],
+  "related": []
+ },
+ "G5|Consolidation of arithmetic": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1htf3KHm8kO-7Abio7iWtWyaNqj1p1zTr/view",
+   "https://drive.google.com/file/d/1r5FGN3cZHDmgPHhNXSIHzuLPZfBvCejB/view"
+  ],
+  "related": []
+ },
+ "G5|Problem solving across strands": {
+  "core": [
+   "https://drive.google.com/file/d/1506l-nrMqWrpRv4KOm1MngWPgDhiWp3D/view",
+   "https://drive.google.com/file/d/1D0uZLUPqwhVT07LKd52Z8DnIVPoT9ECy/view",
+   "https://drive.google.com/file/d/1KRc7SWC9S70eUnc1-LVFXy1gKFzIwe2K/view"
+  ],
+  "prereq": [
+   "https://drive.google.com/file/d/1htf3KHm8kO-7Abio7iWtWyaNqj1p1zTr/view",
+   "https://drive.google.com/file/d/1zI3tOoSrYkd1vMARPsKWc9YKPhYLffGS/view"
+  ],
+  "related": []
+ },
+ "G5|End-of-year investigation projects": {
+  "core": [
+   "https://drive.google.com/file/d/1KRc7SWC9S70eUnc1-LVFXy1gKFzIwe2K/view",
+   "https://drive.google.com/file/d/1amqGE3tCxs4ha_IHnVmEFfT_ETzexqsE/view",
+   "https://drive.google.com/file/d/1506l-nrMqWrpRv4KOm1MngWPgDhiWp3D/view"
+  ],
+  "prereq": [
+   "https://drive.google.com/file/d/1htf3KHm8kO-7Abio7iWtWyaNqj1p1zTr/view",
+   "https://drive.google.com/file/d/1r5FGN3cZHDmgPHhNXSIHzuLPZfBvCejB/view"
+  ],
+  "related": []
+ },
+ "G5|Reasoning tasks": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1htf3KHm8kO-7Abio7iWtWyaNqj1p1zTr/view",
+   "https://drive.google.com/file/d/1byHGT9ztCiKBxmcsIjNICxX1dFxIXgqd/view"
+  ],
+  "related": []
+ }
+}
