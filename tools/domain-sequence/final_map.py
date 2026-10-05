@@ -5,6 +5,18 @@ from mapcheck import coverage
 
 # CCSS standards missing from their own grade's guide, closed with real WRM steps copied from the nearest guide
 COPY_AT_START={"G3"}   # foundational: open the domain run
+TEST_COPIES={"G3":[("G2","Compare and order non-unit fractions")],
+ "G4":[("G2","Parallel and perpendicular"),("G3","Triangles")],
+ "G5":[("G4","Order and compare any decimals with up to 3 decimal places")]}
+# New custom lessons the domain tests need (no White Rose step teaches the skill): name, codes, domain
+NEW_BUILDS={"G2":[("Compare units: inches, feet, yards and centimetres",["2.MD.A.2","2.MD.A.3"],"MD"),
+                  ("Partition a rectangle into rows and columns of squares",["2.G.A.2"],"G")],
+ "G4":[("Place value: 10 times and one tenth of a digit's value",["4.NBT.A.1","5.NBT.A.1"],"NBT"),
+       ("Extend growing shape patterns",["4.OA.C.5"],"OA"),
+       ("Multi-step word problems: divide and interpret the remainder",["4.OA.A.3","5.NBT.B.6"],"OA"),
+       ("Points, lines, line segments and rays",["4.G.A.1"],"G")],
+ "G5":[("Multiply decimals by decimals",["5.NBT.B.7"],"NBT"),
+       ("Divide by a decimal",["5.NBT.B.7"],"NBT")]}
 COPIES={ "G1":[("K","Measure length using objects")],   # Measurement test asks for non-standard units
          "G2":[("G3","Count squares")],
          "G3":[("G2","Multiplication - equal groups"),("G2","Sharing and grouping")],
@@ -20,6 +32,18 @@ MANUAL={ # known cross-domain dependencies that the code tags don't reveal: (gra
 # Lesson moves so every type of problem on the Awsaj domain tests is taught before that test
 # (grade, lesson) -> (domain, "before"/"after", anchor lesson)
 MOVES={("G1","Measure length using objects"):("MD","before","Measure in centimetres"),
+ ("G2","Compare units: inches, feet, yards and centimetres"):("MD","after","Measure and estimate in inches and feet"),
+ ("G2","Partition a rectangle into rows and columns of squares"):("G","after","Count squares"),
+ ("G3","Compare and order non-unit fractions"):("NF","before","Compare and order mixed numbers"),
+ ("G4","Place value: 10 times and one tenth of a digit's value"):("NBT","before","Multiply by 10, 100 and 1,000"),
+ ("G4","Extend growing shape patterns"):("OA","after","Follow a given rule to extend a number pattern"),
+ ("G4","Multi-step word problems: divide and interpret the remainder"):("OA","after","Solve problems with multiplication and division"),
+ ("G4","Points, lines, line segments and rays"):("G","before","Classify angles"),
+ ("G4","Parallel and perpendicular"):("G","before","Lengths and angles in shapes"),
+ ("G4","Triangles"):("G","after","Lengths and angles in shapes"),
+ ("G5","Order and compare any decimals with up to 3 decimal places"):("NBT","after","Place value - integers and decimals"),
+ ("G5","Multiply decimals by decimals"):("NBT","after","Multiply decimals by integers"),
+ ("G5","Divide by a decimal"):("NBT","after","Divide decimals by integers"),
  ("G3","Partition shapes into equal areas"):("NF","before","Understand the whole"),
  ("G3","Measure to the half and quarter inch"):("MD","before","Build a line plot from inch measurements"),
  ("G4","Understand and use degrees"):("G","before","Draw lines and angles accurately"),
@@ -49,17 +73,21 @@ ALL={}
 for g in GR:
     steps=classify(g)
     orig=list(steps)
-    for k,(src,name) in enumerate(COPIES.get(g,[])):
+    for k,(src,name) in enumerate(COPIES.get(g,[])+TEST_COPIES.get(g,[])):
         s0=[s for s in classify(src) if s['lesson']==name][0]
         n=GNUM[g]; mine=[c for c in s0['codes'] if gnum(c)==n]
-        cl=".".join(mine[0].split(".")[:3])
-        d=dom(mine[0])
-        anchor=[] if g in COPY_AT_START else [s['wrm_idx'] for s in orig if s['dom']==d and any(c.startswith(cl+".") and gnum(c)==n for c in s['codes'])]
+        cl=".".join(mine[0].split(".")[:3]) if mine else None
+        d=dom(mine[0]) if mine else dom(s0['codes'][0])
+        anchor=[] if (g in COPY_AT_START or not mine) else [s['wrm_idx'] for s in orig if s['dom']==d and any(c.startswith(cl+".") and gnum(c)==n for c in s['codes'])]
         if not anchor: anchor=[s['wrm_idx'] for s in orig if s['dom']==d]
         steps.append(dict(unit=s0['unit'],step=s0['step'],src_wrm_week=s0['wrm_week'],lesson=s0['lesson'],codes=s0['codes'],flag="COPY",
             dom=d,kind=f"copied from {src} guide",note=[],build=False,wrm_week=None,wrm_q=None,is_copy=True,copy_src=src,
             wrm_idx=min(anchor)-0.9+k*0.1,
             power=sorted({c for c in s0['codes'] if c in POWERSET[g]})))
+    for name,codes,d in NEW_BUILDS.get(g,[]):
+        steps.append(dict(unit="CCSS BUILD (new: needed for the domain test)",step=0,lesson=name,codes=codes,flag="BUILD",dom=d,
+            kind="on-grade",note=[],build=True,is_build=True,wrm_week=None,wrm_q=None,wrm_idx=10**6,new_build=True,
+            power=sorted({c for c in codes if c in POWERSET[g]})))
     apply_moves(g,steps)
     steps.sort(key=lambda s:s['wrm_idx'])
     score,order,seq,b,cov,le=best_map(g,steps)
@@ -82,7 +110,8 @@ for g in GR:
             for (gg,sub),txt in MANUAL.items():
                 if gg==g and sub in s['lesson'].lower(): flags.append(txt)
             if s.get('held_from'): flags.append(f"Year-ahead {s['held_from']} step held until place value is done.")
-            if s['build']: flags.append("CCSS BUILD lesson: still to be written.")
+            if s.get('new_build'): flags.append(f"NEW CCSS BUILD lesson, needed so the {DOMNAME[s['dom']]} test only asks what has been taught. Still to be made.")
+            elif s['build']: flags.append("CCSS BUILD lesson: still to be written.")
             if s.get('is_copy'): flags.append(f"Copied from the {GRADE_LABEL[s['copy_src']]} guide so this standard is taught in its own grade. Slides and worksheet live in that grade's lesson folder.")
         typ = "MAP" if s['slot']=='map' else "EXAM" if s['slot']=='exam' else ("BUILD" if s['build'] else ("COPIED IN" if s.get('is_copy') else s['kind']))
         if s.get('post_map') and s['slot']=='step' and s['kind']=='end-of-year projects': typ="ENRICHMENT · end-of-year projects"

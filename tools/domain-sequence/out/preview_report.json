@@ -42,14 +42,14 @@
   "map": "W30",
   "exams": {
    "W09": "NBT",
-   "W13": "OA",
-   "W26": "MD",
-   "W29": "G"
+   "W12": "OA",
+   "W25": "MD",
+   "W30": "G"
   },
   "load": {
-   "standard": 3.9,
-   "priority": 3.14,
-   "intervention": 2.62
+   "standard": 3.93,
+   "priority": 3.1,
+   "intervention": 2.59
   },
   "nofiles": []
  },
@@ -58,14 +58,14 @@
   "exams": {
    "W07": "OA",
    "W11": "NF",
-   "W17": "NBT",
+   "W18": "NBT",
    "W26": "MD",
    "W29": "G"
   },
   "load": {
-   "standard": 3.93,
-   "priority": 3.07,
-   "intervention": 2.43
+   "standard": 3.96,
+   "priority": 3.11,
+   "intervention": 2.46
   },
   "nofiles": [
    "Fractions on a number line",
@@ -80,16 +80,16 @@
  "G4": {
   "map": "W34",
   "exams": {
-   "W04": "OA",
+   "W05": "OA",
    "W14": "NBT",
    "W23": "NF",
    "W28": "G",
    "W34": "MD"
   },
   "load": {
-   "standard": 4.0,
-   "priority": 3.12,
-   "intervention": 2.55
+   "standard": 4.15,
+   "priority": 3.3,
+   "intervention": 2.73
   },
   "nofiles": [
    "Add two or more fractions",
@@ -100,16 +100,16 @@
  "G5": {
   "map": "W32",
   "exams": {
-   "W08": "NBT",
-   "W13": "OA",
-   "W20": "NF",
+   "W09": "NBT",
+   "W14": "OA",
+   "W21": "NF",
    "W29": "MD",
    "W32": "G"
   },
   "load": {
-   "standard": 3.52,
-   "priority": 2.94,
-   "intervention": 2.39
+   "standard": 3.61,
+   "priority": 3.03,
+   "intervention": 2.48
   },
   "nofiles": [
    "Multiply up to a 4-digit number by a 1-digit number",
