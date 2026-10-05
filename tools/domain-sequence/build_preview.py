@@ -143,6 +143,41 @@ for g in GR:
                      nofiles=[x['st']['n'] for x in items if x['kind'] == 'step' and x['st'].get('f') != 'committee' and x['st'].get('b') is None])
 PAC['domainSeq'] = True
 
+# ---- MW4K picks for lessons that have none: copied / cross-grade lessons reuse another grade's picks; new BUILDs use new picks
+WS = D['WORKSHEETS']; WM = WS['m']
+def rnorm(t): return re.sub(r'[^a-z0-9]', '', re.sub(r'\s*\((?:US|UK)[^)]*\)\s*$', '', t or '').lower())
+by_title = collections.defaultdict(list)
+for k in WM:
+    gg, u, t = k.split('|'); by_title[t].append((gg, k))
+cat = {}
+if os.path.exists('inputs/mw4k_catalogue.csv'):
+    import csv
+    for r_ in csv.DictReader(open('inputs/mw4k_catalogue.csv')):
+        fid = re.search(r'/d/([^/]+)', r_['worksheet_link']).group(1)
+        kid = (re.search(r'/d/([^/]+)', r_['answer_key_link'] or '') or [None, ''])[1] if r_['answer_key_link'] else ''
+        cat[r_['worksheet_link']] = [fid, f"{r_['topic']} · {re.sub(r'^.*? - .*? - ', '', r_['title'])}", r_['grade'], kid]
+NEWWS = json.load(open('inputs/new_build_ws.json')) if os.path.exists('inputs/new_build_ws.json') else {}
+sidx = {e[0]: i for i, e in enumerate(WS['s'])}
+def sheet(link):
+    e = cat[link]
+    if e[0] not in sidx: WS['s'].append(e); sidx[e[0]] = len(WS['s']) - 1
+    return sidx[e[0]]
+ws_added = []
+for g in GR:
+    for it in SEQ[g]['items']:
+        if it['item'] != 'step': continue
+        t = rnorm(it['lesson']); key = f"{g}||{t}"
+        if any(gg == g for gg, _ in by_title.get(t, [])): continue
+        nb = NEWWS.get(f"{g}|{it['lesson']}")
+        if nb:
+            WM[key] = {"c": [sheet(x) for x in nb.get('core', [])], "p": [sheet(x) for x in nb.get('prereq', [])],
+                       "r": [[sheet(x), '', why] for x, why in nb.get('related', [])]}
+        else:
+            src = [k for gg, k in by_title.get(t, []) if gg == (it['copied_from_grade'] or gg)]
+            if src: WM[key] = WM[src[0]]
+        if key in WM: ws_added.append(f"{g} · {it['lesson']}")
+print('MW4K picks added:', len(ws_added))
+
 # ---- app patches (preview only)
 app_m = re.search(r'(<script id="__app" type="text/plain">)(.*?)(</script>)', live_html, re.S)
 app = app_m.group(2)
@@ -167,6 +202,18 @@ sub('React.createElement(ResBadge,{gradeId:grade.id,block:st.b,step:st.s,title:s
 # lessons with no White Rose step and no BUILD flag fall back to a title search
 sub('!isSup&&st.f!=="committee"&&React.createElement(ResBadge,{gradeId:st.g||grade.id,block:st.b',
     '!isSup&&st.f!=="committee"&&React.createElement(ResBadge,{gradeId:st.g||grade.id,block:st.b==null?undefined:st.b,unitName:st.b==null?" ":undefined')
+# 3a. CCSS BUILD lessons get a paperclip too: Twinkl search, MW4K sheets and prerequisites while the lesson is still to be made
+sub('if(flag==="committee")return null;let items=[];if(pillTag){',
+    'let items=[];if(flag==="committee"){items=[{grade:RES[gradeId]||{yn:""},gid:gradeId,block:null,blockNo:null,stepNo:null,files:[],build:true}];}else if(pillTag){')
+sub('subtitle||`${items[0].grade.yn} · BLOCK ${items[0].blockNo}',
+    'subtitle||(items[0].build?"CCSS BUILD · LESSON STILL TO BE MADE":`${items[0].grade.yn} · BLOCK ${items[0].blockNo}')
+sub('${items[0].stepNo?" · STEP "+items[0].stepNo:""}`),React.createElement("div",{style:{fontSize:13.5',
+    '${items[0].stepNo?" · STEP "+items[0].stepNo:""}`)),React.createElement("div",{style:{fontSize:13.5')
+sub('blockOnly&&React.createElement("div",{style:{fontSize:11.5,color:"var(--ink-2)",background:"#F1EDE4",border:"1px solid var(--line)",borderRadius:6,padding:"6px 8px",lineHeight:1.4}},"White Rose has no file under this exact lesson title. Its whole-block resources are in the yellow unit band on the Weekly Pacing page.")',
+    'blockOnly&&React.createElement("div",{style:{fontSize:11.5,color:data.build?"#7A3A06":"var(--ink-2)",background:data.build?"#FFE3C4":"#F1EDE4",border:"1px solid "+(data.build?"#E8A35C":"var(--line)"),borderRadius:6,padding:"6px 8px",lineHeight:1.4}},data.build?"This CCSS lesson is not in White Rose and still needs to be made. Until it is, teach it with the Twinkl search and the MW4K sheets below (with their prerequisite skills).":"White Rose has no file under this exact lesson title. Its whole-block resources are in the yellow unit band on the Weekly Pacing page.")')
+sub('data.gid&&React.createElement(TrackControls', 'data.gid&&!data.build&&React.createElement(TrackControls')
+sub('"CCSS · BUILD")," ",!isSup&&st.f!=="committee"&&st.s!=null',
+    '"CCSS · BUILD"),st.f==="committee"&&React.createElement(ResBadge,{gradeId:st.g||grade.id,title:st.n,unitName:"",compact:true,flag:"committee"})," ",!isSup&&st.f!=="committee"&&st.s!=null')
 # 3b. exam / MAP markers sit inside each strand at the point they happen
 sub('steps.map((st,j)=>{const isSup=st.s==="SUP";',
     'steps.map((st,j)=>{if(st.f==="exam"||st.f==="map")return React.createElement("div",{key:j,className:"mono",style:{marginTop:j?6:0,padding:"4px 6px",borderRadius:4,fontSize:9,fontWeight:700,letterSpacing:"0.06em",color:"#FFFFFF",background:st.f==="exam"?"#B71C1C":"#5B2A86"}},st.f==="exam"?"★ "+st.n.toUpperCase():"◆ MAP GROWTH WINDOW (SPRING)");const isSup=st.s==="SUP";')
