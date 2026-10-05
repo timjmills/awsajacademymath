@@ -2,6 +2,9 @@ import itertools,math,json
 from plan import *
 from mapcheck import coverage, GOAL
 CUT=32
+# domain order as approved (5 Oct 2026 brief); lesson moves must not reshuffle it
+FIXED_ORDER={"K":["CC","OA","NBT","MD","G"],"G1":["NBT","OA","G","MD"],"G2":["NBT","OA","MD","G"],
+ "G3":["OA","NF","NBT","MD","G"],"G4":["OA","NBT","NF","G","MD"],"G5":["NBT","OA","NF","MD","G"]}
 def schedule_map(g,steps,order):
     seq=[];post=[]
     for d in order:
@@ -22,7 +25,8 @@ def best_map(g,steps):
     med={d:sorted(s['wrm_idx'] for s in steps if s['dom']==d)[len([1 for s in steps if s['dom']==d])//2] for d in present}
     E=[(a,b) for a,b in edges(g) if a in present and b in present]
     best=None
-    for perm in itertools.permutations(present):
+    perms=[tuple(d for d in FIXED_ORDER[g] if d in present)] if g in FIXED_ORDER else itertools.permutations(present)
+    for perm in perms:
         pos={d:i for i,d in enumerate(perm)}
         if any(pos[a]>pos[b] for a,b in E): continue
         order=list(perm)+(["EXT"] if any(s['dom']=="EXT" for s in steps) else [])

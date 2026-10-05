@@ -1,0 +1,308 @@
+[
+ {
+  "test": "Counting & Cardinality Test",
+  "q": 1,
+  "item": "Count to 20 by ones (write the sequence on lines)",
+  "status": "OK",
+  "lesson": "Count within 20",
+  "week": "W05",
+  "note": "Counting and writing 1-20 taught (Count within 20 W05; number line to 20 W06; numeral writing in Represent objects W01) before CC exam W11."
+ },
+ {
+  "test": "Counting & Cardinality Test",
+  "q": 2,
+  "item": "Write the numbers that come next after 34 (to 49)",
+  "status": "OK",
+  "lesson": "Count from 20 to 50",
+  "week": "W08",
+  "note": "Continuing the count from 34 to 49 is taught in Count from 20 to 50 (W08), with Count on from any number (W02)."
+ },
+ {
+  "test": "Counting & Cardinality Test",
+  "q": 3,
+  "item": "How many crayons are shown? (8)",
+  "status": "OK",
+  "lesson": "Count objects",
+  "week": "W01",
+  "note": "Counting a set of 8 and writing how many."
+ },
+ {
+  "test": "Counting & Cardinality Test",
+  "q": 4,
+  "item": "What number is shown on the domino? (12)",
+  "status": "OK",
+  "lesson": "Count within 20",
+  "week": "W05",
+  "note": "Counting a dot arrangement to 12 is taught within 20 (W05). Dominoes are a familiar representation."
+ },
+ {
+  "test": "Counting & Cardinality Test",
+  "q": 5,
+  "item": "Fill in the ten frames to show 15",
+  "status": "OK",
+  "lesson": "Count within 20",
+  "week": "W05",
+  "note": "Count within 20 uses ten frames to represent teen numbers. The fuller 10 + 5 structure (Understand 14, 15 and 16, W21 NBT) comes later but is not needed for this item."
+ },
+ {
+  "test": "Counting & Cardinality Test",
+  "q": 6,
+  "item": "How many frogs are shown? (11)",
+  "status": "OK",
+  "lesson": "Count within 20",
+  "week": "W05",
+  "note": "Counting a scattered set of 11."
+ },
+ {
+  "test": "Counting & Cardinality Test",
+  "q": 7,
+  "item": "Color in the group that has less (6 vs 5 planes)",
+  "status": "OK",
+  "lesson": "Fewer, more, same",
+  "week": "W03",
+  "note": "Comparing groups to find which has fewer (also Compare groups by matching, W03)."
+ },
+ {
+  "test": "Counting & Cardinality Test",
+  "q": 8,
+  "item": "Color in the turtle with the bigger number (8 vs 4)",
+  "status": "OK",
+  "lesson": "Compare numbers",
+  "week": "W04",
+  "note": "Comparing two numerals to find the greater (also Less than, greater than, equal to, W04)."
+ },
+ {
+  "test": "Operations & Algebraic Thinking Test",
+  "q": 1,
+  "item": "Cube picture subtraction: 5 cubes - 4 cubes = ___",
+  "status": "OK",
+  "lesson": "Subtraction - take away cross out (How many left )",
+  "week": "W14",
+  "note": "Subtraction with a cube picture by crossing out, taught before the OA exam (W20)."
+ },
+ {
+  "test": "Operations & Algebraic Thinking Test",
+  "q": 2,
+  "item": "Word problem: 6 red and 2 green apples, how many altogether?",
+  "status": "OK",
+  "lesson": "Addition problems",
+  "week": "W15",
+  "note": "Addition word problem with 'altogether' (also Addition - add together, W14)."
+ },
+ {
+  "test": "Operations & Algebraic Thinking Test",
+  "q": 3,
+  "item": "Fill blanks to show three different ways to make seven",
+  "status": "OK",
+  "lesson": "Systematic number bonds within 10",
+  "week": "W13",
+  "note": "Several ways to make 7 (Number bonds within 10, W13)."
+ },
+ {
+  "test": "Operations & Algebraic Thinking Test",
+  "q": 4,
+  "item": "Draw a different way to make 8 (example 6 + 2 given)",
+  "status": "OK",
+  "lesson": "Number bonds within 10",
+  "week": "W13",
+  "note": "Another way to make 8, shown as a drawing and an equation."
+ },
+ {
+  "test": "Operations & Algebraic Thinking Test",
+  "q": 5,
+  "item": "Fill in blanks: ___ + 7 = 10 and 4 + ___ = 10",
+  "status": "OK",
+  "lesson": "Number bonds to 10",
+  "week": "W14",
+  "note": "Finding the missing partner to 10."
+ },
+ {
+  "test": "Operations & Algebraic Thinking Test",
+  "q": 6,
+  "item": "5 cubes + ___ = ten-rod (make 10)",
+  "status": "OK",
+  "lesson": "Number bonds to 10",
+  "week": "W14",
+  "note": "Making 10 from 5 using cubes and a ten-rod."
+ },
+ {
+  "test": "Operations & Algebraic Thinking Test",
+  "q": 7,
+  "item": "Fill in blanks: 4 + 1 = ___ and 3 - 3 = ___",
+  "status": "OK",
+  "lesson": "Add or subtract 1 or 2",
+  "week": "W16",
+  "note": "4 + 1 is taught in Add or subtract 1 or 2 (W16). Taking a number from itself (3 - 3 = 0) is covered by the take-away lessons (W14-W15)."
+ },
+ {
+  "test": "Operations & Algebraic Thinking Test",
+  "q": 8,
+  "item": "Vertical facts: 2 + 3 and 2 - 1",
+  "status": "OK",
+  "lesson": "Add or subtract 1 or 2",
+  "week": "W16",
+  "note": "Fluency within 5 is taught. The vertical (column) layout is never explicitly modelled, so show one vertical example in the W16 lesson (no reorder needed)."
+ },
+ {
+  "test": "Number & Operations in Base Ten Test",
+  "q": 1,
+  "item": "Base-ten blocks: how many tens and ones? (1 ten 3 ones)",
+  "status": "OK",
+  "lesson": "Understand 11, 12 and 13",
+  "week": "W21",
+  "note": "13 as 1 ten and 3 ones. Base-ten blocks are also used in Groups of tens and ones (W22), before the NBT exam (W23)."
+ },
+ {
+  "test": "Number & Operations in Base Ten Test",
+  "q": 2,
+  "item": "Base-ten blocks: how many tens and ones? (1 ten 6 ones)",
+  "status": "OK",
+  "lesson": "Understand 14, 15 and 16",
+  "week": "W21",
+  "note": "16 as 1 ten and 6 ones (also Groups of tens and ones, W22)."
+ },
+ {
+  "test": "Number & Operations in Base Ten Test",
+  "q": 3,
+  "item": "Base-ten blocks: how many tens and ones? (1 ten 8 ones)",
+  "status": "OK",
+  "lesson": "Understand 17, 18 and 19",
+  "week": "W21",
+  "note": "18 as 1 ten and 8 ones (also Groups of tens and ones, W22)."
+ },
+ {
+  "test": "Number & Operations in Base Ten Test",
+  "q": 4,
+  "item": "Base-ten blocks: how many tens and ones? (1 ten 2 ones)",
+  "status": "OK",
+  "lesson": "Understand 11, 12 and 13",
+  "week": "W21",
+  "note": "12 as 1 ten and 2 ones (also Groups of tens and ones, W22)."
+ },
+ {
+  "test": "Number & Operations in Base Ten Test",
+  "q": 5,
+  "item": "Fill in the blank: 10 + ___ = 19",
+  "status": "OK",
+  "lesson": "Partition into tens and ones",
+  "week": "W23",
+  "note": "Equation 10 + ___ = 19, taught in W23 before the exam row."
+ },
+ {
+  "test": "Number & Operations in Base Ten Test",
+  "q": 6,
+  "item": "Fill in the blank: 10 + ___ = 14",
+  "status": "OK",
+  "lesson": "Partition into tens and ones",
+  "week": "W23",
+  "note": "Equation 10 + ___ = 14."
+ },
+ {
+  "test": "Number & Operations in Base Ten Test",
+  "q": 7,
+  "item": "Ten frames: full ten + partial frame = ___ (two equations)",
+  "status": "OK",
+  "lesson": "Understand 14, 15 and 16",
+  "week": "W21",
+  "note": "Ten frames for 15 and 17 (also Understand 17, 18 and 19, W21). The skill is taught, but the ANSWER KEY IS WRONG: change the key from 5 and 7 to 15 and 17."
+ },
+ {
+  "test": "Measurement & Data Test",
+  "q": 1,
+  "item": "Circle all words that describe a barn (short/long/heavy/light/large/small)",
+  "status": "OK",
+  "lesson": "Compare lengths and heights",
+  "week": "W24",
+  "note": "Describing a barn as long and heavy (Heavier and lighter, W25). 'Large/small' are not named in any lesson title, so use them in the W24 lesson."
+ },
+ {
+  "test": "Measurement & Data Test",
+  "q": 2,
+  "item": "Circle all words that describe a butterfly",
+  "status": "OK",
+  "lesson": "Heavier and lighter",
+  "week": "W25",
+  "note": "Describing a butterfly as short, light and small (Compare lengths and heights, W24)."
+ },
+ {
+  "test": "Measurement & Data Test",
+  "q": 3,
+  "item": "Color the biggest cow",
+  "status": "OK",
+  "lesson": "Compare lengths and heights",
+  "week": "W24",
+  "note": "Direct comparison of overall size. 'Biggest' is not named in any lesson title, so use the word in the W24 lesson."
+ },
+ {
+  "test": "Measurement & Data Test",
+  "q": 4,
+  "item": "Color the longest pencil",
+  "status": "OK",
+  "lesson": "Compare lengths and heights",
+  "week": "W24",
+  "note": "Finding the longest pencil."
+ },
+ {
+  "test": "Measurement & Data Test",
+  "q": 5,
+  "item": "Color bikes/planes/boats by category, count each and total",
+  "status": "OK",
+  "lesson": "Sort objects",
+  "week": "W23",
+  "note": "Sorting into categories and counting each group (Sort objects, W23; counting from CC). The total of 13 can be found by counting all."
+ },
+ {
+  "test": "Geometry Test",
+  "q": 1,
+  "item": "Circle the correct word: cow is (below/behind) the fence",
+  "status": "OK",
+  "lesson": "Describe position - above and below",
+  "week": "W30",
+  "note": "The answer word 'below' is taught. 'Behind' only appears as a distractor and is close to forwards and backwards (W30)."
+ },
+ {
+  "test": "Geometry Test",
+  "q": 2,
+  "item": "Color triangles, squares, rectangles, circles in assigned colors",
+  "status": "OK",
+  "lesson": "Recognise and name 2D shapes",
+  "week": "W31",
+  "note": "Naming triangles, squares, rectangles and circles in different orientations."
+ },
+ {
+  "test": "Geometry Test",
+  "q": 3,
+  "item": "Color flat (2-D) shapes blue and solid (3-D) shapes red",
+  "status": "OK",
+  "lesson": "Recognise and name 3D shapes",
+  "week": "W31",
+  "note": "Sorting flat from solid shapes (Recognise and name 2D shapes, W31; Sort 3D shapes, W31)."
+ },
+ {
+  "test": "Geometry Test",
+  "q": 4,
+  "item": "How many sides and corners does this shape have? (rotated square)",
+  "status": "OK",
+  "lesson": "Sort 2D shapes",
+  "week": "W32",
+  "note": "Counting sides and corners (vertices) is part of Sort 2D shapes and Recognise and name 2D shapes. Make sure a rotated square is included."
+ },
+ {
+  "test": "Geometry Test",
+  "q": 5,
+  "item": "Complete the rest of the triangle",
+  "status": "OK",
+  "lesson": "Build and draw shapes",
+  "week": "W29",
+  "note": "Drawing and completing shapes. Flagged BUILD: the custom lesson is not written yet, so this is only OK once it is. It must include completing a partial outline."
+ },
+ {
+  "test": "Geometry Test",
+  "q": 6,
+  "item": "Use two triangles to draw a square",
+  "status": "OK",
+  "lesson": "Compose shapes from smaller shapes",
+  "week": "W29",
+  "note": "Two triangles make a square. Flagged BUILD: the custom lesson is not written yet, so this is only OK once it is."
+ }
+]

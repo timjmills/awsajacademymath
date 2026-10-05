@@ -5,7 +5,8 @@ from mapcheck import coverage
 
 # CCSS standards missing from their own grade's guide, closed with real WRM steps copied from the nearest guide
 COPY_AT_START={"G3"}   # foundational: open the domain run
-COPIES={ "G2":[("G3","Count squares")],
+COPIES={ "G1":[("K","Measure length using objects")],   # Measurement test asks for non-standard units
+         "G2":[("G3","Count squares")],
          "G3":[("G2","Multiplication - equal groups"),("G2","Sharing and grouping")],
          "G4":[("G3","Understand angles as turns"),("G3","Identify angles")],
          "G5":[("G4","Cubic centimetres")] }   # "What is volume?" is not in the current WRM Year 5 scheme
@@ -16,6 +17,28 @@ MANUAL={ # known cross-domain dependencies that the code tags don't reveal: (gra
  ("G5","form ordered pairs"):"Graphing the pairs needs the coordinate plane (Geometry run). Generate the patterns here; graph them in the Geometry run.",
  ("G5","line graphs"):"Plotting points uses the coordinate plane; fine if taught as reading graphs, revisit after Geometry.",
 }
+# Lesson moves so every type of problem on the Awsaj domain tests is taught before that test
+# (grade, lesson) -> (domain, "before"/"after", anchor lesson)
+MOVES={("G1","Measure length using objects"):("MD","before","Measure in centimetres"),
+ ("G3","Partition shapes into equal areas"):("NF","before","Understand the whole"),
+ ("G3","Measure to the half and quarter inch"):("MD","before","Build a line plot from inch measurements"),
+ ("G4","Understand and use degrees"):("G","before","Draw lines and angles accurately"),
+ ("G4","Measure angles up to 180°"):("G","before","Draw lines and angles accurately"),
+ ("G5","The first quadrant"):("OA","before","Form ordered pairs from corresponding terms"),
+ ("G5","Form expressions"):("OA","after","Order of operations"),
+ ("G5","Multi-step problems"):("NF","after","Subtract mixed numbers")}
+def apply_moves(g,steps):
+    k=0
+    for st in steps:   # White Rose end-of-year projects stay at the end of the year
+        if 'Projects' in st.get('unit',''): st['dom']='EXT'; st['kind']='end-of-year projects'
+    for (gg,name),(d,where,anchor) in MOVES.items():
+        if gg!=g: continue
+        st=[s for s in steps if s['lesson']==name]; an=[s for s in steps if s['lesson']==anchor]
+        assert st and an,(g,name,anchor)
+        st=st[0]; k+=1
+        st['dom']=d
+        if not st['kind'].startswith('on-grade') and not st.get('is_copy'): st['kind']='on-grade (moved for the domain test)'
+        st['wrm_idx']=an[0]['wrm_idx']+(-0.05 if where=="before" else 0.05)+k*0.001
 def pacing_dates(g):
     # the live site's calendar (W01 = 6 Sep 2026), not the 22 Aug print
     return {int(w[1:]):(v['q'],v['start']) for w,v in SITEWEEKS.items()}
@@ -37,6 +60,7 @@ for g in GR:
             dom=d,kind=f"copied from {src} guide",note=[],build=False,wrm_week=None,wrm_q=None,is_copy=True,copy_src=src,
             wrm_idx=min(anchor)-0.9+k*0.1,
             power=sorted({c for c in s0['codes'] if c in POWERSET[g]})))
+    apply_moves(g,steps)
     steps.sort(key=lambda s:s['wrm_idx'])
     score,order,seq,b,cov,le=best_map(g,steps)
     assign_weeks(seq)
@@ -61,7 +85,8 @@ for g in GR:
             if s['build']: flags.append("CCSS BUILD lesson: still to be written.")
             if s.get('is_copy'): flags.append(f"Copied from the {GRADE_LABEL[s['copy_src']]} guide so this standard is taught in its own grade. Slides and worksheet live in that grade's lesson folder.")
         typ = "MAP" if s['slot']=='map' else "EXAM" if s['slot']=='exam' else ("BUILD" if s['build'] else ("COPIED IN" if s.get('is_copy') else s['kind']))
-        if s.get('post_map') and s['slot']=='step': ups=sorted({gnum(c) for c in s['codes'] if gnum(c)>GNUM[g]}) or ([4] if 'decimals' in s['kind'] else []); typ="ENRICHMENT · above grade level ("+("Grade "+str(ups[0]) if ups else "no CCSS code")+" standard)"
+        if s.get('post_map') and s['slot']=='step' and s['kind']=='end-of-year projects': typ="ENRICHMENT · end-of-year projects"
+        elif s.get('post_map') and s['slot']=='step': ups=sorted({gnum(c) for c in s['codes'] if gnum(c)>GNUM[g]}) or ([4] if 'decimals' in s['kind'] else []); typ="ENRICHMENT · above grade level ("+("Grade "+str(ups[0]) if ups else "no CCSS code")+" standard)"
         moved = "" if s['slot'] in('exam','map') or s.get('wrm_week') is None else s['week']-s['wrm_week']
         rows.append([i+1 if s['slot']=='step' else "", s['week'], q, fmt_date(dt,q), "S1" if q in("Q1","Q2") else "S2",
             s['dom'], DOMNAME.get(s['dom'],"MAP Growth"), s['lesson'], ", ".join(s['codes']), ", ".join(s['power']), typ,

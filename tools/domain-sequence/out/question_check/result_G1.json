@@ -1,0 +1,407 @@
+[
+ {
+  "test": "Number & Operations in Base Ten Test",
+  "q": "1",
+  "item": "Continue four counting sequences (43s, 86s, 29s, 110-115)",
+  "status": "OK",
+  "lesson": "Count on to 120",
+  "week": "W05",
+  "note": "Counting on by 1s from any number, crossing 100 to 120; custom BUILD lesson must actually be written"
+ },
+ {
+  "test": "Number & Operations in Base Ten Test",
+  "q": "2",
+  "item": "Count a set of 48 cube pictures and write the numeral",
+  "status": "OK",
+  "lesson": "Count objects to 100 by making 10s",
+  "week": "W01",
+  "note": "Count a set of objects and write the numeral"
+ },
+ {
+  "test": "Number & Operations in Base Ten Test",
+  "q": "3",
+  "item": "Read base-ten blocks: how many tens and ones (8 tens 1 one)",
+  "status": "OK",
+  "lesson": "Recognise tens and ones",
+  "week": "W01",
+  "note": "Read tens and ones from base-ten blocks"
+ },
+ {
+  "test": "Number & Operations in Base Ten Test",
+  "q": "4",
+  "item": "Draw base-ten blocks to represent 67",
+  "status": "OK",
+  "lesson": "Partition numbers to 100",
+  "week": "W02",
+  "note": "Represent a 2-digit number as tens and ones (base-ten drawings); also Recognise tens and ones W01"
+ },
+ {
+  "test": "Number & Operations in Base Ten Test",
+  "q": "5",
+  "item": "Compare two-digit numbers with >, <, = (52/54, 19/19, 76/67)",
+  "status": "OK",
+  "lesson": "Compare numbers",
+  "week": "W04",
+  "note": "Compare 2-digit numbers with <, >, ="
+ },
+ {
+  "test": "Number & Operations in Base Ten Test",
+  "q": "6",
+  "item": "Compare two numbers shown as base-ten block pictures using >, <, =",
+  "status": "OK",
+  "lesson": "Compare objects",
+  "week": "W03",
+  "note": "WR Compare objects uses base-ten representations with <, >, =; Compare numbers W04 too"
+ },
+ {
+  "test": "Number & Operations in Base Ten Test",
+  "q": "7",
+  "item": "Add 27+6 and 44+50 in vertical format",
+  "status": "OK",
+  "lesson": "Add across a 10",
+  "week": "W07",
+  "note": "27+6 is 2-digit + 1-digit crossing a ten (Add across a 10 W07); 44+50 via Add and subtract 10s W07; column layout in Add two 2-digit numbers W06/W08"
+ },
+ {
+  "test": "Number & Operations in Base Ten Test",
+  "q": "8",
+  "item": "Add 31+20 and 65+8 in horizontal equations",
+  "status": "OK",
+  "lesson": "Add and subtract 10s",
+  "week": "W07",
+  "note": "31+20 add tens (W07); 65+8 add across a 10 (W07)"
+ },
+ {
+  "test": "Number & Operations in Base Ten Test",
+  "q": "9",
+  "item": "Add or subtract 10: 13+10, 72-10 (vertical)",
+  "status": "OK",
+  "lesson": "10 more, 10 less",
+  "week": "W07",
+  "note": "Add/subtract 10"
+ },
+ {
+  "test": "Number & Operations in Base Ten Test",
+  "q": "10",
+  "item": "Add or subtract 10: 59-10, 86+10",
+  "status": "OK",
+  "lesson": "10 more, 10 less",
+  "week": "W07",
+  "note": "Add/subtract 10"
+ },
+ {
+  "test": "Number & Operations in Base Ten Test",
+  "q": "11",
+  "item": "Subtract multiples of 10: 60-40, 80-30 (vertical)",
+  "status": "OK",
+  "lesson": "Add and subtract 10s",
+  "week": "W07",
+  "note": "Subtract multiples of 10"
+ },
+ {
+  "test": "Number & Operations in Base Ten Test",
+  "q": "12",
+  "item": "Subtract multiples of 10: 30-10, 90-20",
+  "status": "OK",
+  "lesson": "Add and subtract 10s",
+  "week": "W07",
+  "note": "Subtract multiples of 10"
+ },
+ {
+  "test": "Operations & Algebraic Thinking Test",
+  "q": "1",
+  "item": "Word problem: 4 plums plus 8 plums, how many in total",
+  "status": "OK",
+  "lesson": "Mixed addition and subtraction",
+  "week": "W08",
+  "note": "Add-to/put-together word problem within 20; 4+8 crossing 10 also via Add by making 10 W10"
+ },
+ {
+  "test": "Operations & Algebraic Thinking Test",
+  "q": "2",
+  "item": "Word problem: 15 flowers, 9 yellow, how many pink",
+  "status": "OK",
+  "lesson": "Missing number problems",
+  "week": "W11",
+  "note": "Put-together, addend unknown (15-9); part-whole also in Fact families W09 and Subtract across 10 W11"
+ },
+ {
+  "test": "Operations & Algebraic Thinking Test",
+  "q": "3",
+  "item": "Word problem adding three numbers: 6+6+5 crayons",
+  "status": "OK",
+  "lesson": "Add three 1-digit numbers",
+  "week": "W10",
+  "note": "Word problem with 3 addends. Fix the item typo (names Tony, then asks about Ben)"
+ },
+ {
+  "test": "Operations & Algebraic Thinking Test",
+  "q": "4",
+  "item": "Fill blanks for commutative pairs 9+8, 8+9, 4+6, 6+4",
+  "status": "OK",
+  "lesson": "Fact families - addition and subtraction bonds within 20",
+  "week": "W09",
+  "note": "Commutative pairs are part of fact families; Related facts W10"
+ },
+ {
+  "test": "Operations & Algebraic Thinking Test",
+  "q": "5",
+  "item": "Three-addend sums and missing addends (5+4+7, 5+_=16, 9+_=14)",
+  "status": "OK",
+  "lesson": "Add three 1-digit numbers",
+  "week": "W10",
+  "note": "3-addend sums W10; missing addends via Missing number problems W11"
+ },
+ {
+  "test": "Operations & Algebraic Thinking Test",
+  "q": "6",
+  "item": "Related pairs: _+7=13 with 13-7, _+11=20 with 20-11",
+  "status": "OK",
+  "lesson": "Related facts",
+  "week": "W10",
+  "note": "Subtraction as unknown-addend; Fact families W09"
+ },
+ {
+  "test": "Operations & Algebraic Thinking Test",
+  "q": "7",
+  "item": "Count on 7 from 5; count back 13 from 19",
+  "status": "OK",
+  "lesson": "Add and subtract 1s",
+  "week": "W10",
+  "note": "Counting on/back by 1s; only lightly covered by this title (WR Y1 'Add by counting on' / 'Subtraction - counting back' are the explicit lessons). Suggest teacher explicitly model counting on 7 / back 13 in this lesson"
+ },
+ {
+  "test": "Operations & Algebraic Thinking Test",
+  "q": "8",
+  "item": "Add and subtract within 20: 6+2, 7-4, 14-8",
+  "status": "OK",
+  "lesson": "Subtract across 10",
+  "week": "W11",
+  "note": "Facts within 20 (14-8); Bonds to 10 W09 for 6+2, 7-4"
+ },
+ {
+  "test": "Operations & Algebraic Thinking Test",
+  "q": "9",
+  "item": "Making ten: 5+6 = 10+_, 9+7 = 10+_",
+  "status": "OK",
+  "lesson": "Add by making 10",
+  "week": "W10",
+  "note": "Making-ten strategy"
+ },
+ {
+  "test": "Operations & Algebraic Thinking Test",
+  "q": "10",
+  "item": "Fill blank so equation is true: 2+_=11-4, 7+_=3+12",
+  "status": "OK",
+  "lesson": "Compare number sentences",
+  "week": "W11",
+  "note": "Equal sign with expressions both sides; unknowns via Missing number problems W11"
+ },
+ {
+  "test": "Operations & Algebraic Thinking Test",
+  "q": "11",
+  "item": "Decide true or false: 17=12+6, 20-7=8+5, 8+8=11+5",
+  "status": "OK",
+  "lesson": "Compare number sentences",
+  "week": "W11",
+  "note": "True/false equations are equality of two number sentences"
+ },
+ {
+  "test": "Operations & Algebraic Thinking Test",
+  "q": "12",
+  "item": "Find unknown: 17-4=_, 11-_=2, 19=_+6",
+  "status": "OK",
+  "lesson": "Missing number problems",
+  "week": "W11",
+  "note": "Unknown in any position"
+ },
+ {
+  "test": "Measurement & Data Test",
+  "q": "1",
+  "item": "Order three dotted lines by length, smallest to largest",
+  "status": "OK",
+  "lesson": "Order lengths and heights",
+  "week": "W22",
+  "note": "Order three lengths"
+ },
+ {
+  "test": "Measurement & Data Test",
+  "q": "2",
+  "item": "Order three bars by length, smallest to largest",
+  "status": "OK",
+  "lesson": "Order lengths and heights",
+  "week": "W22",
+  "note": "Order three lengths"
+ },
+ {
+  "test": "Measurement & Data Test",
+  "q": "3",
+  "item": "Order three lines by length, largest to smallest",
+  "status": "OK",
+  "lesson": "Order lengths and heights",
+  "week": "W22",
+  "note": "Order three lengths, largest to smallest"
+ },
+ {
+  "test": "Measurement & Data Test",
+  "q": "4",
+  "item": "Measure a school bus picture with linking cubes",
+  "status": "NOT_TAUGHT",
+  "lesson": "",
+  "week": "",
+  "note": "Non-standard unit measuring (iterate linking cubes) is not taught: W21 lessons are standard units (cm, m). Fix: insert WR Year 1 'Measure length using objects' (Y1 Length and height) before 'Measure in centimetres' W21, or open W21 cm lesson with cube iteration"
+ },
+ {
+  "test": "Measurement & Data Test",
+  "q": "5",
+  "item": "Measure a crayon picture with linking cubes",
+  "status": "NOT_TAUGHT",
+  "lesson": "",
+  "week": "",
+  "note": "Same as Q4: measuring with linking cubes not taught. Fix: add WR Y1 'Measure length using objects' in W21 before 'Measure in centimetres'"
+ },
+ {
+  "test": "Measurement & Data Test",
+  "q": "6",
+  "item": "Read analog clock time to the half hour (10:30)",
+  "status": "OK",
+  "lesson": "O'clock and half past",
+  "week": "W23",
+  "note": "Read time to the half hour"
+ },
+ {
+  "test": "Measurement & Data Test",
+  "q": "7",
+  "item": "Read analog clock time to the hour (2:00)",
+  "status": "OK",
+  "lesson": "O'clock and half past",
+  "week": "W23",
+  "note": "Read time to the hour"
+ },
+ {
+  "test": "Measurement & Data Test",
+  "q": "8",
+  "item": "Draw hands on analog clock to show digital 4:30",
+  "status": "OK",
+  "lesson": "O'clock and half past",
+  "week": "W23",
+  "note": "Draw hands to show half past"
+ },
+ {
+  "test": "Measurement & Data Test",
+  "q": "9",
+  "item": "Sort and count shapes into a square/triangle/circle table",
+  "status": "OK",
+  "lesson": "Tables",
+  "week": "W21",
+  "note": "Sort objects into categories and record counts in a table; Make tally charts W23"
+ },
+ {
+  "test": "Measurement & Data Test",
+  "q": "9.1",
+  "item": "From the data: are there more triangles or squares",
+  "status": "OK",
+  "lesson": "Tables",
+  "week": "W21",
+  "note": "Compare categories in a data table; Block diagrams W25"
+ },
+ {
+  "test": "Measurement & Data Test",
+  "q": "9.2",
+  "item": "From the data: how many total shapes",
+  "status": "OK",
+  "lesson": "Tables",
+  "week": "W21",
+  "note": "Total of data categories"
+ },
+ {
+  "test": "Measurement & Data Test",
+  "q": "9.3",
+  "item": "From the data: how many more squares than circles",
+  "status": "OK",
+  "lesson": "Block diagrams",
+  "week": "W25",
+  "note": "'How many more' questions on data (WR block diagrams/pictograms); Find the difference W12"
+ },
+ {
+  "test": "Geometry Test",
+  "q": "1",
+  "item": "Find the number of sides of a pentagon",
+  "status": "OK",
+  "lesson": "Count sides on 2D shapes",
+  "week": "W13",
+  "note": "Sides of a pentagon"
+ },
+ {
+  "test": "Geometry Test",
+  "q": "2",
+  "item": "Find the number of sides of a rhombus",
+  "status": "OK",
+  "lesson": "Count sides on 2D shapes",
+  "week": "W13",
+  "note": "Sides of a rhombus; ensure 'rhombus' named in lesson"
+ },
+ {
+  "test": "Geometry Test",
+  "q": "3",
+  "item": "Circle all the rectangles among nine shapes (incl. squares, rotated square)",
+  "status": "OK",
+  "lesson": "Sort 2D shapes",
+  "week": "W14",
+  "note": "Classify by defining attributes; make explicit that squares are rectangles (also Recognise 2D and 3D shapes W15)"
+ },
+ {
+  "test": "Geometry Test",
+  "q": "4",
+  "item": "Choose the best name for a shape: triangle, trapezoid, or square",
+  "status": "OK",
+  "lesson": "Recognise 2D and 3D shapes",
+  "week": "W15",
+  "note": "Naming shapes; ensure 'trapezoid' vocabulary included (not standard WR UK vocabulary)"
+ },
+ {
+  "test": "Geometry Test",
+  "q": "5",
+  "item": "Draw lines showing a hexagon composed of triangles and a rhombus",
+  "status": "OK",
+  "lesson": "Compose and recompose shapes",
+  "week": "W16",
+  "note": "Compose hexagon from triangles/rhombus; this is a BUILD lesson that must be written before W16"
+ },
+ {
+  "test": "Geometry Test",
+  "q": "6",
+  "item": "Draw lines showing a circle composed of a half and two quarter-circles",
+  "status": "OK",
+  "lesson": "Compose and recompose shapes",
+  "week": "W16",
+  "note": "Composing circle from half/quarter circles; halves/quarters W17-W18 also before exam"
+ },
+ {
+  "test": "Geometry Test",
+  "q": "7",
+  "item": "Name the shaded portion of a fully shaded rectangle (one whole)",
+  "status": "OK",
+  "lesson": "Introduction to parts and whole",
+  "week": "W16",
+  "note": "Whole vs parts; Find the whole W18"
+ },
+ {
+  "test": "Geometry Test",
+  "q": "8",
+  "item": "Name the shaded portion of a half-shaded circle (one half)",
+  "status": "OK",
+  "lesson": "Recognise a half",
+  "week": "W17",
+  "note": "Name one half"
+ },
+ {
+  "test": "Geometry Test",
+  "q": "9",
+  "item": "Draw a rectangle, partition into four equal shares, shade two",
+  "status": "OK",
+  "lesson": "Find a quarter",
+  "week": "W18",
+  "note": "Partition into four equal shares; shading two quarters links to Recognise the equivalence of a half and two quarters W17. Fix item typo 'Shade two equal share'"
+ }
+]

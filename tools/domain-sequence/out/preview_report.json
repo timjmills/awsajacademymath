@@ -26,9 +26,9 @@
    "W26": "MD"
   },
   "load": {
-   "standard": 3.52,
-   "priority": 2.92,
-   "intervention": 2.28
+   "standard": 3.56,
+   "priority": 2.96,
+   "intervention": 2.32
   },
   "nofiles": [
    "Find the total (US: dollars & cents)",
@@ -83,12 +83,12 @@
    "W04": "OA",
    "W14": "NBT",
    "W23": "NF",
-   "W27": "G",
+   "W28": "G",
    "W34": "MD"
   },
   "load": {
    "standard": 4.0,
-   "priority": 3.09,
+   "priority": 3.12,
    "intervention": 2.55
   },
   "nofiles": [
@@ -98,18 +98,18 @@
   ]
  },
  "G5": {
-  "map": "W33",
+  "map": "W32",
   "exams": {
    "W08": "NBT",
-   "W14": "OA",
-   "W21": "NF",
-   "W30": "MD",
+   "W13": "OA",
+   "W20": "NF",
+   "W29": "MD",
    "W32": "G"
   },
   "load": {
-   "standard": 3.53,
-   "priority": 2.88,
-   "intervention": 2.38
+   "standard": 3.52,
+   "priority": 2.94,
+   "intervention": 2.39
   },
   "nofiles": [
    "Multiply up to a 4-digit number by a 1-digit number",

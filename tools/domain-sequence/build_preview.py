@@ -3,7 +3,7 @@
 import re, json, gzip, base64, sys, collections, math, os
 from core import SITEWEEKS, dkey
 
-REPO = os.environ.get('AWSAJ_REPO', os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
+REPO = '/home/user/awsajacademymath'
 live_html = open(os.path.join(REPO, 'index.html')).read()
 m = re.search(r'(<script id="__data"[^>]*>)(.*?)(</script>)', live_html, re.S)
 D = json.loads(gzip.decompress(base64.b64decode(m.group(2).strip())))

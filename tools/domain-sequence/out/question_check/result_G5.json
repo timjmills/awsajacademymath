@@ -1,0 +1,596 @@
+[
+ {
+  "test": "Number & Operations in Base Ten Test",
+  "q": 1,
+  "item": "Which number has a 5 worth 10 times the 5 in 345.29",
+  "status": "OK",
+  "lesson": "Place value - integers and decimals",
+  "week": "W06",
+  "note": "10x place-value relationship across integers and decimals taught W05-W06 (Place value within 1; integers and decimals)."
+ },
+ {
+  "test": "Number & Operations in Base Ten Test",
+  "q": 2,
+  "item": "Which number has an 8 worth 1/10 of the 8 in 157.82",
+  "status": "OK",
+  "lesson": "Place value - integers and decimals",
+  "week": "W06",
+  "note": "1/10 relationship between decimal places taught W05-W06."
+ },
+ {
+  "test": "Number & Operations in Base Ten Test",
+  "q": 3,
+  "item": "5.82 x 10^1, 10^2, 10^3; explain the pattern",
+  "status": "OK",
+  "lesson": "Multiply by 10, 100 and 1,000",
+  "week": "W06",
+  "note": "Powers of 10 (W01) gives exponent notation; multiplying decimals by 10/100/1,000 taught W06-W07."
+ },
+ {
+  "test": "Number & Operations in Base Ten Test",
+  "q": 4,
+  "item": "149.3 ÷ 10^1, 10^2, 10^3; explain the pattern",
+  "status": "OK",
+  "lesson": "Divide by 10, 100 and 1,000",
+  "week": "W07",
+  "note": "Dividing decimals by 10/100/1,000 taught W07 (repeated W08); exponent notation from Powers of 10 (W01)."
+ },
+ {
+  "test": "Number & Operations in Base Ten Test",
+  "q": 5,
+  "item": "Write 7.462 in expanded form and word form",
+  "status": "OK",
+  "lesson": "Place value - integers and decimals",
+  "week": "W06",
+  "note": "Partitioning decimals to thousandths taught W05-W06; ensure word form of decimals is modelled (Read and write numbers W01 is integers only)."
+ },
+ {
+  "test": "Number & Operations in Base Ten Test",
+  "q": 6,
+  "item": "Compare three pairs of decimals with >, <, =",
+  "status": "PRIOR_GRADE",
+  "lesson": "Place value - integers and decimals",
+  "week": "W06",
+  "note": "No lesson explicitly compares decimals (Compare and order any integers W02 is integers only); comparing decimals is Y5/4.NF.C.7 review, but thousandths comparison is new at G5. Fix: add a 'Compare and order decimals (up to 3 dp)' step after Place value - integers and decimals in W06, or extend Compare and order any integers to include decimals."
+ },
+ {
+  "test": "Number & Operations in Base Ten Test",
+  "q": 7,
+  "item": "Round 3,086.157 to whole number, tenths, hundredths",
+  "status": "OK",
+  "lesson": "Round decimals",
+  "week": "W06",
+  "note": "Rounding to whole number/tenths/hundredths taught W06 (Round any integer W02 supports)."
+ },
+ {
+  "test": "Number & Operations in Base Ten Test",
+  "q": 8,
+  "item": "Multiply 356 x 47",
+  "status": "OK",
+  "lesson": "Multiply up to a 4-digit number by a 2-digit number",
+  "week": "W03",
+  "note": "3-digit x 2-digit standard multiplication."
+ },
+ {
+  "test": "Number & Operations in Base Ten Test",
+  "q": 9,
+  "item": "Multiply 4,958 x 26",
+  "status": "OK",
+  "lesson": "Multiply up to a 4-digit number by a 2-digit number",
+  "week": "W03",
+  "note": "4-digit x 2-digit standard multiplication."
+ },
+ {
+  "test": "Number & Operations in Base Ten Test",
+  "q": 10,
+  "item": "Divide 578 by 34",
+  "status": "OK",
+  "lesson": "Introduction to long division",
+  "week": "W04",
+  "note": "2-digit divisor long division (WR Y6 long division uses 2-digit divisors); Long division with remainders W04."
+ },
+ {
+  "test": "Number & Operations in Base Ten Test",
+  "q": 11,
+  "item": "Divide 2,924 by 68",
+  "status": "OK",
+  "lesson": "Introduction to long division",
+  "week": "W04",
+  "note": "4-digit by 2-digit divisor; also Division using factors W03 (68 = 4 x 17)."
+ },
+ {
+  "test": "Number & Operations in Base Ten Test",
+  "q": 12,
+  "item": "Add 37.65 + 49.72",
+  "status": "OK",
+  "lesson": "Add and subtract decimals",
+  "week": "W06",
+  "note": "Decimal addition taught W06."
+ },
+ {
+  "test": "Number & Operations in Base Ten Test",
+  "q": 13,
+  "item": "Subtract 203.49 - 78.56",
+  "status": "OK",
+  "lesson": "Add and subtract decimals",
+  "week": "W06",
+  "note": "Decimal subtraction with exchanging taught W06."
+ },
+ {
+  "test": "Number & Operations in Base Ten Test",
+  "q": 14,
+  "item": "Multiply 85.3 x 24.6",
+  "status": "NOT_TAUGHT",
+  "lesson": "Multiply decimals by integers",
+  "week": "W07",
+  "note": "Decimal x decimal (85.3 x 24.6) is never taught; only decimal x integer (W07). Fix: change item to decimal x whole number (e.g. 85.3 x 24) or a simple tenths x tenths model item (e.g. 0.3 x 0.6), or add a 'Multiply decimals by decimals (area model)' lesson in W08 before the exam."
+ },
+ {
+  "test": "Number & Operations in Base Ten Test",
+  "q": 15,
+  "item": "Divide 462.96 ÷ 7.2",
+  "status": "NOT_TAUGHT",
+  "lesson": "Divide decimals by integers",
+  "week": "W08",
+  "note": "Division by a decimal divisor (÷ 7.2) is never taught; only decimal ÷ integer (W08). Fix: change item to a whole-number divisor (e.g. 462.96 ÷ 72 or 46.296 ÷ 8), or add a 'Divide by a decimal (scale both numbers by 10)' lesson in W08."
+ },
+ {
+  "test": "Operations & Algebraic Thinking Test",
+  "q": 1,
+  "item": "Evaluate 45 ÷ (17 - 8)",
+  "status": "OK",
+  "lesson": "Order of operations",
+  "week": "W10",
+  "note": "Evaluating with parentheses taught W10."
+ },
+ {
+  "test": "Operations & Algebraic Thinking Test",
+  "q": 2,
+  "item": "Evaluate [51 - (18 + 14)] x 3",
+  "status": "OK",
+  "lesson": "Order of operations",
+  "week": "W10",
+  "note": "Taught W10; WR step uses round brackets only, so make sure nested brackets [ ] are included."
+ },
+ {
+  "test": "Operations & Algebraic Thinking Test",
+  "q": 3,
+  "item": "Evaluate {6 + [(23 - 9) ÷ 7]} x 11",
+  "status": "OK",
+  "lesson": "Order of operations",
+  "week": "W10",
+  "note": "Taught W10; ensure braces { } and nested brackets are explicitly practised (not in standard WR step)."
+ },
+ {
+  "test": "Operations & Algebraic Thinking Test",
+  "q": 4,
+  "item": "Insert parentheses so 35 - 27 ÷ 2 equals 4",
+  "status": "OK",
+  "lesson": "Order of operations",
+  "week": "W10",
+  "note": "Inserting brackets to make a statement true is part of the WR Order of operations step."
+ },
+ {
+  "test": "Operations & Algebraic Thinking Test",
+  "q": 5,
+  "item": "Write '7 times the sum of 4 and 6' as an expression",
+  "status": "ENRICHMENT_ONLY",
+  "lesson": "Form expressions",
+  "week": "W36",
+  "note": "Translating words into a numerical expression is not taught before the OA exam (Formulae W11 only touches it); Form expressions sits in enrichment W36. Fix: move Form expressions to W11 (after Order of operations), adapted to numerical expressions, or build a 5.OA.A.2 lesson 'Write and interpret numerical expressions' in W11."
+ },
+ {
+  "test": "Operations & Algebraic Thinking Test",
+  "q": 6,
+  "item": "Write 'product of 7 minus 1 and 3 plus 8' as an expression",
+  "status": "ENRICHMENT_ONLY",
+  "lesson": "Form expressions",
+  "week": "W36",
+  "note": "Words-to-expression with two grouped factors not taught before exam. Fix: same as Q5 (move Form expressions / build 5.OA.A.2 lesson into W11)."
+ },
+ {
+  "test": "Operations & Algebraic Thinking Test",
+  "q": 7,
+  "item": "Write 36 ÷ (22 - 16) in words",
+  "status": "ENRICHMENT_ONLY",
+  "lesson": "Form expressions",
+  "week": "W36",
+  "note": "Interpreting an expression in words is not taught before exam. Fix: same as Q5 (move Form expressions / build 5.OA.A.2 lesson into W11)."
+ },
+ {
+  "test": "Operations & Algebraic Thinking Test",
+  "q": 8,
+  "item": "Write [5 x (7 + 4)] - 19 in words",
+  "status": "ENRICHMENT_ONLY",
+  "lesson": "Form expressions",
+  "week": "W36",
+  "note": "Interpreting a nested expression in words is not taught before exam. Fix: same as Q5 (move Form expressions / build 5.OA.A.2 lesson into W11)."
+ },
+ {
+  "test": "Operations & Algebraic Thinking Test",
+  "q": 9,
+  "item": "Complete two-rule pattern table, form ordered pairs, plot them",
+  "status": "LATE",
+  "lesson": "The first quadrant",
+  "week": "W31",
+  "note": "Two-rule table and ordered pairs taught W12-W13 (Form ordered pairs; Generate two sequences), but plotting points is only taught in The first quadrant W31, after the OA exam (W14). Fix: move The first quadrant to W12 before Form ordered pairs from corresponding terms, or drop the plotting part from the item."
+ },
+ {
+  "test": "Number & Operations - Fractions Test",
+  "q": 1,
+  "item": "Add 1/4 + 5/6",
+  "status": "OK",
+  "lesson": "Add and subtract any two fractions",
+  "week": "W16",
+  "note": "Unlike denominators taught W16."
+ },
+ {
+  "test": "Number & Operations - Fractions Test",
+  "q": 2,
+  "item": "Subtract 4 1/3 - 1 5/9",
+  "status": "OK",
+  "lesson": "Subtract mixed numbers",
+  "week": "W17",
+  "note": "Mixed numbers with regrouping taught W17."
+ },
+ {
+  "test": "Number & Operations - Fractions Test",
+  "q": 3,
+  "item": "Shannon: 1/5 cup plus 3/4 cup, total drunk",
+  "status": "OK",
+  "lesson": "Add and subtract any two fractions",
+  "week": "W16",
+  "note": "Word problem with unlike denominators; note Multi-step problems (W14) is placed before fraction addition and should move after W17."
+ },
+ {
+  "test": "Number & Operations - Fractions Test",
+  "q": 4,
+  "item": "Brad: 4 1/8 in minus 2 1/2 in, difference",
+  "status": "OK",
+  "lesson": "Subtract mixed numbers",
+  "week": "W17",
+  "note": "Mixed-number subtraction with regrouping in context."
+ },
+ {
+  "test": "Number & Operations - Fractions Test",
+  "q": 5,
+  "item": "29/6 = ?",
+  "status": "OK",
+  "lesson": "Fractions as division",
+  "week": "W20",
+  "note": "Improper to mixed conversion via a/b = a ÷ b (W20); also Y5 review."
+ },
+ {
+  "test": "Number & Operations - Fractions Test",
+  "q": 6,
+  "item": "Share 22 cookies among 4; between which whole numbers",
+  "status": "OK",
+  "lesson": "Fractions as division",
+  "week": "W20",
+  "note": "Sharing wholes giving a mixed-number answer taught W20."
+ },
+ {
+  "test": "Number & Operations - Fractions Test",
+  "q": 7,
+  "item": "Multiply 2/3 x 4/5",
+  "status": "OK",
+  "lesson": "Multiply fractions by fractions",
+  "week": "W17",
+  "note": "Taught W17."
+ },
+ {
+  "test": "Number & Operations - Fractions Test",
+  "q": 8,
+  "item": "Multiply 2/5 x 6",
+  "status": "OK",
+  "lesson": "Multiply fractions by integers",
+  "week": "W17",
+  "note": "Taught W17."
+ },
+ {
+  "test": "Number & Operations - Fractions Test",
+  "q": 9,
+  "item": "Area of rectangle 7/10 ft by 2/5 ft",
+  "status": "OK",
+  "lesson": "Multiply fractions by fractions",
+  "week": "W17",
+  "note": "WR step uses area models of fraction x fraction; make sure a rectangle-area-with-fractional-sides context is shown."
+ },
+ {
+  "test": "Number & Operations - Fractions Test",
+  "q": 10,
+  "item": "Without multiplying, which of 3/8 x 1/2 or 3/8 x 1/3 is greater",
+  "status": "OK",
+  "lesson": "Multiplication as scaling",
+  "week": "W17",
+  "note": "Comparing products without multiplying taught W17 (BUILD lesson)."
+ },
+ {
+  "test": "Number & Operations - Fractions Test",
+  "q": 11,
+  "item": "Is 2 1/3 x 1 1/2 more or less than 2 1/3",
+  "status": "OK",
+  "lesson": "Multiplication as scaling",
+  "week": "W17",
+  "note": "Multiplying by a number > 1 makes it larger taught W17 (BUILD lesson)."
+ },
+ {
+  "test": "Number & Operations - Fractions Test",
+  "q": 12,
+  "item": "Jill: half of 2 1/4 cups of flour",
+  "status": "OK",
+  "lesson": "Mixed questions with fractions",
+  "week": "W18",
+  "note": "Fraction x mixed number in context (W18), built on Multiply fractions by fractions W17."
+ },
+ {
+  "test": "Number & Operations - Fractions Test",
+  "q": 13,
+  "item": "Matt: 3/4 of 5/6 hour dissecting frogs",
+  "status": "OK",
+  "lesson": "Mixed questions with fractions",
+  "week": "W18",
+  "note": "Fraction of a fraction in context; Multiply fractions by fractions W17."
+ },
+ {
+  "test": "Number & Operations - Fractions Test",
+  "q": 14,
+  "item": "Divide 8 ÷ 1/5",
+  "status": "OK",
+  "lesson": "Divide a whole number by a unit fraction",
+  "week": "W19",
+  "note": "Taught W19 (BUILD lesson)."
+ },
+ {
+  "test": "Number & Operations - Fractions Test",
+  "q": 15,
+  "item": "Divide 1/9 ÷ 3",
+  "status": "OK",
+  "lesson": "Divide a fraction by an integer",
+  "week": "W18",
+  "note": "Unit fraction ÷ whole number taught W18."
+ },
+ {
+  "test": "Number & Operations - Fractions Test",
+  "q": 16,
+  "item": "Tom: 5/9 pizza split into 3 equal pieces",
+  "status": "OK",
+  "lesson": "Divide any fraction by an integer",
+  "week": "W18",
+  "note": "Non-unit fraction ÷ integer taught W18."
+ },
+ {
+  "test": "Measurement & Data Test",
+  "q": 1,
+  "item": "Convert 2 kilometers to meters",
+  "status": "OK",
+  "lesson": "Convert metric measures",
+  "week": "W21",
+  "note": "km to m taught W21."
+ },
+ {
+  "test": "Measurement & Data Test",
+  "q": 2,
+  "item": "Convert 7 meters to centimeters",
+  "status": "OK",
+  "lesson": "Convert metric measures",
+  "week": "W21",
+  "note": "m to cm taught W21."
+ },
+ {
+  "test": "Measurement & Data Test",
+  "q": 3,
+  "item": "Convert 4 feet to inches",
+  "status": "OK",
+  "lesson": "Imperial measures",
+  "week": "W22",
+  "note": "Feet to inches taught W22."
+ },
+ {
+  "test": "Measurement & Data Test",
+  "q": 4,
+  "item": "Convert 3 miles to feet",
+  "status": "OK",
+  "lesson": "Imperial measures",
+  "week": "W22",
+  "note": "Taught W22, but WR covers miles only via Miles and kilometres; make sure 1 mile = 5,280 ft is included in Imperial measures."
+ },
+ {
+  "test": "Measurement & Data Test",
+  "q": 5,
+  "item": "Roger 6 ft and Ethan 5 ft; total jump in inches",
+  "status": "OK",
+  "lesson": "Imperial measures",
+  "week": "W22",
+  "note": "Multi-step imperial conversion (ft to in, then add)."
+ },
+ {
+  "test": "Measurement & Data Test",
+  "q": 6,
+  "item": "Plot grasshopper lengths on an eighths line plot",
+  "status": "OK",
+  "lesson": "Fraction line plots",
+  "week": "W27",
+  "note": "Taught W27 (BUILD lesson)."
+ },
+ {
+  "test": "Measurement & Data Test",
+  "q": 7,
+  "item": "Most common grasshopper length",
+  "status": "OK",
+  "lesson": "Fraction line plots",
+  "week": "W27",
+  "note": "Reading mode from a line plot."
+ },
+ {
+  "test": "Measurement & Data Test",
+  "q": 8,
+  "item": "How many grasshoppers measured 1/2 inch or less",
+  "status": "OK",
+  "lesson": "Fraction line plots",
+  "week": "W27",
+  "note": "Reading a line plot with a condition."
+ },
+ {
+  "test": "Measurement & Data Test",
+  "q": 9,
+  "item": "Total length of all 1/4-inch grasshoppers",
+  "status": "OK",
+  "lesson": "Fraction line plots",
+  "week": "W27",
+  "note": "Like-denominator total from line plot."
+ },
+ {
+  "test": "Measurement & Data Test",
+  "q": 10,
+  "item": "Total length of all grasshoppers",
+  "status": "OK",
+  "lesson": "Fraction line plots",
+  "week": "W27",
+  "note": "Needs unlike-denominator addition (Add and subtract any two fractions W16)."
+ },
+ {
+  "test": "Measurement & Data Test",
+  "q": 11,
+  "item": "Average length of the grasshoppers (total ÷ 9)",
+  "status": "OK",
+  "lesson": "The mean",
+  "week": "W27",
+  "note": "Mean taught W27; fraction ÷ whole number from Fractions as division W20 / Divide any fraction by an integer W18."
+ },
+ {
+  "test": "Measurement & Data Test",
+  "q": 12,
+  "item": "Find volume of stacked unit-cube figure",
+  "status": "OK",
+  "lesson": "Volume - counting cubes",
+  "week": "W25",
+  "note": "Taught W25."
+ },
+ {
+  "test": "Measurement & Data Test",
+  "q": 13,
+  "item": "Draw a unit-cube figure with volume 11 unit cubes",
+  "status": "OK",
+  "lesson": "Cubic centimetres",
+  "week": "W25",
+  "note": "Building/drawing a solid of given unit-cube volume taught W25."
+ },
+ {
+  "test": "Measurement & Data Test",
+  "q": 14,
+  "item": "Find volume of cube-built prism (cubic inches)",
+  "status": "OK",
+  "lesson": "Volume - counting cubes",
+  "week": "W25",
+  "note": "Taught W25."
+ },
+ {
+  "test": "Measurement & Data Test",
+  "q": 15,
+  "item": "Give possible dimensions of a 48-cubic-inch prism",
+  "status": "OK",
+  "lesson": "Volume of a cuboid",
+  "week": "W26",
+  "note": "WR step includes finding dimensions for a given volume."
+ },
+ {
+  "test": "Measurement & Data Test",
+  "q": 16,
+  "item": "Find volume of 3 cm x 6 cm x 7 cm prism",
+  "status": "OK",
+  "lesson": "Volume of a cuboid",
+  "week": "W26",
+  "note": "l x w x h taught W26."
+ },
+ {
+  "test": "Measurement & Data Test",
+  "q": 17,
+  "item": "Volume of room 7 ft by 8 ft by 9 ft",
+  "status": "OK",
+  "lesson": "Volume of a cuboid",
+  "week": "W26",
+  "note": "l x w x h in context taught W26."
+ },
+ {
+  "test": "Geometry Test",
+  "q": 1,
+  "item": "Label the x-axis",
+  "status": "OK",
+  "lesson": "The first quadrant",
+  "week": "W31",
+  "note": "Axes taught W31."
+ },
+ {
+  "test": "Geometry Test",
+  "q": 2,
+  "item": "Label the y-axis",
+  "status": "OK",
+  "lesson": "The first quadrant",
+  "week": "W31",
+  "note": "Axes taught W31."
+ },
+ {
+  "test": "Geometry Test",
+  "q": 3,
+  "item": "Label origin and number axes in intervals of one",
+  "status": "OK",
+  "lesson": "The first quadrant",
+  "week": "W31",
+  "note": "Origin and axis scales taught W31."
+ },
+ {
+  "test": "Geometry Test",
+  "q": 4,
+  "item": "Coordinates of the origin",
+  "status": "OK",
+  "lesson": "The first quadrant",
+  "week": "W31",
+  "note": "Origin (0,0) taught W31."
+ },
+ {
+  "test": "Geometry Test",
+  "q": 5,
+  "item": "Plot and label points A to H",
+  "status": "OK",
+  "lesson": "The first quadrant",
+  "week": "W31",
+  "note": "Plotting points in the first quadrant taught W31."
+ },
+ {
+  "test": "Geometry Test",
+  "q": 6,
+  "item": "Title axes and graph day vs miles-run data",
+  "status": "OK",
+  "lesson": "Line graphs",
+  "week": "W30",
+  "note": "Titling axes and graphing data taught W30; plotting from The first quadrant W31."
+ },
+ {
+  "test": "Geometry Test",
+  "q": 7,
+  "item": "Write two classifications each for a square and a triangle",
+  "status": "OK",
+  "lesson": "Classify two-dimensional figures in a hierarchy",
+  "week": "W31",
+  "note": "Category/subcategory naming taught W31 (BUILD); triangle types from Angles in a triangle - special cases W30."
+ },
+ {
+  "test": "Geometry Test",
+  "q": 8,
+  "item": "Draw three different quadrilaterals",
+  "status": "OK",
+  "lesson": "Draw shapes accurately",
+  "week": "W31",
+  "note": "Drawing quadrilaterals taught W31; also Grade 3 review."
+ },
+ {
+  "test": "Geometry Test",
+  "q": 9,
+  "item": "Complete quadrilateral hierarchy diagram using seven given names",
+  "status": "OK",
+  "lesson": "Classify two-dimensional figures in a hierarchy",
+  "week": "W31",
+  "note": "Hierarchy taught W31 (BUILD); the built lesson must use the inclusive trapezoid definition to match the key."
+ }
+]

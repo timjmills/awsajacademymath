@@ -1,0 +1,524 @@
+[
+ {
+  "test": "Number & Operations in Base Ten Test",
+  "q": 1,
+  "item": "Round 378, 505, 282 to the nearest ten",
+  "status": "OK",
+  "lesson": "Round to the nearest 10",
+  "week": "W13",
+  "note": "Rounding 3-digit numbers to nearest 10 taught directly."
+ },
+ {
+  "test": "Number & Operations in Base Ten Test",
+  "q": 2,
+  "item": "Round 756, 931, 244 to the nearest hundred",
+  "status": "OK",
+  "lesson": "Round to the nearest 100",
+  "week": "W13",
+  "note": "Rounding to nearest 100 taught directly."
+ },
+ {
+  "test": "Number & Operations in Base Ten Test",
+  "q": 3,
+  "item": "Round 3,073, 2,865, 8,896 to the nearest ten",
+  "status": "OK",
+  "lesson": "Round to the nearest 10",
+  "week": "W13",
+  "note": "Y4 rounding steps use 4-digit numbers (numbers to 10,000 introduced W12); also 'Round to the nearest 10, 100 or 1,000' W13."
+ },
+ {
+  "test": "Number & Operations in Base Ten Test",
+  "q": 4,
+  "item": "Round 1,637, 5,459, 2,061 to the nearest hundred",
+  "status": "OK",
+  "lesson": "Round to the nearest 100",
+  "week": "W13",
+  "note": "4-digit numbers to nearest 100 within Y4 rounding steps."
+ },
+ {
+  "test": "Number & Operations in Base Ten Test",
+  "q": 5,
+  "item": "Vertical 486 + 163 and 837 - 659",
+  "status": "OK",
+  "lesson": "Subtract two 4-digit numbers - more than one exchange",
+  "week": "W15",
+  "note": "Column add/subtract with multiple exchanges (W14 add, W15 subtract); 3-digit is a subset."
+ },
+ {
+  "test": "Number & Operations in Base Ten Test",
+  "q": 6,
+  "item": "Horizontal 216 + 458 and 504 - 397",
+  "status": "OK",
+  "lesson": "Subtract two 4-digit numbers - more than one exchange",
+  "week": "W15",
+  "note": "504-397 needs exchange across zero; covered by more-than-one-exchange steps and 'Efficient subtraction' W15."
+ },
+ {
+  "test": "Number & Operations in Base Ten Test",
+  "q": 7,
+  "item": "Word problem: 274 + 359 students in both grades",
+  "status": "OK",
+  "lesson": "Add two 4-digit numbers - more than one exchange",
+  "week": "W14",
+  "note": "One-step addition word problem with exchanges."
+ },
+ {
+  "test": "Number & Operations in Base Ten Test",
+  "q": 8,
+  "item": "Word problem: 603 - 485 acres, how many more wheat",
+  "status": "OK",
+  "lesson": "Subtract two 4-digit numbers - more than one exchange",
+  "week": "W15",
+  "note": "Compare-subtraction word problem; also 'Efficient subtraction' W15."
+ },
+ {
+  "test": "Number & Operations in Base Ten Test",
+  "q": 9,
+  "item": "Vertical 40 x 3 and 70 x 6",
+  "status": "OK",
+  "lesson": "Related facts - multiplication and division",
+  "week": "W17",
+  "note": "WR Y4 'Related facts' uses 3x4 to find 30x4 (multiples of 10); also 'Multiply by 10' W16."
+ },
+ {
+  "test": "Number & Operations in Base Ten Test",
+  "q": 10,
+  "item": "80 x 2, 60 x 5, 30 x 9, 90 x 4",
+  "status": "OK",
+  "lesson": "Related facts - multiplication and division",
+  "week": "W17",
+  "note": "Multiplying 1-digit by multiples of 10 via related facts."
+ },
+ {
+  "test": "Number & Operations in Base Ten Test",
+  "q": 11,
+  "item": "Word problem: 7 books x 40 pages",
+  "status": "OK",
+  "lesson": "Related facts - multiplication and division",
+  "week": "W17",
+  "note": "Equal-groups word problem with a multiple of 10; equal groups from W01."
+ },
+ {
+  "test": "Number & Operations in Base Ten Test",
+  "q": 12,
+  "item": "Word problem: 6 catches x 30 yards",
+  "status": "OK",
+  "lesson": "Related facts - multiplication and division",
+  "week": "W17",
+  "note": "Same type as Q11."
+ },
+ {
+  "test": "Operations & Algebraic Thinking Test",
+  "q": 1,
+  "item": "Write multiplication equations for 4+4+4+4+4 and 7 repeated eight times",
+  "status": "OK",
+  "lesson": "Multiplication - equal groups",
+  "week": "W01",
+  "note": "Repeated addition written as multiplication."
+ },
+ {
+  "test": "Operations & Algebraic Thinking Test",
+  "q": 2,
+  "item": "Write a multiplication expression for picture of 4 groups of 3",
+  "status": "OK",
+  "lesson": "Multiplication - equal groups",
+  "week": "W01",
+  "note": "Equal groups picture to multiplication."
+ },
+ {
+  "test": "Operations & Algebraic Thinking Test",
+  "q": 3,
+  "item": "How many groups of 6 from 30 pictured items",
+  "status": "OK",
+  "lesson": "Sharing and grouping",
+  "week": "W01",
+  "note": "Grouping (quotative) division."
+ },
+ {
+  "test": "Operations & Algebraic Thinking Test",
+  "q": 4,
+  "item": "How many groups of 4 from 28, 9 from 54, 7 from 21",
+  "status": "OK",
+  "lesson": "Sharing and grouping",
+  "week": "W01",
+  "note": "Grouping division; 7 and 9 facts taught W02-W03."
+ },
+ {
+  "test": "Operations & Algebraic Thinking Test",
+  "q": 5,
+  "item": "Word problem: 8 rows of 4 pumpkin seeds, total",
+  "status": "OK",
+  "lesson": "Multiplication - equal groups",
+  "week": "W01",
+  "note": "Equal-groups/array word problem; 4x table is prior-grade fluency."
+ },
+ {
+  "test": "Operations & Algebraic Thinking Test",
+  "q": 6,
+  "item": "Fill blanks: 3 x _ = 18, _ ÷ 7 = 10, 6 x 2 = _, _ ÷ 9 = 5",
+  "status": "OK",
+  "lesson": "7 times-table and division facts",
+  "week": "W03",
+  "note": "Unknown-factor/missing-number facts in the times-table and division facts steps (W01-W03)."
+ },
+ {
+  "test": "Operations & Algebraic Thinking Test",
+  "q": 7,
+  "item": "Without calculating: 9 x 8 given 8 x 9; 65 x 1; distributive equivalent",
+  "status": "OK",
+  "lesson": "Efficient multiplication",
+  "week": "W06",
+  "note": "Commutative and distributive reasoning (Efficient multiplication W06, Informal written methods W05); identity in 'Multiply by 1 and 0' W03."
+ },
+ {
+  "test": "Operations & Algebraic Thinking Test",
+  "q": 8,
+  "item": "Solve for b using associative property and 37 x b = 0",
+  "status": "OK",
+  "lesson": "Multiply three numbers",
+  "week": "W04",
+  "note": "Associative property in 'Multiply three numbers' W04; zero property in 'Multiply by 1 and 0' W03."
+ },
+ {
+  "test": "Operations & Algebraic Thinking Test",
+  "q": 9,
+  "item": "Fill blanks: 5 x _ = 25, 64 ÷ _ = 8, 11 x _ = 33, 18 ÷ _ = 9",
+  "status": "OK",
+  "lesson": "11 times-table and division facts",
+  "week": "W03",
+  "note": "Missing-number facts incl. 11x table."
+ },
+ {
+  "test": "Operations & Algebraic Thinking Test",
+  "q": 10,
+  "item": "Solve 7 x 2, 24 ÷ 8, 12 x 3, 90 ÷ 9",
+  "status": "OK",
+  "lesson": "12 times-table and division facts",
+  "week": "W03",
+  "note": "Facts incl. 12x3 and 90÷9."
+ },
+ {
+  "test": "Operations & Algebraic Thinking Test",
+  "q": 11,
+  "item": "Two-step word problem: 44 - 16 then shared among 4 brothers",
+  "status": "OK",
+  "lesson": "Two-step word problems with the four operations",
+  "week": "W05",
+  "note": "BUILD lesson targets exactly this; ensure it includes subtract-then-divide."
+ },
+ {
+  "test": "Operations & Algebraic Thinking Test",
+  "q": 12,
+  "item": "Identify the rule from X/Y table (5→45, 7→63...)",
+  "status": "OK",
+  "lesson": "Patterns on the multiplication table",
+  "week": "W04",
+  "note": "BUILD lesson on arithmetic patterns; make sure it includes an input/output table where pupils state the rule (e.g. x9)."
+ },
+ {
+  "test": "Number & Operations - Fractions Test",
+  "q": 1,
+  "item": "Count equal parts of halved pentagon and name each part",
+  "status": "OK",
+  "lesson": "Understand the whole",
+  "week": "W07",
+  "note": "Counting equal parts of a pre-partitioned whole and naming the unit fraction."
+ },
+ {
+  "test": "Number & Operations - Fractions Test",
+  "q": 2,
+  "item": "Count equal parts of hexagon and name each part",
+  "status": "OK",
+  "lesson": "Understand the whole",
+  "week": "W07",
+  "note": "Same type as Q1."
+ },
+ {
+  "test": "Number & Operations - Fractions Test",
+  "q": 3,
+  "item": "What fraction of the rectangle is shaded",
+  "status": "OK",
+  "lesson": "Understand the whole",
+  "week": "W07",
+  "note": "Name the shaded fraction of a shape."
+ },
+ {
+  "test": "Number & Operations - Fractions Test",
+  "q": 4,
+  "item": "Divide and shade a rectangle to show 2/3",
+  "status": "LATE",
+  "lesson": "Partition shapes into equal areas",
+  "week": "W27",
+  "note": "Pupils must partition the rectangle into equal parts themselves; only taught in G block (W27), after NF exam (W11); NF lessons use pre-partitioned models. Fix: move 'Partition shapes into equal areas' to start of NF unit (W07, before 'Understand the whole'), or give a pre-partitioned rectangle to shade."
+ },
+ {
+  "test": "Number & Operations - Fractions Test",
+  "q": 5,
+  "item": "How many equal pieces are in the number line 0 to 1",
+  "status": "OK",
+  "lesson": "Fractions on a number line",
+  "week": "W09",
+  "note": "Identifying number of equal intervals 0-1."
+ },
+ {
+  "test": "Number & Operations - Fractions Test",
+  "q": 6,
+  "item": "Partition number line into 6 pieces and label 5/6 as A",
+  "status": "OK",
+  "lesson": "Fractions on a number line",
+  "week": "W09",
+  "note": "Partition and label a fraction on a number line."
+ },
+ {
+  "test": "Number & Operations - Fractions Test",
+  "q": 7,
+  "item": "Which letter on the number line shows 1/6",
+  "status": "OK",
+  "lesson": "Fractions on a number line",
+  "week": "W09",
+  "note": "Locate unit fraction on a number line."
+ },
+ {
+  "test": "Number & Operations - Fractions Test",
+  "q": 8,
+  "item": "Use two number lines to find a fraction equivalent to 1/4",
+  "status": "OK",
+  "lesson": "Equivalent fractions on a number line",
+  "week": "W08",
+  "note": "Two aligned number lines to find equivalent fractions."
+ },
+ {
+  "test": "Number & Operations - Fractions Test",
+  "q": 9,
+  "item": "Shade eighths bar to match 3/6 in Figure A",
+  "status": "OK",
+  "lesson": "Equivalent fraction families",
+  "week": "W09",
+  "note": "Bar/fraction-wall equivalence."
+ },
+ {
+  "test": "Number & Operations - Fractions Test",
+  "q": 10,
+  "item": "List one equivalent fraction for 3/6, 2/8, 1/3, 4/6",
+  "status": "OK",
+  "lesson": "Equivalent fraction families",
+  "week": "W09",
+  "note": "Generating equivalent fractions."
+ },
+ {
+  "test": "Number & Operations - Fractions Test",
+  "q": 11,
+  "item": "Compare 4/6 vs 3/6 and 5/8 vs 5/6 with >, <, =",
+  "status": "PRIOR_GRADE",
+  "lesson": "Compare and order mixed numbers",
+  "week": "W08",
+  "note": "Same-denominator comparison covered in W08, but same-numerator comparison (5/8 vs 5/6) is WR Y3 'Compare fractions' and is not a Y4 step. Fix: add a same-numerator comparison warm-up/example to 'Compare and order mixed numbers' W08, or a short Y3 review."
+ },
+ {
+  "test": "Number & Operations - Fractions Test",
+  "q": 12,
+  "item": "Write 8/4, 12/3, 18/6, 14/2 as whole numbers",
+  "status": "OK",
+  "lesson": "Understand improper fractions",
+  "week": "W08",
+  "note": "Improper fractions equal to wholes; also 'Convert improper fractions to mixed numbers' W09."
+ },
+ {
+  "test": "Measurement & Data Test",
+  "q": 1,
+  "item": "Draw clock hands for 52 minutes after 11:49 a.m.",
+  "status": "OK",
+  "lesson": "Solve problems with time",
+  "week": "W23",
+  "note": "Duration/elapsed time problems; clock reading in 'Convert between analogue and digital times' W23."
+ },
+ {
+  "test": "Measurement & Data Test",
+  "q": 2,
+  "item": "Word problem: 164 g - 96 g chocolate chips left",
+  "status": "OK",
+  "lesson": "Measure and estimate mass and liquid volume (g, kg, ml, l)",
+  "week": "W21",
+  "note": "BUILD lesson; ensure it includes one-step mass word problems (subtraction from NBT)."
+ },
+ {
+  "test": "Measurement & Data Test",
+  "q": 3,
+  "item": "Draw bar graph of favorite colors; total votes; green minus blue",
+  "status": "OK",
+  "lesson": "Draw bar charts",
+  "week": "W25",
+  "note": "Drawing bar chart with scale; sum/difference in 'Comparison, sum and difference' W25. Ensure a scale of 2 is used."
+ },
+ {
+  "test": "Measurement & Data Test",
+  "q": 4,
+  "item": "Measure five lines, record, and plot on a line plot",
+  "status": "OK",
+  "lesson": "Measure to the half and quarter inch",
+  "week": "W26",
+  "note": "Both BUILD lessons in W26 before exam. Teach 'Measure to the half and quarter inch' before 'Build a line plot' (currently reversed)."
+ },
+ {
+  "test": "Measurement & Data Test",
+  "q": 5,
+  "item": "Count unit squares to find area of a gridded rectangle",
+  "status": "OK",
+  "lesson": "Count squares",
+  "week": "W18",
+  "note": "Area by counting unit squares."
+ },
+ {
+  "test": "Measurement & Data Test",
+  "q": 6,
+  "item": "Count unit squares to find area of an irregular shaded figure",
+  "status": "OK",
+  "lesson": "Count squares",
+  "week": "W18",
+  "note": "Counting squares of an irregular shape; also 'Compare areas' W18."
+ },
+ {
+  "test": "Measurement & Data Test",
+  "q": 7,
+  "item": "Find area of 7 m by 5 m rectangle",
+  "status": "OK",
+  "lesson": "Area as multiplication",
+  "week": "W19",
+  "note": "Area of rectangle by multiplying side lengths."
+ },
+ {
+  "test": "Measurement & Data Test",
+  "q": 8,
+  "item": "Word problem: area of 9 ft by 8 ft room",
+  "status": "OK",
+  "lesson": "Area as multiplication",
+  "week": "W19",
+  "note": "Area word problem."
+ },
+ {
+  "test": "Measurement & Data Test",
+  "q": 9,
+  "item": "Find area of rectilinear L-shaped figure",
+  "status": "OK",
+  "lesson": "Distributive and additive area",
+  "week": "W19",
+  "note": "Decompose rectilinear figure into rectangles."
+ },
+ {
+  "test": "Measurement & Data Test",
+  "q": 10,
+  "item": "Perimeter of octagon with 8 sides of 4 inches",
+  "status": "OK",
+  "lesson": "Perimeter of regular polygons",
+  "week": "W20",
+  "note": "Perimeter of regular octagon."
+ },
+ {
+  "test": "Geometry Test",
+  "q": 1,
+  "item": "List two attributes of a trapezoid",
+  "status": "OK",
+  "lesson": "Quadrilaterals",
+  "week": "W28",
+  "note": "Attributes of quadrilaterals incl. trapezoid."
+ },
+ {
+  "test": "Geometry Test",
+  "q": 2,
+  "item": "List two attributes of a rectangle",
+  "status": "OK",
+  "lesson": "Quadrilaterals",
+  "week": "W28",
+  "note": "Attributes of rectangles."
+ },
+ {
+  "test": "Geometry Test",
+  "q": 3,
+  "item": "Draw 2 different quadrilaterals",
+  "status": "OK",
+  "lesson": "Draw 2-D shapes on a grid",
+  "week": "W29",
+  "note": "Drawing quadrilaterals; classification in 'Quadrilaterals' W28."
+ },
+ {
+  "test": "Geometry Test",
+  "q": 4,
+  "item": "Draw two shapes that are not quadrilaterals",
+  "status": "OK",
+  "lesson": "Draw 2-D shapes on a grid",
+  "week": "W29",
+  "note": "Drawing non-quadrilateral polygons; 'Polygons' W26, 'Triangles' W28."
+ },
+ {
+  "test": "Geometry Test",
+  "q": 5,
+  "item": "Circle all the quadrilaterals",
+  "status": "OK",
+  "lesson": "Quadrilaterals",
+  "week": "W28",
+  "note": "Identify quadrilaterals."
+ },
+ {
+  "test": "Geometry Test",
+  "q": 6,
+  "item": "Circle all the rectangles, rhombuses, and squares",
+  "status": "OK",
+  "lesson": "Quadrilaterals",
+  "week": "W28",
+  "note": "Classify rectangles, rhombuses, squares."
+ },
+ {
+  "test": "Geometry Test",
+  "q": 7,
+  "item": "Partition parallelogram into 2 equal parts and label fractions",
+  "status": "OK",
+  "lesson": "Partition shapes into equal areas",
+  "week": "W27",
+  "note": "Partition and label unit fractions (fractions from NF unit)."
+ },
+ {
+  "test": "Geometry Test",
+  "q": 8,
+  "item": "Partition trapezoid into 3 equal parts and label fractions",
+  "status": "OK",
+  "lesson": "Partition shapes into equal areas",
+  "week": "W27",
+  "note": "Partition into thirds."
+ },
+ {
+  "test": "Geometry Test",
+  "q": 9,
+  "item": "Partition square into 4 equal parts and label fractions",
+  "status": "OK",
+  "lesson": "Partition shapes into equal areas",
+  "week": "W27",
+  "note": "Partition into quarters."
+ },
+ {
+  "test": "Geometry Test",
+  "q": 10,
+  "item": "Is this pentagon shape partitioned into equal areas",
+  "status": "OK",
+  "lesson": "Partition shapes into equal areas",
+  "week": "W27",
+  "note": "Judge equal areas."
+ },
+ {
+  "test": "Geometry Test",
+  "q": 11,
+  "item": "Is this cut-corner shape partitioned into equal areas",
+  "status": "OK",
+  "lesson": "Partition shapes into equal areas",
+  "week": "W27",
+  "note": "Judge equal areas (non-congruent parts)."
+ },
+ {
+  "test": "Geometry Test",
+  "q": 12,
+  "item": "Is this rectangle partitioned into equal areas",
+  "status": "OK",
+  "lesson": "Partition shapes into equal areas",
+  "week": "W27",
+  "note": "Judge equal areas."
+ }
+]

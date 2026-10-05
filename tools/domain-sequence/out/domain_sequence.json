@@ -3554,7 +3554,7 @@
     {
      "domain": "MD",
      "name": "Measurement & Data",
-     "steps": 15,
+     "steps": 16,
      "exam_week": 26,
      "exam_week_of": "2027-03-21",
      "semester": "S2",
@@ -3638,13 +3638,13 @@
     },
     {
      "standard": "1.MD.A.1",
-     "first_taught_week": 21,
+     "first_taught_week": 22,
      "first_step": "Compare lengths and heights"
     },
     {
      "standard": "1.MD.A.2",
      "first_taught_week": 21,
-     "first_step": "Measure in centimetres"
+     "first_step": "Measure length using objects"
     },
     {
      "standard": "1.MD.B.3",
@@ -3653,7 +3653,7 @@
     },
     {
      "standard": "1.MD.C.4",
-     "first_taught_week": 21,
+     "first_taught_week": 20,
      "first_step": "Tables"
     },
     {
@@ -4336,9 +4336,9 @@
      "seq": 26,
      "step_no": 26,
      "item": "step",
-     "week": 8,
-     "quarter": "Q2",
-     "week_of": "2026-11-01",
+     "week": 7,
+     "quarter": "Q1",
+     "week_of": "2026-10-18",
      "semester": "S1",
      "domain": "NBT",
      "lesson": "Add two 2-digit numbers (across a 10)",
@@ -5042,10 +5042,10 @@
      "seq": 52,
      "step_no": 50,
      "item": "step",
-     "week": 15,
-     "quarter": "Q3",
-     "week_of": "2027-01-03",
-     "semester": "S2",
+     "week": 14,
+     "quarter": "Q2",
+     "week_of": "2026-12-13",
+     "semester": "S1",
      "domain": "G",
      "lesson": "Count vertices on 3D shapes",
      "ccss": [
@@ -5232,9 +5232,9 @@
      "seq": 59,
      "step_no": 57,
      "item": "step",
-     "week": 17,
+     "week": 16,
      "quarter": "Q3",
-     "week_of": "2027-01-17",
+     "week_of": "2027-01-10",
      "semester": "S2",
      "domain": "G",
      "lesson": "Equal and unequal parts",
@@ -5341,9 +5341,9 @@
      "seq": 63,
      "step_no": 61,
      "item": "step",
-     "week": 18,
+     "week": 17,
      "quarter": "Q3",
-     "week_of": "2027-01-24",
+     "week_of": "2027-01-17",
      "semester": "S2",
      "domain": "G",
      "lesson": "Recognise three quarters",
@@ -5449,9 +5449,9 @@
      "seq": 67,
      "step_no": 65,
      "item": "step",
-     "week": 19,
+     "week": 18,
      "quarter": "Q3",
-     "week_of": "2027-01-31",
+     "week_of": "2027-01-24",
      "semester": "S2",
      "domain": "G",
      "lesson": "Unit fractions",
@@ -5627,9 +5627,9 @@
      "seq": 74,
      "step_no": 71,
      "item": "step",
-     "week": 21,
+     "week": 20,
      "quarter": "Q3",
-     "week_of": "2027-02-14",
+     "week_of": "2027-02-07",
      "semester": "S2",
      "domain": "MD",
      "lesson": "Tables",
@@ -5657,6 +5657,34 @@
      "week_of": "2027-02-14",
      "semester": "S2",
      "domain": "MD",
+     "lesson": "Measure length using objects",
+     "ccss": [
+      "K.MD.A.1",
+      "1.MD.A.2"
+     ],
+     "power_standards": [
+      "1.MD.A.2"
+     ],
+     "status": "COPIED IN",
+     "enrichment": false,
+     "enrichment_grade": null,
+     "build_lesson": false,
+     "copied_from_grade": "K",
+     "site_unit": "Length and Height",
+     "site_step": 2,
+     "orig_pacing_week": 22,
+     "orig_pacing_block": "",
+     "teaching_note": "Copied from the Kindergarten (WRM Year 1) guide so this standard is taught in its own grade. Slides and worksheet live in that grade's lesson folder."
+    },
+    {
+     "seq": 76,
+     "step_no": 73,
+     "item": "step",
+     "week": 21,
+     "quarter": "Q3",
+     "week_of": "2027-02-14",
+     "semester": "S2",
+     "domain": "MD",
      "lesson": "Measure in centimetres",
      "ccss": [
       "1.MD.A.2",
@@ -5677,8 +5705,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 76,
-     "step_no": 73,
+     "seq": 77,
+     "step_no": 74,
      "item": "step",
      "week": 21,
      "quarter": "Q3",
@@ -5705,12 +5733,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 77,
-     "step_no": 74,
+     "seq": 78,
+     "step_no": 75,
      "item": "step",
-     "week": 21,
+     "week": 22,
      "quarter": "Q3",
-     "week_of": "2027-02-14",
+     "week_of": "2027-02-21",
      "semester": "S2",
      "domain": "MD",
      "lesson": "Compare lengths and heights",
@@ -5733,8 +5761,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 78,
-     "step_no": 75,
+     "seq": 79,
+     "step_no": 76,
      "item": "step",
      "week": 22,
      "quarter": "Q3",
@@ -5761,8 +5789,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 79,
-     "step_no": 76,
+     "seq": 80,
+     "step_no": 77,
      "item": "step",
      "week": 22,
      "quarter": "Q3",
@@ -5784,8 +5812,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 80,
-     "step_no": 77,
+     "seq": 81,
+     "step_no": 78,
      "item": "step",
      "week": 22,
      "quarter": "Q3",
@@ -5809,12 +5837,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 81,
-     "step_no": 78,
+     "seq": 82,
+     "step_no": 79,
      "item": "step",
-     "week": 22,
+     "week": 23,
      "quarter": "Q3",
-     "week_of": "2027-02-21",
+     "week_of": "2027-02-28",
      "semester": "S2",
      "domain": "MD",
      "lesson": "Compare volume and capacity",
@@ -5835,8 +5863,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 82,
-     "step_no": 79,
+     "seq": 83,
+     "step_no": 80,
      "item": "step",
      "week": 23,
      "quarter": "Q3",
@@ -5862,8 +5890,8 @@
      "teaching_note": "Uses 'half', which is now taught later in the Geometry run; introduce half informally on a clock face."
     },
     {
-     "seq": 83,
-     "step_no": 80,
+     "seq": 84,
+     "step_no": 81,
      "item": "step",
      "week": 23,
      "quarter": "Q3",
@@ -5889,8 +5917,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 84,
-     "step_no": 81,
+     "seq": 85,
+     "step_no": 82,
      "item": "step",
      "week": 23,
      "quarter": "Q3",
@@ -5917,12 +5945,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 85,
-     "step_no": 82,
+     "seq": 86,
+     "step_no": 83,
      "item": "step",
-     "week": 23,
+     "week": 24,
      "quarter": "Q3",
-     "week_of": "2027-02-28",
+     "week_of": "2027-03-07",
      "semester": "S2",
      "domain": "MD",
      "lesson": "Make tally charts",
@@ -5942,8 +5970,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 86,
-     "step_no": 83,
+     "seq": 87,
+     "step_no": 84,
      "item": "step",
      "week": 25,
      "quarter": "Q3",
@@ -5968,8 +5996,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 87,
-     "step_no": 84,
+     "seq": 88,
+     "step_no": 85,
      "item": "step",
      "week": 25,
      "quarter": "Q3",
@@ -5994,8 +6022,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 88,
-     "step_no": 85,
+     "seq": 89,
+     "step_no": 86,
      "item": "step",
      "week": 25,
      "quarter": "Q3",
@@ -6020,7 +6048,7 @@
      "teaching_note": ""
     },
     {
-     "seq": 89,
+     "seq": 90,
      "step_no": null,
      "item": "exam",
      "week": 26,
@@ -6043,7 +6071,7 @@
      "teaching_note": ""
     },
     {
-     "seq": 90,
+     "seq": 91,
      "step_no": null,
      "item": "map_window",
      "week": 26,
@@ -6066,8 +6094,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 91,
-     "step_no": 86,
+     "seq": 92,
+     "step_no": 87,
      "item": "step",
      "week": 26,
      "quarter": "Q3",
@@ -6092,8 +6120,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 92,
-     "step_no": 87,
+     "seq": 93,
+     "step_no": 88,
      "item": "step",
      "week": 26,
      "quarter": "Q3",
@@ -6118,8 +6146,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 93,
-     "step_no": 88,
+     "seq": 94,
+     "step_no": 89,
      "item": "step",
      "week": 27,
      "quarter": "Q3",
@@ -6144,8 +6172,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 94,
-     "step_no": 89,
+     "seq": 95,
+     "step_no": 90,
      "item": "step",
      "week": 27,
      "quarter": "Q3",
@@ -6169,12 +6197,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 95,
-     "step_no": 90,
+     "seq": 96,
+     "step_no": 91,
      "item": "step",
-     "week": 27,
-     "quarter": "Q3",
-     "week_of": "2027-03-28",
+     "week": 28,
+     "quarter": "Q4",
+     "week_of": "2027-04-04",
      "semester": "S2",
      "domain": "OA",
      "lesson": "Make equal groups",
@@ -6194,8 +6222,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 96,
-     "step_no": 91,
+     "seq": 97,
+     "step_no": 92,
      "item": "step",
      "week": 28,
      "quarter": "Q4",
@@ -6220,8 +6248,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 97,
-     "step_no": 92,
+     "seq": 98,
+     "step_no": 93,
      "item": "step",
      "week": 28,
      "quarter": "Q4",
@@ -6245,8 +6273,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 98,
-     "step_no": 93,
+     "seq": 99,
+     "step_no": 94,
      "item": "step",
      "week": 28,
      "quarter": "Q4",
@@ -6270,8 +6298,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 99,
-     "step_no": 94,
+     "seq": 100,
+     "step_no": 95,
      "item": "step",
      "week": 29,
      "quarter": "Q4",
@@ -6296,8 +6324,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 100,
-     "step_no": 95,
+     "seq": 101,
+     "step_no": 96,
      "item": "step",
      "week": 29,
      "quarter": "Q4",
@@ -6321,8 +6349,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 101,
-     "step_no": 96,
+     "seq": 102,
+     "step_no": 97,
      "item": "step",
      "week": 29,
      "quarter": "Q4",
@@ -6346,8 +6374,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 102,
-     "step_no": 97,
+     "seq": 103,
+     "step_no": 98,
      "item": "step",
      "week": 29,
      "quarter": "Q4",
@@ -6372,8 +6400,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 103,
-     "step_no": 98,
+     "seq": 104,
+     "step_no": 99,
      "item": "step",
      "week": 30,
      "quarter": "Q4",
@@ -6398,8 +6426,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 104,
-     "step_no": 99,
+     "seq": 105,
+     "step_no": 100,
      "item": "step",
      "week": 30,
      "quarter": "Q4",
@@ -6425,8 +6453,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 105,
-     "step_no": 100,
+     "seq": 106,
+     "step_no": 101,
      "item": "step",
      "week": 30,
      "quarter": "Q4",
@@ -6450,8 +6478,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 106,
-     "step_no": 101,
+     "seq": 107,
+     "step_no": 102,
      "item": "step",
      "week": 31,
      "quarter": "Q4",
@@ -6476,8 +6504,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 107,
-     "step_no": 102,
+     "seq": 108,
+     "step_no": 103,
      "item": "step",
      "week": 31,
      "quarter": "Q4",
@@ -6502,8 +6530,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 108,
-     "step_no": 103,
+     "seq": 109,
+     "step_no": 104,
      "item": "step",
      "week": 31,
      "quarter": "Q4",
@@ -6527,8 +6555,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 109,
-     "step_no": 104,
+     "seq": 110,
+     "step_no": 105,
      "item": "step",
      "week": 31,
      "quarter": "Q4",
@@ -6552,8 +6580,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 110,
-     "step_no": 105,
+     "seq": 111,
+     "step_no": 106,
      "item": "step",
      "week": 32,
      "quarter": "Q4",
@@ -6577,8 +6605,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 111,
-     "step_no": 106,
+     "seq": 112,
+     "step_no": 107,
      "item": "step",
      "week": 32,
      "quarter": "Q4",
@@ -6602,8 +6630,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 112,
-     "step_no": 107,
+     "seq": 113,
+     "step_no": 108,
      "item": "step",
      "week": 32,
      "quarter": "Q4",
@@ -6627,8 +6655,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 113,
-     "step_no": 108,
+     "seq": 114,
+     "step_no": 109,
      "item": "step",
      "week": 32,
      "quarter": "Q4",
@@ -6652,8 +6680,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 114,
-     "step_no": 109,
+     "seq": 115,
+     "step_no": 110,
      "item": "step",
      "week": 33,
      "quarter": "Q4",
@@ -6677,8 +6705,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 115,
-     "step_no": 110,
+     "seq": 116,
+     "step_no": 111,
      "item": "step",
      "week": 33,
      "quarter": "Q4",
@@ -6702,8 +6730,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 116,
-     "step_no": 111,
+     "seq": 117,
+     "step_no": 112,
      "item": "step",
      "week": 33,
      "quarter": "Q4",
@@ -6727,8 +6755,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 117,
-     "step_no": 112,
+     "seq": 118,
+     "step_no": 113,
      "item": "step",
      "week": 33,
      "quarter": "Q4",
@@ -6752,8 +6780,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 118,
-     "step_no": 113,
+     "seq": 119,
+     "step_no": 114,
      "item": "step",
      "week": 34,
      "quarter": "Q4",
@@ -6777,8 +6805,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 119,
-     "step_no": 114,
+     "seq": 120,
+     "step_no": 115,
      "item": "step",
      "week": 34,
      "quarter": "Q4",
@@ -6803,8 +6831,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 120,
-     "step_no": 115,
+     "seq": 121,
+     "step_no": 116,
      "item": "step",
      "week": 34,
      "quarter": "Q4",
@@ -6828,8 +6856,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 121,
-     "step_no": 116,
+     "seq": 122,
+     "step_no": 117,
      "item": "step",
      "week": 34,
      "quarter": "Q4",
@@ -6853,8 +6881,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 122,
-     "step_no": 117,
+     "seq": 123,
+     "step_no": 118,
      "item": "step",
      "week": 35,
      "quarter": "Q4",
@@ -6878,8 +6906,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 123,
-     "step_no": 118,
+     "seq": 124,
+     "step_no": 119,
      "item": "step",
      "week": 35,
      "quarter": "Q4",
@@ -6903,8 +6931,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 124,
-     "step_no": 119,
+     "seq": 125,
+     "step_no": 120,
      "item": "step",
      "week": 35,
      "quarter": "Q4",
@@ -6928,8 +6956,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 125,
-     "step_no": 120,
+     "seq": 126,
+     "step_no": 121,
      "item": "step",
      "week": 36,
      "quarter": "Q4",
@@ -6953,8 +6981,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 126,
-     "step_no": 121,
+     "seq": 127,
+     "step_no": 122,
      "item": "step",
      "week": 36,
      "quarter": "Q4",
@@ -6978,8 +7006,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 127,
-     "step_no": 122,
+     "seq": 128,
+     "step_no": 123,
      "item": "step",
      "week": 36,
      "quarter": "Q4",
@@ -7003,8 +7031,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 128,
-     "step_no": 123,
+     "seq": 129,
+     "step_no": 124,
      "item": "step",
      "week": 36,
      "quarter": "Q4",
@@ -7028,8 +7056,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 129,
-     "step_no": 124,
+     "seq": 130,
+     "step_no": 125,
      "item": "step",
      "week": 37,
      "quarter": "Q4",
@@ -7053,8 +7081,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 130,
-     "step_no": 125,
+     "seq": 131,
+     "step_no": 126,
      "item": "step",
      "week": 37,
      "quarter": "Q4",
@@ -7078,8 +7106,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 131,
-     "step_no": 126,
+     "seq": 132,
+     "step_no": 127,
      "item": "step",
      "week": 37,
      "quarter": "Q4",
@@ -7103,8 +7131,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 132,
-     "step_no": 127,
+     "seq": 133,
+     "step_no": 128,
      "item": "step",
      "week": 37,
      "quarter": "Q4",
@@ -7129,8 +7157,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 133,
-     "step_no": 128,
+     "seq": 134,
+     "step_no": 129,
      "item": "step",
      "week": 38,
      "quarter": "Q4",
@@ -7155,8 +7183,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 134,
-     "step_no": 129,
+     "seq": 135,
+     "step_no": 130,
      "item": "step",
      "week": 38,
      "quarter": "Q4",
@@ -7180,8 +7208,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 135,
-     "step_no": 130,
+     "seq": 136,
+     "step_no": 131,
      "item": "step",
      "week": 38,
      "quarter": "Q4",
@@ -7205,8 +7233,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 136,
-     "step_no": 131,
+     "seq": 137,
+     "step_no": 132,
      "item": "step",
      "week": 38,
      "quarter": "Q4",
@@ -11429,7 +11457,7 @@
     {
      "domain": "NF",
      "name": "Number & Operations: Fractions",
-     "steps": 16,
+     "steps": 17,
      "exam_week": 11,
      "exam_week_of": "2026-11-22",
      "semester": "S1",
@@ -11468,7 +11496,7 @@
     {
      "domain": "G",
      "name": "Geometry",
-     "steps": 9,
+     "steps": 8,
      "exam_week": 29,
      "exam_week_of": "2027-04-11",
      "semester": "S2",
@@ -11566,13 +11594,13 @@
     },
     {
      "standard": "3.MD.B.3",
-     "first_taught_week": 24,
+     "first_taught_week": 25,
      "first_step": "Interpret charts"
     },
     {
      "standard": "3.MD.B.4",
      "first_taught_week": 26,
-     "first_step": "Build a line plot from inch measurements"
+     "first_step": "Measure to the half and quarter inch"
     },
     {
      "standard": "3.MD.C.5",
@@ -11596,12 +11624,12 @@
     },
     {
      "standard": "3.G.A.1",
-     "first_taught_week": 26,
+     "first_taught_week": 27,
      "first_step": "Polygons"
     },
     {
      "standard": "3.G.A.2",
-     "first_taught_week": 27,
+     "first_taught_week": 7,
      "first_step": "Partition shapes into equal areas"
     }
    ],
@@ -12309,6 +12337,33 @@
      "week_of": "2026-10-18",
      "semester": "S1",
      "domain": "NF",
+     "lesson": "Partition shapes into equal areas",
+     "ccss": [
+      "3.G.A.2"
+     ],
+     "power_standards": [
+      "3.G.A.2"
+     ],
+     "status": "BUILD",
+     "enrichment": false,
+     "enrichment_grade": null,
+     "build_lesson": true,
+     "copied_from_grade": null,
+     "site_unit": "CCSS BUILD (from pacing guide)",
+     "site_step": 6,
+     "orig_pacing_week": 25,
+     "orig_pacing_block": "B7 · Fractions",
+     "teaching_note": "CCSS BUILD lesson: still to be written."
+    },
+    {
+     "seq": 28,
+     "step_no": 27,
+     "item": "step",
+     "week": 7,
+     "quarter": "Q1",
+     "week_of": "2026-10-18",
+     "semester": "S1",
+     "domain": "NF",
      "lesson": "Understand the whole",
      "ccss": [
       "3.NF.A.1"
@@ -12328,12 +12383,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 28,
-     "step_no": 27,
+     "seq": 29,
+     "step_no": 28,
      "item": "step",
-     "week": 7,
-     "quarter": "Q1",
-     "week_of": "2026-10-18",
+     "week": 8,
+     "quarter": "Q2",
+     "week_of": "2026-11-01",
      "semester": "S1",
      "domain": "NF",
      "lesson": "Count beyond 1",
@@ -12355,8 +12410,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 29,
-     "step_no": 28,
+     "seq": 30,
+     "step_no": 29,
      "item": "step",
      "week": 8,
      "quarter": "Q2",
@@ -12383,8 +12438,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 30,
-     "step_no": 29,
+     "seq": 31,
+     "step_no": 30,
      "item": "step",
      "week": 8,
      "quarter": "Q2",
@@ -12410,8 +12465,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 31,
-     "step_no": 30,
+     "seq": 32,
+     "step_no": 31,
      "item": "step",
      "week": 8,
      "quarter": "Q2",
@@ -12438,8 +12493,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 32,
-     "step_no": 31,
+     "seq": 33,
+     "step_no": 32,
      "item": "step",
      "week": 8,
      "quarter": "Q2",
@@ -12467,12 +12522,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 33,
-     "step_no": 32,
+     "seq": 34,
+     "step_no": 33,
      "item": "step",
-     "week": 8,
+     "week": 9,
      "quarter": "Q2",
-     "week_of": "2026-11-01",
+     "week_of": "2026-11-08",
      "semester": "S1",
      "domain": "NF",
      "lesson": "Equivalent fractions on a number line",
@@ -12495,8 +12550,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 34,
-     "step_no": 33,
+     "seq": 35,
+     "step_no": 34,
      "item": "step",
      "week": 9,
      "quarter": "Q2",
@@ -12522,8 +12577,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 35,
-     "step_no": 34,
+     "seq": 36,
+     "step_no": 35,
      "item": "step",
      "week": 9,
      "quarter": "Q2",
@@ -12550,8 +12605,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 36,
-     "step_no": 35,
+     "seq": 37,
+     "step_no": 36,
      "item": "step",
      "week": 9,
      "quarter": "Q2",
@@ -12578,12 +12633,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 37,
-     "step_no": 36,
+     "seq": 38,
+     "step_no": 37,
      "item": "step",
-     "week": 9,
+     "week": 10,
      "quarter": "Q2",
-     "week_of": "2026-11-08",
+     "week_of": "2026-11-15",
      "semester": "S1",
      "domain": "NF",
      "lesson": "Equivalent fraction families",
@@ -12604,8 +12659,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 38,
-     "step_no": 37,
+     "seq": 39,
+     "step_no": 38,
      "item": "step",
      "week": 10,
      "quarter": "Q2",
@@ -12632,8 +12687,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 39,
-     "step_no": 38,
+     "seq": 40,
+     "step_no": 39,
      "item": "step",
      "week": 10,
      "quarter": "Q2",
@@ -12660,8 +12715,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 40,
-     "step_no": 39,
+     "seq": 41,
+     "step_no": 40,
      "item": "step",
      "week": 10,
      "quarter": "Q2",
@@ -12688,12 +12743,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 41,
-     "step_no": 40,
+     "seq": 42,
+     "step_no": 41,
      "item": "step",
-     "week": 10,
+     "week": 11,
      "quarter": "Q2",
-     "week_of": "2026-11-15",
+     "week_of": "2026-11-22",
      "semester": "S1",
      "domain": "NF",
      "lesson": "Subtract from whole amounts",
@@ -12716,8 +12771,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 42,
-     "step_no": 41,
+     "seq": 43,
+     "step_no": 42,
      "item": "step",
      "week": 11,
      "quarter": "Q2",
@@ -12744,7 +12799,7 @@
      "teaching_note": ""
     },
     {
-     "seq": 43,
+     "seq": 44,
      "step_no": null,
      "item": "exam",
      "week": 11,
@@ -12767,8 +12822,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 44,
-     "step_no": 42,
+     "seq": 45,
+     "step_no": 43,
      "item": "step",
      "week": 11,
      "quarter": "Q2",
@@ -12793,8 +12848,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 45,
-     "step_no": 43,
+     "seq": 46,
+     "step_no": 44,
      "item": "step",
      "week": 11,
      "quarter": "Q2",
@@ -12819,12 +12874,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 46,
-     "step_no": 44,
+     "seq": 47,
+     "step_no": 45,
      "item": "step",
-     "week": 11,
+     "week": 12,
      "quarter": "Q2",
-     "week_of": "2026-11-22",
+     "week_of": "2026-11-29",
      "semester": "S1",
      "domain": "NBT",
      "lesson": "Find 1, 10, 100, 1,000 more or less",
@@ -12845,8 +12900,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 47,
-     "step_no": 45,
+     "seq": 48,
+     "step_no": 46,
      "item": "step",
      "week": 12,
      "quarter": "Q2",
@@ -12868,8 +12923,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 48,
-     "step_no": 46,
+     "seq": 49,
+     "step_no": 47,
      "item": "step",
      "week": 12,
      "quarter": "Q2",
@@ -12895,12 +12950,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 49,
-     "step_no": 47,
+     "seq": 50,
+     "step_no": 48,
      "item": "step",
-     "week": 12,
+     "week": 13,
      "quarter": "Q2",
-     "week_of": "2026-11-29",
+     "week_of": "2026-12-06",
      "semester": "S1",
      "domain": "NBT",
      "lesson": "Estimate on a number line to 10,000",
@@ -12922,8 +12977,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 50,
-     "step_no": 48,
+     "seq": 51,
+     "step_no": 49,
      "item": "step",
      "week": 13,
      "quarter": "Q2",
@@ -12949,8 +13004,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 51,
-     "step_no": 49,
+     "seq": 52,
+     "step_no": 50,
      "item": "step",
      "week": 13,
      "quarter": "Q2",
@@ -12976,8 +13031,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 52,
-     "step_no": 50,
+     "seq": 53,
+     "step_no": 51,
      "item": "step",
      "week": 13,
      "quarter": "Q2",
@@ -13004,12 +13059,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 53,
-     "step_no": 51,
+     "seq": 54,
+     "step_no": 52,
      "item": "step",
-     "week": 13,
+     "week": 14,
      "quarter": "Q2",
-     "week_of": "2026-12-06",
+     "week_of": "2026-12-13",
      "semester": "S1",
      "domain": "NBT",
      "lesson": "Round to the nearest 10, 100 or 1,000",
@@ -13032,8 +13087,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 54,
-     "step_no": 52,
+     "seq": 55,
+     "step_no": 53,
      "item": "step",
      "week": 14,
      "quarter": "Q2",
@@ -13057,8 +13112,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 55,
-     "step_no": 53,
+     "seq": 56,
+     "step_no": 54,
      "item": "step",
      "week": 14,
      "quarter": "Q2",
@@ -13083,8 +13138,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 56,
-     "step_no": 54,
+     "seq": 57,
+     "step_no": 55,
      "item": "step",
      "week": 14,
      "quarter": "Q2",
@@ -13109,8 +13164,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 57,
-     "step_no": 55,
+     "seq": 58,
+     "step_no": 56,
      "item": "step",
      "week": 14,
      "quarter": "Q2",
@@ -13135,13 +13190,13 @@
      "teaching_note": ""
     },
     {
-     "seq": 58,
-     "step_no": 56,
+     "seq": 59,
+     "step_no": 57,
      "item": "step",
-     "week": 14,
-     "quarter": "Q2",
-     "week_of": "2026-12-13",
-     "semester": "S1",
+     "week": 15,
+     "quarter": "Q3",
+     "week_of": "2027-01-03",
+     "semester": "S2",
      "domain": "NBT",
      "lesson": "Subtract two 4-digit numbers - no exchange",
      "ccss": [
@@ -13161,8 +13216,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 59,
-     "step_no": 57,
+     "seq": 60,
+     "step_no": 58,
      "item": "step",
      "week": 15,
      "quarter": "Q3",
@@ -13187,8 +13242,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 60,
-     "step_no": 58,
+     "seq": 61,
+     "step_no": 59,
      "item": "step",
      "week": 15,
      "quarter": "Q3",
@@ -13213,12 +13268,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 61,
-     "step_no": 59,
+     "seq": 62,
+     "step_no": 60,
      "item": "step",
-     "week": 15,
+     "week": 16,
      "quarter": "Q3",
-     "week_of": "2027-01-03",
+     "week_of": "2027-01-10",
      "semester": "S2",
      "domain": "NBT",
      "lesson": "Efficient subtraction",
@@ -13238,8 +13293,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 62,
-     "step_no": 60,
+     "seq": 63,
+     "step_no": 61,
      "item": "step",
      "week": 16,
      "quarter": "Q3",
@@ -13266,8 +13321,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 63,
-     "step_no": 61,
+     "seq": 64,
+     "step_no": 62,
      "item": "step",
      "week": 16,
      "quarter": "Q3",
@@ -13291,8 +13346,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 64,
-     "step_no": 62,
+     "seq": 65,
+     "step_no": 63,
      "item": "step",
      "week": 16,
      "quarter": "Q3",
@@ -13317,12 +13372,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 65,
-     "step_no": 63,
+     "seq": 66,
+     "step_no": 64,
      "item": "step",
-     "week": 16,
+     "week": 17,
      "quarter": "Q3",
-     "week_of": "2027-01-10",
+     "week_of": "2027-01-17",
      "semester": "S2",
      "domain": "NBT",
      "lesson": "Multiply by 100",
@@ -13343,8 +13398,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 66,
-     "step_no": 64,
+     "seq": 67,
+     "step_no": 65,
      "item": "step",
      "week": 17,
      "quarter": "Q3",
@@ -13369,8 +13424,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 67,
-     "step_no": 65,
+     "seq": 68,
+     "step_no": 66,
      "item": "step",
      "week": 17,
      "quarter": "Q3",
@@ -13395,8 +13450,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 68,
-     "step_no": 66,
+     "seq": 69,
+     "step_no": 67,
      "item": "step",
      "week": 17,
      "quarter": "Q3",
@@ -13423,7 +13478,7 @@
      "teaching_note": ""
     },
     {
-     "seq": 69,
+     "seq": 70,
      "step_no": null,
      "item": "exam",
      "week": 17,
@@ -13446,12 +13501,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 70,
-     "step_no": 67,
+     "seq": 71,
+     "step_no": 68,
      "item": "step",
-     "week": 17,
+     "week": 18,
      "quarter": "Q3",
-     "week_of": "2027-01-17",
+     "week_of": "2027-01-24",
      "semester": "S2",
      "domain": "MD",
      "lesson": "Number line to 1,000",
@@ -13472,8 +13527,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 71,
-     "step_no": 68,
+     "seq": 72,
+     "step_no": 69,
      "item": "step",
      "week": 18,
      "quarter": "Q3",
@@ -13498,8 +13553,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 72,
-     "step_no": 69,
+     "seq": 73,
+     "step_no": 70,
      "item": "step",
      "week": 18,
      "quarter": "Q3",
@@ -13526,8 +13581,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 73,
-     "step_no": 70,
+     "seq": 74,
+     "step_no": 71,
      "item": "step",
      "week": 18,
      "quarter": "Q3",
@@ -13553,12 +13608,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 74,
-     "step_no": 71,
+     "seq": 75,
+     "step_no": 72,
      "item": "step",
-     "week": 18,
+     "week": 19,
      "quarter": "Q3",
-     "week_of": "2027-01-24",
+     "week_of": "2027-01-31",
      "semester": "S2",
      "domain": "MD",
      "lesson": "Compare areas",
@@ -13578,8 +13633,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 75,
-     "step_no": 72,
+     "seq": 76,
+     "step_no": 73,
      "item": "step",
      "week": 19,
      "quarter": "Q3",
@@ -13605,8 +13660,8 @@
      "teaching_note": "CCSS BUILD lesson: still to be written."
     },
     {
-     "seq": 76,
-     "step_no": 73,
+     "seq": 77,
+     "step_no": 74,
      "item": "step",
      "week": 19,
      "quarter": "Q3",
@@ -13632,8 +13687,8 @@
      "teaching_note": "CCSS BUILD lesson: still to be written."
     },
     {
-     "seq": 77,
-     "step_no": 74,
+     "seq": 78,
+     "step_no": 75,
      "item": "step",
      "week": 19,
      "quarter": "Q3",
@@ -13657,12 +13712,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 78,
-     "step_no": 75,
+     "seq": 79,
+     "step_no": 76,
      "item": "step",
-     "week": 19,
+     "week": 20,
      "quarter": "Q3",
-     "week_of": "2027-01-31",
+     "week_of": "2027-02-07",
      "semester": "S2",
      "domain": "MD",
      "lesson": "Perimeter of a rectangle",
@@ -13682,8 +13737,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 79,
-     "step_no": 76,
+     "seq": 80,
+     "step_no": 77,
      "item": "step",
      "week": 20,
      "quarter": "Q3",
@@ -13707,8 +13762,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 80,
-     "step_no": 77,
+     "seq": 81,
+     "step_no": 78,
      "item": "step",
      "week": 20,
      "quarter": "Q3",
@@ -13732,8 +13787,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 81,
-     "step_no": 78,
+     "seq": 82,
+     "step_no": 79,
      "item": "step",
      "week": 20,
      "quarter": "Q3",
@@ -13757,12 +13812,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 82,
-     "step_no": 79,
+     "seq": 83,
+     "step_no": 80,
      "item": "step",
-     "week": 20,
+     "week": 21,
      "quarter": "Q3",
-     "week_of": "2027-02-07",
+     "week_of": "2027-02-14",
      "semester": "S2",
      "domain": "MD",
      "lesson": "Perimeter of regular polygons",
@@ -13782,8 +13837,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 83,
-     "step_no": 80,
+     "seq": 84,
+     "step_no": 81,
      "item": "step",
      "week": 21,
      "quarter": "Q3",
@@ -13807,8 +13862,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 84,
-     "step_no": 81,
+     "seq": 85,
+     "step_no": 82,
      "item": "step",
      "week": 21,
      "quarter": "Q3",
@@ -13832,8 +13887,8 @@
      "teaching_note": "CCSS BUILD lesson: still to be written."
     },
     {
-     "seq": 85,
-     "step_no": 82,
+     "seq": 86,
+     "step_no": 83,
      "item": "step",
      "week": 21,
      "quarter": "Q3",
@@ -13857,12 +13912,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 86,
-     "step_no": 83,
+     "seq": 87,
+     "step_no": 84,
      "item": "step",
-     "week": 21,
+     "week": 22,
      "quarter": "Q3",
-     "week_of": "2027-02-14",
+     "week_of": "2027-02-21",
      "semester": "S2",
      "domain": "MD",
      "lesson": "Convert between pounds and pence",
@@ -13883,8 +13938,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 87,
-     "step_no": 84,
+     "seq": 88,
+     "step_no": 85,
      "item": "step",
      "week": 22,
      "quarter": "Q3",
@@ -13909,8 +13964,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 88,
-     "step_no": 85,
+     "seq": 89,
+     "step_no": 86,
      "item": "step",
      "week": 22,
      "quarter": "Q3",
@@ -13936,8 +13991,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 89,
-     "step_no": 86,
+     "seq": 90,
+     "step_no": 87,
      "item": "step",
      "week": 22,
      "quarter": "Q3",
@@ -13961,12 +14016,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 90,
-     "step_no": 87,
+     "seq": 91,
+     "step_no": 88,
      "item": "step",
-     "week": 22,
+     "week": 23,
      "quarter": "Q3",
-     "week_of": "2027-02-21",
+     "week_of": "2027-02-28",
      "semester": "S2",
      "domain": "MD",
      "lesson": "Hours, minutes and seconds",
@@ -13988,8 +14043,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 91,
-     "step_no": 88,
+     "seq": 92,
+     "step_no": 89,
      "item": "step",
      "week": 23,
      "quarter": "Q3",
@@ -14015,8 +14070,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 92,
-     "step_no": 89,
+     "seq": 93,
+     "step_no": 90,
      "item": "step",
      "week": 23,
      "quarter": "Q3",
@@ -14042,8 +14097,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 93,
-     "step_no": 90,
+     "seq": 94,
+     "step_no": 91,
      "item": "step",
      "week": 23,
      "quarter": "Q3",
@@ -14069,12 +14124,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 94,
-     "step_no": 91,
+     "seq": 95,
+     "step_no": 92,
      "item": "step",
-     "week": 23,
+     "week": 24,
      "quarter": "Q3",
-     "week_of": "2027-02-28",
+     "week_of": "2027-03-07",
      "semester": "S2",
      "domain": "MD",
      "lesson": "Solve problems with time",
@@ -14096,12 +14151,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 95,
-     "step_no": 92,
+     "seq": 96,
+     "step_no": 93,
      "item": "step",
-     "week": 24,
+     "week": 25,
      "quarter": "Q3",
-     "week_of": "2027-03-07",
+     "week_of": "2027-03-14",
      "semester": "S2",
      "domain": "MD",
      "lesson": "Interpret charts",
@@ -14123,8 +14178,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 96,
-     "step_no": 93,
+     "seq": 97,
+     "step_no": 94,
      "item": "step",
      "week": 25,
      "quarter": "Q3",
@@ -14150,8 +14205,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 97,
-     "step_no": 94,
+     "seq": 98,
+     "step_no": 95,
      "item": "step",
      "week": 25,
      "quarter": "Q3",
@@ -14177,8 +14232,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 98,
-     "step_no": 95,
+     "seq": 99,
+     "step_no": 96,
      "item": "step",
      "week": 25,
      "quarter": "Q3",
@@ -14204,12 +14259,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 99,
-     "step_no": 96,
+     "seq": 100,
+     "step_no": 97,
      "item": "step",
-     "week": 25,
+     "week": 26,
      "quarter": "Q3",
-     "week_of": "2027-03-14",
+     "week_of": "2027-03-21",
      "semester": "S2",
      "domain": "MD",
      "lesson": "Interpret pictograms",
@@ -14229,33 +14284,6 @@
      "orig_pacing_week": 36,
      "orig_pacing_block": "B13 · Statistics",
      "teaching_note": ""
-    },
-    {
-     "seq": 100,
-     "step_no": 97,
-     "item": "step",
-     "week": 26,
-     "quarter": "Q3",
-     "week_of": "2027-03-21",
-     "semester": "S2",
-     "domain": "MD",
-     "lesson": "Build a line plot from inch measurements",
-     "ccss": [
-      "3.MD.B.4"
-     ],
-     "power_standards": [
-      "3.MD.B.4"
-     ],
-     "status": "BUILD",
-     "enrichment": false,
-     "enrichment_grade": null,
-     "build_lesson": true,
-     "copied_from_grade": null,
-     "site_unit": "Awsaj supplement lessons",
-     "site_step": 2,
-     "orig_pacing_week": 37,
-     "orig_pacing_block": "B14 · Position & direction",
-     "teaching_note": "CCSS BUILD lesson: still to be written."
     },
     {
      "seq": 101,
@@ -14286,6 +14314,33 @@
     },
     {
      "seq": 102,
+     "step_no": 99,
+     "item": "step",
+     "week": 26,
+     "quarter": "Q3",
+     "week_of": "2027-03-21",
+     "semester": "S2",
+     "domain": "MD",
+     "lesson": "Build a line plot from inch measurements",
+     "ccss": [
+      "3.MD.B.4"
+     ],
+     "power_standards": [
+      "3.MD.B.4"
+     ],
+     "status": "BUILD",
+     "enrichment": false,
+     "enrichment_grade": null,
+     "build_lesson": true,
+     "copied_from_grade": null,
+     "site_unit": "Awsaj supplement lessons",
+     "site_step": 2,
+     "orig_pacing_week": 37,
+     "orig_pacing_block": "B14 · Position & direction",
+     "teaching_note": "CCSS BUILD lesson: still to be written."
+    },
+    {
+     "seq": 103,
      "step_no": null,
      "item": "exam",
      "week": 26,
@@ -14308,12 +14363,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 103,
-     "step_no": 99,
+     "seq": 104,
+     "step_no": 100,
      "item": "step",
-     "week": 26,
+     "week": 27,
      "quarter": "Q3",
-     "week_of": "2027-03-21",
+     "week_of": "2027-03-28",
      "semester": "S2",
      "domain": "G",
      "lesson": "Polygons",
@@ -14333,33 +14388,6 @@
      "orig_pacing_week": 19,
      "orig_pacing_block": "B6 · Length & perimeter",
      "teaching_note": ""
-    },
-    {
-     "seq": 104,
-     "step_no": 100,
-     "item": "step",
-     "week": 27,
-     "quarter": "Q3",
-     "week_of": "2027-03-28",
-     "semester": "S2",
-     "domain": "G",
-     "lesson": "Partition shapes into equal areas",
-     "ccss": [
-      "3.G.A.2"
-     ],
-     "power_standards": [
-      "3.G.A.2"
-     ],
-     "status": "BUILD",
-     "enrichment": false,
-     "enrichment_grade": null,
-     "build_lesson": true,
-     "copied_from_grade": null,
-     "site_unit": "CCSS BUILD (from pacing guide)",
-     "site_step": 6,
-     "orig_pacing_week": 25,
-     "orig_pacing_block": "B7 · Fractions",
-     "teaching_note": "CCSS BUILD lesson: still to be written."
     },
     {
      "seq": 105,
@@ -15679,9 +15707,9 @@
     {
      "domain": "G",
      "name": "Geometry",
-     "steps": 11,
-     "exam_week": 27,
-     "exam_week_of": "2027-03-28",
+     "steps": 13,
+     "exam_week": 28,
+     "exam_week_of": "2027-04-04",
      "semester": "S2",
      "power_standards": [
       "4.G.A.1",
@@ -15691,7 +15719,7 @@
     {
      "domain": "MD",
      "name": "Measurement & Data",
-     "steps": 26,
+     "steps": 24,
      "exam_week": 34,
      "exam_week_of": "2027-05-23",
      "semester": "S2",
@@ -15815,13 +15843,13 @@
     },
     {
      "standard": "4.MD.C.5",
-     "first_taught_week": 29,
+     "first_taught_week": 30,
      "first_step": "Understand angles as turns"
     },
     {
      "standard": "4.MD.C.6",
      "first_taught_week": 24,
-     "first_step": "Draw lines and angles accurately"
+     "first_step": "Understand and use degrees"
     },
     {
      "standard": "4.MD.C.7",
@@ -18398,6 +18426,56 @@
      "week_of": "2027-03-07",
      "semester": "S2",
      "domain": "G",
+     "lesson": "Understand and use degrees",
+     "ccss": [
+      "4.MD.C.6"
+     ],
+     "power_standards": [],
+     "status": "on-grade",
+     "enrichment": false,
+     "enrichment_grade": null,
+     "build_lesson": false,
+     "copied_from_grade": null,
+     "site_unit": "Shape",
+     "site_step": 1,
+     "orig_pacing_week": 27,
+     "orig_pacing_block": "B10 · Shape",
+     "teaching_note": ""
+    },
+    {
+     "seq": 98,
+     "step_no": 95,
+     "item": "step",
+     "week": 25,
+     "quarter": "Q3",
+     "week_of": "2027-03-14",
+     "semester": "S2",
+     "domain": "G",
+     "lesson": "Measure angles up to 180°",
+     "ccss": [
+      "4.MD.C.6"
+     ],
+     "power_standards": [],
+     "status": "on-grade",
+     "enrichment": false,
+     "enrichment_grade": null,
+     "build_lesson": false,
+     "copied_from_grade": null,
+     "site_unit": "Shape",
+     "site_step": 6,
+     "orig_pacing_week": 28,
+     "orig_pacing_block": "B10 · Shape",
+     "teaching_note": ""
+    },
+    {
+     "seq": 99,
+     "step_no": 96,
+     "item": "step",
+     "week": 25,
+     "quarter": "Q3",
+     "week_of": "2027-03-14",
+     "semester": "S2",
+     "domain": "G",
      "lesson": "Draw lines and angles accurately",
      "ccss": [
       "4.G.A.1",
@@ -18418,8 +18496,8 @@
      "teaching_note": "Also uses MD, which is now taught later (from W28)."
     },
     {
-     "seq": 98,
-     "step_no": 95,
+     "seq": 100,
+     "step_no": 97,
      "item": "step",
      "week": 25,
      "quarter": "Q3",
@@ -18446,12 +18524,12 @@
      "teaching_note": "Also uses MD, which is now taught later (from W28)."
     },
     {
-     "seq": 99,
-     "step_no": 96,
+     "seq": 101,
+     "step_no": 98,
      "item": "step",
-     "week": 25,
+     "week": 26,
      "quarter": "Q3",
-     "week_of": "2027-03-14",
+     "week_of": "2027-03-21",
      "semester": "S2",
      "domain": "G",
      "lesson": "3D shapes",
@@ -18471,12 +18549,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 100,
-     "step_no": 97,
+     "seq": 102,
+     "step_no": 99,
      "item": "step",
-     "week": 25,
+     "week": 26,
      "quarter": "Q3",
-     "week_of": "2027-03-14",
+     "week_of": "2027-03-21",
      "semester": "S2",
      "domain": "G",
      "lesson": "Regular and irregular polygons",
@@ -18499,8 +18577,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 101,
-     "step_no": 98,
+     "seq": 103,
+     "step_no": 100,
      "item": "step",
      "week": 26,
      "quarter": "Q3",
@@ -18527,8 +18605,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 102,
-     "step_no": 99,
+     "seq": 104,
+     "step_no": 101,
      "item": "step",
      "week": 26,
      "quarter": "Q3",
@@ -18555,12 +18633,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 103,
-     "step_no": 100,
+     "seq": 105,
+     "step_no": 102,
      "item": "step",
-     "week": 26,
+     "week": 27,
      "quarter": "Q3",
-     "week_of": "2027-03-21",
+     "week_of": "2027-03-28",
      "semester": "S2",
      "domain": "G",
      "lesson": "Translation",
@@ -18583,12 +18661,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 104,
-     "step_no": 101,
+     "seq": 106,
+     "step_no": 103,
      "item": "step",
-     "week": 26,
+     "week": 27,
      "quarter": "Q3",
-     "week_of": "2027-03-21",
+     "week_of": "2027-03-28",
      "semester": "S2",
      "domain": "G",
      "lesson": "Translation with coordinates",
@@ -18611,8 +18689,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 105,
-     "step_no": 102,
+     "seq": 107,
+     "step_no": 104,
      "item": "step",
      "week": 27,
      "quarter": "Q3",
@@ -18636,12 +18714,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 106,
-     "step_no": 103,
+     "seq": 108,
+     "step_no": 105,
      "item": "step",
-     "week": 27,
-     "quarter": "Q3",
-     "week_of": "2027-03-28",
+     "week": 28,
+     "quarter": "Q4",
+     "week_of": "2027-04-04",
      "semester": "S2",
      "domain": "G",
      "lesson": "Reflection in horizontal and vertical lines",
@@ -18664,12 +18742,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 107,
+     "seq": 109,
      "step_no": null,
      "item": "exam",
-     "week": 27,
-     "quarter": "Q3",
-     "week_of": "2027-03-28",
+     "week": 28,
+     "quarter": "Q4",
+     "week_of": "2027-04-04",
      "semester": "S2",
      "domain": "G",
      "lesson": "DOMAIN EXAM · Geometry",
@@ -18687,8 +18765,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 108,
-     "step_no": 104,
+     "seq": 110,
+     "step_no": 106,
      "item": "step",
      "week": 28,
      "quarter": "Q4",
@@ -18713,8 +18791,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 109,
-     "step_no": 105,
+     "seq": 111,
+     "step_no": 107,
      "item": "step",
      "week": 28,
      "quarter": "Q4",
@@ -18738,12 +18816,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 110,
-     "step_no": 106,
+     "seq": 112,
+     "step_no": 108,
      "item": "step",
-     "week": 28,
+     "week": 29,
      "quarter": "Q4",
-     "week_of": "2027-04-04",
+     "week_of": "2027-04-11",
      "semester": "S2",
      "domain": "MD",
      "lesson": "Perimeter of polygons",
@@ -18763,12 +18841,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 111,
-     "step_no": 107,
+     "seq": 113,
+     "step_no": 109,
      "item": "step",
-     "week": 28,
+     "week": 29,
      "quarter": "Q4",
-     "week_of": "2027-04-04",
+     "week_of": "2027-04-11",
      "semester": "S2",
      "domain": "MD",
      "lesson": "Area of rectangles",
@@ -18789,8 +18867,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 112,
-     "step_no": 108,
+     "seq": 114,
+     "step_no": 110,
      "item": "step",
      "week": 29,
      "quarter": "Q4",
@@ -18815,8 +18893,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 113,
-     "step_no": 109,
+     "seq": 115,
+     "step_no": 111,
      "item": "step",
      "week": 29,
      "quarter": "Q4",
@@ -18840,8 +18918,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 114,
-     "step_no": 110,
+     "seq": 116,
+     "step_no": 112,
      "item": "step",
      "week": 29,
      "quarter": "Q4",
@@ -18867,12 +18945,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 115,
-     "step_no": 111,
+     "seq": 117,
+     "step_no": 113,
      "item": "step",
-     "week": 29,
+     "week": 30,
      "quarter": "Q4",
-     "week_of": "2027-04-11",
+     "week_of": "2027-04-18",
      "semester": "S2",
      "domain": "MD",
      "lesson": "Understand angles as turns",
@@ -18894,12 +18972,12 @@
      "teaching_note": "Copied from the Grade 3 (WRM Year 4) guide so this standard is taught in its own grade. Slides and worksheet live in that grade's lesson folder."
     },
     {
-     "seq": 116,
-     "step_no": 112,
+     "seq": 118,
+     "step_no": 114,
      "item": "step",
-     "week": 29,
+     "week": 30,
      "quarter": "Q4",
-     "week_of": "2027-04-11",
+     "week_of": "2027-04-18",
      "semester": "S2",
      "domain": "MD",
      "lesson": "Identify angles",
@@ -18922,33 +19000,8 @@
      "teaching_note": "Copied from the Grade 3 (WRM Year 4) guide so this standard is taught in its own grade. Slides and worksheet live in that grade's lesson folder."
     },
     {
-     "seq": 117,
-     "step_no": 113,
-     "item": "step",
-     "week": 30,
-     "quarter": "Q4",
-     "week_of": "2027-04-18",
-     "semester": "S2",
-     "domain": "MD",
-     "lesson": "Understand and use degrees",
-     "ccss": [
-      "4.MD.C.6"
-     ],
-     "power_standards": [],
-     "status": "on-grade",
-     "enrichment": false,
-     "enrichment_grade": null,
-     "build_lesson": false,
-     "copied_from_grade": null,
-     "site_unit": "Shape",
-     "site_step": 1,
-     "orig_pacing_week": 27,
-     "orig_pacing_block": "B10 · Shape",
-     "teaching_note": ""
-    },
-    {
-     "seq": 118,
-     "step_no": 114,
+     "seq": 119,
+     "step_no": 115,
      "item": "step",
      "week": 30,
      "quarter": "Q4",
@@ -18972,12 +19025,12 @@
      "teaching_note": "CCSS BUILD lesson: still to be written."
     },
     {
-     "seq": 119,
-     "step_no": 115,
+     "seq": 120,
+     "step_no": 116,
      "item": "step",
-     "week": 30,
+     "week": 31,
      "quarter": "Q4",
-     "week_of": "2027-04-18",
+     "week_of": "2027-04-25",
      "semester": "S2",
      "domain": "MD",
      "lesson": "Estimate angles",
@@ -18993,31 +19046,6 @@
      "site_unit": "Shape",
      "site_step": 5,
      "orig_pacing_week": 27,
-     "orig_pacing_block": "B10 · Shape",
-     "teaching_note": ""
-    },
-    {
-     "seq": 120,
-     "step_no": 116,
-     "item": "step",
-     "week": 31,
-     "quarter": "Q4",
-     "week_of": "2027-04-25",
-     "semester": "S2",
-     "domain": "MD",
-     "lesson": "Measure angles up to 180°",
-     "ccss": [
-      "4.MD.C.6"
-     ],
-     "power_standards": [],
-     "status": "on-grade",
-     "enrichment": false,
-     "enrichment_grade": null,
-     "build_lesson": false,
-     "copied_from_grade": null,
-     "site_unit": "Shape",
-     "site_step": 6,
-     "orig_pacing_week": 28,
      "orig_pacing_block": "B10 · Shape",
      "teaching_note": ""
     },
@@ -19902,7 +19930,7 @@
     "G",
     "EXT"
    ],
-   "map_window_week": 33,
+   "map_window_week": 32,
    "last_domain_exam_week": 32,
    "power_standards_by_exam_semester": {
     "S1": 9,
@@ -19928,9 +19956,9 @@
     {
      "domain": "OA",
      "name": "Operations & Algebraic Thinking",
-     "steps": 20,
-     "exam_week": 14,
-     "exam_week_of": "2026-12-13",
+     "steps": 18,
+     "exam_week": 13,
+     "exam_week_of": "2026-12-06",
      "semester": "S1",
      "power_standards": [
       "5.OA.A.1",
@@ -19942,8 +19970,8 @@
      "domain": "NF",
      "name": "Number & Operations: Fractions",
      "steps": 24,
-     "exam_week": 21,
-     "exam_week_of": "2027-02-14",
+     "exam_week": 20,
+     "exam_week_of": "2027-02-07",
      "semester": "S2",
      "power_standards": [
       "5.NF.B.3",
@@ -19954,8 +19982,8 @@
      "domain": "MD",
      "name": "Measurement & Data",
      "steps": 27,
-     "exam_week": 30,
-     "exam_week_of": "2027-04-18",
+     "exam_week": 29,
+     "exam_week_of": "2027-04-11",
      "semester": "S2",
      "power_standards": [
       "5.MD.A.1",
@@ -19965,7 +19993,7 @@
     {
      "domain": "G",
      "name": "Geometry",
-     "steps": 9,
+     "steps": 8,
      "exam_week": 32,
      "exam_week_of": "2027-05-02",
      "semester": "S2",
@@ -19989,7 +20017,7 @@
     },
     {
      "standard": "5.OA.B.3",
-     "first_taught_week": 12,
+     "first_taught_week": 13,
      "first_step": "Form ordered pairs from corresponding terms"
     },
     {
@@ -20029,17 +20057,17 @@
     },
     {
      "standard": "5.NF.A.1",
-     "first_taught_week": 16,
+     "first_taught_week": 15,
      "first_step": "Add and subtract simple fractions"
     },
     {
      "standard": "5.NF.A.2",
-     "first_taught_week": 14,
+     "first_taught_week": 16,
      "first_step": "Multi-step problems"
     },
     {
      "standard": "5.NF.B.3",
-     "first_taught_week": 20,
+     "first_taught_week": 19,
      "first_step": "Decimal and fraction equivalents"
     },
     {
@@ -20049,7 +20077,7 @@
     },
     {
      "standard": "5.NF.B.5",
-     "first_taught_week": 17,
+     "first_taught_week": 16,
      "first_step": "Multiplication as scaling"
     },
     {
@@ -20059,7 +20087,7 @@
     },
     {
      "standard": "5.NF.B.7",
-     "first_taught_week": 18,
+     "first_taught_week": 17,
      "first_step": "Divide a fraction by an integer"
     },
     {
@@ -20069,42 +20097,42 @@
     },
     {
      "standard": "5.MD.B.2",
-     "first_taught_week": 27,
+     "first_taught_week": 26,
      "first_step": "The mean"
     },
     {
      "standard": "5.MD.C.3",
-     "first_taught_week": 25,
+     "first_taught_week": 23,
      "first_step": "Cubic centimetres"
     },
     {
      "standard": "5.MD.C.4",
-     "first_taught_week": 25,
+     "first_taught_week": 23,
      "first_step": "Cubic centimetres"
     },
     {
      "standard": "5.MD.C.5",
-     "first_taught_week": 26,
+     "first_taught_week": 25,
      "first_step": "Volume of a cuboid"
     },
     {
      "standard": "5.G.A.1",
-     "first_taught_week": 31,
+     "first_taught_week": 13,
      "first_step": "The first quadrant"
     },
     {
      "standard": "5.G.A.2",
-     "first_taught_week": 30,
-     "first_step": "Line graphs"
+     "first_taught_week": 13,
+     "first_step": "The first quadrant"
     },
     {
      "standard": "5.G.B.3",
-     "first_taught_week": 31,
+     "first_taught_week": 30,
      "first_step": "Classify two-dimensional figures in a hierarchy"
     },
     {
      "standard": "5.G.B.4",
-     "first_taught_week": 31,
+     "first_taught_week": 30,
      "first_step": "Classify two-dimensional figures in a hierarchy"
     }
    ],
@@ -21111,6 +21139,31 @@
      "week_of": "2026-11-22",
      "semester": "S1",
      "domain": "OA",
+     "lesson": "Form expressions",
+     "ccss": [
+      "6.EE.A.2.A"
+     ],
+     "power_standards": [],
+     "status": "on-grade (moved for the domain test)",
+     "enrichment": false,
+     "enrichment_grade": null,
+     "build_lesson": false,
+     "copied_from_grade": null,
+     "site_unit": "Algebra",
+     "site_step": 8,
+     "orig_pacing_week": 19,
+     "orig_pacing_block": "B7 · Algebra",
+     "teaching_note": ""
+    },
+    {
+     "seq": 39,
+     "step_no": 38,
+     "item": "step",
+     "week": 11,
+     "quarter": "Q2",
+     "week_of": "2026-11-22",
+     "semester": "S1",
+     "domain": "OA",
      "lesson": "1-step function machines",
      "ccss": [
       "5.OA.A.2"
@@ -21130,8 +21183,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 39,
-     "step_no": 38,
+     "seq": 40,
+     "step_no": 39,
      "item": "step",
      "week": 11,
      "quarter": "Q2",
@@ -21157,8 +21210,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 40,
-     "step_no": 39,
+     "seq": 41,
+     "step_no": 40,
      "item": "step",
      "week": 11,
      "quarter": "Q2",
@@ -21185,12 +21238,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 41,
-     "step_no": 40,
+     "seq": 42,
+     "step_no": 41,
      "item": "step",
-     "week": 11,
+     "week": 12,
      "quarter": "Q2",
-     "week_of": "2026-11-22",
+     "week_of": "2026-11-29",
      "semester": "S1",
      "domain": "OA",
      "lesson": "Solve 2-step equations",
@@ -21210,8 +21263,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 42,
-     "step_no": 41,
+     "seq": 43,
+     "step_no": 42,
      "item": "step",
      "week": 12,
      "quarter": "Q2",
@@ -21236,8 +21289,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 43,
-     "step_no": 42,
+     "seq": 44,
+     "step_no": 43,
      "item": "step",
      "week": 12,
      "quarter": "Q2",
@@ -21261,12 +21314,41 @@
      "teaching_note": ""
     },
     {
-     "seq": 44,
-     "step_no": 43,
+     "seq": 45,
+     "step_no": 44,
      "item": "step",
-     "week": 12,
+     "week": 13,
      "quarter": "Q2",
-     "week_of": "2026-11-29",
+     "week_of": "2026-12-06",
+     "semester": "S1",
+     "domain": "OA",
+     "lesson": "The first quadrant",
+     "ccss": [
+      "5.G.A.1",
+      "5.G.A.2"
+     ],
+     "power_standards": [
+      "5.G.A.1",
+      "5.G.A.2"
+     ],
+     "status": "on-grade",
+     "enrichment": false,
+     "enrichment_grade": null,
+     "build_lesson": false,
+     "copied_from_grade": null,
+     "site_unit": "Position and Direction",
+     "site_step": 1,
+     "orig_pacing_week": 37,
+     "orig_pacing_block": "B13 · Position and direction",
+     "teaching_note": ""
+    },
+    {
+     "seq": 46,
+     "step_no": 45,
+     "item": "step",
+     "week": 13,
+     "quarter": "Q2",
+     "week_of": "2026-12-06",
      "semester": "S1",
      "domain": "OA",
      "lesson": "Form ordered pairs from corresponding terms",
@@ -21288,8 +21370,8 @@
      "teaching_note": "Graphing the pairs needs the coordinate plane (Geometry run). Generate the patterns here; graph them in the Geometry run. CCSS BUILD lesson: still to be written."
     },
     {
-     "seq": 45,
-     "step_no": 44,
+     "seq": 47,
+     "step_no": 46,
      "item": "step",
      "week": 13,
      "quarter": "Q2",
@@ -21315,120 +21397,12 @@
      "teaching_note": "CCSS BUILD lesson: still to be written."
     },
     {
-     "seq": 46,
-     "step_no": 45,
-     "item": "step",
-     "week": 13,
-     "quarter": "Q2",
-     "week_of": "2026-12-06",
-     "semester": "S1",
-     "domain": "OA",
-     "lesson": "Consolidation of arithmetic",
-     "ccss": [
-      "5.OA.A.1"
-     ],
-     "power_standards": [
-      "5.OA.A.1"
-     ],
-     "status": "on-grade",
-     "enrichment": false,
-     "enrichment_grade": null,
-     "build_lesson": false,
-     "copied_from_grade": null,
-     "site_unit": "Themed Projects, Consolidation and Problem Solving",
-     "site_step": 2,
-     "orig_pacing_week": 38,
-     "orig_pacing_block": "B14 · Projects & Taskmaster",
-     "teaching_note": ""
-    },
-    {
-     "seq": 47,
-     "step_no": 46,
-     "item": "step",
-     "week": 13,
-     "quarter": "Q2",
-     "week_of": "2026-12-06",
-     "semester": "S1",
-     "domain": "OA",
-     "lesson": "Problem solving across strands",
-     "ccss": [
-      "5.OA.A.1"
-     ],
-     "power_standards": [
-      "5.OA.A.1"
-     ],
-     "status": "on-grade",
-     "enrichment": false,
-     "enrichment_grade": null,
-     "build_lesson": false,
-     "copied_from_grade": null,
-     "site_unit": "Themed Projects, Consolidation and Problem Solving",
-     "site_step": 3,
-     "orig_pacing_week": 38,
-     "orig_pacing_block": "B14 · Projects & Taskmaster",
-     "teaching_note": ""
-    },
-    {
      "seq": 48,
-     "step_no": 47,
-     "item": "step",
-     "week": 13,
-     "quarter": "Q2",
-     "week_of": "2026-12-06",
-     "semester": "S1",
-     "domain": "OA",
-     "lesson": "End-of-year investigation projects",
-     "ccss": [
-      "5.OA.A.1"
-     ],
-     "power_standards": [
-      "5.OA.A.1"
-     ],
-     "status": "on-grade",
-     "enrichment": false,
-     "enrichment_grade": null,
-     "build_lesson": false,
-     "copied_from_grade": null,
-     "site_unit": "Themed Projects, Consolidation and Problem Solving",
-     "site_step": 1,
-     "orig_pacing_week": 39,
-     "orig_pacing_block": "B14 · Projects & Taskmaster",
-     "teaching_note": ""
-    },
-    {
-     "seq": 49,
-     "step_no": 48,
-     "item": "step",
-     "week": 14,
-     "quarter": "Q2",
-     "week_of": "2026-12-13",
-     "semester": "S1",
-     "domain": "OA",
-     "lesson": "Reasoning tasks",
-     "ccss": [
-      "5.OA.A.1"
-     ],
-     "power_standards": [
-      "5.OA.A.1"
-     ],
-     "status": "on-grade",
-     "enrichment": false,
-     "enrichment_grade": null,
-     "build_lesson": false,
-     "copied_from_grade": null,
-     "site_unit": "Themed Projects, Consolidation and Problem Solving",
-     "site_step": 4,
-     "orig_pacing_week": 39,
-     "orig_pacing_block": "B14 · Projects & Taskmaster",
-     "teaching_note": ""
-    },
-    {
-     "seq": 50,
      "step_no": null,
      "item": "exam",
-     "week": 14,
+     "week": 13,
      "quarter": "Q2",
-     "week_of": "2026-12-13",
+     "week_of": "2026-12-06",
      "semester": "S1",
      "domain": "OA",
      "lesson": "DOMAIN EXAM · Operations & Algebraic Thinking",
@@ -21446,38 +21420,13 @@
      "teaching_note": ""
     },
     {
-     "seq": 51,
-     "step_no": 49,
+     "seq": 49,
+     "step_no": 47,
      "item": "step",
      "week": 14,
      "quarter": "Q2",
      "week_of": "2026-12-13",
      "semester": "S1",
-     "domain": "NF",
-     "lesson": "Multi-step problems",
-     "ccss": [
-      "5.NF.A.2"
-     ],
-     "power_standards": [],
-     "status": "on-grade",
-     "enrichment": false,
-     "enrichment_grade": null,
-     "build_lesson": false,
-     "copied_from_grade": null,
-     "site_unit": "Fractions A",
-     "site_step": 9,
-     "orig_pacing_week": 7,
-     "orig_pacing_block": "B2 · Addition, subtraction, multiplication and division",
-     "teaching_note": ""
-    },
-    {
-     "seq": 52,
-     "step_no": 50,
-     "item": "step",
-     "week": 15,
-     "quarter": "Q3",
-     "week_of": "2027-01-03",
-     "semester": "S2",
      "domain": "NF",
      "lesson": "Equivalent fractions and simplifying",
      "ccss": [
@@ -21496,13 +21445,13 @@
      "teaching_note": ""
     },
     {
-     "seq": 53,
-     "step_no": 51,
+     "seq": 50,
+     "step_no": 48,
      "item": "step",
-     "week": 15,
-     "quarter": "Q3",
-     "week_of": "2027-01-03",
-     "semester": "S2",
+     "week": 14,
+     "quarter": "Q2",
+     "week_of": "2026-12-13",
+     "semester": "S1",
      "domain": "NF",
      "lesson": "Equivalent fractions on a number line",
      "ccss": [
@@ -21521,13 +21470,13 @@
      "teaching_note": ""
     },
     {
-     "seq": 54,
-     "step_no": 52,
+     "seq": 51,
+     "step_no": 49,
      "item": "step",
-     "week": 15,
-     "quarter": "Q3",
-     "week_of": "2027-01-03",
-     "semester": "S2",
+     "week": 14,
+     "quarter": "Q2",
+     "week_of": "2026-12-13",
+     "semester": "S1",
      "domain": "NF",
      "lesson": "Compare and order (denominator)",
      "ccss": [
@@ -21546,8 +21495,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 55,
-     "step_no": 53,
+     "seq": 52,
+     "step_no": 50,
      "item": "step",
      "week": 15,
      "quarter": "Q3",
@@ -21571,12 +21520,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 56,
-     "step_no": 54,
+     "seq": 53,
+     "step_no": 51,
      "item": "step",
-     "week": 16,
+     "week": 15,
      "quarter": "Q3",
-     "week_of": "2027-01-10",
+     "week_of": "2027-01-03",
      "semester": "S2",
      "domain": "NF",
      "lesson": "Add and subtract simple fractions",
@@ -21596,12 +21545,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 57,
-     "step_no": 55,
+     "seq": 54,
+     "step_no": 52,
      "item": "step",
-     "week": 16,
+     "week": 15,
      "quarter": "Q3",
-     "week_of": "2027-01-10",
+     "week_of": "2027-01-03",
      "semester": "S2",
      "domain": "NF",
      "lesson": "Add and subtract any two fractions",
@@ -21621,12 +21570,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 58,
-     "step_no": 56,
+     "seq": 55,
+     "step_no": 53,
      "item": "step",
-     "week": 16,
+     "week": 15,
      "quarter": "Q3",
-     "week_of": "2027-01-10",
+     "week_of": "2027-01-03",
      "semester": "S2",
      "domain": "NF",
      "lesson": "Add mixed numbers",
@@ -21646,12 +21595,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 59,
-     "step_no": 57,
+     "seq": 56,
+     "step_no": 54,
      "item": "step",
-     "week": 17,
+     "week": 16,
      "quarter": "Q3",
-     "week_of": "2027-01-17",
+     "week_of": "2027-01-10",
      "semester": "S2",
      "domain": "NF",
      "lesson": "Subtract mixed numbers",
@@ -21671,12 +21620,37 @@
      "teaching_note": ""
     },
     {
-     "seq": 60,
-     "step_no": 58,
+     "seq": 57,
+     "step_no": 55,
      "item": "step",
-     "week": 17,
+     "week": 16,
      "quarter": "Q3",
-     "week_of": "2027-01-17",
+     "week_of": "2027-01-10",
+     "semester": "S2",
+     "domain": "NF",
+     "lesson": "Multi-step problems",
+     "ccss": [
+      "5.NF.A.2"
+     ],
+     "power_standards": [],
+     "status": "on-grade",
+     "enrichment": false,
+     "enrichment_grade": null,
+     "build_lesson": false,
+     "copied_from_grade": null,
+     "site_unit": "Fractions A",
+     "site_step": 9,
+     "orig_pacing_week": 7,
+     "orig_pacing_block": "B2 · Addition, subtraction, multiplication and division",
+     "teaching_note": ""
+    },
+    {
+     "seq": 58,
+     "step_no": 56,
+     "item": "step",
+     "week": 16,
+     "quarter": "Q3",
+     "week_of": "2027-01-10",
      "semester": "S2",
      "domain": "NF",
      "lesson": "Multiplication as scaling",
@@ -21698,8 +21672,8 @@
      "teaching_note": "CCSS BUILD lesson: still to be written."
     },
     {
-     "seq": 61,
-     "step_no": 59,
+     "seq": 59,
+     "step_no": 57,
      "item": "step",
      "week": 17,
      "quarter": "Q3",
@@ -21723,8 +21697,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 62,
-     "step_no": 60,
+     "seq": 60,
+     "step_no": 58,
      "item": "step",
      "week": 17,
      "quarter": "Q3",
@@ -21748,12 +21722,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 63,
-     "step_no": 61,
+     "seq": 61,
+     "step_no": 59,
      "item": "step",
-     "week": 18,
+     "week": 17,
      "quarter": "Q3",
-     "week_of": "2027-01-24",
+     "week_of": "2027-01-17",
      "semester": "S2",
      "domain": "NF",
      "lesson": "Divide a fraction by an integer",
@@ -21773,12 +21747,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 64,
-     "step_no": 62,
+     "seq": 62,
+     "step_no": 60,
      "item": "step",
-     "week": 18,
+     "week": 17,
      "quarter": "Q3",
-     "week_of": "2027-01-24",
+     "week_of": "2027-01-17",
      "semester": "S2",
      "domain": "NF",
      "lesson": "Divide any fraction by an integer",
@@ -21798,8 +21772,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 65,
-     "step_no": 63,
+     "seq": 63,
+     "step_no": 61,
      "item": "step",
      "week": 18,
      "quarter": "Q3",
@@ -21825,8 +21799,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 66,
-     "step_no": 64,
+     "seq": 64,
+     "step_no": 62,
      "item": "step",
      "week": 18,
      "quarter": "Q3",
@@ -21850,12 +21824,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 67,
-     "step_no": 65,
+     "seq": 65,
+     "step_no": 63,
      "item": "step",
-     "week": 19,
+     "week": 18,
      "quarter": "Q3",
-     "week_of": "2027-01-31",
+     "week_of": "2027-01-24",
      "semester": "S2",
      "domain": "NF",
      "lesson": "Fraction of an amount - find the whole",
@@ -21875,12 +21849,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 68,
-     "step_no": 66,
+     "seq": 66,
+     "step_no": 64,
      "item": "step",
-     "week": 19,
+     "week": 18,
      "quarter": "Q3",
-     "week_of": "2027-01-31",
+     "week_of": "2027-01-24",
      "semester": "S2",
      "domain": "NF",
      "lesson": "Divide a whole number by a unit fraction",
@@ -21902,8 +21876,8 @@
      "teaching_note": "CCSS BUILD lesson: still to be written."
     },
     {
-     "seq": 69,
-     "step_no": 67,
+     "seq": 67,
+     "step_no": 65,
      "item": "step",
      "week": 19,
      "quarter": "Q3",
@@ -21928,8 +21902,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 70,
-     "step_no": 68,
+     "seq": 68,
+     "step_no": 66,
      "item": "step",
      "week": 19,
      "quarter": "Q3",
@@ -21954,12 +21928,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 71,
-     "step_no": 69,
+     "seq": 69,
+     "step_no": 67,
      "item": "step",
-     "week": 20,
+     "week": 19,
      "quarter": "Q3",
-     "week_of": "2027-02-07",
+     "week_of": "2027-01-31",
      "semester": "S2",
      "domain": "NF",
      "lesson": "Decimal and fraction equivalents",
@@ -21982,12 +21956,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 72,
-     "step_no": 70,
+     "seq": 70,
+     "step_no": 68,
      "item": "step",
-     "week": 20,
+     "week": 19,
      "quarter": "Q3",
-     "week_of": "2027-02-07",
+     "week_of": "2027-01-31",
      "semester": "S2",
      "domain": "NF",
      "lesson": "Fractions as division",
@@ -22009,8 +21983,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 73,
-     "step_no": 71,
+     "seq": 71,
+     "step_no": 69,
      "item": "step",
      "week": 20,
      "quarter": "Q3",
@@ -22035,12 +22009,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 74,
-     "step_no": 72,
+     "seq": 72,
+     "step_no": 70,
      "item": "step",
-     "week": 21,
+     "week": 20,
      "quarter": "Q3",
-     "week_of": "2027-02-14",
+     "week_of": "2027-02-07",
      "semester": "S2",
      "domain": "NF",
      "lesson": "Order fractions, decimals and percentages",
@@ -22061,12 +22035,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 75,
+     "seq": 73,
      "step_no": null,
      "item": "exam",
-     "week": 21,
+     "week": 20,
      "quarter": "Q3",
-     "week_of": "2027-02-14",
+     "week_of": "2027-02-07",
      "semester": "S2",
      "domain": "NF",
      "lesson": "DOMAIN EXAM · Number & Operations: Fractions",
@@ -22084,8 +22058,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 76,
-     "step_no": 73,
+     "seq": 74,
+     "step_no": 71,
      "item": "step",
      "week": 21,
      "quarter": "Q3",
@@ -22111,8 +22085,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 77,
-     "step_no": 74,
+     "seq": 75,
+     "step_no": 72,
      "item": "step",
      "week": 21,
      "quarter": "Q3",
@@ -22139,12 +22113,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 78,
-     "step_no": 75,
+     "seq": 76,
+     "step_no": 73,
      "item": "step",
-     "week": 22,
+     "week": 21,
      "quarter": "Q3",
-     "week_of": "2027-02-21",
+     "week_of": "2027-02-14",
      "semester": "S2",
      "domain": "MD",
      "lesson": "Calculate with metric measures",
@@ -22166,12 +22140,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 79,
-     "step_no": 76,
+     "seq": 77,
+     "step_no": 74,
      "item": "step",
-     "week": 22,
+     "week": 21,
      "quarter": "Q3",
-     "week_of": "2027-02-21",
+     "week_of": "2027-02-14",
      "semester": "S2",
      "domain": "MD",
      "lesson": "Miles and kilometres",
@@ -22193,8 +22167,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 80,
-     "step_no": 77,
+     "seq": 78,
+     "step_no": 75,
      "item": "step",
      "week": 22,
      "quarter": "Q3",
@@ -22220,8 +22194,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 81,
-     "step_no": 78,
+     "seq": 79,
+     "step_no": 76,
      "item": "step",
      "week": 22,
      "quarter": "Q3",
@@ -22245,12 +22219,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 82,
-     "step_no": 79,
+     "seq": 80,
+     "step_no": 77,
      "item": "step",
-     "week": 23,
+     "week": 22,
      "quarter": "Q3",
-     "week_of": "2027-02-28",
+     "week_of": "2027-02-21",
      "semester": "S2",
      "domain": "MD",
      "lesson": "Area and perimeter",
@@ -22271,12 +22245,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 83,
-     "step_no": 80,
+     "seq": 81,
+     "step_no": 78,
      "item": "step",
-     "week": 23,
+     "week": 22,
      "quarter": "Q3",
-     "week_of": "2027-02-28",
+     "week_of": "2027-02-21",
      "semester": "S2",
      "domain": "MD",
      "lesson": "Area of a triangle (counting squares)",
@@ -22296,8 +22270,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 84,
-     "step_no": 81,
+     "seq": 82,
+     "step_no": 79,
      "item": "step",
      "week": 23,
      "quarter": "Q3",
@@ -22321,8 +22295,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 85,
-     "step_no": 82,
+     "seq": 83,
+     "step_no": 80,
      "item": "step",
      "week": 23,
      "quarter": "Q3",
@@ -22346,12 +22320,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 86,
-     "step_no": 83,
+     "seq": 84,
+     "step_no": 81,
      "item": "step",
-     "week": 25,
+     "week": 23,
      "quarter": "Q3",
-     "week_of": "2027-03-14",
+     "week_of": "2027-02-28",
      "semester": "S2",
      "domain": "MD",
      "lesson": "Area of a parallelogram",
@@ -22371,12 +22345,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 87,
-     "step_no": 84,
+     "seq": 85,
+     "step_no": 82,
      "item": "step",
-     "week": 25,
+     "week": 23,
      "quarter": "Q3",
-     "week_of": "2027-03-14",
+     "week_of": "2027-02-28",
      "semester": "S2",
      "domain": "MD",
      "lesson": "Cubic centimetres",
@@ -22397,8 +22371,8 @@
      "teaching_note": "Copied from the Grade 4 (WRM Year 5) guide so this standard is taught in its own grade. Slides and worksheet live in that grade's lesson folder."
     },
     {
-     "seq": 88,
-     "step_no": 85,
+     "seq": 86,
+     "step_no": 83,
      "item": "step",
      "week": 25,
      "quarter": "Q3",
@@ -22422,12 +22396,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 89,
-     "step_no": 86,
+     "seq": 87,
+     "step_no": 84,
      "item": "step",
-     "week": 26,
+     "week": 25,
      "quarter": "Q3",
-     "week_of": "2027-03-21",
+     "week_of": "2027-03-14",
      "semester": "S2",
      "domain": "MD",
      "lesson": "Volume of a cuboid",
@@ -22449,12 +22423,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 90,
-     "step_no": 87,
+     "seq": 88,
+     "step_no": 85,
      "item": "step",
-     "week": 26,
+     "week": 25,
      "quarter": "Q3",
-     "week_of": "2027-03-21",
+     "week_of": "2027-03-14",
      "semester": "S2",
      "domain": "MD",
      "lesson": "Volume of composite solids",
@@ -22477,8 +22451,8 @@
      "teaching_note": "CCSS BUILD lesson: still to be written."
     },
     {
-     "seq": 91,
-     "step_no": 88,
+     "seq": 89,
+     "step_no": 86,
      "item": "step",
      "week": 26,
      "quarter": "Q3",
@@ -22502,8 +22476,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 92,
-     "step_no": 89,
+     "seq": 90,
+     "step_no": 87,
      "item": "step",
      "week": 26,
      "quarter": "Q3",
@@ -22528,12 +22502,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 93,
-     "step_no": 90,
+     "seq": 91,
+     "step_no": 88,
      "item": "step",
-     "week": 27,
+     "week": 26,
      "quarter": "Q3",
-     "week_of": "2027-03-28",
+     "week_of": "2027-03-21",
      "semester": "S2",
      "domain": "MD",
      "lesson": "The mean",
@@ -22553,12 +22527,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 94,
-     "step_no": 91,
+     "seq": 92,
+     "step_no": 89,
      "item": "step",
-     "week": 27,
+     "week": 26,
      "quarter": "Q3",
-     "week_of": "2027-03-28",
+     "week_of": "2027-03-21",
      "semester": "S2",
      "domain": "MD",
      "lesson": "Fraction line plots",
@@ -22578,8 +22552,8 @@
      "teaching_note": "CCSS BUILD lesson: still to be written."
     },
     {
-     "seq": 95,
-     "step_no": 92,
+     "seq": 93,
+     "step_no": 90,
      "item": "step",
      "week": 27,
      "quarter": "Q3",
@@ -22604,12 +22578,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 96,
-     "step_no": 93,
+     "seq": 94,
+     "step_no": 91,
      "item": "step",
-     "week": 28,
-     "quarter": "Q4",
-     "week_of": "2027-04-04",
+     "week": 27,
+     "quarter": "Q3",
+     "week_of": "2027-03-28",
      "semester": "S2",
      "domain": "MD",
      "lesson": "Angles in polygons",
@@ -22629,12 +22603,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 97,
-     "step_no": 94,
+     "seq": 95,
+     "step_no": 92,
      "item": "step",
-     "week": 28,
-     "quarter": "Q4",
-     "week_of": "2027-04-04",
+     "week": 27,
+     "quarter": "Q3",
+     "week_of": "2027-03-28",
      "semester": "S2",
      "domain": "MD",
      "lesson": "Calculate angles",
@@ -22654,8 +22628,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 98,
-     "step_no": 95,
+     "seq": 96,
+     "step_no": 93,
      "item": "step",
      "week": 28,
      "quarter": "Q4",
@@ -22679,12 +22653,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 99,
-     "step_no": 96,
+     "seq": 97,
+     "step_no": 94,
      "item": "step",
-     "week": 29,
+     "week": 28,
      "quarter": "Q4",
-     "week_of": "2027-04-11",
+     "week_of": "2027-04-04",
      "semester": "S2",
      "domain": "MD",
      "lesson": "Angles in a triangle",
@@ -22704,12 +22678,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 100,
-     "step_no": 97,
+     "seq": 98,
+     "step_no": 95,
      "item": "step",
-     "week": 29,
+     "week": 28,
      "quarter": "Q4",
-     "week_of": "2027-04-11",
+     "week_of": "2027-04-04",
      "semester": "S2",
      "domain": "MD",
      "lesson": "Angles in a triangle - missing angles",
@@ -22729,8 +22703,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 101,
-     "step_no": 98,
+     "seq": 99,
+     "step_no": 96,
      "item": "step",
      "week": 29,
      "quarter": "Q4",
@@ -22754,8 +22728,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 102,
-     "step_no": 99,
+     "seq": 100,
+     "step_no": 97,
      "item": "step",
      "week": 29,
      "quarter": "Q4",
@@ -22777,12 +22751,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 103,
+     "seq": 101,
      "step_no": null,
      "item": "exam",
-     "week": 30,
+     "week": 29,
      "quarter": "Q4",
-     "week_of": "2027-04-18",
+     "week_of": "2027-04-11",
      "semester": "S2",
      "domain": "MD",
      "lesson": "DOMAIN EXAM · Measurement & Data",
@@ -22800,12 +22774,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 104,
-     "step_no": 100,
+     "seq": 102,
+     "step_no": 98,
      "item": "step",
-     "week": 30,
+     "week": 29,
      "quarter": "Q4",
-     "week_of": "2027-04-18",
+     "week_of": "2027-04-11",
      "semester": "S2",
      "domain": "G",
      "lesson": "Line graphs",
@@ -22827,8 +22801,8 @@
      "teaching_note": "Plotting points uses the coordinate plane; fine if taught as reading graphs, revisit after Geometry."
     },
     {
-     "seq": 105,
-     "step_no": 101,
+     "seq": 103,
+     "step_no": 99,
      "item": "step",
      "week": 30,
      "quarter": "Q4",
@@ -22853,12 +22827,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 106,
-     "step_no": 102,
+     "seq": 104,
+     "step_no": 100,
      "item": "step",
-     "week": 31,
+     "week": 30,
      "quarter": "Q4",
-     "week_of": "2027-04-25",
+     "week_of": "2027-04-18",
      "semester": "S2",
      "domain": "G",
      "lesson": "Draw shapes accurately",
@@ -22879,12 +22853,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 107,
-     "step_no": 103,
+     "seq": 105,
+     "step_no": 101,
      "item": "step",
-     "week": 31,
+     "week": 30,
      "quarter": "Q4",
-     "week_of": "2027-04-25",
+     "week_of": "2027-04-18",
      "semester": "S2",
      "domain": "G",
      "lesson": "Classify two-dimensional figures in a hierarchy",
@@ -22907,37 +22881,8 @@
      "teaching_note": "CCSS BUILD lesson: still to be written."
     },
     {
-     "seq": 108,
-     "step_no": 104,
-     "item": "step",
-     "week": 31,
-     "quarter": "Q4",
-     "week_of": "2027-04-25",
-     "semester": "S2",
-     "domain": "G",
-     "lesson": "The first quadrant",
-     "ccss": [
-      "5.G.A.1",
-      "5.G.A.2"
-     ],
-     "power_standards": [
-      "5.G.A.1",
-      "5.G.A.2"
-     ],
-     "status": "on-grade",
-     "enrichment": false,
-     "enrichment_grade": null,
-     "build_lesson": false,
-     "copied_from_grade": null,
-     "site_unit": "Position and Direction",
-     "site_step": 1,
-     "orig_pacing_week": 37,
-     "orig_pacing_block": "B13 · Position and direction",
-     "teaching_note": ""
-    },
-    {
-     "seq": 109,
-     "step_no": 105,
+     "seq": 106,
+     "step_no": 102,
      "item": "step",
      "week": 31,
      "quarter": "Q4",
@@ -22963,12 +22908,12 @@
      "teaching_note": "Needs negative numbers, now in the end-of-year extension block. Teach the first quadrant only here (that is all 5.G.A.1 asks)."
     },
     {
-     "seq": 110,
-     "step_no": 106,
+     "seq": 107,
+     "step_no": 103,
      "item": "step",
-     "week": 32,
+     "week": 31,
      "quarter": "Q4",
-     "week_of": "2027-05-02",
+     "week_of": "2027-04-25",
      "semester": "S2",
      "domain": "G",
      "lesson": "Solve problems with coordinates",
@@ -22990,12 +22935,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 111,
-     "step_no": 107,
+     "seq": 108,
+     "step_no": 104,
      "item": "step",
-     "week": 32,
+     "week": 31,
      "quarter": "Q4",
-     "week_of": "2027-05-02",
+     "week_of": "2027-04-25",
      "semester": "S2",
      "domain": "G",
      "lesson": "Translations",
@@ -23017,12 +22962,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 112,
-     "step_no": 108,
+     "seq": 109,
+     "step_no": 105,
      "item": "step",
-     "week": 32,
+     "week": 31,
      "quarter": "Q4",
-     "week_of": "2027-05-02",
+     "week_of": "2027-04-25",
      "semester": "S2",
      "domain": "G",
      "lesson": "Reflections",
@@ -23044,7 +22989,7 @@
      "teaching_note": ""
     },
     {
-     "seq": 113,
+     "seq": 110,
      "step_no": null,
      "item": "exam",
      "week": 32,
@@ -23067,12 +23012,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 114,
+     "seq": 111,
      "step_no": null,
      "item": "map_window",
-     "week": 33,
+     "week": 32,
      "quarter": "Q4",
-     "week_of": "2027-05-09",
+     "week_of": "2027-05-02",
      "semester": "S2",
      "domain": null,
      "lesson": "MAP GROWTH WINDOW (spring) · all grade-level domains taught and examined · ENRICHMENT LESSONS FOLLOW",
@@ -23090,12 +23035,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 115,
-     "step_no": 109,
+     "seq": 112,
+     "step_no": 106,
      "item": "step",
-     "week": 33,
+     "week": 32,
      "quarter": "Q4",
-     "week_of": "2027-05-09",
+     "week_of": "2027-05-02",
      "semester": "S2",
      "domain": "G",
      "lesson": "Nets of 3D shapes",
@@ -23115,12 +23060,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 116,
-     "step_no": 110,
+     "seq": 113,
+     "step_no": 107,
      "item": "step",
-     "week": 33,
+     "week": 32,
      "quarter": "Q4",
-     "week_of": "2027-05-09",
+     "week_of": "2027-05-02",
      "semester": "S2",
      "domain": "EXT",
      "lesson": "Negative numbers",
@@ -23141,8 +23086,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 117,
-     "step_no": 111,
+     "seq": 114,
+     "step_no": 108,
      "item": "step",
      "week": 33,
      "quarter": "Q4",
@@ -23166,12 +23111,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 118,
-     "step_no": 112,
+     "seq": 115,
+     "step_no": 109,
      "item": "step",
-     "week": 34,
+     "week": 33,
      "quarter": "Q4",
-     "week_of": "2027-05-23",
+     "week_of": "2027-05-09",
      "semester": "S2",
      "domain": "EXT",
      "lesson": "Use ratio language",
@@ -23191,12 +23136,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 119,
-     "step_no": 113,
+     "seq": 116,
+     "step_no": 110,
      "item": "step",
-     "week": 34,
+     "week": 33,
      "quarter": "Q4",
-     "week_of": "2027-05-23",
+     "week_of": "2027-05-09",
      "semester": "S2",
      "domain": "EXT",
      "lesson": "Introduction to the ratio symbol",
@@ -23216,12 +23161,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 120,
-     "step_no": 114,
+     "seq": 117,
+     "step_no": 111,
      "item": "step",
-     "week": 34,
+     "week": 33,
      "quarter": "Q4",
-     "week_of": "2027-05-23",
+     "week_of": "2027-05-09",
      "semester": "S2",
      "domain": "EXT",
      "lesson": "Ratio and fractions",
@@ -23241,8 +23186,8 @@
      "teaching_note": ""
     },
     {
-     "seq": 121,
-     "step_no": 115,
+     "seq": 118,
+     "step_no": 112,
      "item": "step",
      "week": 34,
      "quarter": "Q4",
@@ -23266,12 +23211,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 122,
-     "step_no": 116,
+     "seq": 119,
+     "step_no": 113,
      "item": "step",
-     "week": 35,
+     "week": 34,
      "quarter": "Q4",
-     "week_of": "2027-05-30",
+     "week_of": "2027-05-23",
      "semester": "S2",
      "domain": "EXT",
      "lesson": "Similar shapes",
@@ -23291,12 +23236,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 123,
-     "step_no": 117,
+     "seq": 120,
+     "step_no": 114,
      "item": "step",
-     "week": 35,
+     "week": 34,
      "quarter": "Q4",
-     "week_of": "2027-05-30",
+     "week_of": "2027-05-23",
      "semester": "S2",
      "domain": "EXT",
      "lesson": "Ratio problems",
@@ -23316,12 +23261,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 124,
-     "step_no": 118,
+     "seq": 121,
+     "step_no": 115,
      "item": "step",
-     "week": 35,
+     "week": 34,
      "quarter": "Q4",
-     "week_of": "2027-05-30",
+     "week_of": "2027-05-23",
      "semester": "S2",
      "domain": "EXT",
      "lesson": "Proportion problems",
@@ -23341,12 +23286,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 125,
-     "step_no": 119,
+     "seq": 122,
+     "step_no": 116,
      "item": "step",
-     "week": 36,
+     "week": 35,
      "quarter": "Q4",
-     "week_of": "2027-06-06",
+     "week_of": "2027-05-30",
      "semester": "S2",
      "domain": "EXT",
      "lesson": "Recipes",
@@ -23366,37 +23311,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 126,
-     "step_no": 120,
+     "seq": 123,
+     "step_no": 117,
      "item": "step",
-     "week": 36,
+     "week": 35,
      "quarter": "Q4",
-     "week_of": "2027-06-06",
-     "semester": "S2",
-     "domain": "EXT",
-     "lesson": "Form expressions",
-     "ccss": [
-      "6.EE.A.2.A"
-     ],
-     "power_standards": [],
-     "status": "ENRICHMENT · above grade level (Grade 6 standard)",
-     "enrichment": true,
-     "enrichment_grade": 6,
-     "build_lesson": false,
-     "copied_from_grade": null,
-     "site_unit": "Algebra",
-     "site_step": 8,
-     "orig_pacing_week": 19,
-     "orig_pacing_block": "B7 · Algebra",
-     "teaching_note": ""
-    },
-    {
-     "seq": 127,
-     "step_no": 121,
-     "item": "step",
-     "week": 36,
-     "quarter": "Q4",
-     "week_of": "2027-06-06",
+     "week_of": "2027-05-30",
      "semester": "S2",
      "domain": "EXT",
      "lesson": "Substitution",
@@ -23416,12 +23336,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 128,
-     "step_no": 122,
+     "seq": 124,
+     "step_no": 118,
      "item": "step",
-     "week": 36,
+     "week": 35,
      "quarter": "Q4",
-     "week_of": "2027-06-06",
+     "week_of": "2027-05-30",
      "semester": "S2",
      "domain": "EXT",
      "lesson": "Form equations",
@@ -23442,12 +23362,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 129,
-     "step_no": 123,
+     "seq": 125,
+     "step_no": 119,
      "item": "step",
-     "week": 37,
+     "week": 36,
      "quarter": "Q4",
-     "week_of": "2027-06-13",
+     "week_of": "2027-06-06",
      "semester": "S2",
      "domain": "EXT",
      "lesson": "Solve 1-step equations",
@@ -23467,12 +23387,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 130,
-     "step_no": 124,
+     "seq": 126,
+     "step_no": 120,
      "item": "step",
-     "week": 37,
+     "week": 36,
      "quarter": "Q4",
-     "week_of": "2027-06-13",
+     "week_of": "2027-06-06",
      "semester": "S2",
      "domain": "EXT",
      "lesson": "Percentage of an amount – one step",
@@ -23492,12 +23412,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 131,
-     "step_no": 125,
+     "seq": 127,
+     "step_no": 121,
      "item": "step",
-     "week": 37,
+     "week": 36,
      "quarter": "Q4",
-     "week_of": "2027-06-13",
+     "week_of": "2027-06-06",
      "semester": "S2",
      "domain": "EXT",
      "lesson": "Percentage of an amount – multi-step",
@@ -23517,12 +23437,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 132,
-     "step_no": 126,
+     "seq": 128,
+     "step_no": 122,
      "item": "step",
-     "week": 37,
+     "week": 36,
      "quarter": "Q4",
-     "week_of": "2027-06-13",
+     "week_of": "2027-06-06",
      "semester": "S2",
      "domain": "EXT",
      "lesson": "Understand percentages",
@@ -23542,12 +23462,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 133,
-     "step_no": 127,
+     "seq": 129,
+     "step_no": 123,
      "item": "step",
-     "week": 38,
+     "week": 37,
      "quarter": "Q4",
-     "week_of": "2027-06-20",
+     "week_of": "2027-06-13",
      "semester": "S2",
      "domain": "EXT",
      "lesson": "Fractions to percentages",
@@ -23567,12 +23487,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 134,
-     "step_no": 128,
+     "seq": 130,
+     "step_no": 124,
      "item": "step",
-     "week": 38,
+     "week": 37,
      "quarter": "Q4",
-     "week_of": "2027-06-20",
+     "week_of": "2027-06-13",
      "semester": "S2",
      "domain": "EXT",
      "lesson": "Percentages - missing values",
@@ -23592,12 +23512,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 135,
-     "step_no": 129,
+     "seq": 131,
+     "step_no": 125,
      "item": "step",
-     "week": 38,
+     "week": 37,
      "quarter": "Q4",
-     "week_of": "2027-06-20",
+     "week_of": "2027-06-13",
      "semester": "S2",
      "domain": "EXT",
      "lesson": "Read and interpret pie charts",
@@ -23617,12 +23537,12 @@
      "teaching_note": ""
     },
     {
-     "seq": 136,
-     "step_no": 130,
+     "seq": 132,
+     "step_no": 126,
      "item": "step",
-     "week": 38,
+     "week": 37,
      "quarter": "Q4",
-     "week_of": "2027-06-20",
+     "week_of": "2027-06-13",
      "semester": "S2",
      "domain": "EXT",
      "lesson": "Pie charts with percentages",
@@ -23639,6 +23559,114 @@
      "site_step": 5,
      "orig_pacing_week": 32,
      "orig_pacing_block": "B11 · Statistics",
+     "teaching_note": ""
+    },
+    {
+     "seq": 133,
+     "step_no": 127,
+     "item": "step",
+     "week": 38,
+     "quarter": "Q4",
+     "week_of": "2027-06-20",
+     "semester": "S2",
+     "domain": "EXT",
+     "lesson": "Consolidation of arithmetic",
+     "ccss": [
+      "5.OA.A.1"
+     ],
+     "power_standards": [
+      "5.OA.A.1"
+     ],
+     "status": "ENRICHMENT · end-of-year projects",
+     "enrichment": true,
+     "enrichment_grade": null,
+     "build_lesson": false,
+     "copied_from_grade": null,
+     "site_unit": "Themed Projects, Consolidation and Problem Solving",
+     "site_step": 2,
+     "orig_pacing_week": 38,
+     "orig_pacing_block": "B14 · Projects & Taskmaster",
+     "teaching_note": ""
+    },
+    {
+     "seq": 134,
+     "step_no": 128,
+     "item": "step",
+     "week": 38,
+     "quarter": "Q4",
+     "week_of": "2027-06-20",
+     "semester": "S2",
+     "domain": "EXT",
+     "lesson": "Problem solving across strands",
+     "ccss": [
+      "5.OA.A.1"
+     ],
+     "power_standards": [
+      "5.OA.A.1"
+     ],
+     "status": "ENRICHMENT · end-of-year projects",
+     "enrichment": true,
+     "enrichment_grade": null,
+     "build_lesson": false,
+     "copied_from_grade": null,
+     "site_unit": "Themed Projects, Consolidation and Problem Solving",
+     "site_step": 3,
+     "orig_pacing_week": 38,
+     "orig_pacing_block": "B14 · Projects & Taskmaster",
+     "teaching_note": ""
+    },
+    {
+     "seq": 135,
+     "step_no": 129,
+     "item": "step",
+     "week": 38,
+     "quarter": "Q4",
+     "week_of": "2027-06-20",
+     "semester": "S2",
+     "domain": "EXT",
+     "lesson": "End-of-year investigation projects",
+     "ccss": [
+      "5.OA.A.1"
+     ],
+     "power_standards": [
+      "5.OA.A.1"
+     ],
+     "status": "ENRICHMENT · end-of-year projects",
+     "enrichment": true,
+     "enrichment_grade": null,
+     "build_lesson": false,
+     "copied_from_grade": null,
+     "site_unit": "Themed Projects, Consolidation and Problem Solving",
+     "site_step": 1,
+     "orig_pacing_week": 39,
+     "orig_pacing_block": "B14 · Projects & Taskmaster",
+     "teaching_note": ""
+    },
+    {
+     "seq": 136,
+     "step_no": 130,
+     "item": "step",
+     "week": 38,
+     "quarter": "Q4",
+     "week_of": "2027-06-20",
+     "semester": "S2",
+     "domain": "EXT",
+     "lesson": "Reasoning tasks",
+     "ccss": [
+      "5.OA.A.1"
+     ],
+     "power_standards": [
+      "5.OA.A.1"
+     ],
+     "status": "ENRICHMENT · end-of-year projects",
+     "enrichment": true,
+     "enrichment_grade": null,
+     "build_lesson": false,
+     "copied_from_grade": null,
+     "site_unit": "Themed Projects, Consolidation and Problem Solving",
+     "site_step": 4,
+     "orig_pacing_week": 39,
+     "orig_pacing_block": "B14 · Projects & Taskmaster",
      "teaching_note": ""
     }
    ]
