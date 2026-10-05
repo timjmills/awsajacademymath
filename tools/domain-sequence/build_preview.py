@@ -167,9 +167,11 @@ for g in GR:
     for it in SEQ[g]['items']:
         if it['item'] != 'step': continue
         t = rnorm(it['lesson']); key = f"{g}||{t}"
-        if any(gg == g for gg, _ in by_title.get(t, [])): continue
         nb = NEWWS.get(f"{g}|{it['lesson']}")
+        if not nb and any(gg == g for gg, _ in by_title.get(t, [])): continue
         if nb:
+            for gg, k in by_title.get(t, []):
+                if gg == g: WM.pop(k, None)   # replace an empty earlier pick
             WM[key] = {"c": [sheet(x) for x in nb.get('core', [])], "p": [sheet(x) for x in nb.get('prereq', [])],
                        "r": [[sheet(x), '', why] for x, why in nb.get('related', [])]}
         else:
@@ -177,6 +179,38 @@ for g in GR:
             if src: WM[key] = WM[src[0]]
         if key in WM: ws_added.append(f"{g} · {it['lesson']}")
 print('MW4K picks added:', len(ws_added))
+
+# ---- other pages follow the new sequence: counts, BUILD lists, standards rows, domain tests
+CUR = D['CURRICULUM']; CMAP = D['CCSSMAP']['grades']
+DOMTESTS = {}
+tot_core = len([1 for dm in CUR['grades']['PK']['domains'] for u in dm['coreUnits'] for _ in u['steps']])
+tot_build = 0
+for g in GR:
+    steps = [it for it in SEQ[g]['items'] if it['item'] == 'step']
+    builds = [it for it in steps if it['build_lesson']]
+    gd = CUR['grades'][g]
+    gd['stats']['core'] = len(steps); gd['stats']['committee'] = len({b['lesson'] for b in builds})
+    gd['header'] = f"Lessons this year = {len(steps)} | CCSS customs to build = {gd['stats']['committee']}"
+    tot_core += len(steps); tot_build += gd['stats']['committee']
+    if g in CMAP: CMAP[g]['stats']['buildCount'] = gd['stats']['committee']
+    known = {rnorm(st['title']) for dm in gd['domains'] for u in dm['coreUnits'] for st in u['steps']}
+    for b in builds:
+        if rnorm(b['lesson']) in known: continue
+        dm = next((x for x in gd['domains'] if x['code'] == b['domain']), gd['domains'][0])
+        u = next((x for x in dm['coreUnits'] if x['name'] == 'Awsaj supplement lessons (domain tests)'), None)
+        if not u: u = {"num": 90, "name": "Awsaj supplement lessons (domain tests)", "steps": []}; dm['coreUnits'].append(u)
+        u['steps'].append({"num": len(u['steps']) + 1, "title": b['lesson'], "ccss": b['ccss'],
+                           "note": "New CCSS BUILD lesson so the domain test only asks what has been taught. Still to be made.", "flag": "committee"})
+        known.add(rnorm(b['lesson']))
+        CUR['committeeClose'].append({"grade": g, "parent": b['ccss'][0].rsplit('.', 2)[0], "domain": DOMNAME.get(b['domain'], b['domain']), "block": b['lesson']})
+        for dmm in CMAP.get(g, {}).get('domains', []):
+            for row in dmm['rows']:
+                if any(c == row['c'] or c.startswith(row['c'] + '.') for c in b['ccss']):
+                    row.setdefault('ls', []).append({"g": g, "t": b['lesson'], "f": "committee"})
+    DOMTESTS[g] = [{"dom": e['domain'], "n": DOMNAME[e['domain']], "wk": f"W{e['exam_week']:02d}", "sem": e['semester'],
+                    "t": TESTS[g].get(e['domain'])} for e in SEQ[g]['domain_exams']]
+D['DOMAIN_TESTS'] = DOMTESTS
+print('lessons', tot_core, 'builds', tot_build)
 
 # ---- app patches (preview only)
 app_m = re.search(r'(<script id="__app" type="text/plain">)(.*?)(</script>)', live_html, re.S)
@@ -244,6 +278,43 @@ sub('if(String(st.b)===String(b))out.push({...st,wk:w.wk});return out;}',
 if 'const wknum=' not in app[app.index('function GradeUnits'):app.index('function GradeUnits') + 400]:
     sub('function GradeUnits({grade}){const pg=PAC.grades[grade.id];', 'function GradeUnits({grade}){const pg=PAC.grades[grade.id];const wknum=x=>parseInt(String(x).slice(1),10);')
 
+# 7. home page
+sub('const totals={lessons:914,core:878,enrich:262,above:219,committee:36,supplements:36,standards:148,coverage:"119/148",wrm:"80.4%"};',
+    'const totals={lessons:%d,core:%d,enrich:262,above:219,committee:%d,supplements:%d,standards:148,coverage:"119/148",wrm:"80.4%%"};' % (tot_core, tot_core, tot_build, tot_build))
+sub('[{k:"878",v:"White Rose small steps",d:"every lesson, PK4–G5"},{k:"36",v:"CCSS customs to build"',
+    '[{k:"%d",v:"lessons on the map",d:"every lesson, PK4–G5"},{k:"%d",v:"CCSS customs to build"' % (tot_core, tot_build))
+sub('Every mini-step is taught in its natural year on three pacing strands; lower-grade lessons sit in each week\'s support block;',
+    'From Kindergarten to Grade 5 each Common Core domain is taught as one unit and closed by its Awsaj domain exam, every grade-level standard is taught before the spring MAP window, and enrichment lessons follow it. Three pacing strands share the map; lower-grade lessons sit in each week\'s support block;')
+sub('{p:"assess",c:"#B3261E",ey:"END OF BLOCK · A AND B",t:"Assessments",d:"Every end-of-block paper with its answer key, all seven grades. Version A to assess, version B to re-sit after re-teaching."}',
+    '{p:"assess",c:"#B3261E",ey:"DOMAIN EXAMS · K TO GRADE 5",t:"Assessments",d:"The Awsaj domain exam for every unit, with the week it is sat, plus the White Rose papers for extra practice."}')
+# 8. assessments: Awsaj domain tests first; White Rose papers are optional practice
+DT = ('function DomainTests({grade,compact}){const L=((window.DOMAIN_TESTS||{})[grade.id])||[];if(!L.length)return null;'
+      'return React.createElement("div",{style:{margin:compact?"0 0 12px":"16px 0 22px"}},'
+      'React.createElement("div",{className:"mono",style:{fontSize:9.5,letterSpacing:"0.12em",fontWeight:700,color:"#B71C1C",marginBottom:6}},"AWSAJ DOMAIN EXAMS · ONE PER UNIT, IN TEACHING ORDER"),'
+      'L.map((e,i)=>React.createElement("div",{key:i,style:{display:"flex",alignItems:"center",gap:10,flexWrap:"wrap",border:"1px solid #E9B8B3",background:"#FFF6F5",borderRadius:10,padding:"9px 14px",marginBottom:6}},'
+      'React.createElement("span",{className:"mono",style:{fontSize:10,fontWeight:700,color:"#B71C1C",minWidth:34}},e.wk),'
+      'React.createElement("span",{style:{fontSize:14.5,fontWeight:600}},e.n),'
+      'React.createElement("span",{className:"mono",style:{fontSize:9.5,color:"var(--ink-3)"}},e.sem==="S1"?"SEMESTER 1 REPORT":"SEMESTER 2 REPORT"),'
+      'React.createElement("span",{style:{flex:1}}),'
+      'e.t&&React.createElement("a",{href:"https://drive.google.com/file/d/"+e.t[1]+"/view",target:"_blank",rel:"noopener noreferrer",className:"mono",title:e.t[0],style:{fontSize:9.5,fontWeight:700,letterSpacing:"0.06em",color:"#fff",background:"#B71C1C",borderRadius:5,padding:"4px 9px",textDecoration:"none"}},"OPEN THE TEST ↗"))),'
+      'React.createElement("div",{className:"mono",style:{fontSize:9.5,letterSpacing:"0.12em",fontWeight:700,color:"var(--ink-3)",margin:"18px 0 0"}},"WHITE ROSE END-OF-BLOCK AND TERMLY PAPERS · OPTIONAL PRACTICE, NOT TIED TO PACING WEEKS"));}')
+sub('function GradeAssessments({grade}){', DT + 'function GradeAssessments({grade}){')
+sub('"END OF BLOCK · VERSIONS A AND B · PLUS TERMLY PAPERS"', '"AWSAJ DOMAIN EXAMS · PLUS WHITE ROSE PAPERS"')
+sub('"Every block closes with a paper, sat on the day the calendars mark ",React.createElement("b",null,"(A)"),". Two versions exist for each block: use ",React.createElement("b",null,"A")," as the assessment and keep ",React.createElement("b",null,"B")," for a re-sit after re-teaching, or for the pupils who were absent. Mark it live where you can — the point is to find the weakest step while there is still time to re-teach it, which is what the following week’s support block is for."),React.createElement(AssessmentList,{grade:grade})',
+    '"Each unit is one Common Core domain and closes with its ",React.createElement("b",null,"Awsaj domain exam"),", sat in the week shown (the red row on the Weekly Pacing page). All of a grade\'s exams are in one booklet in the 2025-2026 Math Assessments folder. Exams sat by W14 count for the Semester 1 report, the rest for Semester 2. The White Rose papers below no longer match the teaching order: use them only as extra practice or a re-teach check."),React.createElement(DomainTests,{grade:grade}),React.createElement(AssessmentList,{grade:grade})')
+sub('"EVERY PAPER · PK4 THROUGH GRADE 5"', '"DOMAIN EXAMS AND PAPERS · PK4 THROUGH GRADE 5"')
+sub('"Every end-of-block paper on the map, by grade — ",total," papers and answer keys in all. Each block has a version "',
+    '"Every grade from Kindergarten to Grade 5 sits one Awsaj domain exam at the end of each unit; open a grade to see them with their weeks. The White Rose end-of-block papers stay as optional practice, ",total," papers and answer keys in all. Each block has a version "')
+sub('isOpen&&React.createElement("div",{style:{padding:"12px 16px 16px",borderTop:"1px solid var(--line)",background:"var(--bg)"}},React.createElement(AssessmentList,{grade:gr||{id:g,name:g},compact:true})',
+    'isOpen&&React.createElement("div",{style:{padding:"12px 16px 16px",borderTop:"1px solid var(--line)",background:"var(--bg)"}},React.createElement(DomainTests,{grade:gr||{id:g,name:g},compact:true}),React.createElement(AssessmentList,{grade:gr||{id:g,name:g},compact:true})')
+# 9. how we teach
+sub('The same units, the same order, the same finish line; only the number of new steps per week changes.',
+    'The same units, the same order, the same finish line; only the number of new steps per week changes. From Kindergarten to Grade 5 each unit is one Common Core domain, closed by its domain exam.')
+sub('t:"Assessment and the spiral",b:React.createElement("span",null,"Every unit ends with an ",React.createElement("b",null,"end-of-unit assessment (A and B forms)")," and a Flashback spiral, so a teacher sees what stuck once the lesson glow has faded. Gaps found here are fed back through the daily Flashback and the next support block, not left behind.")',
+    't:"Domain exams, MAP and retrieval",b:React.createElement("span",null,"Each unit teaches one Common Core domain in one run and ends with its ",React.createElement("b",null,"Awsaj domain exam"),"; every type of question on the exam is taught before it. Every grade-level standard is taught and examined before the spring ",React.createElement("b",null,"MAP Growth window"),"; the enrichment lessons after it reach above grade level. A domain is not taught again once it is examined, so the daily Flashback 4 and Fluency Up! keep earlier domains alive, and gaps from an exam are fed back through the next support blocks, not left behind.")')
+# 10. weekly pacing intro
+sub('Each row is a school week; the three columns are the strands, shaded l',
+    'From Kindergarten to Grade 5 the year is taught one Common Core domain at a time: a yellow DOMAIN band opens each unit, a red row marks its domain exam (with a link to the test), a purple row marks the spring MAP window, and the enrichment lessons follow it. Each row is a school week; the three columns are the strands, shaded l')
 LS = ('<script>window.__pvLS={getItem:function(k){try{return localStorage.getItem("preview_"+k)}catch(e){return null}},'
       'setItem:function(k,v){try{localStorage.setItem("preview_"+k,v)}catch(e){}},removeItem:function(k){try{localStorage.removeItem("preview_"+k)}catch(e){}}};</script>')
 BANNER = ('<div id="pvbar" style="position:sticky;top:0;z-index:9990;background:#5B2A86;color:#fff;font:600 12px/1.4 system-ui,sans-serif;padding:7px 14px;text-align:center">'

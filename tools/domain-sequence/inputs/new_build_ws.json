@@ -203,5 +203,118 @@
         "Decimal divided by whole number - the step students reach after shifting the decimal point in the divisor."
       ]
     ]
+  },
+  "G2|Solve two-step word problems identifying both operations": {
+    "core": [
+      "https://drive.google.com/file/d/1VGkBgLSzqka20wxNJ6ynlHAEIBS3UBLW/view",
+      "https://drive.google.com/file/d/1NXKoLzpe8Eep6QsR_48rBulh3q_jibh_/view"
+    ],
+    "prereq": [
+      "https://drive.google.com/file/d/1NunerHvHZSWJKcdg-sEmRqBSk-uAmrpt/view",
+      "https://drive.google.com/file/d/17P_a2PI-quzBEk9wdr7aIqcp3UvxuahS/view"
+    ],
+    "related": [
+      [
+        "https://drive.google.com/file/d/1xhzPvtxE7OqUnCtIk_SyGEqHvT3wg8Xy/view",
+        "Price-list word problems that mix totalling items and making change, so students must decide between adding and subtracting with money up to $100."
+      ],
+      [
+        "https://drive.google.com/file/d/1pbTGyhq_42LAhz13eOhEUqkMXMsJ_F0A/view",
+        "Some problems add an extra 'how many more' comparison step after the addition, giving a real second step (numbers go up to 3 digits)."
+      ]
+    ]
+  },
+  "G2|Record the measurement data in a table": {
+    "core": [
+      "https://drive.google.com/file/d/1Vaslx6hkIumcVknie2TmCzWOyV7VonI2/view",
+      "https://drive.google.com/file/d/1MV_bj_TtePEEd_uOjGw-XULeHPawIbVA/view"
+    ],
+    "prereq": [
+      "https://drive.google.com/file/d/1mrhnvbZbQJ4azKybqNdKpoHluQVASKf2/view",
+      "https://drive.google.com/file/d/1MNME6IuRlpJUh8Ng08eibN4DrnRfE_X6/view"
+    ],
+    "related": [
+      [
+        "https://drive.google.com/file/d/18MmeYlh2WAIcEkc0LVZ9YWZslTo5xSrO/view",
+        "Students measure three objects in cm and then compare the lengths, which extends the recorded data into questions."
+      ],
+      [
+        "https://drive.google.com/file/d/1wHIcPVsrHFMhLLzg6rZTNitiJNijmLCu/view",
+        "Grade 3 line plot built from a list of raw numeric measurements: the 'then a line plot' step done with number values."
+      ],
+      [
+        "https://drive.google.com/file/d/1l6r68HYRmKUcm1TAJ7gTztM3fEPdQJge/view",
+        "Grade 2 make-and-interpret line plot from a small data table (categories, not lengths); useful for practising the X-marking routine."
+      ]
+    ]
+  },
+  "G3|Two-step word problems with the four operations": {
+    "core": [
+      "https://drive.google.com/file/d/1Wqb3TzruMa-Yt9L4q9pgZ-AAgNxs-65t/view",
+      "https://drive.google.com/file/d/1Aa_uEPdTe_rvgYUbPwA2iBaVNDhBAtTT/view"
+    ],
+    "prereq": [
+      "https://drive.google.com/file/d/1VGkBgLSzqka20wxNJ6ynlHAEIBS3UBLW/view",
+      "https://drive.google.com/file/d/1_OhtIVyUHmS6aHnc56M4dAxEfDeCciuL/view"
+    ],
+    "related": [
+      [
+        "https://drive.google.com/file/d/1htf3KHm8kO-7Abio7iWtWyaNqj1p1zTr/view",
+        "Grade 4 two-operation expressions (e.g. 23 x 4 - 28) that practise writing and evaluating the single equation for a two-step problem."
+      ],
+      [
+        "https://drive.google.com/file/d/1eIg_WFHQ3hn_IahO4RqtMFuNViMpDlEs/view",
+        "In/Out division tables that end with a letter-variable rule (A / 2 = B), giving an early look at letters standing for unknowns."
+      ],
+      [
+        "https://drive.google.com/file/d/1mxnDEzi0kVpoSpzakFmNZ-m-wRcQZXfr/view",
+        "One-step division word problems to rehearse the divide step before combining it with subtraction."
+      ]
+    ]
+  },
+  "G5|Generate two sequences using two different rules": {
+    "core": [
+      "https://drive.google.com/file/d/1JBIRHyWD_VtMuEWniDLklHAp852Y-XVe/view"
+    ],
+    "prereq": [
+      "https://drive.google.com/file/d/1Mh209MKA7loYc7x0zQ__4iw4XLcbcte_/view",
+      "https://drive.google.com/file/d/13Ypy2UM1vDAbpAgxEcNc_vwIdbw5gUTc/view"
+    ],
+    "related": [
+      [
+        "https://drive.google.com/file/d/1iG6q-2cFJlBy9uBU4vM0BGB69PtIgQ_u/view",
+        "First-quadrant practice in writing and plotting ordered pairs, for graphing the pairs formed from the two sequences."
+      ],
+      [
+        "https://drive.google.com/file/d/1MRbRBLP0vERquRWJBrFhqFcX45iXxes1/view",
+        "Function-machine In/Out tables that build the habit of comparing corresponding input and output values."
+      ],
+      [
+        "https://drive.google.com/file/d/1K2zPcnFCGLQ6uOKX29h-5nTyTpgnW7rn/view",
+        "'Two-rule' patterns alternate two rules within a single sequence. Use them as an extension or contrast, not as two sequences."
+      ]
+    ]
+  },
+  "G5|Fraction line plots": {
+    "core": [],
+    "prereq": [
+      "https://drive.google.com/file/d/1vi-0ZDJJ9Lg2sYKnZRaP1MbVnnfm8Mdy/view",
+      "https://drive.google.com/file/d/1z9V-oCLIye6qJfhUgUkeSpXFlgQTnF2A/view",
+      "https://drive.google.com/file/d/1d_RPXpzXLql4cYFoqNxuDFHeRx-dbw9o/view"
+    ],
+    "related": [
+      [
+        "https://drive.google.com/file/d/1ZNiyczzC6cbVEE-UwmhtdXSsa_5quiQt/view",
+        "Grade 5 make-a-line-plot task from a table of 30 values (whole numbers only); students can copy its construction steps with fraction data."
+      ],
+      [
+        "https://drive.google.com/file/d/1wb1b0JX6t8Uc7JM8xg1qxREvWMMdRHAX/view",
+        "Measuring objects to the nearest quarter inch gives a quick way to produce fractional data for a class line plot."
+      ],
+      [
+        "https://drive.google.com/file/d/1709dQVPpYhkehghsZPmOwFUPp2R8PlDN/view",
+        "Grade 5 line plot interpretation where students must compute with the plotted values to answer questions."
+      ]
+    ]
   }
 }
