@@ -41,4 +41,4 @@ python3 build_preview.py   # writes ../../preview/index.html from ../../index.ht
 python3 accept.py          # brief section 7 checks
 ```
 
-`build_preview.py` expects the repo root at `/home/user/awsajacademymath`; change `REPO` at the top if needed. `inputs/live_pills.json` is the support panel per live week, captured from the live page.
+`build_preview.py` finds the repo root two folders up (or set `AWSAJ_REPO`). `inputs/live_pills.json` is the support panel per live week, captured from the live page.
