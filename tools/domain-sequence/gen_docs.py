@@ -412,13 +412,87 @@ def handbook(g):
     return f'<!doctype html><html><head><meta charset="utf-8"><title>{e(title)}</title><style>{HB_CSS}</style></head><body>{body}</body></html>', foot
 
 
+# ---------------------------------------------------------------- year at a glance (one page)
+YG_CSS = CSS_BASE + """
+@page{size:A4 landscape;margin:7mm 8mm}
+html{font-size:10px}
+body{font-size:1rem;line-height:1.28}
+.top{display:flex;align-items:baseline;gap:1.2rem;border-bottom:2px solid #1C1916;padding-bottom:.35rem}
+.top h1{font-size:2.1rem;margin:0}.top .gchip{font-size:1.2rem;color:#fff;border-radius:4px;padding:.15rem .7rem;font-weight:700}
+.top .sub{color:#5A524A;font-size:1.05rem}
+.strip{display:flex;gap:.4rem;flex-wrap:wrap;margin:.45rem 0 .35rem}
+.dm{border-radius:4px;padding:.25rem .55rem;color:#fff;font-size:1rem;line-height:1.2}
+.dm b{font-size:1.05rem}.dm span{display:block;font:.85rem 'DejaVu Sans Mono',monospace;opacity:.95}
+.cols{display:grid;grid-template-columns:repeat(4,1fr);gap:.55rem}
+.q{border:1px solid #E4DCCF;border-radius:5px;overflow:hidden}
+.qh{background:#1C1916;color:#fff;font:700 .95rem 'DejaVu Sans Mono',monospace;letter-spacing:.05em;padding:.25rem .5rem;display:flex;justify-content:space-between}
+.wk{padding:.22rem .45rem;border-bottom:1px solid #EFE8DC;break-inside:avoid}
+.wk .h{font:700 .82rem 'DejaVu Sans Mono',monospace;color:#5A524A;margin-bottom:.05rem}
+.wk .h i{font-style:normal;font-weight:400;color:#8A8077}
+.l{display:block;font-size:.98rem;padding-left:.55rem;border-left:3px solid #ccc;margin:.06rem 0}
+.l.pw{background:#FFF1B8}.l.bld{background:#FFE3C4}
+.t{font:700 .72rem 'DejaVu Sans Mono',monospace;border-radius:2px;padding:0 .2rem;margin-left:.25rem;white-space:nowrap}
+.t.b{background:#E8720C;color:#fff}.t.c{background:#DDE8FA;color:#1D4E9E}.t.e{background:#EEE3F7;color:#6A3A8C}
+.x{display:block;font:700 .82rem 'DejaVu Sans Mono',monospace;color:#fff;background:#B71C1C;border-radius:2px;padding:.08rem .35rem;margin:.1rem 0}
+.x.map{background:#5B2A86}
+.foot{display:flex;gap:1.2rem;justify-content:space-between;margin-top:.4rem;font-size:.9rem;color:#5A524A}
+.foot b{color:#1C1916}
+"""
+
+
+def glance(g):
+    P, units, order, dom_units, tests, mapwk, per = grade_model(g)
+    byw = {}
+    for x in per['standard']: byw.setdefault(x['wk'], []).append(x)
+    QS = ['Q1', 'Q2', 'Q3', 'Q4']
+    QL = {'Q1': 'SEP–OCT', 'Q2': 'NOV–DEC', 'Q3': 'JAN–MAR', 'Q4': 'APR–JUN'}
+    strip = []
+    for b, u in order:
+        t = tests.get(u['dom']) if u['kind'] == 'domain' else None
+        lab = (f'D{b} · ' if u['kind'] == 'domain' else '') + u['n']
+        sub = f"{u['a']}–{u['z']}" + (f" · exam {t['wk']}" if t else ' · after MAP')
+        strip.append(f'<div class="dm" style="background:{DOMC.get(u["dom"], "#8C8C8C")}"><b>{e(lab)}</b><span>{e(sub)}</span></div>')
+    strip.append(f'<div class="dm" style="background:#5B2A86"><b>MAP Growth (spring)</b><span>{mapwk}</span></div>')
+    cols = []
+    for q in QS:
+        ws = [w for w in P['weeks'] if WD[w['wk']]['q'] == q and w['wk'] != 'W39']
+        items = []
+        for w in ws:
+            wk = w['wk']; it = iter(byw.get(wk, []))
+            body = []
+            for y in (w['t'].get('standard') or {}).get('st', []):
+                k = lesson_kind(y)
+                if k == 'exam':
+                    body.append(f'<span class="x">■ {e(DOMSHORT.get(y.get("d"), ""))} EXAM</span>'); continue
+                if k == 'map':
+                    body.append('<span class="x map">■ MAP GROWTH WINDOW</span>'); continue
+                x = next(it)
+                col = DOMC.get(units[x['unit']]['dom'] if x['unit'] in units else '', '#8C8C8C')
+                tg = '<span class="t b">BUILD</span>' if k == 'build' else f'<span class="t c">{e(x["g"])}</span>' if k == 'copy' else '<span class="t e">ENR</span>' if k == 'enrich' else ''
+                cls = 'l' + (' pw' if x.get('p') else '') + (' bld' if k == 'build' else '')
+                body.append(f'<span class="{cls}" style="border-left-color:{col}">{e(x["n"])}{tg}</span>')
+            if not body: body.append('<span class="l" style="color:#8A8077">review and support</span>')
+            items.append(f'<div class="wk"><div class="h">{wk} <i>{wdates(wk)}</i></div>{"".join(body)}</div>')
+        cols.append(f'<div class="q"><div class="qh"><span>{q} · {QL[q]}</span><span>{ws[0]["wk"]}–{ws[-1]["wk"]}</span></div>{"".join(items)}</div>')
+    pw = sorted({c for b in dom_units for c in units[b]['pw']})
+    col = DOMC.get(units[dom_units[0]]['dom'], '#555')
+    body = f"""<div class="top"><span class="gchip" style="background:{col}">{GNAME[g]}</span><h1>The year at a glance · 2026–27</h1>
+<span class="sub">What we teach, week by week · one Common Core domain at a time · Standard strand (Priority and Intervention teach a subset in the same weeks)</span></div>
+<div class="strip">{''.join(strip)}</div>
+<div class="cols">{''.join(cols)}</div>
+<div class="foot"><span><b>Key</b> · coloured edge = domain · <span style="background:#FFF1B8;padding:0 .2rem">yellow</span> = power standard · <span class="t b">BUILD</span> CCSS lesson still to be made · <span class="t c">G3</span> lesson copied in from that grade · <span class="t e">ENR</span> enrichment after MAP · red = domain exam (exams by W14 count for Semester 1)</span>
+<span><b>Power standards</b> · {e(', '.join(pw))}</span></div>"""
+    return f'<!doctype html><html><head><meta charset="utf-8"><title>{GNAME[g]} Year at a Glance 2026-27</title><style>{YG_CSS}</style></head><body>{body}</body></html>'
+
+
 FILES = {}
 for g in GRADES:
     base = GNAME[g].replace(' ', '-')
     open(f'{OUT}/{base}-Weekly-Pacing-Guide-2026-27.html', 'w').write(pacing_guide(g))
     hb, foot = handbook(g)
     open(f'{OUT}/{base}-Teaching-and-Pacing-Handbook-2026-27.html', 'w').write(hb)
-    FILES[g] = {'pg': f'{base}-Weekly-Pacing-Guide-2026-27', 'hb': f'{base}-Teaching-and-Pacing-Handbook-2026-27', 'hbfoot': foot,
+    open(f'{OUT}/{base}-Year-at-a-Glance-2026-27.html', 'w').write(glance(g))
+    FILES[g] = {'yg': f'{base}-Year-at-a-Glance-2026-27', 'pg': f'{base}-Weekly-Pacing-Guide-2026-27', 'hb': f'{base}-Teaching-and-Pacing-Handbook-2026-27', 'hbfoot': foot,
                 'pgfoot': f'{GNAME[g]} Weekly Pacing Guide · 2026–27 · CCSS domain sequence'}
 json.dump(FILES, open(f'{OUT}/files.json', 'w'), indent=1)
 print('ok', list(FILES))

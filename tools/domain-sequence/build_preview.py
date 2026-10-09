@@ -380,7 +380,7 @@ sub('"WEEK BY WEEK · THREE STRANDS · GENERATED FROM THE PACING HANDBOOK"', '"W
 
 # 15. printed guides and handbooks for K-G5 are the new domain-sequence PDFs in preview/docs
 GN = {'K': 'Kindergarten', 'G1': 'Grade-1', 'G2': 'Grade-2', 'G3': 'Grade-3', 'G4': 'Grade-4', 'G5': 'Grade-5'}
-DOCS = ','.join(f'{g}:{{hb:"docs/{n}-Teaching-and-Pacing-Handbook-2026-27.pdf",pg:"docs/{n}-Weekly-Pacing-Guide-2026-27.pdf"}}' for g, n in GN.items())
+DOCS = ','.join(f'{g}:{{hb:"docs/{n}-Teaching-and-Pacing-Handbook-2026-27.pdf",pg:"docs/{n}-Weekly-Pacing-Guide-2026-27.pdf",yg:"docs/{n}-Year-at-a-Glance-2026-27.pdf"}}' for g, n in GN.items())
 sub('const driveView=id=>"https://drive.google.com/file/d/"+id+"/view";',
     'const driveView=id=>/\\.pdf$/.test(id)?id:"https://drive.google.com/file/d/"+id+"/view";Object.assign(GRADE_DOCS,{' + DOCS + '});')
 sub('title:"The full-year teaching & pacing handbook for this grade (PDF, opens in Drive)"', 'title:"The full-year teaching & pacing handbook for this grade (PDF)"')
@@ -395,6 +395,12 @@ sub('href:RES_LINKS.handbooks,wrm:false})', 'href:(GRADE_DOCS[grade.id]&&/\\.pdf
 sub('pre-teach packs and the teaching guides.":"The separate teacher handbook: the year on one page, each domain with its weeks, power standards and exam, the lessons still to build and those copied in, how the strands work, and the checks."}));}',
     'pre-teach packs and the teaching guides.":"The separate teacher handbook: the year on one page, each domain with its weeks, power standards and exam, the lessons still to build and those copied in, how the strands work, and the checks."}),grade.id!=="PK"&&React.createElement(Card,{href:"docs/Awsaj-Domain-Sequence-K-5-2026-27.xlsx",tone:"#2E7D32",kicker:"SPREADSHEET · K TO GRADE 5",title:"Pacing workbook · every grade",what:"Every lesson of K to Grade 5 week by week with its domain, CCSS codes, strand (S / P / I) and support lessons, the domain exams and MAP, a summary of every domain, and the CCSS coverage check. Filter it to plan."}));}')
 sub('"OPEN THE FULL MAPPING SHEET ↗")', '"OPEN THE FULL MAPPING SHEET ↗"),React.createElement("a",{href:"docs/Awsaj-Domain-Sequence-K-5-2026-27.xlsx",className:"mono",style:{fontSize:11,fontWeight:700,letterSpacing:"0.06em",padding:"9px 14px",borderRadius:6,border:"1px solid #2E7D32",color:"#2E7D32",background:"#F1F8F2",textDecoration:"none"}},"K–5 DOMAIN PACING WORKBOOK (XLSX) ↓")')
+
+# 17. one-page year at a glance per grade (K-G5)
+sub('React.createElement("a",{className:"mono",style:style,href:driveView(d.hb),target:"_blank",rel:"noreferrer",title:"The full-year teaching & pacing handbook for this grade (PDF)"},"↓ HANDBOOK")',
+    'd.yg&&React.createElement("a",{className:"mono",style:style,href:d.yg,target:"_blank",rel:"noreferrer",title:"One page: what this grade teaches, week by week, all year (PDF)"},"↓ YEAR AT A GLANCE"),React.createElement("a",{className:"mono",style:style,href:driveView(d.hb),target:"_blank",rel:"noreferrer",title:"The full-year teaching & pacing handbook for this grade (PDF)"},"↓ HANDBOOK")')
+sub('return React.createElement("div",{style:{display:"grid",gridTemplateColumns:"repeat(auto-fit, minmax(300px, 1fr))",gap:12,margin:"16px 0 22px",maxWidth:900}},',
+    'return React.createElement("div",{style:{display:"grid",gridTemplateColumns:"repeat(auto-fit, minmax(300px, 1fr))",gap:12,margin:"16px 0 22px",maxWidth:900}},d.yg&&React.createElement(Card,{href:d.yg,tone:"#E8720C",kicker:"PRINT · ONE PAGE",title:"Year at a Glance · "+grade.name,what:"The whole year on one landscape page: every week\'s lessons in four quarter columns, coloured by domain, with the domain exams, MAP and the enrichment weeks. Pin it up or hand it out."}),')
 LS = ('<script>window.__pvLS={getItem:function(k){try{return localStorage.getItem("preview_"+k)}catch(e){return null}},'
       'setItem:function(k,v){try{localStorage.setItem("preview_"+k,v)}catch(e){}},removeItem:function(k){try{localStorage.removeItem("preview_"+k)}catch(e){}}};</script>')
 BANNER = ('<div id="pvbar" style="position:sticky;top:0;z-index:9990;background:#5B2A86;color:#fff;font:600 12px/1.4 system-ui,sans-serif;padding:7px 14px;text-align:center">'
