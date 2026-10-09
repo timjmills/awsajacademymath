@@ -42,3 +42,7 @@ python3 accept.py          # brief section 7 checks
 ```
 
 `build_preview.py` finds the repo root two folders up (or set `AWSAJ_REPO`). `inputs/live_pills.json` is the support panel per live week, captured from the live page.
+
+## Preview and printed documents
+
+`./make_preview.sh` rebuilds `preview/index.html`, then the K-G5 Weekly Pacing Guides and Teaching & Pacing Handbooks (`gen_docs.py` writes HTML, `render_docs.js` prints PDFs with Playwright) and the K-5 pacing workbook (`gen_xlsx.py`) into `preview/docs/`. The workbook carries no exam question content.

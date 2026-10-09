@@ -343,6 +343,58 @@ sub('t:"Assessment and the spiral",b:React.createElement("span",null,"Every unit
 # 10. weekly pacing intro
 sub('Each row is a school week; the three columns are the strands, shaded l',
     'From Kindergarten to Grade 5 the year is taught one Common Core domain at a time: a yellow DOMAIN band opens each unit, a red row marks its domain exam (with a link to the test), a purple row marks the spring MAP window, and the enrichment lessons follow it. Each row is a school week; the three columns are the strands, shaded l')
+
+# 11. units: support list is every lower-grade lesson used in the unit's weeks
+for g, P in D['PACING']['grades'].items():
+    if g == 'PK': continue
+    wn = lambda x: int(str(x)[1:])
+    for b, u in P['units'].items():
+        seen, out = set(), []
+        for w in P['weeks']:
+            if wn(u['a']) <= wn(w['wk']) <= wn(u['z']):
+                for p_ in ((w.get('t') or {}).get('standard') or {}).get('pl') or []:
+                    k = (p_.get('tag'), p_.get('name'))
+                    if k not in seen: seen.add(k); out.append(p_)
+        u['pills'] = out
+# 12. header counts agree with the Overview tiles
+for g in ['K', 'G1', 'G2', 'G3', 'G4', 'G5']:
+    gd = CUR['grades'][g]
+    wr = sum(len(u['steps']) for dm in gd['domains'] for u in dm['coreUnits']) - gd['stats']['committee']
+    cp = gd['stats']['core'] - wr - gd['stats']['committee']
+    gd['header'] = f"Lessons this year = {gd['stats']['core']} ({wr} core" + (f", {cp} copied in from other grades" if cp else "") + f") | CCSS customs to build = {gd['stats']['committee']}"
+# 13. quarter summaries: a domain that runs across quarters shows in each one
+QFIX = ('const QS=["Q1","Q2","Q3","Q4"];for(const[b,u]of Object.entries(pg.units)){const qa=QS.indexOf((PAC.weekDates[u.a]||{}).q||"Q1"),'
+        'qz=Math.max(qa,QS.indexOf((PAC.weekDates[u.z]||{}).q||"Q1"));for(let i=qa;i<=qz;i++)byQ[QS[i]].push([b,i>qa?{...u,n:u.n+" (continues from "+QS[qa]+")"}:u]);}')
+sub('for(const[b,u]of Object.entries(pg.units)){const q=(PAC.weekDates[u.a]||{}).q||"Q1";byQ[q].push([b,u]);}', QFIX, 2)
+sub('teach fewer, paced evenly inside each unit, with the other days as support blocks. Every strand covers every essential and all strands finish each unit together. ',
+    'teach fewer, paced evenly inside each domain unit, with the other days as support blocks. Every strand covers every essential, all strands finish each domain together and sit its domain exam in the same week, and every grade-level standard is taught before the spring MAP window. ')
+
+# 14. wording left over from the White Rose block order
+sub('closed by an Awsaj lesson &mdash; all of them listed', 'closed by an Awsaj lesson: all of them listed')
+sub('" units"),', '" White Rose blocks"),')
+sub('"Each cell is one lesson. Columns are units, grouped by domain. "', '"Each cell is one lesson. Columns are the White Rose blocks (and Awsaj lesson sets) that feed each domain; the Units and Weekly Pacing tabs show the teaching order. "')
+sub('per covers the whole term — sit it in the last week of Autumn, Spring and Summer. ', 'per covers the whole term. From Kindergarten to Grade 5 the Awsaj domain exams are the assessments, so these papers are optional extra practice; they still follow the White Rose block order, so check a paper only covers domains already taught. ')
+sub('"Three things that turn a taught block into a learned one. Every grade, every block, in one place — and repeated on each grade’s own pages where the block is taught."',
+    '"Three things that turn a taught lesson into a learned one. Every grade, every White Rose block, in one place. From Kindergarten to Grade 5 the lessons are now taught in CCSS domain order, so pick the deck for the block a lesson comes from: every lesson\'s paperclip names its block and step."')
+sub('"WEEK BY WEEK · THREE STRANDS · GENERATED FROM THE PACING HANDBOOK"', '"WEEK BY WEEK · THREE STRANDS · ONE CCSS DOMAIN AT A TIME"')
+
+# 15. printed guides and handbooks for K-G5 are the new domain-sequence PDFs in preview/docs
+GN = {'K': 'Kindergarten', 'G1': 'Grade-1', 'G2': 'Grade-2', 'G3': 'Grade-3', 'G4': 'Grade-4', 'G5': 'Grade-5'}
+DOCS = ','.join(f'{g}:{{hb:"docs/{n}-Teaching-and-Pacing-Handbook-2026-27.pdf",pg:"docs/{n}-Weekly-Pacing-Guide-2026-27.pdf"}}' for g, n in GN.items())
+sub('const driveView=id=>"https://drive.google.com/file/d/"+id+"/view";',
+    'const driveView=id=>/\\.pdf$/.test(id)?id:"https://drive.google.com/file/d/"+id+"/view";Object.assign(GRADE_DOCS,{' + DOCS + '});')
+sub('title:"The full-year teaching & pacing handbook for this grade (PDF, opens in Drive)"', 'title:"The full-year teaching & pacing handbook for this grade (PDF)"')
+sub('title:"The three-strand weekly pacing guide for this grade (PDF, opens in Drive)"', 'title:"The three-strand weekly pacing guide for this grade (PDF)"')
+sub('what:"This same calendar as a wall chart: three tracks side by side, the support block under every week, CCSS codes, BUILD and ADAPT tags."',
+    'what:grade.id==="PK"?"This same calendar as a wall chart: three tracks side by side, the support block under every week, CCSS codes, BUILD and ADAPT tags.":"This same calendar as a wall chart: one CCSS domain at a time, the three strands side by side, the support block under every week, the domain exam and MAP rows, CCSS codes, BUILD, COPIED IN and ADAPT tags."')
+sub('kicker:"PRINT · 10 PAGES",title:"Teaching & Pacing Handbook · "+grade.name,what:"The separate teacher handbook: the year on one page, block priorities and power standards, how the tracks work, pre-teach packs and the teaching guides."',
+    'kicker:grade.id==="PK"?"PRINT · 10 PAGES":"PRINT · 6 PAGES",title:"Teaching & Pacing Handbook · "+grade.name,what:grade.id==="PK"?"The separate teacher handbook: the year on one page, block priorities and power standards, how the tracks work, pre-teach packs and the teaching guides.":"The separate teacher handbook: the year on one page, each domain with its weeks, power standards and exam, the lessons still to build and those copied in, how the strands work, and the checks."')
+sub('href:RES_LINKS.handbooks,wrm:false})', 'href:(GRADE_DOCS[grade.id]&&/\\.pdf$/.test(GRADE_DOCS[grade.id].hb))?GRADE_DOCS[grade.id].hb:RES_LINKS.handbooks,wrm:false})')
+
+# 16. the K-5 pacing workbook (xlsx) sits beside the PDFs
+sub('pre-teach packs and the teaching guides.":"The separate teacher handbook: the year on one page, each domain with its weeks, power standards and exam, the lessons still to build and those copied in, how the strands work, and the checks."}));}',
+    'pre-teach packs and the teaching guides.":"The separate teacher handbook: the year on one page, each domain with its weeks, power standards and exam, the lessons still to build and those copied in, how the strands work, and the checks."}),grade.id!=="PK"&&React.createElement(Card,{href:"docs/Awsaj-Domain-Sequence-K-5-2026-27.xlsx",tone:"#2E7D32",kicker:"SPREADSHEET · K TO GRADE 5",title:"Pacing workbook · every grade",what:"Every lesson of K to Grade 5 week by week with its domain, CCSS codes, strand (S / P / I) and support lessons, the domain exams and MAP, a summary of every domain, and the CCSS coverage check. Filter it to plan."}));}')
+sub('"OPEN THE FULL MAPPING SHEET ↗")', '"OPEN THE FULL MAPPING SHEET ↗"),React.createElement("a",{href:"docs/Awsaj-Domain-Sequence-K-5-2026-27.xlsx",className:"mono",style:{fontSize:11,fontWeight:700,letterSpacing:"0.06em",padding:"9px 14px",borderRadius:6,border:"1px solid #2E7D32",color:"#2E7D32",background:"#F1F8F2",textDecoration:"none"}},"K–5 DOMAIN PACING WORKBOOK (XLSX) ↓")')
 LS = ('<script>window.__pvLS={getItem:function(k){try{return localStorage.getItem("preview_"+k)}catch(e){return null}},'
       'setItem:function(k,v){try{localStorage.setItem("preview_"+k,v)}catch(e){}},removeItem:function(k){try{localStorage.removeItem("preview_"+k)}catch(e){}}};</script>')
 BANNER = ('<div id="pvbar" style="position:sticky;top:0;z-index:9990;background:#5B2A86;color:#fff;font:600 12px/1.4 system-ui,sans-serif;padding:7px 14px;text-align:center">'
