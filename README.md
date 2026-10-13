@@ -13,3 +13,9 @@ The site is then served at `https://timjmills.github.io/awsajacademymath/`.
 
 The tracker is a separate Cloudflare Worker (`awsaj-math-tracker-api`) with a D1 database. It stays on Cloudflare, because GitHub Pages can't run a server.
 After moving the site, set the Worker's `ALLOW_ORIGIN` setting to `https://timjmills.github.io`. Otherwise sign-in fails with "Failed to fetch".
+
+## Site versions
+
+The default `index.html` is the updated K–5 curriculum resequenced by Common Core State Standards (CCSS) domain. Its purple banner links to `old/`, which preserves the previous curriculum and is clearly labeled OLD SITE. The former `preview/` address redirects to the updated default site; its downloadable documents remain in `preview/docs/`.
+
+The default site uses the existing production local storage and tracker API; the preview-only tracking restriction has been removed.
