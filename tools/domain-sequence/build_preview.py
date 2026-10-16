@@ -355,8 +355,8 @@ for g, P in D['PACING']['grades'].items():
 # 12. header counts agree with the Overview tiles
 for g in ['K', 'G1', 'G2', 'G3', 'G4', 'G5']:
     gd = CUR['grades'][g]
-    wr = sum(len(u['steps']) for dm in gd['domains'] for u in dm['coreUnits']) - gd['stats']['committee']
-    cp = gd['stats']['core'] - wr - gd['stats']['committee']
+    cp = sum(1 for it in SEQ[g]['items'] if it['item'] == 'step' and it['copied_from_grade'])
+    wr = gd['stats']['core'] - cp - gd['stats']['committee']
     gd['header'] = f"Lessons this year = {gd['stats']['core']} ({wr} core" + (f", {cp} copied in from other grades" if cp else "") + f") | CCSS customs to build = {gd['stats']['committee']}"
 # 13. quarter summaries: a domain that runs across quarters shows in each one
 QFIX = ('const QS=["Q1","Q2","Q3","Q4"];for(const[b,u]of Object.entries(pg.units)){const qa=QS.indexOf((PAC.weekDates[u.a]||{}).q||"Q1"),'
