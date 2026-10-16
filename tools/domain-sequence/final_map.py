@@ -63,6 +63,35 @@ def apply_moves(g,steps):
         st['dom']=d
         if not st['kind'].startswith('on-grade') and not st.get('is_copy'): st['kind']='on-grade (moved for the domain test)'
         st['wrm_idx']=an[0]['wrm_idx']+(-0.05 if where=="before" else 0.05)+k*0.001
+# October audit: lessons in the wrong domain or before their prerequisites, and exam questions with no explicit lesson
+AUDIT=json.load(open('inputs/audit_fixes.json'))
+def _find(steps,name,unit=None):
+    c=[x for x in steps if x['lesson']==name and (unit is None or x.get('unit')==unit)]
+    assert c,(name,unit); return c[0]
+def apply_audit(g,steps):
+    A=AUDIT.get(g); 
+    if not A: return
+    for c in A['copies']:
+        s0=_find(classify(c['src']),c['lesson'])
+        steps.append(dict(unit=s0['unit'],step=s0['step'],src_wrm_week=s0['wrm_week'],lesson=s0['lesson'],codes=s0['codes'],flag="COPY",
+            dom=c['to'],kind=f"copied from {c['src']} guide",note=[],build=False,wrm_week=None,wrm_q=None,is_copy=True,copy_src=c['src'],
+            wrm_idx=10**6,power=sorted({x for x in s0['codes'] if x in POWERSET[g]})))
+    for b in A['builds']:
+        steps.append(dict(unit="CCSS BUILD (new: needed for the domain test)",step=0,lesson=b['lesson'],codes=b['codes'],flag="BUILD",dom=b['to'],
+            kind="on-grade",note=[],build=True,is_build=True,wrm_week=None,wrm_q=None,wrm_idx=10**6,new_build=True,
+            power=sorted({x for x in b['codes'] if x in POWERSET[g]})))
+    for r in A.get('remove',[]):   # old-scheme duplicates of a current White Rose step
+        steps.remove(_find(steps,r['lesson'],r.get('unit')))
+    added={x['lesson'] for x in A['copies']+A['builds']}
+    late=[m for m in A['moves'] if m['anchor'] in added]   # anchored on a copied / new lesson: place those first
+    for k,m in enumerate(A['moves']+A['copies']+A['builds']+late):
+        st=_find(steps,m['lesson'],m.get('unit')); an=_find(steps,m['anchor'],m.get('anchor_unit'))
+        st['dom']=m['to']
+        if m['to']=="EXT":
+            if not str(st['kind']).startswith(('beyond','year-ahead','end-of-year')): st['kind']='beyond grade-level CCSS'
+        elif not st['kind'].startswith('on-grade') and not st.get('is_copy'): st['kind']='on-grade (moved: audit)'
+        st['wrm_idx']=an['wrm_idx']+(-0.005 if m["where"]=="before" else 0.005)+k*0.00001
+
 def pacing_dates(g):
     # the live site's calendar (W01 = 6 Sep 2026), not the 22 Aug print
     return {int(w[1:]):(v['q'],v['start']) for w,v in SITEWEEKS.items()}
@@ -89,6 +118,7 @@ for g in GR:
             kind="on-grade",note=[],build=True,is_build=True,wrm_week=None,wrm_q=None,wrm_idx=10**6,new_build=True,
             power=sorted({c for c in codes if c in POWERSET[g]})))
     apply_moves(g,steps)
+    apply_audit(g,steps)
     steps.sort(key=lambda s:s['wrm_idx'])
     score,order,seq,b,cov,le=best_map(g,steps)
     assign_weeks(seq)

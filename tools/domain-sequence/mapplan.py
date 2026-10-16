@@ -16,8 +16,8 @@ def schedule_map(g,steps,order):
         seq+=[dict(s,slot='step') for s in core]
         seq.append(dict(slot='exam',dom=d,lesson=f"DOMAIN EXAM · {DOMNAME[d]}",codes=[],power=[],kind='',note=[],unit='',step='',build=False))
         post=[dict(s,slot='step',post_map=True) for s in ahead]+post if False else post+[dict(s,slot='step',post_map=True) for s in ahead]
-    # post-MAP block: year-ahead steps grouped by domain order, then Grade 6-only extension
-    post.sort(key=lambda s:(1 if s['dom']=="EXT" else 0, order.index(s['dom'])))
+    # post-MAP block: enrichment in White Rose teaching order (prerequisites first), end-of-year projects last
+    post.sort(key=lambda s:(1 if s.get('kind')=='end-of-year projects' else 0, s.get('wrm_idx',0)))
     seq+= [dict(slot='map',dom='MAP',lesson="MAP GROWTH WINDOW (spring) · all grade-level domains taught and examined · ENRICHMENT LESSONS FOLLOW",codes=[],power=[],kind='',note=[],unit='',step='',build=False)]+post
     return assign_weeks(seq)
 def best_map(g,steps):

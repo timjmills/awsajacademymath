@@ -5,7 +5,7 @@ import re, json, gzip, base64, os, html, sys
 REPO = os.environ.get('AWSAJ_REPO', '/home/user/awsajacademymath')
 OUT = 'out/docs'
 os.makedirs(OUT, exist_ok=True)
-H = open(os.path.join(REPO, 'preview', 'index.html')).read()
+H = open(os.path.join(REPO, 'index.html')).read()
 D = json.loads(gzip.decompress(base64.b64decode(re.search(r'<script id="__data"[^>]*>(.*?)</script>', H, re.S).group(1).strip())))
 ADAPT = json.load(open(sys.argv[1])) if len(sys.argv) > 1 else {'UK': {}, 'US': {}}
 PAC, CUR, CMAP = D['PACING'], D['CURRICULUM'], D['CCSSMAP']

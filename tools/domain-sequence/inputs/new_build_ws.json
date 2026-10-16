@@ -1,320 +1,791 @@
 {
-  "G2|Compare units: inches, feet, yards and centimetres": {
-    "core": [
-      "https://drive.google.com/file/d/1lJViA97-OCnFadv29NWr7sDxZU41W0r0/view",
-      "https://drive.google.com/file/d/1Vaslx6hkIumcVknie2TmCzWOyV7VonI2/view",
-      "https://drive.google.com/file/d/1MV_bj_TtePEEd_uOjGw-XULeHPawIbVA/view"
-    ],
-    "prereq": [
-      "https://drive.google.com/file/d/1HBRi0syfhx--Hn0H7kCnRkAZh4USbehs/view",
-      "https://drive.google.com/file/d/1dFL436s1ZtdeeT4FPidfPesIhjcMucJH/view"
-    ],
-    "related": [
-      [
-        "https://drive.google.com/file/d/19DjJgn2XcfgzFaxhV-jjfpS_Fjcy9i1o/view",
-        "Grade 3 sheet choosing inches, feet or yards to estimate real objects - extends the yard comparison and estimation part of the lesson."
-      ],
-      [
-        "https://drive.google.com/file/d/1XsL_2RehJ7Zzc5vqFoE9cZQM70GhKVUd/view",
-        "Grade 3 sort of objects into inches vs feet plus fill-in-the-unit sentences - extra practice choosing a sensible unit."
-      ],
-      [
-        "https://drive.google.com/file/d/18MmeYlh2WAIcEkc0LVZ9YWZslTo5xSrO/view",
-        "Measure objects in centimetres then say how much longer/shorter - links measuring to comparing lengths."
-      ]
-    ]
-  },
-  "G2|Partition a rectangle into rows and columns of squares": {
-    "core": [
-      "https://drive.google.com/file/d/1GQFb7dkHQlPQ1HJu4LQOcgN7x0syjiDK/view",
-      "https://drive.google.com/file/d/1drEsMG9QohOSAHr7p1xYrDcYB0SoCInf/view",
-      "https://drive.google.com/file/d/18o11otIIuRCcJ19I3vvhd531-uHqCdVE/view"
-    ],
-    "prereq": [
-      "https://drive.google.com/file/d/1I_mTqepPzK_MXupOZZJFd2CxSeKWBaGL/view",
-      "https://drive.google.com/file/d/1wn6bRD2MdqIO0Oa0h9xdnHdal3n9j-X0/view"
-    ],
-    "related": [
-      [
-        "https://drive.google.com/file/d/1nYxxOEodybF-PGtVREdopsdvfdmabpf3/view",
-        "Mixed read-and-draw area models on grids - combines counting rows x columns with drawing them."
-      ],
-      [
-        "https://drive.google.com/file/d/1uYW5Fqvzcnxhst8fFUG_qy9YRzdTUToe/view",
-        "Picture arrays in rows and columns written as rows x columns = total - same structure with objects instead of squares."
-      ],
-      [
-        "https://drive.google.com/file/d/1V8euY3OQ19rqhT11dr_6pumDHB7nRn-M/view",
-        "Counting unit squares in irregular shapes - extends square counting beyond rectangles."
-      ]
-    ]
-  },
-  "G4|Place value: 10 times and one tenth of a digit's value": {
-    "core": [
-      "https://drive.google.com/file/d/1Y3zlQtqwibRxeNDCeb7pMSMcdEzDkyNs/view",
-      "https://drive.google.com/file/d/1SFOyCBGMi83rLVhXOO-KLseTnnlgMUE6/view",
-      "https://drive.google.com/file/d/1SO01Rdnu_9M0yNXdrgrVsjE9nbjeEKlC/view"
-    ],
-    "prereq": [
-      "https://drive.google.com/file/d/1y6W8eSugh66mgAe1azT8GRx3RIfJZleI/view",
-      "https://drive.google.com/file/d/1Rrn_MRoxYBDqDX0fMDBa6CJv5YKKfw9s/view",
-      "https://drive.google.com/file/d/1Ay1SykV6ymJxUUl9iNorm82Ljd_kQV09/view"
-    ],
-    "related": [
-      [
-        "https://drive.google.com/file/d/1oj2d_d23Rrcu3Y1F5qGmaBxFNO2uE3fY/view",
-        "MCQ picking the number where a digit has a given value (e.g. 3 worth 30,000) - reasoning about a digit's value by its place."
-      ],
-      [
-        "https://drive.google.com/file/d/12F2VBde2xbw9x_RrAi2FDJFgaCo5RnnF/view",
-        "Grade 5 equivalent place-value units into the millions/billions - extension of the x10 relationship between places."
-      ],
-      [
-        "https://drive.google.com/file/d/1S2QIaS2XARSWtHtLf0RhESh5SAzkODnz/view",
-        "Decimal expanded product form using x1/10 and x1/100 - supports the one-tenth (5.NBT.A.1) part of the lesson."
-      ]
-    ]
-  },
-  "G4|Extend growing shape patterns": {
-    "core": [
-      "https://drive.google.com/file/d/1g5Ok81yKTnxBFbh8xnr-6RJ0MF99QhFv/view",
-      "https://drive.google.com/file/d/1ck2FHcAQbuRxeO--zEIq8FgvPcVUy7W6/view",
-      "https://drive.google.com/file/d/1xgNM3gO20tS7RtKeG8LVovPxr2ANoNnz/view"
-    ],
-    "prereq": [
-      "https://drive.google.com/file/d/1q7i8uzdjmlwbTav9H9eGDdCkwKastzxm/view",
-      "https://drive.google.com/file/d/1ZpCFATPmbJvT0kW0WOaQRoOc6pVOXK9U/view"
-    ],
-    "related": [
-      [
-        "https://drive.google.com/file/d/13Ypy2UM1vDAbpAgxEcNc_vwIdbw5gUTc/view",
-        "Write the rule for a number sequence (start at, add each time) - practises stating pattern rules."
-      ],
-      [
-        "https://drive.google.com/file/d/1Ji6uMUwpbQIFcSbIGJOecR_k6YUJlyI6/view",
-        "Growing and shrinking add/subtract number patterns - number-pattern follow-up to the shape patterns."
-      ],
-      [
-        "https://drive.google.com/file/d/1OvCAAjdP2E-II8ZoXI17X23r5dL4g5tS/view",
-        "Grade 4 shape-pattern sheet (repeating, not growing) - quick warm-up on continuing shape sequences."
-      ]
-    ]
-  },
-  "G4|Multi-step word problems: divide and interpret the remainder": {
-    "core": [
-      "https://drive.google.com/file/d/1AsDuJJPOS1LlynfStaptAtAyDCy5FTdb/view",
-      "https://drive.google.com/file/d/1Utq8iGd5oXnI-VB0RMe9e3Av5PVzgcli/view",
-      "https://drive.google.com/file/d/1SjDPQ2HIgjIpsFL7M2nWkG5dePFmkY9Z/view",
-      "https://drive.google.com/file/d/11-nTvd8aDzv6bzthW_i01Kgn7RK6kTIh/view"
-    ],
-    "prereq": [
-      "https://drive.google.com/file/d/1Lff77MBJRIxhvak5FFdXyHafd6rwQdlz/view",
-      "https://drive.google.com/file/d/18md1ahbw443Udgt6dMabTaw025Mu9C6G/view"
-    ],
-    "related": [
-      [
-        "https://drive.google.com/file/d/1IzaP-gy61VAgBbuUlvZ9uDgjoGxhbpdn/view",
-        "Grade 5 2-digit-divisor word problems where the remainder must be interpreted (e.g. tents needed, rounding up) - 5.NBT.B.6 extension."
-      ],
-      [
-        "https://drive.google.com/file/d/15IjiR3YSZ5M4A4wTn8PhNOxie9HBxd6c/view",
-        "Grade 5 4-digit by 2-digit division with remainder-interpretation word problems (classrooms needed, rounding up)."
-      ],
-      [
-        "https://drive.google.com/file/d/1htf3KHm8kO-7Abio7iWtWyaNqj1p1zTr/view",
-        "Two-step expressions mixing division with addition/subtraction - practises the multi-step order of work."
-      ]
-    ]
-  },
-  "G4|Points, lines, line segments and rays": {
-    "core": [
-      "https://drive.google.com/file/d/1y74jf_d4oDAzMsAk7cGizOGj_5iUmv5O/view",
-      "https://drive.google.com/file/d/1UT77H6cJSZIPpCf4fJkp-Szg30kDgmse/view",
-      "https://drive.google.com/file/d/1bKsegDEWm99yq1oHFPS0XUX7QP4hAtKN/view",
-      "https://drive.google.com/file/d/1brdiAKZC1pLgYBWwEySKaupTsB7WWUsl/view"
-    ],
-    "prereq": [
-      "https://drive.google.com/file/d/19NNOF4eSCP0ChP1TqYFAYi_Iwy2GJ75w/view",
-      "https://drive.google.com/file/d/1Qlre-ut-_0cIUe-ylIyV1MnQ4z5JBI8x/view"
-    ],
-    "related": [
-      [
-        "https://drive.google.com/file/d/1R0X7_hck8pvfYi8lGNjBIcR6CZIQj5iE/view",
-        "Grade 5 complex figures naming lines, rays, segments and opposite rays - harder extension."
-      ],
-      [
-        "https://drive.google.com/file/d/13Mb3pQaQjJzvS_bKlfqjh_xeOAcE3gJK/view",
-        "Freehand draw angles from a named vertex and arms - applies rays to build angles."
-      ],
-      [
-        "https://drive.google.com/file/d/1yPpXrDOjwtcHJdL3Dc45UE8AixqBz7E0/view",
-        "Classify and draw parallel, perpendicular and intersecting lines - next 4.G.A.1/4.G.A.2 step."
-      ]
-    ]
-  },
-  "G5|Multiply decimals by decimals": {
-    "core": [
-      "https://drive.google.com/file/d/1bxtgYC0YbSlFh4OZjOxABsbGqX8RhvP2/view",
-      "https://drive.google.com/file/d/16DPOmh6VtvDvkS1NUZE9Gs4XrZ_dwHkg/view",
-      "https://drive.google.com/file/d/1lnx4Nz4FqUMqc3oJNIJokJHUTGCtgLqI/view",
-      "https://drive.google.com/file/d/18BsuEamHjkYDjbKuHtRbbF5dUx4DqlYo/view"
-    ],
-    "prereq": [
-      "https://drive.google.com/file/d/1PMv_KHCXXGHoDJt5bq455rWDRWivivaV/view",
-      "https://drive.google.com/file/d/1-40d7WtRNaJUTy3lIi72WAvTZxnvL5YW/view"
-    ],
-    "related": [
-      [
-        "https://drive.google.com/file/d/1zZNheKJkzbMMSL0sWh-LWMDZlZhdRT-T/view",
-        "Use a whole-number fact to place the decimal point in decimal products - reasoning behind the algorithm."
-      ],
-      [
-        "https://drive.google.com/file/d/1rv71mWV4qKszpkM7oT0D_bGzn9wbFBVz/view",
-        "Word problems multiplying decimal rates by decimal quantities (cost per pound, area, speed x time) - applies the skill in context."
-      ],
-      [
-        "https://drive.google.com/file/d/1Cf0YR6EsS1vLfX7hXDiwUgwsO8FTf_Qu/view",
-        "Grade 6 hundredths x hundredths in vertical form - extension beyond tenths x hundredths."
-      ]
-    ]
-  },
-  "G5|Divide by a decimal": {
-    "core": [
-      "https://drive.google.com/file/d/1o4jMAhpiQOMBp9tbcoFx7yUz3CoGnAZE/view",
-      "https://drive.google.com/file/d/1lf5YlEDspzXEDY3zBFk2kfqreEznIxRz/view",
-      "https://drive.google.com/file/d/1iOiYRNfTu9KkPFvPXhcmcYuENrbWPuzt/view",
-      "https://drive.google.com/file/d/1bjc3KjbywEBy6byaEv_ssuylJ5ZZaQQY/view"
-    ],
-    "prereq": [
-      "https://drive.google.com/file/d/1gaVHMJM8EKA-NfQeAipCu0rJt3zVCH9l/view",
-      "https://drive.google.com/file/d/1-40d7WtRNaJUTy3lIi72WAvTZxnvL5YW/view"
-    ],
-    "related": [
-      [
-        "https://drive.google.com/file/d/1t3zGJT9agJcfRk8_5xpoCF4ArAtBjOUF/view",
-        "Grade 6 multi-digit decimal by decimal long division (e.g. 3.4 into 37.774) - matches the 462.96 / 7.2 style at a harder level."
-      ],
-      [
-        "https://drive.google.com/file/d/1NPFPJcmsJcvQ0cRMl0BMCJIF3LBMatoq/view",
-        "Number-line hops showing decimal / decimal (e.g. 2.4 / 0.8) - visual model for how many groups of the divisor."
-      ],
-      [
-        "https://drive.google.com/file/d/1Hw_vcH6z_5-Fxe0ApVKhWkTeDFN4ZIue/view",
-        "Decimal divided by whole number - the step students reach after shifting the decimal point in the divisor."
-      ]
-    ]
-  },
-  "G2|Solve two-step word problems identifying both operations": {
-    "core": [
-      "https://drive.google.com/file/d/1VGkBgLSzqka20wxNJ6ynlHAEIBS3UBLW/view",
-      "https://drive.google.com/file/d/1NXKoLzpe8Eep6QsR_48rBulh3q_jibh_/view"
-    ],
-    "prereq": [
-      "https://drive.google.com/file/d/1NunerHvHZSWJKcdg-sEmRqBSk-uAmrpt/view",
-      "https://drive.google.com/file/d/17P_a2PI-quzBEk9wdr7aIqcp3UvxuahS/view"
-    ],
-    "related": [
-      [
-        "https://drive.google.com/file/d/1xhzPvtxE7OqUnCtIk_SyGEqHvT3wg8Xy/view",
-        "Price-list word problems that mix totalling items and making change, so students must decide between adding and subtracting with money up to $100."
-      ],
-      [
-        "https://drive.google.com/file/d/1pbTGyhq_42LAhz13eOhEUqkMXMsJ_F0A/view",
-        "Some problems add an extra 'how many more' comparison step after the addition, giving a real second step (numbers go up to 3 digits)."
-      ]
-    ]
-  },
-  "G2|Record the measurement data in a table": {
-    "core": [
-      "https://drive.google.com/file/d/1Vaslx6hkIumcVknie2TmCzWOyV7VonI2/view",
-      "https://drive.google.com/file/d/1MV_bj_TtePEEd_uOjGw-XULeHPawIbVA/view"
-    ],
-    "prereq": [
-      "https://drive.google.com/file/d/1mrhnvbZbQJ4azKybqNdKpoHluQVASKf2/view",
-      "https://drive.google.com/file/d/1MNME6IuRlpJUh8Ng08eibN4DrnRfE_X6/view"
-    ],
-    "related": [
-      [
-        "https://drive.google.com/file/d/18MmeYlh2WAIcEkc0LVZ9YWZslTo5xSrO/view",
-        "Students measure three objects in cm and then compare the lengths, which extends the recorded data into questions."
-      ],
-      [
-        "https://drive.google.com/file/d/1wHIcPVsrHFMhLLzg6rZTNitiJNijmLCu/view",
-        "Grade 3 line plot built from a list of raw numeric measurements: the 'then a line plot' step done with number values."
-      ],
-      [
-        "https://drive.google.com/file/d/1l6r68HYRmKUcm1TAJ7gTztM3fEPdQJge/view",
-        "Grade 2 make-and-interpret line plot from a small data table (categories, not lengths); useful for practising the X-marking routine."
-      ]
-    ]
-  },
-  "G3|Two-step word problems with the four operations": {
-    "core": [
-      "https://drive.google.com/file/d/1Wqb3TzruMa-Yt9L4q9pgZ-AAgNxs-65t/view",
-      "https://drive.google.com/file/d/1Aa_uEPdTe_rvgYUbPwA2iBaVNDhBAtTT/view"
-    ],
-    "prereq": [
-      "https://drive.google.com/file/d/1VGkBgLSzqka20wxNJ6ynlHAEIBS3UBLW/view",
-      "https://drive.google.com/file/d/1_OhtIVyUHmS6aHnc56M4dAxEfDeCciuL/view"
-    ],
-    "related": [
-      [
-        "https://drive.google.com/file/d/1htf3KHm8kO-7Abio7iWtWyaNqj1p1zTr/view",
-        "Grade 4 two-operation expressions (e.g. 23 x 4 - 28) that practise writing and evaluating the single equation for a two-step problem."
-      ],
-      [
-        "https://drive.google.com/file/d/1eIg_WFHQ3hn_IahO4RqtMFuNViMpDlEs/view",
-        "In/Out division tables that end with a letter-variable rule (A / 2 = B), giving an early look at letters standing for unknowns."
-      ],
-      [
-        "https://drive.google.com/file/d/1mxnDEzi0kVpoSpzakFmNZ-m-wRcQZXfr/view",
-        "One-step division word problems to rehearse the divide step before combining it with subtraction."
-      ]
-    ]
-  },
-  "G5|Generate two sequences using two different rules": {
-    "core": [
-      "https://drive.google.com/file/d/1JBIRHyWD_VtMuEWniDLklHAp852Y-XVe/view"
-    ],
-    "prereq": [
-      "https://drive.google.com/file/d/1Mh209MKA7loYc7x0zQ__4iw4XLcbcte_/view",
-      "https://drive.google.com/file/d/13Ypy2UM1vDAbpAgxEcNc_vwIdbw5gUTc/view"
-    ],
-    "related": [
-      [
-        "https://drive.google.com/file/d/1iG6q-2cFJlBy9uBU4vM0BGB69PtIgQ_u/view",
-        "First-quadrant practice in writing and plotting ordered pairs, for graphing the pairs formed from the two sequences."
-      ],
-      [
-        "https://drive.google.com/file/d/1MRbRBLP0vERquRWJBrFhqFcX45iXxes1/view",
-        "Function-machine In/Out tables that build the habit of comparing corresponding input and output values."
-      ],
-      [
-        "https://drive.google.com/file/d/1K2zPcnFCGLQ6uOKX29h-5nTyTpgnW7rn/view",
-        "'Two-rule' patterns alternate two rules within a single sequence. Use them as an extension or contrast, not as two sequences."
-      ]
-    ]
-  },
-  "G5|Fraction line plots": {
-    "core": [],
-    "prereq": [
-      "https://drive.google.com/file/d/1vi-0ZDJJ9Lg2sYKnZRaP1MbVnnfm8Mdy/view",
-      "https://drive.google.com/file/d/1z9V-oCLIye6qJfhUgUkeSpXFlgQTnF2A/view",
-      "https://drive.google.com/file/d/1d_RPXpzXLql4cYFoqNxuDFHeRx-dbw9o/view"
-    ],
-    "related": [
-      [
-        "https://drive.google.com/file/d/1ZNiyczzC6cbVEE-UwmhtdXSsa_5quiQt/view",
-        "Grade 5 make-a-line-plot task from a table of 30 values (whole numbers only); students can copy its construction steps with fraction data."
-      ],
-      [
-        "https://drive.google.com/file/d/1wb1b0JX6t8Uc7JM8xg1qxREvWMMdRHAX/view",
-        "Measuring objects to the nearest quarter inch gives a quick way to produce fractional data for a class line plot."
-      ],
-      [
-        "https://drive.google.com/file/d/1709dQVPpYhkehghsZPmOwFUPp2R8PlDN/view",
-        "Grade 5 line plot interpretation where students must compute with the plotted values to answer questions."
-      ]
-    ]
-  }
+ "G2|Compare units: inches, feet, yards and centimetres": {
+  "core": [
+   "https://drive.google.com/file/d/1lJViA97-OCnFadv29NWr7sDxZU41W0r0/view",
+   "https://drive.google.com/file/d/1Vaslx6hkIumcVknie2TmCzWOyV7VonI2/view",
+   "https://drive.google.com/file/d/1MV_bj_TtePEEd_uOjGw-XULeHPawIbVA/view"
+  ],
+  "prereq": [
+   "https://drive.google.com/file/d/1HBRi0syfhx--Hn0H7kCnRkAZh4USbehs/view",
+   "https://drive.google.com/file/d/1dFL436s1ZtdeeT4FPidfPesIhjcMucJH/view"
+  ],
+  "related": [
+   [
+    "https://drive.google.com/file/d/19DjJgn2XcfgzFaxhV-jjfpS_Fjcy9i1o/view",
+    "Grade 3 sheet choosing inches, feet or yards to estimate real objects - extends the yard comparison and estimation part of the lesson."
+   ],
+   [
+    "https://drive.google.com/file/d/1XsL_2RehJ7Zzc5vqFoE9cZQM70GhKVUd/view",
+    "Grade 3 sort of objects into inches vs feet plus fill-in-the-unit sentences - extra practice choosing a sensible unit."
+   ],
+   [
+    "https://drive.google.com/file/d/18MmeYlh2WAIcEkc0LVZ9YWZslTo5xSrO/view",
+    "Measure objects in centimetres then say how much longer/shorter - links measuring to comparing lengths."
+   ]
+  ]
+ },
+ "G2|Partition a rectangle into rows and columns of squares": {
+  "core": [
+   "https://drive.google.com/file/d/1GQFb7dkHQlPQ1HJu4LQOcgN7x0syjiDK/view",
+   "https://drive.google.com/file/d/1drEsMG9QohOSAHr7p1xYrDcYB0SoCInf/view",
+   "https://drive.google.com/file/d/18o11otIIuRCcJ19I3vvhd531-uHqCdVE/view"
+  ],
+  "prereq": [
+   "https://drive.google.com/file/d/1I_mTqepPzK_MXupOZZJFd2CxSeKWBaGL/view",
+   "https://drive.google.com/file/d/1wn6bRD2MdqIO0Oa0h9xdnHdal3n9j-X0/view"
+  ],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1nYxxOEodybF-PGtVREdopsdvfdmabpf3/view",
+    "Mixed read-and-draw area models on grids - combines counting rows x columns with drawing them."
+   ],
+   [
+    "https://drive.google.com/file/d/1uYW5Fqvzcnxhst8fFUG_qy9YRzdTUToe/view",
+    "Picture arrays in rows and columns written as rows x columns = total - same structure with objects instead of squares."
+   ],
+   [
+    "https://drive.google.com/file/d/1V8euY3OQ19rqhT11dr_6pumDHB7nRn-M/view",
+    "Counting unit squares in irregular shapes - extends square counting beyond rectangles."
+   ]
+  ]
+ },
+ "G4|Place value: 10 times and one tenth of a digit's value": {
+  "core": [
+   "https://drive.google.com/file/d/1Y3zlQtqwibRxeNDCeb7pMSMcdEzDkyNs/view",
+   "https://drive.google.com/file/d/1SFOyCBGMi83rLVhXOO-KLseTnnlgMUE6/view",
+   "https://drive.google.com/file/d/1SO01Rdnu_9M0yNXdrgrVsjE9nbjeEKlC/view"
+  ],
+  "prereq": [
+   "https://drive.google.com/file/d/1y6W8eSugh66mgAe1azT8GRx3RIfJZleI/view",
+   "https://drive.google.com/file/d/1Rrn_MRoxYBDqDX0fMDBa6CJv5YKKfw9s/view",
+   "https://drive.google.com/file/d/1Ay1SykV6ymJxUUl9iNorm82Ljd_kQV09/view"
+  ],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1oj2d_d23Rrcu3Y1F5qGmaBxFNO2uE3fY/view",
+    "MCQ picking the number where a digit has a given value (e.g. 3 worth 30,000) - reasoning about a digit's value by its place."
+   ],
+   [
+    "https://drive.google.com/file/d/12F2VBde2xbw9x_RrAi2FDJFgaCo5RnnF/view",
+    "Grade 5 equivalent place-value units into the millions/billions - extension of the x10 relationship between places."
+   ],
+   [
+    "https://drive.google.com/file/d/1S2QIaS2XARSWtHtLf0RhESh5SAzkODnz/view",
+    "Decimal expanded product form using x1/10 and x1/100 - supports the one-tenth (5.NBT.A.1) part of the lesson."
+   ]
+  ]
+ },
+ "G4|Extend growing shape patterns": {
+  "core": [
+   "https://drive.google.com/file/d/1g5Ok81yKTnxBFbh8xnr-6RJ0MF99QhFv/view",
+   "https://drive.google.com/file/d/1ck2FHcAQbuRxeO--zEIq8FgvPcVUy7W6/view",
+   "https://drive.google.com/file/d/1xgNM3gO20tS7RtKeG8LVovPxr2ANoNnz/view"
+  ],
+  "prereq": [
+   "https://drive.google.com/file/d/1q7i8uzdjmlwbTav9H9eGDdCkwKastzxm/view",
+   "https://drive.google.com/file/d/1ZpCFATPmbJvT0kW0WOaQRoOc6pVOXK9U/view"
+  ],
+  "related": [
+   [
+    "https://drive.google.com/file/d/13Ypy2UM1vDAbpAgxEcNc_vwIdbw5gUTc/view",
+    "Write the rule for a number sequence (start at, add each time) - practises stating pattern rules."
+   ],
+   [
+    "https://drive.google.com/file/d/1Ji6uMUwpbQIFcSbIGJOecR_k6YUJlyI6/view",
+    "Growing and shrinking add/subtract number patterns - number-pattern follow-up to the shape patterns."
+   ],
+   [
+    "https://drive.google.com/file/d/1OvCAAjdP2E-II8ZoXI17X23r5dL4g5tS/view",
+    "Grade 4 shape-pattern sheet (repeating, not growing) - quick warm-up on continuing shape sequences."
+   ]
+  ]
+ },
+ "G4|Multi-step word problems: divide and interpret the remainder": {
+  "core": [
+   "https://drive.google.com/file/d/1AsDuJJPOS1LlynfStaptAtAyDCy5FTdb/view",
+   "https://drive.google.com/file/d/1Utq8iGd5oXnI-VB0RMe9e3Av5PVzgcli/view",
+   "https://drive.google.com/file/d/1SjDPQ2HIgjIpsFL7M2nWkG5dePFmkY9Z/view",
+   "https://drive.google.com/file/d/11-nTvd8aDzv6bzthW_i01Kgn7RK6kTIh/view"
+  ],
+  "prereq": [
+   "https://drive.google.com/file/d/1Lff77MBJRIxhvak5FFdXyHafd6rwQdlz/view",
+   "https://drive.google.com/file/d/18md1ahbw443Udgt6dMabTaw025Mu9C6G/view"
+  ],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1IzaP-gy61VAgBbuUlvZ9uDgjoGxhbpdn/view",
+    "Grade 5 2-digit-divisor word problems where the remainder must be interpreted (e.g. tents needed, rounding up) - 5.NBT.B.6 extension."
+   ],
+   [
+    "https://drive.google.com/file/d/15IjiR3YSZ5M4A4wTn8PhNOxie9HBxd6c/view",
+    "Grade 5 4-digit by 2-digit division with remainder-interpretation word problems (classrooms needed, rounding up)."
+   ],
+   [
+    "https://drive.google.com/file/d/1htf3KHm8kO-7Abio7iWtWyaNqj1p1zTr/view",
+    "Two-step expressions mixing division with addition/subtraction - practises the multi-step order of work."
+   ]
+  ]
+ },
+ "G4|Points, lines, line segments and rays": {
+  "core": [
+   "https://drive.google.com/file/d/1y74jf_d4oDAzMsAk7cGizOGj_5iUmv5O/view",
+   "https://drive.google.com/file/d/1UT77H6cJSZIPpCf4fJkp-Szg30kDgmse/view",
+   "https://drive.google.com/file/d/1bKsegDEWm99yq1oHFPS0XUX7QP4hAtKN/view",
+   "https://drive.google.com/file/d/1brdiAKZC1pLgYBWwEySKaupTsB7WWUsl/view"
+  ],
+  "prereq": [
+   "https://drive.google.com/file/d/19NNOF4eSCP0ChP1TqYFAYi_Iwy2GJ75w/view",
+   "https://drive.google.com/file/d/1Qlre-ut-_0cIUe-ylIyV1MnQ4z5JBI8x/view"
+  ],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1R0X7_hck8pvfYi8lGNjBIcR6CZIQj5iE/view",
+    "Grade 5 complex figures naming lines, rays, segments and opposite rays - harder extension."
+   ],
+   [
+    "https://drive.google.com/file/d/13Mb3pQaQjJzvS_bKlfqjh_xeOAcE3gJK/view",
+    "Freehand draw angles from a named vertex and arms - applies rays to build angles."
+   ],
+   [
+    "https://drive.google.com/file/d/1yPpXrDOjwtcHJdL3Dc45UE8AixqBz7E0/view",
+    "Classify and draw parallel, perpendicular and intersecting lines - next 4.G.A.1/4.G.A.2 step."
+   ]
+  ]
+ },
+ "G5|Multiply decimals by decimals": {
+  "core": [
+   "https://drive.google.com/file/d/1bxtgYC0YbSlFh4OZjOxABsbGqX8RhvP2/view",
+   "https://drive.google.com/file/d/16DPOmh6VtvDvkS1NUZE9Gs4XrZ_dwHkg/view",
+   "https://drive.google.com/file/d/1lnx4Nz4FqUMqc3oJNIJokJHUTGCtgLqI/view",
+   "https://drive.google.com/file/d/18BsuEamHjkYDjbKuHtRbbF5dUx4DqlYo/view"
+  ],
+  "prereq": [
+   "https://drive.google.com/file/d/1PMv_KHCXXGHoDJt5bq455rWDRWivivaV/view",
+   "https://drive.google.com/file/d/1-40d7WtRNaJUTy3lIi72WAvTZxnvL5YW/view"
+  ],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1zZNheKJkzbMMSL0sWh-LWMDZlZhdRT-T/view",
+    "Use a whole-number fact to place the decimal point in decimal products - reasoning behind the algorithm."
+   ],
+   [
+    "https://drive.google.com/file/d/1rv71mWV4qKszpkM7oT0D_bGzn9wbFBVz/view",
+    "Word problems multiplying decimal rates by decimal quantities (cost per pound, area, speed x time) - applies the skill in context."
+   ],
+   [
+    "https://drive.google.com/file/d/1Cf0YR6EsS1vLfX7hXDiwUgwsO8FTf_Qu/view",
+    "Grade 6 hundredths x hundredths in vertical form - extension beyond tenths x hundredths."
+   ]
+  ]
+ },
+ "G5|Divide by a decimal": {
+  "core": [
+   "https://drive.google.com/file/d/1o4jMAhpiQOMBp9tbcoFx7yUz3CoGnAZE/view",
+   "https://drive.google.com/file/d/1lf5YlEDspzXEDY3zBFk2kfqreEznIxRz/view",
+   "https://drive.google.com/file/d/1iOiYRNfTu9KkPFvPXhcmcYuENrbWPuzt/view",
+   "https://drive.google.com/file/d/1bjc3KjbywEBy6byaEv_ssuylJ5ZZaQQY/view"
+  ],
+  "prereq": [
+   "https://drive.google.com/file/d/1gaVHMJM8EKA-NfQeAipCu0rJt3zVCH9l/view",
+   "https://drive.google.com/file/d/1-40d7WtRNaJUTy3lIi72WAvTZxnvL5YW/view"
+  ],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1t3zGJT9agJcfRk8_5xpoCF4ArAtBjOUF/view",
+    "Grade 6 multi-digit decimal by decimal long division (e.g. 3.4 into 37.774) - matches the 462.96 / 7.2 style at a harder level."
+   ],
+   [
+    "https://drive.google.com/file/d/1NPFPJcmsJcvQ0cRMl0BMCJIF3LBMatoq/view",
+    "Number-line hops showing decimal / decimal (e.g. 2.4 / 0.8) - visual model for how many groups of the divisor."
+   ],
+   [
+    "https://drive.google.com/file/d/1Hw_vcH6z_5-Fxe0ApVKhWkTeDFN4ZIue/view",
+    "Decimal divided by whole number - the step students reach after shifting the decimal point in the divisor."
+   ]
+  ]
+ },
+ "G2|Solve two-step word problems identifying both operations": {
+  "core": [
+   "https://drive.google.com/file/d/1VGkBgLSzqka20wxNJ6ynlHAEIBS3UBLW/view",
+   "https://drive.google.com/file/d/1NXKoLzpe8Eep6QsR_48rBulh3q_jibh_/view"
+  ],
+  "prereq": [
+   "https://drive.google.com/file/d/1NunerHvHZSWJKcdg-sEmRqBSk-uAmrpt/view",
+   "https://drive.google.com/file/d/17P_a2PI-quzBEk9wdr7aIqcp3UvxuahS/view"
+  ],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1xhzPvtxE7OqUnCtIk_SyGEqHvT3wg8Xy/view",
+    "Price-list word problems that mix totalling items and making change, so students must decide between adding and subtracting with money up to $100."
+   ],
+   [
+    "https://drive.google.com/file/d/1pbTGyhq_42LAhz13eOhEUqkMXMsJ_F0A/view",
+    "Some problems add an extra 'how many more' comparison step after the addition, giving a real second step (numbers go up to 3 digits)."
+   ]
+  ]
+ },
+ "G2|Record the measurement data in a table": {
+  "core": [
+   "https://drive.google.com/file/d/1Vaslx6hkIumcVknie2TmCzWOyV7VonI2/view",
+   "https://drive.google.com/file/d/1MV_bj_TtePEEd_uOjGw-XULeHPawIbVA/view"
+  ],
+  "prereq": [
+   "https://drive.google.com/file/d/1mrhnvbZbQJ4azKybqNdKpoHluQVASKf2/view",
+   "https://drive.google.com/file/d/1MNME6IuRlpJUh8Ng08eibN4DrnRfE_X6/view"
+  ],
+  "related": [
+   [
+    "https://drive.google.com/file/d/18MmeYlh2WAIcEkc0LVZ9YWZslTo5xSrO/view",
+    "Students measure three objects in cm and then compare the lengths, which extends the recorded data into questions."
+   ],
+   [
+    "https://drive.google.com/file/d/1wHIcPVsrHFMhLLzg6rZTNitiJNijmLCu/view",
+    "Grade 3 line plot built from a list of raw numeric measurements: the 'then a line plot' step done with number values."
+   ],
+   [
+    "https://drive.google.com/file/d/1l6r68HYRmKUcm1TAJ7gTztM3fEPdQJge/view",
+    "Grade 2 make-and-interpret line plot from a small data table (categories, not lengths); useful for practising the X-marking routine."
+   ]
+  ]
+ },
+ "G3|Two-step word problems with the four operations": {
+  "core": [
+   "https://drive.google.com/file/d/1Wqb3TzruMa-Yt9L4q9pgZ-AAgNxs-65t/view",
+   "https://drive.google.com/file/d/1Aa_uEPdTe_rvgYUbPwA2iBaVNDhBAtTT/view"
+  ],
+  "prereq": [
+   "https://drive.google.com/file/d/1VGkBgLSzqka20wxNJ6ynlHAEIBS3UBLW/view",
+   "https://drive.google.com/file/d/1_OhtIVyUHmS6aHnc56M4dAxEfDeCciuL/view"
+  ],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1htf3KHm8kO-7Abio7iWtWyaNqj1p1zTr/view",
+    "Grade 4 two-operation expressions (e.g. 23 x 4 - 28) that practise writing and evaluating the single equation for a two-step problem."
+   ],
+   [
+    "https://drive.google.com/file/d/1eIg_WFHQ3hn_IahO4RqtMFuNViMpDlEs/view",
+    "In/Out division tables that end with a letter-variable rule (A / 2 = B), giving an early look at letters standing for unknowns."
+   ],
+   [
+    "https://drive.google.com/file/d/1mxnDEzi0kVpoSpzakFmNZ-m-wRcQZXfr/view",
+    "One-step division word problems to rehearse the divide step before combining it with subtraction."
+   ]
+  ]
+ },
+ "G5|Generate two sequences using two different rules": {
+  "core": [
+   "https://drive.google.com/file/d/1JBIRHyWD_VtMuEWniDLklHAp852Y-XVe/view"
+  ],
+  "prereq": [
+   "https://drive.google.com/file/d/1Mh209MKA7loYc7x0zQ__4iw4XLcbcte_/view",
+   "https://drive.google.com/file/d/13Ypy2UM1vDAbpAgxEcNc_vwIdbw5gUTc/view"
+  ],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1iG6q-2cFJlBy9uBU4vM0BGB69PtIgQ_u/view",
+    "First-quadrant practice in writing and plotting ordered pairs, for graphing the pairs formed from the two sequences."
+   ],
+   [
+    "https://drive.google.com/file/d/1MRbRBLP0vERquRWJBrFhqFcX45iXxes1/view",
+    "Function-machine In/Out tables that build the habit of comparing corresponding input and output values."
+   ],
+   [
+    "https://drive.google.com/file/d/1K2zPcnFCGLQ6uOKX29h-5nTyTpgnW7rn/view",
+    "'Two-rule' patterns alternate two rules within a single sequence. Use them as an extension or contrast, not as two sequences."
+   ]
+  ]
+ },
+ "G5|Fraction line plots": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1vi-0ZDJJ9Lg2sYKnZRaP1MbVnnfm8Mdy/view",
+   "https://drive.google.com/file/d/1z9V-oCLIye6qJfhUgUkeSpXFlgQTnF2A/view",
+   "https://drive.google.com/file/d/1d_RPXpzXLql4cYFoqNxuDFHeRx-dbw9o/view"
+  ],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1ZNiyczzC6cbVEE-UwmhtdXSsa_5quiQt/view",
+    "Grade 5 make-a-line-plot task from a table of 30 values (whole numbers only); students can copy its construction steps with fraction data."
+   ],
+   [
+    "https://drive.google.com/file/d/1wb1b0JX6t8Uc7JM8xg1qxREvWMMdRHAX/view",
+    "Measuring objects to the nearest quarter inch gives a quick way to produce fractional data for a class line plot."
+   ],
+   [
+    "https://drive.google.com/file/d/1709dQVPpYhkehghsZPmOwFUPp2R8PlDN/view",
+    "Grade 5 line plot interpretation where students must compute with the plotted values to answer questions."
+   ]
+  ]
+ },
+ "K|Add and subtract within 5 written vertically (column form)": {
+  "core": [
+   "https://drive.google.com/file/d/1Y794Mc1uF7_dzfWzJXwaGnBbzLz9RPor/view",
+   "https://drive.google.com/file/d/1Am0zpEHkuCys1zpIOxoGKn4_AUtWkAjZ/view",
+   "https://drive.google.com/file/d/112_oFOkY85Rl_YWZE1LZUswALj79-nOw/view"
+  ],
+  "prereq": [],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1j9QUP2M-pDlCAD0o13ApNgjsl1f2nFu1/view",
+    "Sums-up-to-5 addition facts - have pupils rewrite each fact in column form before solving to cover the addition half of the lesson."
+   ],
+   [
+    "https://drive.google.com/file/d/16KmEhTsszLdDopb_AakrNq03KxdrhIQ5/view",
+    "Column addition drill (sums to about 18) - pick only the facts within 5, or use as a stretch."
+   ],
+   [
+    "https://drive.google.com/file/d/1vtb36hGlpB3dLgaamEUJaHDxap9vJOjN/view",
+    "Addition on a 0-5 number line - a model to check column answers."
+   ]
+  ]
+ },
+ "K|Sort into categories, count each group and find the total": {
+  "core": [
+   "https://drive.google.com/file/d/1vtwS43VIpZq6wZfIF139gVgz2c6Uvq-Z/view",
+   "https://drive.google.com/file/d/1b__VwD_PdOLUo__TSDs1mz4eEQ48x1Lg/view",
+   "https://drive.google.com/file/d/1SF6y8HwcwTw1qHVxJdhI-rzlXRrzzKmL/view"
+  ],
+  "prereq": [],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1Lg_mSzrSDdICoXJbpoc5yTBuD3Eo4Bop/view",
+    "Count-and-compare scene: count each animal type, then add the groups for a total."
+   ],
+   [
+    "https://drive.google.com/file/d/1D6XIkXmo_j-hrRiIAlm6hLuFFvC8y4G-/view",
+    "Grade 1 classify-count-compare scene - extension asking which group has most/fewest."
+   ],
+   [
+    "https://drive.google.com/file/d/1SlIshckcDKa9LwftFKxatAp_JB15YacW/view",
+    "Count two picture groups and add (sums to 5) - practises finding the total after counting each group."
+   ]
+  ]
+ },
+ "G1|Solve one-step word problems within 20 using bar models": {
+  "core": [
+   "https://drive.google.com/file/d/1suj3KJzPsFyvYp2s3WSbbH6llyTW_Cal/view",
+   "https://drive.google.com/file/d/1N693VB5yIb0emgN3glj7HN4ynw3-ePcZ/view",
+   "https://drive.google.com/file/d/1BCAVuQSUnHrnP6fMirkZ-JH4SgesWKhT/view"
+  ],
+  "prereq": [
+   "https://drive.google.com/file/d/1BAq8laraTx4fR1Fae3OFYiBDaECjNhuM/view",
+   "https://drive.google.com/file/d/10QgGtZ1sRIDA9NwcBNbTolcOD-qasiuK/view"
+  ],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1BJqDA1y6ucj6oIsd_IMUat0ttMwPmJkr/view",
+    "Simple 0-10 subtraction word problems - easier entry; model each with a bar."
+   ],
+   [
+    "https://drive.google.com/file/d/1vuX6JiUGnKWtkpYMzG3rrtym88o8XA_l/view",
+    "Column addition to 20 plus 2 word problems per sheet - draw a bar model for the word problems."
+   ],
+   [
+    "https://drive.google.com/file/d/1aDNJzyq66GKQNz0iDFHqeCvRfDogV-go/view",
+    "Blank part-part-whole templates - reuse as bar-model frames for any story problem."
+   ]
+  ]
+ },
+ "G2|Read and write numbers to 1,000 in words, numerals and expanded form": {
+  "core": [
+   "https://drive.google.com/file/d/1z3dXMC8bfcOkpy_Re8JM4XpXFDtKZgV3/view",
+   "https://drive.google.com/file/d/1W_X1i2Sk_TuxLOqW9Rt1KStH5krHLrSO/view",
+   "https://drive.google.com/file/d/1ZfSSMXgjWa5lmp-AEXH6Jp21f0yk3DkX/view",
+   "https://drive.google.com/file/d/15MRUodIDCmV498iZl14w6ZRL08R4Ipqu/view"
+  ],
+  "prereq": [
+   "https://drive.google.com/file/d/1Di3OIWoHqZ5P7AcrYA4UjypLmOqsApXU/view",
+   "https://drive.google.com/file/d/1zipCbwwtl9FlAQk77z-WD8z2lBre2mxY/view"
+  ],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1ztZj5xFSqiMJS3LsL-yUwQiver9pFRD6/view",
+    "Expanded word form (8 hundreds + 1 ten + 9 ones) to standard form - extra practice on the place-value naming route."
+   ],
+   [
+    "https://drive.google.com/file/d/1mN8-9WqOZv68fd2NMRHwdY_7hPh0lU3P/view",
+    "Mother's Day mystery puzzle converting expanded/word form to numerals - fun consolidation."
+   ],
+   [
+    "https://drive.google.com/file/d/1OjJtblDzQjgmFUhVp9tDvwHNltIXcBYz/view",
+    "Writing money amounts up to $1,000 in words - real-life link for number words."
+   ]
+  ]
+ },
+ "G2|Add and subtract within 100 on a number line (jumps of tens and ones)": {
+  "core": [
+   "https://drive.google.com/file/d/15d9sdW09gvlJau-ayEixpml7UQNkbe3Z/view",
+   "https://drive.google.com/file/d/1YVaLIWhSapDYOSez2XiMfgftin2cCvGr/view"
+  ],
+  "prereq": [
+   "https://drive.google.com/file/d/1bTrlzZVsrPoElczWfcK_noXu8myWpvQp/view",
+   "https://drive.google.com/file/d/1hsL4jZT24zD7W0OQXW2X4yoapbIPHwIL/view"
+  ],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1XMYCpdw2UwGIM4umjfzhhrRMrj346heI/view",
+    "Two-digit addition without regrouping - solve each on an open number line with jumps of tens then ones."
+   ],
+   [
+    "https://drive.google.com/file/d/1uT1hB-5LPQI8K5HYL9NeMhF43ELyKywG/view",
+    "Two-digit subtraction without regrouping - solve with backward jumps on a number line."
+   ],
+   [
+    "https://drive.google.com/file/d/1gbmKN1EfoJUHt-9fEoX2ZV7CgkhPfMdS/view",
+    "Blank number-line templates - for drawing open number lines for any within-100 problem."
+   ]
+  ]
+ },
+ "G3|Properties of multiplication: commutative, identity and distributive": {
+  "core": [
+   "https://drive.google.com/file/d/1jNlTYZgC-xt5lJnagf4aA0SXz8bAfVU6/view",
+   "https://drive.google.com/file/d/1J682BubTteSdTVfa0uTLBFEQ9X6HrffC/view",
+   "https://drive.google.com/file/d/18mG65ToEiIm7DOJyPLu7p8icBsWRpNqh/view",
+   "https://drive.google.com/file/d/1byHGT9ztCiKBxmcsIjNICxX1dFxIXgqd/view"
+  ],
+  "prereq": [
+   "https://drive.google.com/file/d/1f3Mo3bjh73ewp5kDUGogLGFJab-FrMbP/view",
+   "https://drive.google.com/file/d/1PXnG9lGLoQ8bInzSuS2CqbIjmIeKKzAC/view",
+   "https://drive.google.com/file/d/1h9b17bI5xrm4SOQDQDWLen95z8ZmqvSF/view"
+  ],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1EjnMjcK1RVPst8b2O3XKvS5I1MgWey0m/view",
+    "Grade 2 MCQ on equivalent multiplication sentences - quick commutative-property check."
+   ],
+   [
+    "https://drive.google.com/file/d/1r5FGN3cZHDmgPHhNXSIHzuLPZfBvCejB/view",
+    "Associative property of multiplication - extension beyond the three properties in the lesson."
+   ],
+   [
+    "https://drive.google.com/file/d/1nVU63TYhD_w5p0CGm_g626V_TTMGceE1/view",
+    "Properties of division (zero and one) - contrast with the identity property of multiplication."
+   ]
+  ]
+ },
+ "G3|Find the rule in an input-output table": {
+  "core": [
+   "https://drive.google.com/file/d/1BvRvbcZmkLg-nlre9TyN67Uiz1Fq7rJE/view",
+   "https://drive.google.com/file/d/1Id6YKv_w8w-of1CpygQgVEgbRZeLmA09/view",
+   "https://drive.google.com/file/d/1Jnq2jo7B7k6csFOMGXx10xbbei9YKpCt/view"
+  ],
+  "prereq": [
+   "https://drive.google.com/file/d/14QOauqGMuo8ZxZsiN0ZaxYGvS3mS0X3E/view",
+   "https://drive.google.com/file/d/1PbJh0IEJFt6aPU7Jlnuf_pLCUc0s-18k/view"
+  ],
+  "related": [
+   [
+    "https://drive.google.com/file/d/13Ypy2UM1vDAbpAgxEcNc_vwIdbw5gUTc/view",
+    "Writing number pattern rules for sequences - same 'find the rule' reasoning without a table."
+   ],
+   [
+    "https://drive.google.com/file/d/1GnZ-ZtzgY8XPRmzriyrNm4uaWNNEgfTF/view",
+    "Write the rule Level 2 (3-digit inputs) - challenge for fast finishers."
+   ],
+   [
+    "https://drive.google.com/file/d/1ZLYoMr7ogpWWDA6xAjvN1gJJBBg13Sd7/view",
+    "Grade 4 write-the-rule in/out tables - stretch."
+   ]
+  ]
+ },
+ "G3|Solve addition and subtraction word problems within 1,000 using bar models": {
+  "core": [
+   "https://drive.google.com/file/d/15rhHrBq3jvTbjbE-yk12TsJ-Os708WaK/view",
+   "https://drive.google.com/file/d/1flpTuH8st8IClLMjKaF35vIY96CbcFuO/view",
+   "https://drive.google.com/file/d/1aJqvAUTesyjFP-EITxQu6pCQoCynkPV7/view",
+   "https://drive.google.com/file/d/1cdNjT-SqO158Q_pu9kVGfVRobnFfaeVj/view"
+  ],
+  "prereq": [
+   "https://drive.google.com/file/d/1NXKoLzpe8Eep6QsR_48rBulh3q_jibh_/view",
+   "https://drive.google.com/file/d/1VGkBgLSzqka20wxNJ6ynlHAEIBS3UBLW/view"
+  ],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1suj3KJzPsFyvYp2s3WSbbH6llyTW_Cal/view",
+    "Grade 1 bar-model fact families - warm-up on reading the whole and the parts of a bar."
+   ],
+   [
+    "https://drive.google.com/file/d/1_f96TkireAZSt6Y-GsJNsKS5MnSWOcMS/view",
+    "Money subtraction word problems - extra context; model each with a bar."
+   ],
+   [
+    "https://drive.google.com/file/d/1sftt7zfAKYcbx7PI0sPIdF7JItCG7doV/view",
+    "Three-digit addition word problems (no grid) - more addition stories to draw bars for."
+   ]
+  ]
+ },
+ "G4|Multiplicative comparison word problems: how many times as many? (unknown multiplier)": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1nkBHaZ6pnbZOuiLjJhjzxjz8VClN9Kx6/view",
+   "https://drive.google.com/file/d/1mxnDEzi0kVpoSpzakFmNZ-m-wRcQZXfr/view"
+  ],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1GLRLqi8N5V4YmaAK9T5OskG-SaFh0h4q/view",
+    "Multiply/divide money word problems incl. finding how many items for a total - reword items as 'how many times as much?'."
+   ],
+   [
+    "https://drive.google.com/file/d/1zqILKtMc0FHnnq0TXD6SgNEJSvT62NZe/view",
+    "Theme-based one-step multiplication word problems - adapt by asking how many times greater the product is than one factor."
+   ]
+  ]
+ },
+ "G4|Multiply and divide multiples of 10 using basic facts (e.g., 90 x 50, 300 \u00f7 30)": {
+  "core": [
+   "https://drive.google.com/file/d/13-lVkGUjmjiapEkAsYdBkCtR9q9KqnSp/view"
+  ],
+  "prereq": [
+   "https://drive.google.com/file/d/1fOwFbaqooipAyfok1gELVWw_3gboed2L/view",
+   "https://drive.google.com/file/d/17Y_nnFBkuJJvAH21Gvg8wJP7xGyO6yXW/view"
+  ],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1bEig9s5id8SP4c-X4KWaoffPqs24OSEc/view",
+    "Basic multiplication fact drill - fluency with the facts the lesson builds on."
+   ],
+   [
+    "https://drive.google.com/file/d/1zZNheKJkzbMMSL0sWh-LWMDZlZhdRT-T/view",
+    "Grade 5 product-without-multiplying sheet - extends the 'use a basic fact' idea."
+   ]
+  ]
+ },
+ "G4|Decompose a fraction into a sum of fractions (equations and drawings)": {
+  "core": [
+   "https://drive.google.com/file/d/1t_R5Avww32Wn6SXTs8jwEhNeD7GThTuf/view",
+   "https://drive.google.com/file/d/1-kKpzB2_W0hp60DixrUTemSwSnEk4vEf/view",
+   "https://drive.google.com/file/d/1ZlA0S9np7TbYfx2Tn308q5JkeNdpTXam/view"
+  ],
+  "prereq": [
+   "https://drive.google.com/file/d/1ldQxA2KWA58kL2CfsdOSc2Xjrl_9uPFr/view",
+   "https://drive.google.com/file/d/1gHtTHM0-6X-1TwkdVXv2--TehZMqbLDV/view"
+  ],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1X1LkfhfNEfkFKSWOhS_rYU2vR2_qu0Xi/view",
+    "Missing-addend fractions (e.g. 2/6 + ? = 2/3) - practise splitting a fraction into two parts."
+   ],
+   [
+    "https://drive.google.com/file/d/1sJYVxhyAVcaYQ10srHMFfF6Tz-kOS7xw/view",
+    "Adding three same-denominator fractions with hops - reverse it: decompose the sum into three parts."
+   ],
+   [
+    "https://drive.google.com/file/d/10QfuF1NX6aL1wksVGJmm3zKtJ4SLg5ln/view",
+    "Missing variable in like-fraction addition equations - extra decomposition practice."
+   ]
+  ]
+ },
+ "G4|Add tenths and hundredths (rename tenths as hundredths)": {
+  "core": [
+   "https://drive.google.com/file/d/1PW4ffbxdkj0XZFD06DTIoMXPdjGW_tbn/view"
+  ],
+  "prereq": [
+   "https://drive.google.com/file/d/1RYCZgur0Gdm4F4hVr3UlAPkGrcPXQULY/view",
+   "https://drive.google.com/file/d/1-qjPUxV_9rAapYi2E25Bt9VsFrqNNsd5/view"
+  ],
+  "related": [
+   [
+    "https://drive.google.com/file/d/163iGyGpMpSa6Rl-fdJ7jcaL8L4rVeNXf/view",
+    "Fractions with denominator 10 or 100 to decimals - use to rename tenths as hundredths (3/10 = 30/100 = 0.30)."
+   ],
+   [
+    "https://drive.google.com/file/d/1D0nTqESlwnWF5AsLX9SBYBrqX328D7x7/view",
+    "Missing numbers in equivalent fractions - choose the x/10 = ?/100 items."
+   ],
+   [
+    "https://drive.google.com/file/d/1wCrGGroV50gygCYLaOlpvqLV8E1x1utj/view",
+    "Adding like proper fractions - practise the final step once both addends are in hundredths."
+   ]
+  ]
+ },
+ "G4|Angles are additive: find an unknown angle in a decomposed angle": {
+  "core": [
+   "https://drive.google.com/file/d/1UwcHmoMmM8r1Fs6PIIwkc0Ay_vRKX8UD/view",
+   "https://drive.google.com/file/d/1idxsLcSuF8BXiBAI2vsmwR3YXdx_z2Lo/view"
+  ],
+  "prereq": [
+   "https://drive.google.com/file/d/14B64U5_VKJ9qH_t7JIJhTNJOdRWgXcQg/view"
+  ],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1gzfdoJakPGnblt4I01JxUYny9IW5N6FX/view",
+    "Identifying pairs of adjacent angles - vocabulary for decomposed angles."
+   ],
+   [
+    "https://drive.google.com/file/d/1-srwMrx5Jvw9drrPX-RAaA9kJjSAzI2m/view",
+    "Measuring angles with a protractor (inner scale) - check unknown-angle answers by measuring."
+   ],
+   [
+    "https://drive.google.com/file/d/1C5P8ZY_4C6qehnsd2avlKpBddLt1pf0r/view",
+    "Sorting angles formed by multiple rays from one vertex - see how small angles combine into larger ones."
+   ]
+  ]
+ },
+ "G5|Compare digit values: a digit is worth 10 times the place to its right and 1/10 of the place to its left": {
+  "core": [
+   "https://drive.google.com/file/d/12F2VBde2xbw9x_RrAi2FDJFgaCo5RnnF/view",
+   "https://drive.google.com/file/d/13AZxCjWdkCW7RY70I98ZEnWqjkD4QC6Y/view"
+  ],
+  "prereq": [
+   "https://drive.google.com/file/d/1Y3zlQtqwibRxeNDCeb7pMSMcdEzDkyNs/view",
+   "https://drive.google.com/file/d/1SFOyCBGMi83rLVhXOO-KLseTnnlgMUE6/view"
+  ],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1TaaU8ggBOrhUACg2CRfYjRNaWdncRAdp/view",
+    "MCQ: choose the number where a digit has a given value (e.g. 6 worth 0.06) - compare digit values across places."
+   ],
+   [
+    "https://drive.google.com/file/d/1KI0K7gv1AILdzhIP-7l9_jFsnKXiF8YW/view",
+    "Place value of underlined digits up to thousandths - extend the 10x / 1/10 idea to decimals."
+   ],
+   [
+    "https://drive.google.com/file/d/1_DLHMRbRC_0lul5kYkMjpOck8_37Hrhx/view",
+    "Place-value chart poster to millions - visual support for the 10x relationship."
+   ]
+  ]
+ },
+ "G5|Read and write decimals to thousandths in word form and expanded form": {
+  "core": [
+   "https://drive.google.com/file/d/1pIZDiudOoZUVMb9MjL73CY_mdjMHppJx/view",
+   "https://drive.google.com/file/d/1BmXdN2aYGl72xC0DXRNhMj-uSr3pl9bH/view",
+   "https://drive.google.com/file/d/19d4Pqrq9D4b4AGEpu0Dz9oGXP1XuwTz-/view",
+   "https://drive.google.com/file/d/133A7trM8Lgj_eAGtWjnJ6BdEI804jDi1/view"
+  ],
+  "prereq": [
+   "https://drive.google.com/file/d/1w7EDMRgpg0YpX3gQC3mb9_Ag-xBX0BAw/view",
+   "https://drive.google.com/file/d/1PDprBcWglhWo1DP2oUFHfupn2i6719ZL/view"
+  ],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1QeQrdtNAXp4JzpVxaBNtImWFAsNg_T68/view",
+    "Decimals in words up to millionths - stretch beyond thousandths."
+   ],
+   [
+    "https://drive.google.com/file/d/1S2QIaS2XARSWtHtLf0RhESh5SAzkODnz/view",
+    "Expanded product form with 1/10, 1/100, 1/1000 - links expanded form to fraction notation."
+   ],
+   [
+    "https://drive.google.com/file/d/10Xf7PC5aM2F60QbQINhGGoj4adoJtXGG/view",
+    "Underline the digit in a given decimal place - place-value warm-up."
+   ]
+  ]
+ },
+ "G5|Multiply and divide decimals by powers of 10 written with exponents (10^1, 10^2, 10^3) and explain the pattern": {
+  "core": [
+   "https://drive.google.com/file/d/1gNBWYMpU90IbnKBceAkw3zMtplWdVSp8/view",
+   "https://drive.google.com/file/d/1zZNheKJkzbMMSL0sWh-LWMDZlZhdRT-T/view"
+  ],
+  "prereq": [
+   "https://drive.google.com/file/d/1fOwFbaqooipAyfok1gELVWw_3gboed2L/view",
+   "https://drive.google.com/file/d/17Y_nnFBkuJJvAH21Gvg8wJP7xGyO6yXW/view"
+  ],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1Xq92myyfqCo3edJUU5m-gHbBzoODRozb/view",
+    "Expanded exponential form (3 x 10^1 + 4 x 10^0) - introduces the 10^n notation used in the lesson."
+   ],
+   [
+    "https://drive.google.com/file/d/1Hy7SiVZdqUzHBrVTgGmUA8n8_RzTQ7TO/view",
+    "Decimals in expanded exponential form - links powers of ten to decimal places."
+   ],
+   [
+    "https://drive.google.com/file/d/1dtWwzS3C6RfOMLFXsz7aUQws4oR5j5V0/view",
+    "Metres to kilometres (divide by 1000) - real context for dividing by 10^3."
+   ]
+  ]
+ },
+ "G5|Evaluate expressions with parentheses, brackets and braces": {
+  "core": [
+   "https://drive.google.com/file/d/1qliUj6vQ29flvWW8yjARN6dGcGlgPI3k/view",
+   "https://drive.google.com/file/d/1E3fYNF6eiAA1GzyuOShfKyJpB4ACDZAO/view",
+   "https://drive.google.com/file/d/1gMepw00kSDZxhPistTL0gdIIah6Q0c7h/view",
+   "https://drive.google.com/file/d/1Un2lRzMvveMsFUj7ggT5P4rkpnQXiLOS/view"
+  ],
+  "prereq": [
+   "https://drive.google.com/file/d/1htf3KHm8kO-7Abio7iWtWyaNqj1p1zTr/view"
+  ],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1D0uZLUPqwhVT07LKd52Z8DnIVPoT9ECy/view",
+    "Missing numbers in equations with parentheses - reasoning extension."
+   ],
+   [
+    "https://drive.google.com/file/d/1ZaR6lW1lmIFlywTPlExquHFRfFb6R2R3/view",
+    "Evaluate and compare two expressions with parentheses - quick check of evaluation."
+   ],
+   [
+    "https://drive.google.com/file/d/1KRc7SWC9S70eUnc1-LVFXy1gKFzIwe2K/view",
+    "Fill in operators to make parenthesised equations true - puzzle extension."
+   ]
+  ]
+ },
+ "G5|Write and interpret numerical expressions (words to expressions, expressions to words)": {
+  "core": [],
+  "prereq": [
+   "https://drive.google.com/file/d/1htf3KHm8kO-7Abio7iWtWyaNqj1p1zTr/view"
+  ],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1p6Y9nNewzkInrtEUaKUg25hGxgMXjohF/view",
+    "Grade 6 verbal phrases to algebraic expressions - adapt by replacing each variable with a number to practise words-to-expression."
+   ],
+   [
+    "https://drive.google.com/file/d/1gMepw00kSDZxhPistTL0gdIIah6Q0c7h/view",
+    "Evaluate expressions with one pair of parentheses - read each aloud in words (interpret) before evaluating."
+   ]
+  ]
+ },
+ "G5|Find the area of a rectangle with fractional side lengths": {
+  "core": [
+   "https://drive.google.com/file/d/1t2OhzUQfaOLCWJ9YqBzImu5PwJrYYI0e/view",
+   "https://drive.google.com/file/d/1HkEqLaC12SjlumkQ3n9-BaBBXGpTCnAk/view",
+   "https://drive.google.com/file/d/1ygF91hihxMhkc0xOxc4fY5KcE41IyRPi/view",
+   "https://drive.google.com/file/d/1IgJbQwUPEcw2-IaBYBfLEjtKCIc5EQIJ/view"
+  ],
+  "prereq": [
+   "https://drive.google.com/file/d/10reYfiwE_QK-TbUrUNEgN5y3v83ZgOwt/view",
+   "https://drive.google.com/file/d/1DiOuNLpV9zFSF3QNbhBA8yCwLRQIjlqw/view"
+  ],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1XT3N7J9grfk0zrFGJaspro1L2xNoAn3i/view",
+    "Grade 4 area of rectangles with mixed-number sides - easier entry set."
+   ],
+   [
+    "https://drive.google.com/file/d/1FiYbGAaMMU450DqD_Lv74uWnN-fXFq6i/view",
+    "Area of parallelograms with fractional base and height - extension."
+   ],
+   [
+    "https://drive.google.com/file/d/1KXcL52lkMObWNkCFz-Z7rWsR9t4ZcjWv/view",
+    "Multiplying mixed numbers and fractions - computation practice for the area step."
+   ]
+  ]
+ },
+ "G5|Convert customary units of length (inches, feet, yards, miles)": {
+  "core": [
+   "https://drive.google.com/file/d/13m6hsdIqLQHYwUa2yhMmPyrRXJ9d9lIW/view",
+   "https://drive.google.com/file/d/1ZxtX8pU1OKEBNGl-JRirW6vgW8ppxy2f/view",
+   "https://drive.google.com/file/d/1QMuobh0Mhn5O5yg-_6N_Z81X6gv9dUgf/view",
+   "https://drive.google.com/file/d/1u2APirprGs58VKIlXYFcDXaSUVwp8IO8/view"
+  ],
+  "prereq": [
+   "https://drive.google.com/file/d/1V6DnY5n7VuPsWVEPp65_xoDx1Su6G4E6/view",
+   "https://drive.google.com/file/d/19h4ah7lDmhkevGbWzpmHxRVh60Z1Dwyz/view"
+  ],
+  "related": [
+   [
+    "https://drive.google.com/file/d/1hzMhsx-CzhoqeQIFz0vapIo9uPT0pKFh/view",
+    "Feet-miles conversions with tables and comparisons - extra miles practice."
+   ],
+   [
+    "https://drive.google.com/file/d/1ia2zLTVgFTe7bJoHZ_ayIosJXH5_xWTh/view",
+    "Area of rectangles with sides in different customary units - apply conversions."
+   ],
+   [
+    "https://drive.google.com/file/d/14IYJ1KS8bUlA6Oe1vAD09GFtPm9bv0Pt/view",
+    "Perimeter word problems with mixed feet/inch units - apply conversions in context."
+   ]
+  ]
+ }
 }

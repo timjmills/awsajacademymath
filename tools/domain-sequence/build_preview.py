@@ -4,7 +4,7 @@ import re, json, gzip, base64, sys, collections, math, os
 from core import SITEWEEKS, dkey
 
 REPO = '/home/user/awsajacademymath'
-live_html = open(os.path.join(REPO, 'index.html')).read()
+live_html = open('inputs/base_site.html').read()  # the site before the domain sequence (also kept at old/)
 m = re.search(r'(<script id="__data"[^>]*>)(.*?)(</script>)', live_html, re.S)
 D = json.loads(gzip.decompress(base64.b64decode(m.group(2).strip())))
 SEQ = json.load(open('out/domain_sequence.json'))['grades']
@@ -252,10 +252,6 @@ def sub(a, b, count=1):
     app = app.replace(a, b)
 
 
-# 1. separate browser storage; tracking is read-only in the preview
-app = app.replace('localStorage.', '__pvLS.')
-sub('fetch(TRACKER_API+path,{...opts,headers:h})',
-    '(opts&&opts.method&&opts.method!=="GET"?Promise.reject(new Error("Preview: tracking is read-only")):fetch(TRACKER_API+path,{...opts,headers:h}))')
 # 2. support panel comes from the week's own lessons; no block-based pull-ups
 sub('function pulledUpByWeek(gradeId){', 'function pulledUpByWeek(gradeId){if((window.PACING||{}).domainSeq&&gradeId!=="PK")return{};')
 # 3. lesson files: copied-in steps open their source grade
@@ -380,7 +376,7 @@ sub('"WEEK BY WEEK · THREE STRANDS · GENERATED FROM THE PACING HANDBOOK"', '"W
 
 # 15. printed guides and handbooks for K-G5 are the new domain-sequence PDFs in preview/docs
 GN = {'K': 'Kindergarten', 'G1': 'Grade-1', 'G2': 'Grade-2', 'G3': 'Grade-3', 'G4': 'Grade-4', 'G5': 'Grade-5'}
-DOCS = ','.join(f'{g}:{{hb:"docs/{n}-Teaching-and-Pacing-Handbook-2026-27.pdf",pg:"docs/{n}-Weekly-Pacing-Guide-2026-27.pdf",yg:"docs/{n}-Year-at-a-Glance-2026-27.pdf"}}' for g, n in GN.items())
+DOCS = ','.join(f'{g}:{{hb:"preview/docs/{n}-Teaching-and-Pacing-Handbook-2026-27.pdf",pg:"preview/docs/{n}-Weekly-Pacing-Guide-2026-27.pdf",yg:"preview/docs/{n}-Year-at-a-Glance-2026-27.pdf"}}' for g, n in GN.items())
 sub('const driveView=id=>"https://drive.google.com/file/d/"+id+"/view";',
     'const driveView=id=>/\\.pdf$/.test(id)?id:"https://drive.google.com/file/d/"+id+"/view";Object.assign(GRADE_DOCS,{' + DOCS + '});')
 sub('title:"The full-year teaching & pacing handbook for this grade (PDF, opens in Drive)"', 'title:"The full-year teaching & pacing handbook for this grade (PDF)"')
@@ -393,27 +389,105 @@ sub('href:RES_LINKS.handbooks,wrm:false})', 'href:(GRADE_DOCS[grade.id]&&/\\.pdf
 
 # 16. the K-5 pacing workbook (xlsx) sits beside the PDFs
 sub('pre-teach packs and the teaching guides.":"The separate teacher handbook: the year on one page, each domain with its weeks, power standards and exam, the lessons still to build and those copied in, how the strands work, and the checks."}));}',
-    'pre-teach packs and the teaching guides.":"The separate teacher handbook: the year on one page, each domain with its weeks, power standards and exam, the lessons still to build and those copied in, how the strands work, and the checks."}),grade.id!=="PK"&&React.createElement(Card,{href:"docs/Awsaj-Domain-Sequence-K-5-2026-27.xlsx",tone:"#2E7D32",kicker:"SPREADSHEET · K TO GRADE 5",title:"Pacing workbook · every grade",what:"Every lesson of K to Grade 5 week by week with its domain, CCSS codes, strand (S / P / I) and support lessons, the domain exams and MAP, a summary of every domain, and the CCSS coverage check. Filter it to plan."}));}')
-sub('"OPEN THE FULL MAPPING SHEET ↗")', '"OPEN THE FULL MAPPING SHEET ↗"),React.createElement("a",{href:"docs/Awsaj-Domain-Sequence-K-5-2026-27.xlsx",className:"mono",style:{fontSize:11,fontWeight:700,letterSpacing:"0.06em",padding:"9px 14px",borderRadius:6,border:"1px solid #2E7D32",color:"#2E7D32",background:"#F1F8F2",textDecoration:"none"}},"K–5 DOMAIN PACING WORKBOOK (XLSX) ↓")')
+    'pre-teach packs and the teaching guides.":"The separate teacher handbook: the year on one page, each domain with its weeks, power standards and exam, the lessons still to build and those copied in, how the strands work, and the checks."}),grade.id!=="PK"&&React.createElement(Card,{href:"preview/docs/Awsaj-Domain-Sequence-K-5-2026-27.xlsx",tone:"#2E7D32",kicker:"SPREADSHEET · K TO GRADE 5",title:"Pacing workbook · every grade",what:"Every lesson of K to Grade 5 week by week with its domain, CCSS codes, strand (S / P / I) and support lessons, the domain exams and MAP, a summary of every domain, and the CCSS coverage check. Filter it to plan."}));}')
+sub('"OPEN THE FULL MAPPING SHEET ↗")', '"OPEN THE FULL MAPPING SHEET ↗"),React.createElement("a",{href:"preview/docs/Awsaj-Domain-Sequence-K-5-2026-27.xlsx",className:"mono",style:{fontSize:11,fontWeight:700,letterSpacing:"0.06em",padding:"9px 14px",borderRadius:6,border:"1px solid #2E7D32",color:"#2E7D32",background:"#F1F8F2",textDecoration:"none"}},"K–5 DOMAIN PACING WORKBOOK (XLSX) ↓")')
 
 # 17. one-page year at a glance per grade (K-G5)
 sub('React.createElement("a",{className:"mono",style:style,href:driveView(d.hb),target:"_blank",rel:"noreferrer",title:"The full-year teaching & pacing handbook for this grade (PDF)"},"↓ HANDBOOK")',
     'd.yg&&React.createElement("a",{className:"mono",style:style,href:d.yg,target:"_blank",rel:"noreferrer",title:"One page: what this grade teaches, week by week, all year (PDF)"},"↓ YEAR AT A GLANCE"),React.createElement("a",{className:"mono",style:style,href:driveView(d.hb),target:"_blank",rel:"noreferrer",title:"The full-year teaching & pacing handbook for this grade (PDF)"},"↓ HANDBOOK")')
 sub('return React.createElement("div",{style:{display:"grid",gridTemplateColumns:"repeat(auto-fit, minmax(300px, 1fr))",gap:12,margin:"16px 0 22px",maxWidth:900}},',
     'return React.createElement("div",{style:{display:"grid",gridTemplateColumns:"repeat(auto-fit, minmax(300px, 1fr))",gap:12,margin:"16px 0 22px",maxWidth:900}},d.yg&&React.createElement(Card,{href:d.yg,tone:"#E8720C",kicker:"PRINT · ONE PAGE",title:"Year at a Glance · "+grade.name,what:"The whole year on one landscape page: every week\'s lessons in four quarter columns, coloured by domain, with the domain exams, MAP and the enrichment weeks. Pin it up or hand it out."}),')
+
+# 20. lessons with no White Rose step on file: find the real files (same grade, the UK version of a US lesson, then the nearest grade)
+_RES = D['RESOURCES']; _US = json.load(open('inputs/adapt.json'))['US']
+_norm = lambda t: re.sub(r'[^a-z0-9]', '', re.sub(r'\s*\((?:US|UK)[^)]*\)\s*$', '', t or '').lower())
+_ORD = ['PK', 'K', 'G1', 'G2', 'G3', 'G4', 'G5']
+_IDX = {g: {t: (bn, sn) for bn, B in G_['b'].items() for t, sn in (B.get('t') or {}).items()} for g, G_ in _RES.items() if isinstance(G_, dict) and 'b' in G_}
+RESOLVED = {}; UNRESOLVED = {}
+for g in ['K', 'G1', 'G2', 'G3', 'G4', 'G5']:
+    for w in D['PACING']['grades'][g]['weeks']:
+        for tr in w['t'].values():
+            for st in tr.get('st', []):
+                if st.get('b') is not None or st.get('f') in ('exam', 'map', 'committee'): continue
+                src = st.get('g') or g; k = _norm(st['n']); hit = None
+                for cand in [k, _norm(_US.get(src, {}).get(k, ''))]:
+                    if cand and cand in _IDX.get(src, {}): hit = (src, _IDX[src][cand]); break
+                if not hit:
+                    i = _ORD.index(src)
+                    for gg in sorted(_ORD, key=lambda x: (abs(_ORD.index(x) - i), _ORD.index(x) > i)):
+                        if k in _IDX.get(gg, {}): hit = (gg, _IDX[gg][k]); break
+                if hit:
+                    st['b'], st['s'] = int(hit[1][0]) if hit[1][0].isdigit() else hit[1][0], int(hit[1][1]) if str(hit[1][1]).isdigit() else hit[1][1]
+                    if hit[0] != g: st['g'] = hit[0]
+                    else: st['rv'] = 1   # matched by title: tracked by its title, not by the White Rose step number
+                    RESOLVED.setdefault(g, {})[st['n']] = hit
+                else:
+                    UNRESOLVED.setdefault(g, set()).add(st['n'])
+for g, r in UNRESOLVED.items(): print('UNRESOLVED', g, sorted(r))
+for g, r in RESOLVED.items(): print('resolved', g, {k: f"{v[0]} B{v[1][0]} S{v[1][1]}" for k, v in r.items()})
+
+# 18. every lesson gets a paperclip: one with no White Rose file still opens Twinkl, MW4K and its prerequisites
+sub('if(!items.length){const usAdapt=/\\((?:US|UK)[^)]*\\)/.test(title||"");return React.createElement("span",{className:"mono",title:usAdapt?',
+    'const noFiles=!items.length;if(noFiles)items=[{grade:RES[gradeId]||{yn:""},gid:gradeId,block:null,blockNo:null,stepNo:null,files:[],build:true,nofiles:true}];if(false){const usAdapt=/\\((?:US|UK)[^)]*\\)/.test(title||"");return React.createElement("span",{className:"mono",title:usAdapt?')
+sub('const blockOnly=items.length===1&&!items[0].files.length;',
+    'const blockOnly=items.length===1&&!items[0].files.length;const usAdaptT=noFiles&&/\\((?:US|UK)[^)]*\\)/.test(title||"");')
+sub('return React.createElement("span",{style:{display:"inline-flex",alignItems:"center",gap:4,verticalAlign:"middle"},onMouseEnter:pop.enter,onMouseLeave:pop.leave},ukAdapt&&',
+    'return React.createElement("span",{style:{display:"inline-flex",alignItems:"center",gap:4,verticalAlign:"middle"},onMouseEnter:pop.enter,onMouseLeave:pop.leave},noFiles&&flag!=="committee"&&React.createElement("span",{className:"mono",title:usAdaptT?"US adaptation: White Rose has the UK version; the dollars-and-cents / customary version is ours to make. The clip opens Twinkl, MW4K and the prerequisites.":"No White Rose file for this lesson yet. The clip opens Twinkl, MW4K and the prerequisites.",style:{display:"inline-flex",alignItems:"center",fontSize:8,fontWeight:700,letterSpacing:"0.06em",lineHeight:1,padding:"3px 5px",borderRadius:4,color:"#FFFFFF",background:"#F26A1B",border:"1px solid #D2540C",cursor:"help"}},usAdaptT?"✎ US VERSION TO MAKE":"✎ NEED TO MAKE"),ukAdapt&&')
+sub('subtitle||(items[0].build?"CCSS BUILD · LESSON STILL TO BE MADE"', 'subtitle||(items[0].nofiles?"NO WHITE ROSE FILE YET · USE TWINKL AND MW4K":items[0].build?"CCSS BUILD · LESSON STILL TO BE MADE"')
+sub('data.build?"This CCSS lesson is not in White Rose and still needs to be made. Until it is, teach it with the Twinkl search and the MW4K sheets below (with their prerequisite skills).":',
+    'data.nofiles?"White Rose has no file for this lesson yet. Until there is one, teach it with the Twinkl search and the MW4K sheets below (with their prerequisite skills).":data.build?"This CCSS lesson is not in White Rose and still needs to be made. Until it is, teach it with the Twinkl search and the MW4K sheets below (with their prerequisite skills).":')
+# Units tab: open the lesson's own White Rose step (not the domain number), and BUILD / no-file lessons get a clip too
+sub('st.s!=="SUP"&&st.f!=="committee"&&st.s!=null&&React.createElement("span",{style:{marginLeft:6}},React.createElement(ResBadge,{gradeId:grade.id,block:b,step:st.s,title:st.n,compact:true}))',
+    '(st.s!=="SUP"||st.f==="committee")&&React.createElement("span",{style:{marginLeft:6}},React.createElement(ResBadge,{gradeId:st.g||grade.id,block:st.f==="committee"?undefined:(u.kind?(st.b==null?undefined:st.b):b),unitName:st.b==null&&st.f!=="committee"?" ":undefined,step:st.s,title:st.n,compact:true,flag:st.f==="committee"?"committee":undefined}))')
+
+# 19. Codex's site changes (domain cards that open, collapsible weekly pacing), kept and fixed
+WPINTRO_A = app.index('React.createElement("p",{style:{fontSize:13.5,color:"var(--ink-2)",maxWidth:780}},"From Kindergarten to Grade 5')
+WPINTRO_B = app.index('React.createElement("div",{style:{display:"flex",gap:14,margin:"10px 0 6px",flexWrap:"wrap"}', WPINTRO_A)
+WPINTRO = app[WPINTRO_A:WPINTRO_B]
+for o, n in json.load(open('inputs/codex_patch.json')):
+    sub(o, n)
+WPINTRO = (WPINTRO.replace('A ",React.createElement("span",{style:{background:"#FFD84D",padding:"0 4px",borderRadius:3}},"yellow band")," marks the start of a new unit.',
+                           'Each domain sits under a ",React.createElement("span",{style:{background:"#FFD84D",padding:"0 4px",borderRadius:3}},"yellow bar"),": click it to fold the domain away, or use EXPAND / COLLAPSE ALL DOMAINS.')
+           .replace('the panel stays put until you close it with its ✕, and only one is ever open at a time.', 'click anywhere else or its ✕ to close it; only one is ever open at a time.'))
+assert 'yellow bar' in WPINTRO and 'anywhere else' in WPINTRO
+sub('React.createElement(GradeDocRow,{grade:grade}),React.createElement("div",{style:{display:"flex",gap:14,margin:"10px 0 6px",flexWrap:"wrap"}',
+    'React.createElement(GradeDocRow,{grade:grade}),' + WPINTRO + 'React.createElement("div",{style:{display:"flex",gap:14,margin:"10px 0 6px",flexWrap:"wrap"}')
+# a week that sits on a boundary is shown once, in the first domain it belongs to
+sub('pacingGroups.map(([unitId,group])=>', 'pacingGroups.map(([unitId,group],gi)=>')
+sub('pg.weeks.filter(w=>wknum(w.wk)>=wknum(group.a)&&wknum(w.wk)<=wknum(group.z))',
+    'pg.weeks.filter(w=>wknum(w.wk)>=wknum(group.a)&&wknum(w.wk)<=wknum(group.z)&&!pacingGroups.slice(0,gi).some(([,u])=>wknum(w.wk)>=wknum(u.a)&&wknum(w.wk)<=wknum(u.z)))')
+# domain cards: BUILD and no-file lessons get their clip as well
+sub('st.s!=null&&st.s!=="SUP"&&st.f!=="committee"&&React.createElement(ResBadge,{gradeId:st.g||grade.id,block:st.b,step:st.s,title:st.n,compact:true})',
+    '(st.s!=="SUP"||st.f==="committee")&&React.createElement(ResBadge,{gradeId:st.g||grade.id,block:st.f==="committee"||st.b==null?undefined:st.b,unitName:st.b==null&&st.f!=="committee"?" ":undefined,step:st.s,title:st.n,compact:true,flag:st.f==="committee"?"committee":undefined})')
+
+# 21. tracking: a lesson that is not this grade's own White Rose step (copied in, or matched to files by title) is tracked by its
+#     title, so it never shares a record with another lesson; exam / MAP rows are not lessons; BUILD lessons can be tracked
+sub('function ResBadge({gradeId,block,step,unitName,pillTag,title,compact,flag}){',
+    'function trkTk(gid,st){return(st.g||st.rv||st.s==null)&&st.f!=="committee"?{key:gid+"|-|"+trkSlug(st.n),grade:gid}:null;}function ResBadge({gradeId,block,step,unitName,pillTag,title,compact,flag,tk}){')
+sub('const blockOnly=items.length===1&&!items[0].files.length;', 'if(tk)items=items.map(d=>({...d,tk}));const blockOnly=items.length===1&&!items[0].files.length;')
+sub('TrackControls,{lesson:{key:trkKey(data.gid,data.blockNo,data.stepNo),grade:data.gid,block:data.blockNo,step:data.stepNo==null?null:data.stepNo,title:title}}',
+    'TrackControls,{lesson:data.tk?{key:data.tk.key,grade:data.tk.grade,block:"-",step:null,title:title}:{key:trkKey(data.gid,data.blockNo,data.stepNo),grade:data.gid,block:data.blockNo,step:data.stepNo==null?null:data.stepNo,title:title}}')
+sub('ResBadge,{gradeId:st.g||grade.id,block:st.b==null?undefined:st.b,unitName:st.b==null?" ":undefined,step:st.s,title:st.n,compact:true}',
+    'ResBadge,{gradeId:st.g||grade.id,block:st.b==null?undefined:st.b,unitName:st.b==null?" ":undefined,step:st.s,title:st.n,compact:true,tk:trkTk(grade.id,st)}')
+sub('step:st.s,title:st.n,compact:true,flag:st.f==="committee"?"committee":undefined})', 'step:st.s,title:st.n,compact:true,flag:st.f==="committee"?"committee":undefined,tk:trkTk(grade.id,st)})', 2)
+sub('ResBadge,{gradeId:lesson.grade,block:lesson.block,step:lesson.step,title:lesson.title,compact:true}',
+    'ResBadge,{gradeId:lesson.src||lesson.grade,block:lesson.bsrc!=null?lesson.bsrc:(lesson.block==="-"?undefined:lesson.block),unitName:lesson.block==="-"&&lesson.bsrc==null&&lesson.flag!=="committee"?" ":undefined,step:lesson.step,title:lesson.title,compact:true,flag:lesson.flag==="committee"?"committee":undefined,tk:lesson.block==="-"?{key:lesson.key,grade:lesson.grade}:null}')
+sub('function trkRow(gid,st){const hasB=st.b!=null;return{key:hasB?trkKey(gid,st.b,st.s):`${gid}|-|${trkSlug(st.n)}`,grade:gid,',
+    'function trkRow(gid,st){const hasB=st.b!=null&&!st.g&&!st.rv&&st.s!=null&&st.s!=="SUP";return{key:hasB?trkKey(gid,st.b,st.s):`${gid}|-|${trkSlug(st.n)}`,grade:gid,src:st.g||gid,bsrc:st.b==null?null:String(st.b),flag:st.f,')
+sub('const trkSkip=st=>!st.n||st.s==="SUP"||st.f==="supportOpt";', 'const trkSkip=st=>!st.n||st.f==="supportOpt"||st.f==="exam"||st.f==="map"||(st.s==="SUP"&&st.f!=="committee");')
+
+sub('style:{fontSize:9.5,color:"var(--ink-3)"}},"B",lesson.block,lesson.step?" · S"+lesson.step:""),',
+    'style:{fontSize:9.5,color:lesson.flag==="committee"?"#E8720C":"var(--ink-3)",fontWeight:lesson.flag==="committee"?700:400}},lesson.flag==="committee"?"CCSS BUILD":lesson.src&&lesson.src!==lesson.grade?"COPIED IN · "+(GRADE_BY_ID[lesson.src]?GRADE_BY_ID[lesson.src].name.toUpperCase():lesson.src):lesson.block==="-"?"":["B",lesson.block,lesson.step?" · S"+lesson.step:""]),')
 LS = ('<script>window.__pvLS={getItem:function(k){try{return localStorage.getItem("preview_"+k)}catch(e){return null}},'
       'setItem:function(k,v){try{localStorage.setItem("preview_"+k,v)}catch(e){}},removeItem:function(k){try{localStorage.removeItem("preview_"+k)}catch(e){}}};</script>')
 BANNER = ('<div id="pvbar" style="position:sticky;top:0;z-index:9990;background:#5B2A86;color:#fff;font:600 12px/1.4 system-ui,sans-serif;padding:7px 14px;text-align:center">'
-          'PREVIEW · K to Grade 5 re-sequenced by CCSS domain · not the live site · lesson tracking is read-only here '
-          '<a href="../" style="color:#FFD84D;margin-left:10px">open the live site</a></div>')
+          'UPDATED · Kindergarten to Grade 5 resequenced to CCSS Domains · Now with MW4K resources too · <a href="old/" style="color:#FFD84D;margin-left:10px">view the old site</a></div>')
 
 data = base64.b64encode(gzip.compress(json.dumps(D, separators=(',', ':'), ensure_ascii=False).encode(), 9)).decode()
 html = live_html[:m.start(2)] + data + live_html[m.end(2):]
 am = re.search(r'(<script id="__app" type="text/plain">)(.*?)(</script>)', html, re.S)
 html = html[:am.start(2)] + app + html[am.end(2):]
-html = html.replace('<title>Awsaj Math Curriculum</title>', '<title>PREVIEW · Awsaj Math Curriculum</title><meta name="robots" content="noindex">', 1)
-html = html.replace('<body>', '<body>' + LS + BANNER, 1)
-os.makedirs(os.path.join(REPO, 'preview'), exist_ok=True)
-open(os.path.join(REPO, 'preview', 'index.html'), 'w').write(html)
+html = html.replace('<body>', '<body>' + BANNER, 1)
+open(os.path.join(REPO, 'index.html'), 'w').write(html)
 json.dump(report, open('out/preview_report.json', 'w'), indent=1)
 for g, r in report.items(): print(g, r)

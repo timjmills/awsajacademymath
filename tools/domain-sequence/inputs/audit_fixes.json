@@ -1,0 +1,1146 @@
+{
+ "K": {
+  "moves": [
+   {
+    "lesson": "Count in coins (US: dollars & cents)",
+    "to": "EXT",
+    "where": "after",
+    "anchor": "Recognise notes (US: dollars & cents)",
+    "reason": "Money lesson (2.MD.C.8) sitting in Counting & Cardinality and taught before coins are even recognised (Recognise coins is in enrichment); the CC exam does not need it."
+   },
+   {
+    "lesson": "1 more, 1 less",
+    "to": "CC",
+    "where": "after",
+    "anchor": "The number line to 100",
+    "reason": "Seq 30 (Place Value within 100) is taught in W09 before Count from 50 to 100 (W10); inserted directly after the anchor so it lands ahead of seq 23, matching White Rose order.",
+    "unit": "Place Value within 100"
+   },
+   {
+    "lesson": "Find a part",
+    "to": "OA",
+    "where": "after",
+    "anchor": "Addition problems",
+    "reason": "Missing-part work is taught before any addition lessons; White Rose puts it after Addition problems."
+   },
+   {
+    "lesson": "Subtraction - find a part",
+    "to": "OA",
+    "where": "after",
+    "anchor": "Fact families - the eight facts",
+    "reason": "First subtraction step is taught in W12, before addition (add together/add more) and before the fact families it builds on."
+   },
+   {
+    "lesson": "Subtraction - take away cross out (How many left )",
+    "to": "OA",
+    "where": "after",
+    "anchor": "Subtraction - find a part",
+    "reason": "Take-away subtraction is taught in W14, before addition is finished and before subtraction is introduced via find a part."
+   },
+   {
+    "lesson": "Subtraction - take away (How many left )",
+    "to": "OA",
+    "where": "after",
+    "anchor": "Subtraction - take away cross out (How many left )",
+    "reason": "Comes before Addition problems and the subtraction intro; restores White Rose order straight before Subtraction on a number line."
+   },
+   {
+    "lesson": "Days of the week",
+    "to": "EXT",
+    "where": "after",
+    "anchor": "Before and after",
+    "reason": "Uncoded Time lesson left in grade-level MD right before the exam; the MD exam does not need it, and it belongs with the rest of the Time block, which is in enrichment."
+   },
+   {
+    "lesson": "Months of the year",
+    "to": "EXT",
+    "where": "after",
+    "anchor": "Days of the week",
+    "reason": "Uncoded Time lesson that the MD exam does not need; keep it with Days of the week in the enrichment Time block."
+   },
+   {
+    "lesson": "Build and draw shapes",
+    "to": "G",
+    "where": "after",
+    "anchor": "Patterns with 2D and 3D shapes",
+    "reason": "Building and drawing named shapes (K.G.B.5) comes before students learn to recognise and name 2D/3D shapes."
+   },
+   {
+    "lesson": "Compose shapes from smaller shapes",
+    "to": "G",
+    "where": "after",
+    "anchor": "Build and draw shapes",
+    "reason": "Composing shapes (K.G.B.6) needs shape names and properties, which are taught later in the domain."
+   },
+   {
+    "lesson": "Recognise equal groups",
+    "to": "EXT",
+    "where": "after",
+    "anchor": "Count in 5s"
+   },
+   {
+    "lesson": "Add equal groups",
+    "to": "EXT",
+    "where": "after",
+    "anchor": "Recognise equal groups",
+    "reason": "Repeated addition of groups of 2s/5s needs Count in 2s and Count in 5s (taught in enrichment) and Recognise equal groups."
+   },
+   {
+    "lesson": "Make arrays",
+    "to": "EXT",
+    "where": "after",
+    "anchor": "Add equal groups",
+    "reason": "Arrays (2.OA.C.4) build on equal groups and skip-counting; keep them with the rest of the multiplication block after Count in 5s."
+   },
+   {
+    "lesson": "Add ones using number bonds",
+    "to": "EXT",
+    "where": "before",
+    "anchor": "Count in 2s",
+    "reason": "It splits a teen number into 10 and ones (e.g. 14 + 3 = 10 + 4 + 3) in OA W16, four weeks before NBT teaches 11-19 as ten and ones (W20); it is 1.OA.C.6 content that the within-10 OA exam does not need."
+   },
+   {
+    "lesson": "Find and make number bonds to 20",
+    "to": "EXT",
+    "where": "after",
+    "anchor": "Add ones using number bonds",
+    "reason": "Bonds to 20 use the 'ten and some more' structure of teen numbers that is only taught in NBT (Understand 11-19, W20-21)."
+   },
+   {
+    "lesson": "Subtract ones using number bonds",
+    "to": "EXT",
+    "where": "after",
+    "anchor": "Find and make number bonds to 20",
+    "reason": "Same dependency: subtracting ones from a teen number by partitioning it into 10 and ones needs the NBT teen-number lessons, which come after the OA exam."
+   }
+  ],
+  "copies": [
+   {
+    "lesson": "Count sides on 2D shapes",
+    "codes": [
+     "1.G.A.1",
+     "K.G.B.4"
+    ],
+    "to": "G",
+    "where": "after",
+    "anchor": "Recognise and name 2D shapes",
+    "src": "G1"
+   },
+   {
+    "lesson": "Count vertices on 2D shapes",
+    "codes": [
+     "1.G.A.1",
+     "K.G.B.4"
+    ],
+    "to": "G",
+    "where": "after",
+    "anchor": "Count sides on 2D shapes",
+    "src": "G1"
+   }
+  ],
+  "builds": [
+   {
+    "lesson": "Add and subtract within 5 written vertically (column form)",
+    "codes": [
+     "K.OA.A.5"
+    ],
+    "to": "OA",
+    "where": "after",
+    "anchor": "Add or subtract 1 or 2"
+   },
+   {
+    "lesson": "Sort into categories, count each group and find the total",
+    "codes": [
+     "K.MD.B.3",
+     "K.CC.B.5"
+    ],
+    "to": "MD",
+    "where": "after",
+    "anchor": "Sort objects"
+   }
+  ],
+  "exam": {
+   "total": 36,
+   "ok": 33
+  },
+  "remove": [
+   {
+    "lesson": "1 more and 1 less",
+    "unit": "Place Value within 50"
+   },
+   {
+    "lesson": "1 more and 1 less",
+    "unit": "Place Value within 100"
+   }
+  ],
+  "exam2": {
+   "total": 34,
+   "ok": 34
+  }
+ },
+ "G1": {
+  "moves": [
+   {
+    "lesson": "Add two 2-digit numbers (not across a 10)",
+    "to": "NBT",
+    "where": "after",
+    "anchor": "Add and subtract 10s",
+    "reason": "Adding two 2-digit numbers needs adding tens (10 more/10 less, Add and subtract 10s), which currently come after it; restores WRM order."
+   },
+   {
+    "lesson": "Subtract two 2-digit numbers (not across a 10)",
+    "to": "NBT",
+    "where": "after",
+    "anchor": "Add two 2-digit numbers (across a 10)",
+    "reason": "Subtracting two 2-digit numbers currently sits before 10 more/10 less and Add and subtract 10s that it depends on; restores WRM order (addition then subtraction)."
+   },
+   {
+    "lesson": "Subtract two 2-digit numbers (across a 10)",
+    "to": "NBT",
+    "where": "after",
+    "anchor": "Subtract two 2-digit numbers (not across a 10)",
+    "reason": "It is currently the first subtraction lesson of the year, taught before the non-exchanging version it builds on."
+   },
+   {
+    "lesson": "Compare amounts of money",
+    "to": "EXT",
+    "where": "after",
+    "anchor": "Make a pound"
+   },
+   {
+    "lesson": "Find change (US: dollars & cents)",
+    "to": "EXT",
+    "where": "after",
+    "anchor": "Compare amounts of money",
+    "reason": "Giving change requires counting coins, taught only in enrichment; not needed by the OA exam (restores WRM money order before Two-step problems)."
+   },
+   {
+    "lesson": "Recognise the equivalence of a half and two quarters",
+    "to": "G",
+    "where": "after",
+    "anchor": "Unit fractions",
+    "reason": "Taught before Recognise a quarter/Find a quarter, so pupils meet 'two quarters' before quarters are introduced; restores WRM order."
+   },
+   {
+    "lesson": "Recognise three quarters",
+    "to": "G",
+    "where": "after",
+    "anchor": "Recognise the equivalence of a half and two quarters",
+    "reason": "Three quarters is taught before a quarter is introduced; restores WRM order."
+   },
+   {
+    "lesson": "Tables",
+    "to": "MD",
+    "where": "after",
+    "anchor": "Make tally charts",
+    "reason": "A lone statistics lesson stranded at the start of the length unit before tally charts; WRM teaches tally charts then tables."
+   },
+   {
+    "lesson": "Temperature",
+    "to": "EXT",
+    "where": "after",
+    "anchor": "Four operations with volume and capacity",
+    "reason": "No CCSS code, not on any exam, and it needs reading scales in 2s/5s/10s that are only taught in the enrichment mass/capacity lessons (WRM places it last in that block)."
+   },
+   {
+    "lesson": "The 5 times-table",
+    "to": "EXT",
+    "where": "after",
+    "anchor": "The 2 times-table",
+    "reason": "Times-tables are taught before equal groups and the multiplication symbol they depend on; restores WRM order."
+   },
+   {
+    "lesson": "The 10 times-table",
+    "to": "EXT",
+    "where": "after",
+    "anchor": "The 5 times-table",
+    "reason": "Times-table taught before equal groups/multiplication sentences it depends on; restores WRM order."
+   },
+   {
+    "lesson": "The 5 and 10 times-tables",
+    "to": "EXT",
+    "where": "after",
+    "anchor": "The 10 times-table",
+    "reason": "Combined 5 and 10 tables lesson must follow the individual 5 and 10 times-tables."
+   },
+   {
+    "lesson": "Subtract a 1-digit number from a 2-digit number (across a 10)",
+    "to": "OA",
+    "where": "after",
+    "anchor": "Subtract from a 10",
+    "reason": "Taught in W09, before Subtract across 10 (W10) and Subtract from a 10 (W11), the two strategies it applies; White Rose order is step 10, 11, then 12."
+   },
+   {
+    "lesson": "Describe turns",
+    "to": "G",
+    "where": "before",
+    "anchor": "Describe movement and turns",
+    "reason": "The combined movement-and-turns lesson is taught before turns are introduced; White Rose order is Describe movement, Describe turns, Describe movement and turns."
+   },
+   {
+    "lesson": "Subtract two 2-digit numbers (across a 10)",
+    "to": "EXT",
+    "where": "before",
+    "anchor": "Count money - pence (US: dollars & cents)"
+   },
+   {
+    "lesson": "Calculate with money",
+    "to": "EXT",
+    "where": "after",
+    "anchor": "Make the same amount (US: dollars & cents)",
+    "reason": "Calculating with mixed notes and coins sits before Count money - notes and coins; White Rose places it after Make the same amount."
+   }
+  ],
+  "copies": [
+   {
+    "lesson": "Add by counting on within 20",
+    "codes": [
+     "1.OA.C.5",
+     "1.OA.C.6"
+    ],
+    "to": "OA",
+    "where": "after",
+    "anchor": "Add and subtract 1s",
+    "src": "K"
+   },
+   {
+    "lesson": "Subtraction - counting back",
+    "src": "K",
+    "codes": [
+     "1.OA.C.5",
+     "1.OA.C.6"
+    ],
+    "to": "OA",
+    "where": "after",
+    "anchor": "Add by counting on within 20"
+   }
+  ],
+  "builds": [
+   {
+    "lesson": "Solve one-step word problems within 20 using bar models",
+    "codes": [
+     "1.OA.A.1"
+    ],
+    "to": "OA",
+    "where": "after",
+    "anchor": "Missing number problems"
+   }
+  ],
+  "exam": {
+   "total": 45,
+   "ok": 42
+  },
+  "remove": [
+   {
+    "lesson": "Select money (US: dollars & cents)"
+   },
+   {
+    "lesson": "Find the total (US: dollars & cents)"
+   },
+   {
+    "lesson": "Find the difference (US: dollars & cents)"
+   }
+  ],
+  "exam2": {
+   "total": 45,
+   "ok": 45
+  }
+ },
+ "G2": {
+  "moves": [
+   {
+    "lesson": "Fractions on a number line",
+    "to": "EXT",
+    "where": "before",
+    "anchor": "Count in fractions on a number line"
+   },
+   {
+    "lesson": "Multiples of 5 and 10",
+    "to": "OA",
+    "where": "after",
+    "anchor": "Multiples of 2"
+   },
+   {
+    "lesson": "Divide a 2-digit number by a 1-digit number - no exchange",
+    "to": "EXT",
+    "where": "after",
+    "anchor": "Link multiplication and division",
+    "reason": "2-digit division by partitioning uses multiplication of 2-digit numbers and the multiplication-division link, which are currently taught after it; restores White Rose steps 5-10."
+   },
+   {
+    "lesson": "Divide a 2-digit number by a 1-digit number - flexible partitioning",
+    "to": "EXT",
+    "where": "after",
+    "anchor": "Divide a 2-digit number by a 1-digit number - no exchange",
+    "reason": "Keeps the division steps in order after Link multiplication and division."
+   },
+   {
+    "lesson": "Divide a 2-digit number by a 1-digit number - with remainders",
+    "to": "EXT",
+    "where": "after",
+    "anchor": "Divide a 2-digit number by a 1-digit number - flexible partitioning",
+    "reason": "Keeps the division steps in order after Link multiplication and division."
+   },
+   {
+    "lesson": "Measure capacity and volume in millilitres",
+    "to": "EXT",
+    "where": "after",
+    "anchor": "Add and subtract mass",
+    "reason": "Converting (Equivalent capacities and volumes) and calculating with capacity come before any capacity measuring lesson; the measuring lessons must come first."
+   },
+   {
+    "lesson": "Measure capacity and volume in litres and millilitres",
+    "to": "EXT",
+    "where": "after",
+    "anchor": "Measure capacity and volume in millilitres",
+    "reason": "Follows millilitres, as in White Rose."
+   },
+   {
+    "lesson": "Equivalent capacities and volumes (litres and millilitres)",
+    "to": "EXT",
+    "where": "after",
+    "anchor": "Measure capacity and volume in litres and millilitres",
+    "reason": "Converting litres and millilitres needs both units to have been measured first."
+   },
+   {
+    "lesson": "Add and subtract capacity and volume",
+    "to": "EXT",
+    "where": "after",
+    "anchor": "Equivalent capacities and volumes (litres and millilitres)",
+    "reason": "Calculating with capacity comes after measuring and converting it."
+   }
+  ],
+  "copies": [
+   {
+    "lesson": "Doubling and halving",
+    "codes": [
+     "2.OA.C.3",
+     "3.OA.A.1",
+     "3.OA.A.2"
+    ],
+    "to": "OA",
+    "where": "before",
+    "anchor": "Odd and even numbers",
+    "src": "G1"
+   },
+   {
+    "lesson": "Count money - pence (US: dollars & cents)",
+    "codes": [
+     "2.MD.C.8"
+    ],
+    "to": "MD",
+    "where": "before",
+    "anchor": "Pounds and pence (US: dollars & cents)",
+    "src": "G1"
+   },
+   {
+    "lesson": "Equal and unequal parts",
+    "codes": [
+     "1.G.A.3",
+     "2.G.A.3"
+    ],
+    "to": "G",
+    "where": "before",
+    "anchor": "Understand the denominators of unit fractions",
+    "src": "G1"
+   },
+   {
+    "lesson": "Count in 2s, 5s and 10s",
+    "src": "G1",
+    "codes": [
+     "1.NBT.A.1",
+     "2.NBT.A.2"
+    ],
+    "to": "NBT",
+    "where": "before",
+    "anchor": "Count in 50s"
+   }
+  ],
+  "builds": [
+   {
+    "lesson": "Read and write numbers to 1,000 in words, numerals and expanded form",
+    "codes": [
+     "2.NBT.A.3"
+    ],
+    "to": "NBT",
+    "where": "after",
+    "anchor": "Flexible partitioning of numbers to 1,000"
+   },
+   {
+    "lesson": "Add and subtract within 100 on a number line (jumps of tens and ones)",
+    "codes": [
+     "2.MD.B.6",
+     "2.NBT.B.5"
+    ],
+    "to": "MD",
+    "where": "after",
+    "anchor": "Estimate on a number line to 1,000"
+   }
+  ],
+  "exam": {
+   "total": 43,
+   "ok": 38
+  },
+  "exam2": {
+   "total": 43,
+   "ok": 43
+  }
+ },
+ "G3": {
+  "moves": [
+   {
+    "lesson": "Fractions on a number line",
+    "to": "NF",
+    "where": "before",
+    "anchor": "Number lines with mixed numbers",
+    "reason": "The basic 0-1 fraction number line is currently taught after both 'Number lines with mixed numbers' and 'Equivalent fractions on a number line', which depend on it."
+   },
+   {
+    "lesson": "Number line to 1,000",
+    "to": "NBT",
+    "where": "after",
+    "anchor": "Partition numbers to 1,000",
+    "reason": "This is a place-value number line lesson (WRM PV step 3) that sits in MD, separated from 'Number line to 10,000', which builds on it."
+   },
+   {
+    "lesson": "Thousands",
+    "to": "NBT",
+    "where": "after",
+    "anchor": "Number line to 1,000"
+   },
+   {
+    "lesson": "Represent numbers to 10,000",
+    "to": "NBT",
+    "where": "after",
+    "anchor": "Thousands",
+    "reason": "Pupils have to be able to represent 4-digit numbers before 'Find 1, 10, 100, 1,000 more or less', 'Number line to 10,000' and 4-digit rounding/addition, which are all on-grade here."
+   },
+   {
+    "lesson": "Informal written methods for multiplication",
+    "to": "NBT",
+    "where": "after",
+    "anchor": "Related facts - multiplication and division",
+    "reason": "Partitioning 2-digit \u00d7 1-digit needs tens \u00d7 ones (e.g. 20\u00d73), which is taught in NBT 'Multiply by 10'/'Related facts', 11 weeks later; the OA exam does not need it."
+   },
+   {
+    "lesson": "Divide a 2-digit number by a 1-digit number (1)",
+    "to": "NBT",
+    "where": "after",
+    "anchor": "Multiply a 2-digit number by a 1-digit number"
+   },
+   {
+    "lesson": "Divide a 2-digit number by a 1-digit number (2)",
+    "to": "NBT",
+    "where": "after",
+    "anchor": "Divide a 2-digit number by a 1-digit number (1)",
+    "reason": "Part (2) follows part (1) and has the same prerequisites in NBT."
+   },
+   {
+    "lesson": "Estimate with money (US: dollars & cents)",
+    "to": "MD",
+    "where": "after",
+    "anchor": "Solve problems with money (US: dollars & cents)",
+    "reason": "A money lesson sits in NBT (W17) before any money representation is taught (MD W22); the NBT exam has no money item."
+   },
+   {
+    "lesson": "Calculate with money (US: dollars & cents)",
+    "to": "MD",
+    "where": "after",
+    "anchor": "Estimate with money (US: dollars & cents)"
+   },
+   {
+    "lesson": "Pounds, tens, ones and pence (US: dollars & cents)",
+    "to": "MD",
+    "where": "before",
+    "anchor": "Compare amounts of money",
+    "reason": "Representing money in dollars/tens/ones/cents comes after comparing and solving money problems and is cut off from them by a time lesson; representing should come before comparing (WRM Money step 2)."
+   },
+   {
+    "lesson": "Count squares",
+    "to": "MD",
+    "where": "after",
+    "anchor": "What is area?",
+    "reason": "Counting squares to find area is taught before area is defined (WRM Area step 3 follows 'What is area?')."
+   },
+   {
+    "lesson": "Interpret charts",
+    "to": "MD",
+    "where": "after",
+    "anchor": "Interpret pictograms",
+    "reason": "Interpreting charts comes before pupils have drawn bar charts or pictograms; WRM order is draw, then interpret."
+   },
+   {
+    "lesson": "Comparison, sum and difference",
+    "to": "MD",
+    "where": "after",
+    "anchor": "Interpret charts",
+    "reason": "Comparison/sum/difference questions on charts (WRM Statistics step 6) need the chart-drawing and chart-reading lessons first."
+   },
+   {
+    "lesson": "Make shapes",
+    "to": "MD",
+    "where": "after",
+    "anchor": "Count squares",
+    "reason": "Making shapes with a given area (counting squares) is taught before 'What is area?' defines area; it belongs after the area concept and counting squares."
+   },
+   {
+    "lesson": "Understand angles as turns",
+    "to": "G",
+    "where": "before",
+    "anchor": "Identify angles",
+    "reason": "'Identify angles' and 'Compare and order angles' (G, W28) build on angles as turns, which currently sits in enrichment after MAP, 9 weeks later."
+   },
+   {
+    "lesson": "Draw 2-D shapes on a grid",
+    "to": "EXT",
+    "where": "after",
+    "anchor": "Describe position using coordinates"
+   }
+  ],
+  "copies": [
+   {
+    "lesson": "Understand the numerators of non-unit fractions",
+    "codes": [
+     "2.G.A.3",
+     "3.NF.A.1"
+    ],
+    "to": "NF",
+    "where": "after",
+    "anchor": "Partition shapes into equal areas",
+    "src": "G2"
+   },
+   {
+    "lesson": "Add and subtract mass",
+    "codes": [
+     "3.MD.A.2"
+    ],
+    "to": "MD",
+    "where": "after",
+    "anchor": "Measure and estimate mass and liquid volume (g, kg, ml, l)",
+    "src": "G2"
+   },
+   {
+    "lesson": "The 5 and 10 times-tables",
+    "src": "G1",
+    "codes": [
+     "2.NBT.A.2",
+     "3.OA.C.7"
+    ],
+    "to": "OA",
+    "where": "after",
+    "anchor": "Sharing and grouping"
+   },
+   {
+    "lesson": "The 8 times-table",
+    "src": "G2",
+    "codes": [
+     "3.OA.C.7"
+    ],
+    "to": "OA",
+    "where": "after",
+    "anchor": "The 5 and 10 times-tables"
+   },
+   {
+    "lesson": "The 2, 4 and 8 times-tables",
+    "src": "G2",
+    "codes": [
+     "3.OA.B.5",
+     "3.OA.C.7"
+    ],
+    "to": "OA",
+    "where": "after",
+    "anchor": "The 8 times-table"
+   }
+  ],
+  "builds": [
+   {
+    "lesson": "Properties of multiplication: commutative, identity and distributive",
+    "codes": [
+     "3.OA.B.5"
+    ],
+    "to": "OA",
+    "where": "after",
+    "anchor": "Multiply three numbers"
+   },
+   {
+    "lesson": "Find the rule in an input-output table",
+    "codes": [
+     "3.OA.D.9"
+    ],
+    "to": "OA",
+    "where": "after",
+    "anchor": "Patterns on the multiplication table"
+   },
+   {
+    "lesson": "Solve addition and subtraction word problems within 1,000 using bar models",
+    "codes": [
+     "3.NBT.A.2",
+     "3.OA.D.8"
+    ],
+    "to": "NBT",
+    "where": "after",
+    "anchor": "Checking strategies"
+   }
+  ],
+  "exam": {
+   "total": 58,
+   "ok": 51
+  },
+  "exam2": {
+   "total": 58,
+   "ok": 56
+  }
+ },
+ "G4": {
+  "moves": [
+   {
+    "lesson": "Roman numerals to 1,000",
+    "to": "EXT",
+    "where": "before",
+    "anchor": "Negative numbers",
+    "reason": "Non-CCSS place-value lesson sitting in OA ('kept with neighbour'), not tested on any exam, so it belongs in enrichment."
+   },
+   {
+    "lesson": "Find missing numbers",
+    "to": "NBT",
+    "where": "after",
+    "anchor": "Compare calculations",
+    "reason": "WRM missing-number bar-model problems use multi-digit addition/subtraction, which is only taught in NBT W08-09 (it is WRM step 8 after Compare calculations); OA exam does not need it."
+   },
+   {
+    "lesson": "Find emergent features (e.g., units digit cycle)",
+    "to": "OA",
+    "where": "after",
+    "anchor": "Follow a given rule to extend a number pattern",
+    "reason": "Students must generate a pattern from a rule before identifying its features (4.OA.C.5 order)."
+   },
+   {
+    "lesson": "Solve problems with multiplication",
+    "to": "NBT",
+    "where": "after",
+    "anchor": "Multiply a 2-digit number by a 2-digit number"
+   },
+   {
+    "lesson": "Solve problems with multiplication and division",
+    "to": "NBT",
+    "where": "after",
+    "anchor": "Efficient division",
+    "reason": "Needs the written multiplication and short-division methods taught later in NBT W11-12 (WRM places it after Efficient division); not needed for the OA exam's basic-fact comparison items."
+   },
+   {
+    "lesson": "Read and interpret tables",
+    "to": "MD",
+    "where": "before",
+    "anchor": "Read and interpret timetables",
+    "reason": "Statistics/data lesson sitting in OA ahead of the multi-digit addition/subtraction it uses; belongs with the other Statistics lesson in MD in WRM order."
+   },
+   {
+    "lesson": "Two-way tables",
+    "to": "MD",
+    "where": "after",
+    "anchor": "Read and interpret tables",
+    "reason": "Same as Read and interpret tables: data-table lesson in OA, not needed by the OA exam, belongs before timetables in MD."
+   },
+   {
+    "lesson": "Decimal sequences",
+    "to": "EXT",
+    "where": "after",
+    "anchor": "Efficient strategies for adding and subtracting decimals",
+    "reason": "Adding/subtracting decimal steps (5.NBT.B.7) sits in OA W05, long before decimals are introduced (NF W21); not on any exam, so it goes to enrichment after the decimal add/subtract lessons."
+   },
+   {
+    "lesson": "Round to the nearest 10, 100 or 1,000",
+    "to": "NBT",
+    "where": "before",
+    "anchor": "Round within 100,000",
+    "reason": "Sits between Numbers to 100,000 and Numbers to 1,000,000, splitting the place-value run; WRM (step 12) starts the rounding sequence right after Compare and order numbers to 1,000,000."
+   },
+   {
+    "lesson": "Multiply by 10, 100 and 1,000",
+    "to": "EXT",
+    "where": "before",
+    "anchor": "Use known facts to add and subtract decimals within 1",
+    "reason": "The Decimals-block copy (seq 43, not the whole-number seq 41) multiplies decimals in NBT W10 before decimals are introduced in NF W21; it is 5.NBT.A.2 content not on any exam.",
+    "unit": "Decimals"
+   },
+   {
+    "lesson": "Divide by 10, 100 and 1,000",
+    "to": "EXT",
+    "where": "before",
+    "anchor": "Multiply and divide decimals - missing values",
+    "reason": "The Decimals-block copy (seq 44, not the whole-number seq 42) produces decimal answers before decimals are taught; it is 5.NBT.A.2 content not on any exam.",
+    "unit": "Decimals"
+   },
+   {
+    "lesson": "Thousandths as decimals",
+    "to": "NF",
+    "where": "after",
+    "anchor": "Thousandths as fractions",
+    "reason": "Thousandths are taught in NBT W12 before tenths/hundredths decimals are introduced (NF W21); WRM puts it straight after Thousandths as fractions, and the NBT exam does not need it."
+   },
+   {
+    "lesson": "Thousandths on a place value chart",
+    "to": "NF",
+    "where": "after",
+    "anchor": "Thousandths as decimals",
+    "reason": "Same prerequisite error as Thousandths as decimals; it keeps WRM order within the NF decimals run."
+   },
+   {
+    "lesson": "Use known facts to add and subtract decimals within 1",
+    "to": "EXT",
+    "where": "before",
+    "anchor": "Complements to 1",
+    "reason": "Decimal addition (really 5.NBT.B.7; 4.NBT.B.4 is whole numbers only) is taught in NBT W13 before decimals exist (NF W21) and is not on any exam."
+   },
+   {
+    "lesson": "Add and subtract decimals across 1",
+    "to": "EXT",
+    "where": "after",
+    "anchor": "Complements to 1",
+    "reason": "Grade 5 decimal operation taught before decimals are introduced; not needed by any exam (WRM order keeps it after Complements to 1)."
+   },
+   {
+    "lesson": "Add decimals with the same number of decimal places",
+    "to": "EXT",
+    "where": "after",
+    "anchor": "Add and subtract decimals across 1",
+    "reason": "Grade 5 decimal operation (5.NBT.B.7) taught before decimals are introduced; not on any exam."
+   },
+   {
+    "lesson": "Subtract decimals with the same number of decimal places",
+    "to": "EXT",
+    "where": "after",
+    "anchor": "Add decimals with the same number of decimal places",
+    "reason": "Grade 5 decimal operation taught before decimals are introduced; not on any exam."
+   },
+   {
+    "lesson": "Add decimals with different numbers of decimal places",
+    "to": "EXT",
+    "where": "after",
+    "anchor": "Subtract decimals with the same number of decimal places",
+    "reason": "Grade 5 decimal operation taught before decimals are introduced; not on any exam."
+   },
+   {
+    "lesson": "Subtract decimals with different numbers of decimal places",
+    "to": "EXT",
+    "where": "after",
+    "anchor": "Add decimals with different numbers of decimal places",
+    "reason": "Grade 5 decimal operation taught before decimals are introduced; not on any exam."
+   },
+   {
+    "lesson": "Efficient strategies for adding and subtracting decimals",
+    "to": "EXT",
+    "where": "after",
+    "anchor": "Subtract decimals with different numbers of decimal places",
+    "reason": "Grade 5 decimal operation taught before decimals are introduced; not on any exam."
+   },
+   {
+    "lesson": "Add two or more fractions",
+    "to": "NF",
+    "where": "after",
+    "anchor": "Add to a mixed number",
+    "reason": "Sits in W16 before the first fraction addition lesson (Add and subtract fractions with the same denominator, W17); WRM puts it after Add to a mixed number."
+   },
+   {
+    "lesson": "Subtract two mixed numbers",
+    "to": "NF",
+    "where": "after",
+    "anchor": "Subtract fractions",
+    "reason": "Mixed-number subtraction is taught in W16 before any fraction subtraction; WRM puts it after Subtract fractions."
+   },
+   {
+    "lesson": "Understand angles as turns",
+    "to": "G",
+    "where": "before",
+    "anchor": "Classify angles",
+    "reason": "This G3 foundation lesson sits in MD W30, after Classify angles, degrees and protractor measuring (G W24-25) that depend on it."
+   },
+   {
+    "lesson": "Identify angles",
+    "to": "G",
+    "where": "after",
+    "anchor": "Understand angles as turns",
+    "reason": "Identifying right/acute/obtuse angles (G3 copy, 3.G.A.1) is the prerequisite for Classify angles but sits six weeks later in MD."
+   },
+   {
+    "lesson": "Negative numbers",
+    "to": "EXT",
+    "where": "after",
+    "anchor": "Compare and order negative numbers",
+    "reason": "Negative-number calculation comes after negative numbers are introduced."
+   },
+   {
+    "lesson": "Classify angles",
+    "to": "G",
+    "where": "after",
+    "anchor": "Understand and use degrees",
+    "reason": "Classifying acute/obtuse/reflex by degree size comes before 'Identify angles' (its G3 prerequisite) and before degrees are introduced; this gives turns > identify > degrees > classify."
+   }
+  ],
+  "copies": [
+   {
+    "lesson": "Tenths on a number line",
+    "codes": [
+     "3.NF.A.2",
+     "4.NF.C.6"
+    ],
+    "to": "NF",
+    "where": "after",
+    "anchor": "Equivalent fractions and decimals (tenths)",
+    "src": "G3"
+   }
+  ],
+  "builds": [
+   {
+    "lesson": "Multiplicative comparison word problems: how many times as many? (unknown multiplier)",
+    "codes": [
+     "4.OA.A.2"
+    ],
+    "to": "OA",
+    "where": "after",
+    "anchor": "Multiplicative comparison: times as many"
+   },
+   {
+    "lesson": "Multiply and divide multiples of 10 using basic facts (e.g., 90 x 50, 300 \u00f7 30)",
+    "codes": [
+     "4.NBT.A.1",
+     "4.NBT.B.5",
+     "4.NBT.B.6"
+    ],
+    "to": "NBT",
+    "where": "after",
+    "anchor": "Divide by 10, 100 and 1,000"
+   },
+   {
+    "lesson": "Decompose a fraction into a sum of fractions (equations and drawings)",
+    "codes": [
+     "4.NF.B.3"
+    ],
+    "to": "NF",
+    "where": "before",
+    "anchor": "Add and subtract fractions with the same denominator"
+   },
+   {
+    "lesson": "Add tenths and hundredths (rename tenths as hundredths)",
+    "codes": [
+     "4.NF.C.5"
+    ],
+    "to": "NF",
+    "where": "after",
+    "anchor": "Equivalent fractions and decimals (hundredths)"
+   },
+   {
+    "lesson": "Angles are additive: find an unknown angle in a decomposed angle",
+    "codes": [
+     "4.MD.C.7"
+    ],
+    "to": "MD",
+    "where": "before",
+    "anchor": "Calculate angles around a point"
+   }
+  ],
+  "exam": {
+   "total": 59,
+   "ok": 52
+  },
+  "exam2": {
+   "total": 59,
+   "ok": 59
+  }
+ },
+ "G5": {
+  "moves": [
+   {
+    "lesson": "Multiply up to a 4-digit number by a 1-digit number",
+    "to": "NBT",
+    "where": "before",
+    "anchor": "Multiply up to a 4-digit number by a 2-digit number",
+    "reason": "Multiplying by a 1-digit number is the step before multiplying by a 2-digit number (WRM step 8 comes before step 23), but here it is taught a week later."
+   },
+   {
+    "lesson": "Factors",
+    "to": "OA",
+    "where": "before",
+    "anchor": "Common factors",
+    "reason": "Common factors needs factors first (WRM step 10 comes before step 17), but the two are in the wrong order."
+   },
+   {
+    "lesson": "Form ordered pairs from corresponding terms",
+    "to": "OA",
+    "where": "after",
+    "anchor": "Generate two sequences using two different rules",
+    "reason": "Ordered pairs are made from the matching terms of two sequences, so the sequences have to be generated first (5.OA.B.3)."
+   },
+   {
+    "lesson": "Multiplication as scaling",
+    "to": "NF",
+    "where": "after",
+    "anchor": "Multiply fractions by fractions"
+   },
+   {
+    "lesson": "Draw pie charts",
+    "to": "EXT",
+    "where": "after",
+    "anchor": "Pie charts with percentages"
+   },
+   {
+    "lesson": "Circles",
+    "to": "EXT",
+    "where": "after",
+    "anchor": "Nets of 3D shapes"
+   },
+   {
+    "lesson": "Percentage of an amount \u2013 one step",
+    "to": "EXT",
+    "where": "after",
+    "anchor": "Percentages - missing values",
+    "reason": "Finding a percentage of an amount needs percentages introduced first."
+   },
+   {
+    "lesson": "Percentage of an amount \u2013 multi-step",
+    "to": "EXT",
+    "where": "after",
+    "anchor": "Percentage of an amount \u2013 one step",
+    "reason": "Multi-step follows one-step."
+   },
+   {
+    "lesson": "Equivalent fractions, decimals and percentages",
+    "to": "EXT",
+    "where": "after",
+    "anchor": "Fractions to percentages"
+   },
+   {
+    "lesson": "Order fractions, decimals and percentages",
+    "to": "EXT",
+    "where": "after",
+    "anchor": "Equivalent fractions, decimals and percentages",
+    "reason": "Same: needs percentages, which are taught in enrichment."
+   },
+   {
+    "lesson": "Formulae",
+    "to": "EXT",
+    "where": "after",
+    "anchor": "Substitution"
+   },
+   {
+    "lesson": "Solve 2-step equations",
+    "to": "EXT",
+    "where": "after",
+    "anchor": "Solve 1-step equations"
+   },
+   {
+    "lesson": "Find pairs of values",
+    "to": "EXT",
+    "where": "after",
+    "anchor": "Solve 2-step equations",
+    "reason": "Finding pairs of values that satisfy an equation with two letters needs the equation lessons, which are in enrichment; not on the exam."
+   },
+   {
+    "lesson": "Solve problems with two unknowns",
+    "to": "EXT",
+    "where": "after",
+    "anchor": "Find pairs of values",
+    "reason": "Follows 'Find pairs of values' and needs equations with letters; not on the exam."
+   },
+   {
+    "lesson": "Angles in polygons",
+    "to": "MD",
+    "where": "after",
+    "anchor": "Angles in quadrilaterals",
+    "reason": "Finding interior-angle sums of polygons splits them into triangles, but it is taught before 'Angles in a triangle' and 'Angles in quadrilaterals'."
+   },
+   {
+    "lesson": "Divide by 10, 100 and 1,000",
+    "unit": "Decimals",
+    "to": "NBT",
+    "where": "before",
+    "anchor": "Multiply and divide decimals by powers of 10 written with exponents (10^1, 10^2, 10^3) and explain the pattern",
+    "reason": "Dividing decimals by 10/100/1,000 is taught after the exponent BUILD that extends it (and after 'Divide by a decimal'); it must come first."
+   }
+  ],
+  "copies": [],
+  "builds": [
+   {
+    "lesson": "Compare digit values: a digit is worth 10 times the place to its right and 1/10 of the place to its left",
+    "codes": [
+     "5.NBT.A.1"
+    ],
+    "to": "NBT",
+    "where": "after",
+    "anchor": "Place value - integers and decimals"
+   },
+   {
+    "lesson": "Multiply and divide decimals by powers of 10 written with exponents (10^1, 10^2, 10^3) and explain the pattern",
+    "codes": [
+     "5.NBT.A.2"
+    ],
+    "to": "NBT",
+    "where": "before",
+    "anchor": "Multiply decimals by integers"
+   },
+   {
+    "lesson": "Read and write decimals to thousandths in word form and expanded form",
+    "codes": [
+     "5.NBT.A.3.A"
+    ],
+    "to": "NBT",
+    "where": "after",
+    "anchor": "Place value - integers and decimals"
+   },
+   {
+    "lesson": "Evaluate expressions with parentheses, brackets and braces",
+    "codes": [
+     "5.OA.A.1"
+    ],
+    "to": "OA",
+    "where": "after",
+    "anchor": "Order of operations"
+   },
+   {
+    "lesson": "Write and interpret numerical expressions (words to expressions, expressions to words)",
+    "codes": [
+     "5.OA.A.2"
+    ],
+    "to": "OA",
+    "where": "before",
+    "anchor": "Form expressions"
+   },
+   {
+    "lesson": "Find the area of a rectangle with fractional side lengths",
+    "codes": [
+     "5.NF.B.4.B"
+    ],
+    "to": "NF",
+    "where": "after",
+    "anchor": "Multiply fractions by fractions"
+   },
+   {
+    "lesson": "Convert customary units of length (inches, feet, yards, miles)",
+    "codes": [
+     "5.MD.A.1"
+    ],
+    "to": "MD",
+    "where": "after",
+    "anchor": "Imperial measures"
+   }
+  ],
+  "exam": {
+   "total": 66,
+   "ok": 53
+  },
+  "remove": [
+   {
+    "lesson": "Multiply by 10, 100 and 1,000",
+    "unit": "Four Operations"
+   },
+   {
+    "lesson": "Divide by 10, 100 and 1,000",
+    "unit": "Four Operations"
+   }
+  ],
+  "exam2": {
+   "total": 66,
+   "ok": 66
+  }
+ }
+}

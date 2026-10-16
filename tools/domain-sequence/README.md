@@ -46,3 +46,7 @@ python3 accept.py          # brief section 7 checks
 ## Preview and printed documents
 
 `./make_preview.sh` rebuilds `preview/index.html`, then the K-G5 Weekly Pacing Guides and Teaching & Pacing Handbooks (`gen_docs.py` writes HTML, `render_docs.js` prints PDFs with Playwright) and the K-5 pacing workbook (`gen_xlsx.py`) into `preview/docs/`. The workbook carries no exam question content.
+
+## October audit
+
+`inputs/audit_fixes.json` lists the corrections from the October lesson-order and exam-coverage audit, applied by `final_map.py` (`apply_audit`): lessons moved to the right domain or after their prerequisites, old-scheme duplicates removed, lessons copied in from another grade, and new CCSS BUILD lessons so every type of exam question is taught before its exam. `make_preview.sh` now runs the whole chain and writes the live `index.html` (the builder starts from the previous site, kept at `old/`). Exam question details stay out of this public repo.
