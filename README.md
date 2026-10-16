@@ -21,3 +21,9 @@ The default `index.html` is the updated K–5 curriculum resequenced by Common C
 The default site uses the existing production local storage and tracker API; the preview-only tracking restriction has been removed.
 
 Domain cards on each grade overview expand to show the scheduled lessons and domain data, including a separate enrichment section after MAP. Weekly pacing can be expanded or collapsed by domain. These preferences are saved per grade and signed-in teacher in that browser; signed-out visitors use a separate browser-local preference. Preferences do not sync across devices.
+
+## How the page is built
+
+`index.html` is generated, not hand-edited: the builder in the `domain-sequence` branch (`tools/domain-sequence/make_preview.sh`) takes the previous site (kept at `old/`), applies the CCSS domain sequence, and writes `index.html` plus the PDFs and workbook in `preview/docs/`. Edit the builder and rerun it rather than changing `index.html` directly, or the next rebuild will undo the change.
+
+Lesson tracking: a lesson that is not its grade's own White Rose step (copied in from another grade, or matched to files by its title) is recorded under its title (`grade|-|title`), so it never shares a record with another lesson.
