@@ -5,10 +5,10 @@ from core import *
 def edges(g):
     # (A,B) = A must come before B. Reasons in EDGE_WHY. Geometry is unconstrained.
     E={"K":[("CC","OA"),("CC","NBT"),("CC","MD")],
-       "G1":[("NBT","OA"),("NBT","MD"),("OA","MD")],
+       "G1":[("OA","NBT"),("NBT","MD"),("OA","MD")],
        "G2":[("NBT","OA"),("NBT","MD"),("OA","MD")],
        "G3":[("OA","NF"),("OA","MD"),("NBT","MD")],
-       "G4":[("OA","NBT"),("NBT","NF"),("OA","NF"),("NBT","MD"),("OA","MD"),("NF","MD")],
+       "G4":[("NBT","OA"),("NBT","NF"),("OA","NF"),("NBT","MD"),("OA","MD"),("NF","MD")],
        "G5":[("NBT","NF"),("OA","NF"),("NBT","MD"),("OA","MD"),("NF","MD")]}
     return E[g]
 EDGE_WHY={

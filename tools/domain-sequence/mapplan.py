@@ -2,9 +2,9 @@ import itertools,math,json
 from plan import *
 from mapcheck import coverage, GOAL
 CUT=32
-# domain order as approved (5 Oct 2026 brief); lesson moves must not reshuffle it
-FIXED_ORDER={"K":["CC","OA","NBT","MD","G"],"G1":["NBT","OA","G","MD"],"G2":["NBT","OA","MD","G"],
- "G3":["OA","NF","NBT","MD","G"],"G4":["OA","NBT","NF","G","MD"],"G5":["NBT","OA","NF","MD","G"]}
+# domain order as approved (5 Oct 2026 brief), with G1 OA before NBT and G4 NBT before OA (October prerequisite fix)
+FIXED_ORDER={"K":["CC","OA","NBT","MD","G"],"G1":["OA","NBT","G","MD"],"G2":["NBT","OA","MD","G"],
+ "G3":["OA","NF","NBT","MD","G"],"G4":["NBT","OA","NF","G","MD"],"G5":["NBT","OA","NF","MD","G"]}
 def schedule_map(g,steps,order):
     seq=[];post=[]
     for d in order:

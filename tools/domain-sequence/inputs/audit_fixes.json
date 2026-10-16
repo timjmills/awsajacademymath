@@ -289,6 +289,25 @@
     "where": "after",
     "anchor": "Make the same amount (US: dollars & cents)",
     "reason": "Calculating with mixed notes and coins sits before Count money - notes and coins; White Rose places it after Make the same amount."
+   },
+   {
+    "lesson": "Subtract from a 10",
+    "to": "NBT",
+    "where": "after",
+    "anchor": "Add across a 10"
+   },
+   {
+    "lesson": "Subtract a 1-digit number from a 2-digit number (across a 10)",
+    "to": "NBT",
+    "where": "after",
+    "anchor": "Subtract from a 10"
+   },
+   {
+    "lesson": "Subtract two 2-digit numbers (across a 10)",
+    "to": "NBT",
+    "where": "after",
+    "anchor": "Subtract two 2-digit numbers (not across a 10)",
+    "reason": "It went to enrichment only because OA bridging came after NBT; with OA first and the two subtract-across-10 lessons now ahead of it in NBT, that reason is gone, and Mixed addition and subtraction (next in NBT) builds on it."
    }
   ],
   "copies": [
@@ -702,10 +721,10 @@
    },
    {
     "lesson": "Find missing numbers",
-    "to": "NBT",
-    "where": "after",
-    "anchor": "Compare calculations",
-    "reason": "WRM missing-number bar-model problems use multi-digit addition/subtraction, which is only taught in NBT W08-09 (it is WRM step 8 after Compare calculations); OA exam does not need it."
+    "to": "OA",
+    "where": "before",
+    "anchor": "Multi-step word problems: divide and interpret the remainder",
+    "reason": "Word problems that use the written methods: with Base Ten taught first they sit in Operations, just before the remainder problems."
    },
    {
     "lesson": "Find emergent features (e.g., units digit cycle)",
@@ -716,16 +735,17 @@
    },
    {
     "lesson": "Solve problems with multiplication",
-    "to": "NBT",
-    "where": "after",
-    "anchor": "Multiply a 2-digit number by a 2-digit number"
+    "to": "OA",
+    "where": "before",
+    "anchor": "Multi-step word problems: divide and interpret the remainder",
+    "reason": "Word problems that use the written methods: with Base Ten taught first they sit in Operations, just before the remainder problems."
    },
    {
     "lesson": "Solve problems with multiplication and division",
-    "to": "NBT",
-    "where": "after",
-    "anchor": "Efficient division",
-    "reason": "Needs the written multiplication and short-division methods taught later in NBT W11-12 (WRM places it after Efficient division); not needed for the OA exam's basic-fact comparison items."
+    "to": "OA",
+    "where": "before",
+    "anchor": "Multi-step word problems: divide and interpret the remainder",
+    "reason": "Word problems that use the written methods: with Base Ten taught first they sit in Operations, just before the remainder problems."
    },
    {
     "lesson": "Read and interpret tables",
@@ -875,6 +895,19 @@
     "where": "after",
     "anchor": "Understand and use degrees",
     "reason": "Classifying acute/obtuse/reflex by degree size comes before 'Identify angles' (its G3 prerequisite) and before degrees are introduced; this gives turns > identify > degrees > classify."
+   },
+   {
+    "lesson": "Lengths and angles in shapes",
+    "to": "MD",
+    "where": "after",
+    "anchor": "Calculate angles on a straight line"
+   },
+   {
+    "lesson": "Convert between metric and imperial units",
+    "to": "MD",
+    "where": "after",
+    "anchor": "Customary length and weight - inches, feet, yards, ounces and pounds",
+    "reason": "Converting to inches, pounds and pints is taught before the customary-unit BUILDs that introduce those units."
    }
   ],
   "copies": [
